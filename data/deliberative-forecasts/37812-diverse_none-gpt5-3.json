@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-diverse_none-gpt5-3",
+  "questionId": 37812,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37812-diverse_none",
+  "independentForecastId": "37812-gpt5-none",
+  "otherForecastIds": [
+    "37812-pro-none",
+    "37812-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds a concrete data point (49 destinations currently on FlightsFrom), which I hadn’t explicitly cited. That’s valuable and tightens the problem to needing a net +3 by July 1. I agree with their emphasis on risk asymmetry (cancellations more likely than additions in this security context), but I think 15% is too low given July seasonality and the small numerical gap. Forecaster 3’s framing (40–55 range) tracks with my prior intuition, but without the current-count datapoint it overstates the upside; with 49 now and a >51 threshold, the bar is meaningfully higher than their narrative suggests. Overall, I’m modestly more bearish than before due to the explicit 49 starting point and ongoing tourism/security headwinds, but not as low as 15%.",
+    "rationale": "Time left: ~6 weeks. Status quo: 49 destinations per Forecaster 2; threshold is >51, so need at least 52, i.e., net +3. Scenarios: No if seasonal adds are thin and/or any suspensions occur; Yes if MEA/others activate several summer seasonals (e.g., selective Greek islands/Turkish/Egypt leisure) and avoid new cuts. Evidence: July is peak season and often brings a handful of seasonal points, but current reporting and the security environment raise the chance of trims and last-minute suspensions. With schedules largely set, upside depends on seasonals already planned to be active by early July; downside remains from security-driven cuts. Starting at 49, clearing +3 is plausible but not the base case given recent demand softness and risk aversion by foreign carriers. I’m nudging down from my prior 38% to reflect the explicit 49 count and the >51 (> not ≥) threshold, while still allowing meaningful probability for a small seasonal net increase without new disruptions.",
+    "probability": 34
+  },
+  "usage": {
+    "inputTokens": 1745,
+    "outputTokens": 1811,
+    "totalTokens": 3556,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

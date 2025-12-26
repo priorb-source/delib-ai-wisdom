@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-diverse_none-gpt5-3",
+  "questionId": 37232,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37232-diverse_none",
+  "independentForecastId": "37232-gpt5-none",
+  "otherForecastIds": [
+    "37232-pro-none",
+    "37232-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters strengthen the core argument I already had: the News page is updated sparsely and did not mirror the Q4/Full-Year IR release in late Feb, so a May Q1 earnings post is unlikely to appear there. Forecaster 2 adds a plausible mechanism (Delta-class focus reduces operational news), and Forecaster 3 quantifies the growing gap between posts and notes that a 4+ month silence is long but not definitive. Neither introduced hard new evidence (e.g., a scheduled May event), but they sharpen the earnings-not-on-News inference and the inertia case. I’m less convinced by pushing to 80% because any single unexpected PR would flip the outcome, and May is a natural month for earnings/AGM/strategic updates even if not routine on that page.",
+    "rationale": "Time to resolution is about a month. Status quo since Jan 30 is no posts, and Q4/Full-Year results in late Feb did not show up on the News page, implying that the predictable May Q1 earnings catalyst likely won’t either. Posting cadence looks sparse (Dec 12 → Jan 30 → silence through April), and the company’s focus on developing Delta-class vehicles reduces near-term operational news. That raises the base rate for no post in May. Countervailing factors: May can still bring non-earnings updates (e.g., program milestones, leadership changes, strategic partnerships) that would be News-worthy, and a single post resolves this to No. We also don’t have explicit evidence of a communications pause. Balancing the reinforced argument about earnings not being mirrored to the News page with the ever-present tail risk of an unexpected announcement, I’m nudging my probability up but not to the 70s/80s. Updating from 62% to 68%.",
+    "probability": 68
+  },
+  "usage": {
+    "inputTokens": 1531,
+    "outputTokens": 1791,
+    "totalTokens": 3322,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

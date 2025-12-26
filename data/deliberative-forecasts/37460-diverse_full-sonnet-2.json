@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-diverse_full-sonnet-2",
+  "questionId": 37460,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37460-diverse_full",
+  "independentForecastId": "37460-sonnet-full",
+  "otherForecastIds": [
+    "37460-pro-full",
+    "37460-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises a critical methodological point I underweighted: the Global Protest Tracker typically assigns a single start date to protest waves, even if they span months. This means May 1 events might be coded as continuations of the March 19 wave rather than a new, distinct protest qualifying for this question. This is a crucial insight that significantly affects the resolution criteria.\n\nForecaster 2's argument that the May 1 authorized marches (65,000 combined) already qualify is compelling only if GPT codes them as a separate event. However, there's genuine ambiguity here: Labor Day protests are traditionally distinct events and might be recorded separately, but they could also be folded into the ongoing March protest wave.\n\nThe key uncertainties are: (1) Will GPT code May 1 as part of the March wave or as a distinct Labor Day event? (2) Will a clearly NEW protest wave emerge before July 1? (3) When exactly was this question launched relative to these events?\n\nForecaster 3's lower forecast properly accounts for the start-date methodology risk, but may underweight the possibility that May 1 gets coded separately (it was Labor Day, a traditional protest occasion) and that new catalysts (May 30 trial, 48.6% inflation, ongoing detentions) could spark a distinctly new wave within 55 days.",
+    "rationale": "After deliberation, I'm updating down significantly based on Forecaster 3's methodological insight. The resolution hinges not just on whether 10,000+ protests occur, but on whether GPT records them with a start date after question launch. The March protests would have a March 19 start date and wouldn't count. The May 1 events present genuine ambiguity - they could be coded as: (a) a distinct Labor Day protest event with May 1 start date (favors Yes), or (b) a continuation of the March wave (favors No). GPT's standard practice of grouping protest waves under single start dates creates substantial downside risk I initially underestimated.\n\nHowever, I'm not going as low as 35% because: (1) Labor Day protests have distinct framing and might be coded separately, (2) Strong protest capacity exists (65,000 on May 1 in authorized zones alone), (3) Clear catalysts remain (May 30 trial, economic crisis), (4) 55 days is substantial time for a new wave to emerge with distinct framing. The political environment remains volatile enough that a newly-framed campaign or major triggering event could spark a recognizably distinct protest wave.\n\nMy updated forecast balances the legitimate methodological concerns about GPT coding with the reasonable probability that either May 1 counts as separate or a new wave emerges before July 1.",
+    "probability": 52
+  },
+  "usage": {
+    "inputTokens": 2677,
+    "outputTokens": 1751,
+    "totalTokens": 4428,
+    "reasoningTokens": 908,
+    "cachedInputTokens": 0
+  }
+}

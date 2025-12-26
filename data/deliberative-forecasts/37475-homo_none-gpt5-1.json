@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-homo_none-gpt5-1",
+  "questionId": 37475,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37475-homo_none",
+  "independentForecastId": "37475-gpt5-none-1",
+  "otherForecastIds": [
+    "37475-gpt5-none-2",
+    "37475-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters anchor on the same base rates I used: foreign-matter FSIS recalls (often Class II, no illnesses) typically close in 1–3 months, and Johnsonville’s capabilities support timely completion. They highlight the key risks I noted—recall expansion, wide distribution causing slow confirmations, and website update latency before July 1. Forecaster 2’s point that “status quo” in this domain is transition to Closed (not remaining Active) is a useful framing, but it doesn’t materially shift my view because I already weighted base rates over pure inertia. Forecaster 3’s emphasis on admin/verification delays and the need for the page to actually show Closed by July 1 is important and already in my risk set. Neither adds new concrete evidence (e.g., updates from FSIS), so their 64–68% range brackets my prior well.",
+    "rationale": "As of May 9, there are ~52 days until July 1, and the recall would be ~12.5 weeks old by then (posted Apr 5). For comparable foreign-matter recalls of moderate size (~22,000 lbs) managed by experienced firms, closure within 60–90 days is common. That supports a better-than-even chance of a Closed status by July 1. Countervailing risks include any expansion or new complaints, slower retailer/distributor confirmations across broad distribution, and the specific resolution requirement that the FSIS page display Closed before July 1 (potential posting lag). With no new signals of expansion or complications, I keep a modestly positive edge while discounting for update latency and potential verification drag. Net: roughly two-to-one odds for timely closure, but not above ~70%.",
+    "probability": 66
+  },
+  "usage": {
+    "inputTokens": 1712,
+    "outputTokens": 1197,
+    "totalTokens": 2909,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

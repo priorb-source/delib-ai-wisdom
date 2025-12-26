@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_info-pro-2",
+  "questionId": 37051,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "info3",
+  "groupId": "37051-diverse_info",
+  "independentForecastId": "37051-pro-info3",
+  "otherForecastIds": [
+    "37051-gpt5-info2",
+    "37051-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Both other forecasters provide compelling arguments that reinforce the significant hurdles to a 'Yes' outcome, though they arrive at different probabilities. Forecaster 2 adds valuable context by citing the *Bob Jones University v. United States* precedent, which underscores the multi-year timeline for such revocations, and by noting the legal obstacles (e.g., bill of attainder concerns) to any legislative shortcut. This strengthens the case that institutional processes are robust. Forecaster 3 introduces a critical new piece of information I had not considered: that Harvard has already filed a preemptive lawsuit. This is the most persuasive new argument, as it establishes a clear and immediate pathway for judicial intervention to block any expedited or procedurally improper action by the IRS. While I find Forecaster 3's 10% probability too high given this lawsuit, the information itself is decisive. I find Forecaster 2's 1% probability to be a very strong baseline, but perhaps slightly under-weighing the potential for a legally dubious but reportable action from a highly motivated executive.",
+    "rationale": "I am updating my forecast down from 8% to 3%. The primary driver for this change is the new information, raised by Forecaster 3, that Harvard has already filed a lawsuit to preemptively challenge the administration's actions. My initial 8% forecast was weighted heavily on the tail risk of a 'blitz' scenario, where a compliant IRS leadership bypasses normal procedures to fulfill a political directive. The existence of an active lawsuit fundamentally changes this calculus. It provides a ready-made vehicle for Harvard to obtain a temporary restraining order or injunction to halt any such action, forcing the IRS back into the standard, multi-year administrative process. This significantly reduces the probability that a revocation can be finalized and reported before the July 1 deadline. Forecaster 2’s analysis further solidified my conviction in the strength of these procedural guardrails. I am not lowering my forecast to 1% because the credible report that the administration has issued a formal directive and the IRS is 'making plans' still creates a non-trivial risk of a chaotic, norm-breaking attempt at revocation. A legally flawed 'final determination' letter could still be issued and reported, meeting the resolution criteria, even if it is immediately stayed by a court. My updated 3% forecast reflects a much lower, but not entirely eliminated, risk of this tail event occurring.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 1974,
+    "outputTokens": 2769,
+    "totalTokens": 4743,
+    "reasoningTokens": 2258,
+    "cachedInputTokens": 0
+  }
+}

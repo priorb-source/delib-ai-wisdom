@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-homo_none-gpt5-2",
+  "questionId": 37475,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37475-homo_none",
+  "independentForecastId": "37475-gpt5-none-2",
+  "otherForecastIds": [
+    "37475-gpt5-none-1",
+    "37475-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my base-rate view: foreign-matter FSIS recalls commonly close within 1–3 months; Johnsonville’s capabilities support timely completion; risks include expansion, retailer verification drag, and admin lag. The most useful incremental point is the explicit risk that FSIS’s visible status change can lag field completion, which matters because resolution depends on the website showing Closed before July 1. Their emphasis on status-quo inertia and broad retail distribution slightly increases the risk of slipping past the deadline. No new concrete evidence emerged, but these framing points warrant a modest downward nudge.",
+    "rationale": "We have ~52 days left (through June 30) for an April 5 recall to move from Active to Closed. For a foreign-matter event of moderate size (~22k lbs) with no reported illnesses and a capable firm, base rates suggest many such recalls close within 60–90 days, making closure by July 1 more likely than not. Offsetting risks: wide retail footprint complicating effectiveness checks, the possibility of a scope expansion if more complaints surface, and FSIS website update latency—any of which could push the visible status change past July 1 even if field work is done. With no new signals (no expansion or closure cues), I’m slightly reducing my estimate to reflect the update-latency and inertia risks while keeping it above 60% on base-rate grounds.",
+    "probability": 65
+  },
+  "usage": {
+    "inputTokens": 1712,
+    "outputTokens": 1325,
+    "totalTokens": 3037,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

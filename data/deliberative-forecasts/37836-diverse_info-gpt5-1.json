@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-diverse_info-gpt5-1",
+  "questionId": 37836,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37836-diverse_info",
+  "independentForecastId": "37836-gpt5-info3",
+  "otherForecastIds": [
+    "37836-pro-info2",
+    "37836-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds two catalysts I hadn’t explicitly factored: clearance for night operations and a recent ICAO inspection/upgrade. If accurate, these are positive for capacity and airline confidence; however, translating operational/regulatory upgrades into additional distinct destinations by July 1 can be indirect and may require more than one season of lead time. Still, it nudges the balance slightly positive. Forecaster 3 cites specific new summer routes (Aegean/easyJet to Athens, Eurowings to CGN) and “21 countries” by February. The general point—that summer seasonal adds and broader connectivity likely push the count up—is reasonable, but the specific airline-route claims look questionable without sources (especially easyJet/Eurowings to Erbil). I treat those specifics cautiously, while accepting the broader seasonality argument. Overall, both push in the same direction as my prior view, but the evidentiary quality differs: F2’s claims are plausible but need verification; F3’s specifics are likely overstated. Net effect: modest reinforcement of a slightly-better-than-even outcome, but not enough to materially change the forecast.",
+    "rationale": "The resolution depends on flightsfrom.com’s listed scheduled non-stop destinations on/after July 1, 2025. July falls in the summer peak, when EBL typically sees seasonal Turkey/Egypt adds and steady Gulf/Turkey core demand. Even without the European route claims, the base network (Turkey hubs including both IST and SAW, multiple Gulf hubs, Jordan, Egypt, likely several Iran cities, Saudi cities, and domestic Iraqi routes) plausibly sits near or above the low-30s. The night-ops/ICAO points, if correct, marginally increase the likelihood that incremental routes are scheduled and visible in the database by July 1. Risks remain: volatility in Lebanon/Iran/KSA routes, late schedule trims, or data lags on flightsfrom.com. Given mixed-quality evidence from peers—one plausible operational tailwind, one set of likely overstated route announcements—I keep my estimate essentially unchanged, leaning Yes but with meaningful downside risk.",
+    "probability": 68
+  },
+  "usage": {
+    "inputTokens": 1822,
+    "outputTokens": 3773,
+    "totalTokens": 5595,
+    "reasoningTokens": 3328,
+    "cachedInputTokens": 0
+  }
+}

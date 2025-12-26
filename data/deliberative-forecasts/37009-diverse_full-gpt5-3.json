@@ -1,0 +1,26 @@
+{
+  "forecastId": "37009-diverse_full-gpt5-3",
+  "questionId": 37009,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37009-diverse_full",
+  "independentForecastId": "37009-gpt5-full",
+  "otherForecastIds": [
+    "37009-pro-full",
+    "37009-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 rightly emphasizes the “costly signals” (cash on hand, staff build-out, contacting successors) and treats the clustered reporting as strong evidence of imminence. I agree those are powerful indicators that the decision is made. However, their 90% seems a bit high given the narrow resolution window and the well-known tendency for rollouts to slip by a few days for tactical or scheduling reasons—slippage past May 1 still yields a No here even if she runs. Forecaster 3’s 65% feels too low; the Politico “as early as next week” sourcing is recent and specific, there are multiple viable weekdays left, and the lack of an exploratory filing is weakly informative because many candidates file on or after announcement day. I don’t find “limited time” a strong negative when the reporting points specifically to this very window.",
+    "rationale": "Signals and reporting remain aligned toward a near-term launch: Politico’s Apr 19 story (“as early as next week”), parallel coverage (“in the coming weeks”), and concrete prep (funds raised, staff expansion, succession outreach) collectively suggest the decision is go and timing is imminent. The main downside risk is timeline slippage into early May due to event choreography, endorsements, or news-cycle considerations. The absence of an exploratory FEC filing doesn’t weigh much; many campaigns file principal committees at or immediately after launch. Given multiple viable announcement days remain (Apr 22–25, 28–30), odds favor a pre–May 1 announcement, but not to the 90% level. I slightly increase my prior to reflect the strength of the costly signals highlighted by Forecaster 2 while preserving a meaningful probability of minor delay past the cutoff.",
+    "probability": 81
+  },
+  "usage": {
+    "inputTokens": 1795,
+    "outputTokens": 2289,
+    "totalTokens": 4084,
+    "reasoningTokens": 1920,
+    "cachedInputTokens": 0
+  }
+}

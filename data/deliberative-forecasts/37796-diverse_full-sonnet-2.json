@@ -1,0 +1,26 @@
+{
+  "forecastId": "37796-diverse_full-sonnet-2",
+  "questionId": 37796,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37796-diverse_full",
+  "independentForecastId": "37796-sonnet-full",
+  "otherForecastIds": [
+    "37796-pro-full",
+    "37796-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other forecasters make several compelling points I should weigh more heavily. Forecaster 2 correctly emphasizes the 'only need one' logic - since we only need ANY jurisdiction added or removed for a Yes outcome, having multiple independent pathways (Mozambique removal AND BVI addition as strong candidates) significantly increases probability. Both forecasters cite the same 94% base rate I used, but Forecaster 2's 95% better reflects this combined with multiple strong pathways. Forecaster 3's 85% seems overly cautious given the base rate alone nearly reaches that level. The key insight I underweighted: Mozambique appears to have completed the final prerequisite (April on-site with positive feedback) for removal, while BVI simultaneously presents a strong addition case (expired grace period, UK won't block, major gaps found). These are largely independent events, and only one needs to occur.",
+    "rationale": "Upon reflection, I was too conservative at 88%. The evidence supports a higher forecast: (1) The 94% historical base rate is extremely strong - only one exceptional COVID-era plenary had no changes; (2) Mozambique's April on-site visit with positive feedback represents completion of the final removal prerequisite, making June removal highly plausible; (3) BVI's expired grace period, UK non-objection, and identified major gaps make it a strong addition candidate; (4) These pathways are largely independent - both would need to fail, plus no other jurisdiction changes, for a No outcome; (5) The February 2025 plenary continuing the pattern of changes suggests normal FATF operations. While procedural delays remain possible and some candidates (Nigeria, South Africa) face timing challenges, the combination of overwhelming base rate evidence plus multiple credible pathways to Yes justifies a forecast above 90%. I'm not going to 95% because there's still meaningful risk that both main candidates face deferrals or complications we haven't foreseen.",
+    "probability": 91
+  },
+  "usage": {
+    "inputTokens": 2782,
+    "outputTokens": 1344,
+    "totalTokens": 4126,
+    "reasoningTokens": 763,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-homo_full-gpt5-3",
+  "questionId": 37238,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37238-homo_full",
+  "independentForecastId": "37238-gpt5-full-3",
+  "otherForecastIds": [
+    "37238-gpt5-full-1",
+    "37238-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters converge on the same key drivers I used: low base rate for any single UFC card, strong location advantage (Newark/Bedminster), and the Trump–Dana White relationship. Two useful additions: (1) explicit mention of potential early-June international obligations (e.g., D‑Day–adjacent travel) that could crowd out attendance; (2) framing the O’Malley–Dvalishvili rematch as a solid but not “must-attend” mega-card. I also think I previously underweighted the fact that he’s shown a pattern of appearing at tri-state/UFC events, which makes Newark more plausible than an average venue. I find their reasoning broadly convincing and it nudges me modestly upward.",
+    "rationale": "Base rate still points to No—he attends a minority of PPVs. However, the Newark venue sharply reduces friction given proximity to Bedminster and NYC, and he has recently demonstrated willingness to attend UFC events as President (UFC 314). The media optics are favorable and predictable, which he tends to value. The main counterweight is timing: June 6–8 could include commemorations or foreign travel that conflict or make a same-weekend arena visit less likely, plus it’s less than two months since UFC 314, which is on the quick side for him. Netting these, Newark/location and optics push the probability meaningfully above a generic PPV, but base-rate and scheduling uncertainty cap it well below 50. I’m raising my estimate slightly to reflect the added weight on location precedent and the lack of a clear, known conflict at this time.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 2045,
+    "outputTokens": 1883,
+    "totalTokens": 3928,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

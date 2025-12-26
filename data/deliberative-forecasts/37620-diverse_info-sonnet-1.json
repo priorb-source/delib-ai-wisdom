@@ -1,0 +1,26 @@
+{
+  "forecastId": "37620-diverse_info-sonnet-1",
+  "questionId": 37620,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37620-diverse_info",
+  "independentForecastId": "37620-sonnet-info1",
+  "otherForecastIds": [
+    "37620-pro-info3",
+    "37620-gpt5-info2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 raises a critical piece of evidence I missed: the May 7 Putin meeting with public endorsement, occurring AFTER Kadyrov's May 6 resignation statement. This is highly significant - Putin's explicit support following the resignation talk strongly suggests the Kremlin wants Kadyrov to remain. Forecaster 2 also provides valuable historical context (2016, 2020, 2022 similar statements) showing a clear pattern of political theater. Forecaster 3 offers important nuance about health risks being more substantial than I initially considered, with specific reporting on pancreatic/kidney problems, and points to concrete succession preparation (Adam's promotions, Aishat's role) that distinguish this episode from past instances. However, Forecaster 3's 27% seems high given the Putin endorsement and extremely compressed timeline. The succession preparation could be long-term planning rather than imminent transition signaling.",
+    "rationale": "The May 7 Putin endorsement is decisive new evidence that substantially lowers my forecast. Putin meeting with Kadyrov one day after the resignation statement and publicly supporting him is a clear signal the Kremlin does not want or expect a departure. Combined with the historical pattern of similar unfulfilled statements, this pushes strongly toward status quo. However, I'm not going as low as 3% because: (1) health risks appear more substantive than generic rumors - multiple sources reporting specific pancreatic/kidney issues creates a non-negligible risk of sudden incapacity; (2) visible succession preparation (family members in elevated roles) suggests some planning is occurring, even if not imminent; (3) 20 days allows for rapid changes if health deteriorates acutely. The Putin endorsement is the strongest evidence against departure, but the health factor prevents me from dismissing the possibility entirely. I'm updating down from 8% to 5%, weighing the Putin endorsement heavily while acknowledging elevated health-related tail risk.",
+    "probability": 5
+  },
+  "usage": {
+    "inputTokens": 2224,
+    "outputTokens": 1229,
+    "totalTokens": 3453,
+    "reasoningTokens": 730,
+    "cachedInputTokens": 0
+  }
+}

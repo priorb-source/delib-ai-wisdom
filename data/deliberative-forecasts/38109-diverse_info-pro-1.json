@@ -1,0 +1,26 @@
+{
+  "forecastId": "38109-diverse_info-pro-1",
+  "questionId": 38109,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "38109-diverse_info",
+  "independentForecastId": "38109-pro-info2",
+  "otherForecastIds": [
+    "38109-sonnet-info1",
+    "38109-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 55% was heavily weighted by the legal threat, particularly the judge's comment about moving 'quickly'. After reviewing my colleagues' analyses, I believe I was too pessimistic. Forecaster 2 makes a compelling case for the power of the status quo, citing a 6-week operational track record and the fact that sports-related markets constitute over 80% of weekend volume. This robust business incentive creates significant inertia, and legal processes, even 'quick' ones, rarely result in immediate shutdowns of established, regulated activities. This line of reasoning convinced me to increase my forecast. However, Forecaster 3's analysis provided a crucial counterpoint and a superior analytical framework. Their emphasis on the fragility of the 'every day' criterion is the key insight. The probability of success is not just about avoiding a single major legal event, but about achieving perfection over 30 consecutive days. Even a small daily chance of an operational glitch, data feed error, or temporary legal halt compounds significantly over the month. Forecaster 3's framing prevents me from moving as high as Forecaster 2's 87%, which seems to underestimate this compounding risk.",
+    "rationale": "I am updating my forecast from 55% to 70%. The 15-point increase is driven primarily by arguments from Forecaster 2 that I had previously underweighted. The strong business incentives (80% of weekend volume) and the established 6-week operational track record create a powerful status-quo bias. A single judge's comment about moving 'quickly' is not enough to assume an injunction is imminent and will be enacted without delay or appeal within the next 30 days. The bar for halting a major revenue stream for a regulated entity is high. However, I am not moving higher because of the excellent point raised by Forecaster 3 regarding the fragility of the resolution criteria. For the question to resolve 'Yes', Kalshi must have a perfect month. The probability of success across 30 days is the daily probability of success raised to the power of 30. If we estimate a 99% chance of offering a market on any given day (allowing for a 1% chance of an operational glitch or other minor failure), the probability of a perfect month is only 74% (0.99^30). If the daily probability is 98%, the monthly success rate drops to 55% (0.98^30). This compounding risk from operational factors, combined with the non-zero, albeit not immediate, legal risk, places a firm ceiling on my forecast. My updated 70% forecast reflects a balance: a strong likelihood of continuation due to business inertia, tempered by the stringent 'every day' requirement and the ongoing legal and operational risks.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 1611,
+    "outputTokens": 2992,
+    "totalTokens": 4603,
+    "reasoningTokens": 2402,
+    "cachedInputTokens": 0
+  }
+}

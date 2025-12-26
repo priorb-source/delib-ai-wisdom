@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-homo_info-gpt5-2",
+  "questionId": 37238,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37238-homo_info",
+  "independentForecastId": "37238-gpt5-info2-2",
+  "otherForecastIds": [
+    "37238-gpt5-info1-1",
+    "37238-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s base-rate emphasis and the caution about back-to-back PPV appearances are sound. They also appropriately flag early-June presidential obligations as a key uncertainty. However, they underweight the concrete draw and convenience of Newark and appear to assume the headliner isn’t confirmed, whereas we have O’Malley–Dvalishvili slated, which should push attendance odds up somewhat. Forecaster 3 credibly highlights PR value and the fact that security/logistics are demonstrably feasible (given April attendance). But their analysis leans on uncertainty about location (e.g., Vegas/IFW) that conflicts with the Newark/June 7 information, so I discount that part of their uplift. Net: F2 nudges slightly down, F3 slightly up, but given the location is Newark and the card is strong, I don’t see enough to move off my prior materially.",
+    "rationale": "Anchors: The base rate for attending any single PPV is <50%. Offsetting that, UFC 316 is in Newark (very close to Trump’s Bedminster summer base and NYC), with a strong headliner (O’Malley–Dvalishvili) and a well-established relationship with Dana White. He just attended UFC 314 as President, showing security/logistics are workable. The main headwind is scheduling: early June plausibly includes D‑Day commemorations and/or a major summit, which could create travel conflicts or reduce appetite for another high‑profile arena appearance so soon after Miami. Conditionalizing, if there’s no major conflict and he’s in the Northeast that weekend, attendance odds are meaningfully elevated; if there is an overseas/domestic conflict, odds drop sharply. Those forces roughly balance to the low 40s. Triggers to move: Up with any Dana White/White House teases, confirmed Bedminster weekend, or added star power; down with confirmed overseas travel June 6–8 or a main-event collapse. Given Forecaster 2 and 3’s inputs, I still see Newark proximity and card strength compensating for base-rate drag and scheduling uncertainty, so I’m holding my estimate.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 1797,
+    "outputTokens": 2309,
+    "totalTokens": 4106,
+    "reasoningTokens": 1856,
+    "cachedInputTokens": 0
+  }
+}

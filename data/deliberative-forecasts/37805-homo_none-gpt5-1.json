@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_none-gpt5-1",
+  "questionId": 37805,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37805-homo_none",
+  "independentForecastId": "37805-gpt5-none-1",
+  "otherForecastIds": [
+    "37805-gpt5-none-2",
+    "37805-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters surfaced two key considerations I underweighted: (1) FlightsFrom relies on OAG/GDS data and often omits very small commuter/on-demand services, so counting Rota/Tinian is uncertain; and (2) Metaculus will check around July 1, so routes starting later in July may not appear. They also highlight the strict >4 threshold and the need for at least two incremental, confirmed scheduled destinations beyond the core Guam and ICN links. I find these points persuasive and they reduce the plausibility of reaching 5+ by early July absent already-visible schedules.",
+    "rationale": "My prior 35% implicitly assumed inter-island services would likely be counted and gave too much weight to potential seasonal adds. Reassessing with the stricter lens: very likely we have Guam (UA) and ICN (Jeju Air). Busan may operate seasonally but is uncertain; Japan scheduled service has been sporadic; China/Taiwan are unlikely. If FlightsFrom does not list Rota/Tinian (a real risk), hitting 5 requires multiple additional international routes visible in OAG for the week of July 1, which is improbable with ~6 weeks left. Even if Busan runs, we’d still need two more destinations (e.g., a Japan route plus one of Rota/Tinian being listed), which is a high bar. Given these constraints and timing, I’m revising down substantially while retaining a small chance for a confluence of seasonal Korean and a Japan resumption plus one inter-island listing.",
+    "probability": 21
+  },
+  "usage": {
+    "inputTokens": 1969,
+    "outputTokens": 1227,
+    "totalTokens": 3196,
+    "reasoningTokens": 896,
+    "cachedInputTokens": 0
+  }
+}

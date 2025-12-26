@@ -1,0 +1,26 @@
+{
+  "forecastId": "38055-diverse_info-gpt5-1",
+  "questionId": 38055,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "38055-diverse_info",
+  "independentForecastId": "38055-gpt5-info2",
+  "otherForecastIds": [
+    "38055-sonnet-info1",
+    "38055-pro-info3"
+  ],
+  "forecast": {
+    "review": "- I agree with Forecaster 2 that, at ~12 days out and on a main-card slot, cancellation risk is closer to 10–15% than higher figures. That is a key update versus my earlier, longer-lead assumption.\n- I find Forecaster 3’s 25% no-fight probability too high this close to the event and their 70% Pyfer win probability too optimistic for a matchup with Gastelum’s experience and durability. Markets rarely price that high in comparable UFC matchups unless there’s a clear skill/class gap.\n- I broadly agree with the two-factor framing both used (fight happens × win conditional on fighting). I’m closer to F2 on both legs but a tad higher on Pyfer’s conditional win chance due to his finishing upside and likely modest favoritism if markets mirror prior pricing.\n",
+    "rationale": "Update drivers: The key new input is timing—only ~12 days to UFC 316—so cancellation risk should be revised down from my earlier estimate. With a rebooked bout already placed on the main card, typical late-camp pullout risk looks ~10–15%.\n\nDecomposition:\n- P(Pyfer fights at UFC 316): ~85–90% (I’ll use 88%). This includes a small branch where Gastelum withdraws but Pyfer stays on the card with a replacement.\n- P(Pyfer wins | vs Gastelum): ~58–62%. Gastelum’s veteran savvy, durability, and wrestling/grappling tools cap Pyfer’s edge; Pyfer’s power and recent momentum give him a modest favorite status but not a dominant one. I center at ~60%.\n- P(Pyfer wins | vs replacement): Slightly higher on average (short-notice dynamics), ~62%.\n\nWeighting: Assume ~83% chance vs Gastelum, ~5% vs replacement, ~12% no fight. Overall P(Yes) ≈ 0.83*0.60 + 0.05*0.62 ≈ 0.529.\n\nWhy not higher? Non-trivial late pullout risk remains; Gastelum presents stylistic dangers (defensive wrestling, southpaw boxing, pace). Why not lower? Pyfer is likely the betting favorite with real finishing equity; replacement-opponent scenarios slightly improve his outlook.\n\nChange from prior: I raise from 49% to 53% primarily due to the shorter timeline reducing cancellation risk; my conditional win view is largely unchanged.\n",
+    "probability": 53
+  },
+  "usage": {
+    "inputTokens": 1792,
+    "outputTokens": 2073,
+    "totalTokens": 3865,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

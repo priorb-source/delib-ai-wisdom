@@ -1,0 +1,26 @@
+{
+  "forecastId": "38088-diverse_info-sonnet-1",
+  "questionId": 38088,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "38088-diverse_info",
+  "independentForecastId": "38088-sonnet-info2",
+  "otherForecastIds": [
+    "38088-pro-info3",
+    "38088-gpt5-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 provides the most critical new information: as of May 29 (today), the #250 position is held by Vladimir Potanin (Russia), not Devasini. This means we have TWO consecutive snapshots showing non-US at #250 (April 30: Italy, May 29: Russia). The fact that the position changed but remained non-US strengthens the case for a No outcome. Forecaster 3's analysis of volatility at this rank is insightful, and their conclusion aligns well with the evidence. Forecaster 2 makes valid points about US economic indicators and market performance, but their 55% forecast seems to overweight speculative future performance relative to the strong recent evidence of two consecutive non-US snapshots. Their forecast essentially treats this as a coin flip when the base rate (~38% US in the 200-300 range) and recent observations both point toward sub-40% probability.",
+    "rationale": "The most significant update is that TODAY (May 29) the #250 is Russia, giving us a very recent status quo confirmation. Combined with the April 30 snapshot (Italy), we have two consecutive observations of non-US billionaires at this position, with the change occurring entirely within the non-US pool. This reinforces that the immediate neighborhood around rank #250 is likely predominantly non-US. With only 32 days remaining, the short timeframe limits the scope for major shifts. While Forecaster 2's points about US market performance are valid, they must be weighed against: (1) the current observed status quo, (2) the base rate of only ~38% US representation in this ranking range, (3) two consecutive non-US snapshots, and (4) the limited time for structural changes. The volatility that Forecaster 3 notes actually cuts both ways - it shows movement is possible, but the recent movement stayed within non-US candidates. I'm updating slightly from 32% to 35% to incorporate Forecaster 3's more detailed analysis while maintaining that the evidence strongly favors a No outcome.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 2355,
+    "outputTokens": 1444,
+    "totalTokens": 3799,
+    "reasoningTokens": 822,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-diverse_full-pro-1",
+  "questionId": 37805,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37805-diverse_full",
+  "independentForecastId": "37805-pro-full",
+  "otherForecastIds": [
+    "37805-sonnet-full",
+    "37805-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters agree that a 'No' outcome is the most likely result, anchored by the current count of 3-4 destinations and the extremely short timeline of ~6 weeks to add a new international route. My initial forecast of 15% was the most conservative. Forecaster 2 (30%) placed significant weight on the uncertainty surrounding a potential Hong Kong route and the possibility of unannounced schedules, which I find overly optimistic. Forecaster 3 (22%) provided the most compelling analysis. Their key contributions were twofold: first, rightly pointing out that United's promotion for the Narita route suggests a stronger commitment, making the baseline of 4 destinations more solid. This lowers the bar for a 'Yes' to only one additional route. Second, they introduced the downside risk of the Narita or Busan routes being suspended, a factor I hadn't explicitly weighed. Their argument that a summer seasonal route would likely already be visible in scheduling systems is a strong counterpoint to Forecaster 2's optimism. I find this balanced view, which incorporates both a stronger baseline and a new downside risk, to be very persuasive.",
+    "rationale": "My original forecast of 15% was heavily anchored on the high base-rate difficulty of launching a new international route in under two months. After reviewing my peers' analyses, I am adjusting my forecast slightly upwards. I am persuaded by Forecaster 3's point that United Airlines' promotional activities for its Tokyo-Narita route suggest a commitment to maintaining that service through the summer. This makes a baseline of four active routes (Guam, Seoul, Busan, Tokyo) on July 1 more likely than I had initially assumed. Consequently, the threshold for a 'Yes' outcome is lowered to needing just one additional route, not potentially two.\n\nThe most plausible candidates for a fifth route remain a new service from Hong Kong, given the reported traveler interest and listing by Hong Kong Airlines, or a seasonal charter from a secondary Korean city. However, I maintain strong skepticism that such a route could be announced and operational within the short ~40-day window. As Forecaster 3 correctly noted, scheduled summer seasonal routes are typically visible in booking systems by mid-May. While a charter flight is more flexible, the logistical hurdles remain significant.\n\nTherefore, I am increasing my forecast from 15% to 20%. This 5-point increase reflects the now-higher probability of the baseline being a solid four routes, which makes the path to 'Yes' incrementally easier. However, I am not moving higher because the core obstacle—the extremely short timeline for a new route to materialize—remains a powerful argument for a 'No' outcome.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 2211,
+    "outputTokens": 2691,
+    "totalTokens": 4902,
+    "reasoningTokens": 2120,
+    "cachedInputTokens": 0
+  }
+}

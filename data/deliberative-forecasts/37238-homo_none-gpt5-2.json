@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-homo_none-gpt5-2",
+  "questionId": 37238,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37238-homo_none",
+  "independentForecastId": "37238-gpt5-none-2",
+  "otherForecastIds": [
+    "37238-gpt5-none-1",
+    "37238-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasized the per-event base rate and the centrality of location/date uncertainty, which matches my approach. They added a clearer articulation of per-event attendance (≈2–4/yr out of ~12 PPVs → ~15–30% if U.S.-based) and urged more weight on the status quo (most events are No). They didn’t introduce new hard evidence, but their calibration push toward the lower end of my 25–35% band is reasonable given the lack of a confirmed venue/date for 316 and the fact that he already attended a PPV in April 2025. I find their reasoning broadly convincing and will modestly adjust downward to reflect stronger base-rate weighting.",
+    "rationale": "Decomposition: Let P(domestic) ≈ 70–80% and P(attend | domestic) ≈ 30–35% given Trump’s pattern, relationship with Dana White, and demonstrated ability as president; P(attend | international) ≈ 0–5%. Using midpoints: 0.75*0.32 + 0.25*0.03 ≈ 0.25. I keep a small premium above 25% due to (1) recent April 2025 attendance signaling feasibility/interest; (2) the resolution allowing even a brief drop-in; and (3) political upside of a high-visibility crowd appearance. Offsets: presidential schedule/security frictions and that he skips a majority of PPVs; UFC 316’s location/date are unannounced, so status quo favors No. Net: slight downward move from 30% to 26%, aligning more closely with a base-rate blend while preserving a small premium for his UFC affinity. Up moves: 316 announced for Las Vegas/Miami/NYC/NJ or credible planning signals. Down moves: international venue or clear scheduling conflicts.",
+    "probability": 26
+  },
+  "usage": {
+    "inputTokens": 1595,
+    "outputTokens": 1486,
+    "totalTokens": 3081,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

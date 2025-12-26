@@ -1,0 +1,26 @@
+{
+  "forecastId": "37242-diverse_none-gpt5-3",
+  "questionId": 37242,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37242-diverse_none",
+  "independentForecastId": "37242-gpt5-none",
+  "otherForecastIds": [
+    "37242-pro-none",
+    "37242-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the dominant Easter-timing shift (Easter April 20, 2025 vs March 31, 2024), which places the peak holiday travel squarely in April 2025. That’s the key structural driver I also relied on. They also correctly downweight the impact of US-specific policy risk given the Canary Islands’ overwhelmingly European source markets. Forecaster 2’s 10% reflects strong confidence in the Easter effect; Forecaster 3’s 25% seems high absent concrete evidence of disruptions or capacity cuts. Neither added new hard data (e.g., seat capacity, cancellations), but their emphasis reinforces that, with the month now over, we likely would have heard about major April shocks if they occurred.",
+    "rationale": "I started at 15%, leaning heavily on the Easter shift, ongoing YoY growth (Feb 2025 > Feb 2024), and the small US share. With April now concluded and no credible reports of major strikes, weather closures, or airline failures affecting the Canaries, the tail-risk case for a YoY decline is weaker. The AENA metric includes all arrivals (international, domestic, inter-island), and Easter typically boosts all of these, not just international. Residual risk remains from potential localized weather or operational issues, or an unexpectedly high April 2024 base; however, in the absence of concrete negative signals, the calendar effect should dominate. Given the peers’ arguments and the lack of contrary evidence, I trim my probability of a decline modestly from 15% to 12%.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1815,
+    "outputTokens": 1743,
+    "totalTokens": 3558,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

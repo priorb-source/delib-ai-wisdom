@@ -1,0 +1,26 @@
+{
+  "forecastId": "37041-homo_info-pro-1",
+  "questionId": 37041,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37041-homo_info",
+  "independentForecastId": "37041-pro-info1-1",
+  "otherForecastIds": [
+    "37041-pro-info2-2",
+    "37041-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters, including myself, identified the same core factors: the short five-week timeline is the primary barrier to a 'Yes' resolution, and the severity of the ongoing South American outbreak is the primary risk factor. We all agree that the status quo is a strong predictor. Forecaster 2's analysis was useful for quantifying the risk from the source outbreak, noting that cases in South America had more than doubled from the previous year, which reinforces the potential for exportation. However, I found Forecaster 3's reasoning most convincing and impactful. Their analysis introduced new, crucial evidence I had not considered: the specific and robust public health measures in the most likely countries for introduction. Citing Panama's over 95% vaccination coverage in high-risk border zones and Costa Rica's vaccine mandate for travelers are powerful arguments against the virus establishing a foothold. This evidence provides a concrete reason to believe the 'firewall' between South and North America is strong.",
+    "rationale": "My initial forecast of 5% was based on the general unlikelihood of a rapid series of events (introduction, local transmission, detection, and CDC advisory) occurring in just five weeks. After reviewing my peers' analyses, I am adjusting my forecast downward. The key piece of new information, provided by Forecaster 3, is the high efficacy of targeted public health measures in Panama, the country at most immediate risk. Over 95% vaccination coverage in border regions creates a significant barrier to the virus establishing a human-mosquito-human transmission cycle, even if an infected individual crosses the border. This specific evidence makes the probability of a successful outbreak substantially lower than my initial estimate. While Forecaster 2 correctly emphasizes the severity of the source outbreak in Colombia, which increases the likelihood of an *imported case*, Forecaster 3's evidence directly addresses the more difficult step of establishing *local transmission*. I am not lowering my forecast to 2% because the risk is not zero; the severity of the South American outbreak means the firewall will be tested, and there remains a small chance the virus could be introduced to another, less-prepared Central American or Caribbean nation. Therefore, I am lowering my probability from 5% to 3% to reflect the strong, specific evidence of effective public health barriers in the most probable locations.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 1475,
+    "outputTokens": 2038,
+    "totalTokens": 3513,
+    "reasoningTokens": 1553,
+    "cachedInputTokens": 0
+  }
+}

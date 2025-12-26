@@ -1,0 +1,26 @@
+{
+  "forecastId": "37808-diverse_none-pro-1",
+  "questionId": 37808,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37808-diverse_none",
+  "independentForecastId": "37808-pro-none",
+  "otherForecastIds": [
+    "37808-sonnet-none",
+    "37808-gpt5-none"
+  ],
+  "forecast": {
+    "review": "All three forecasters correctly identify institutional inertia as the dominant factor favoring a 'Yes' outcome over the short ~6 week timeframe. We all agree that the program's basis in statutory law makes it resilient to rapid change. The primary disagreement lies in the weighting of the two main risks: political action and technical changes. Forecaster 2 assigns a significantly higher probability to political risk (leading to an 85% forecast), which I believe is too high given the legal and bureaucratic hurdles to removing a webpage for a congressionally-mandated program so quickly. Forecaster 3's analysis (93%) is more aligned with my own but introduces a crucial point I had underestimated: the strictness of the resolution criteria. Their emphasis on the specific URL, and how a redirect during a website reorganization would likely resolve to 'No', is a highly compelling argument which highlights a key failure mode.",
+    "rationale": "My initial forecast of 96% was based on the strong assumption of bureaucratic inertia and the high barriers to political or legislative action in the short term. After reviewing my peers' analyses, I am making a small downward adjustment. I am not persuaded by Forecaster 2's higher weighting of political risk; the program has survived hostile administrations before, and the timeframe for effective action is extremely short. However, I found Forecaster 3's reasoning about the technical risk to be very convincing. I had not sufficiently weighted the strictness of the resolution criteria, which states the page must be 'at this location.' Forecaster 3 correctly pointed out that a simple website reorganization that changes the URL slug, even if it implements a redirect, would cause this question to resolve as 'No'. The likelihood of a pre-planned content migration going live in any given 6-week period is low, but it is a more significant risk than I initially calculated. Therefore, I am increasing my estimate of the probability of a 'technical failure' due to a URL change, which pulls my overall forecast down slightly.",
+    "probability": 94
+  },
+  "usage": {
+    "inputTokens": 1692,
+    "outputTokens": 2218,
+    "totalTokens": 3910,
+    "reasoningTokens": 1795,
+    "cachedInputTokens": 0
+  }
+}

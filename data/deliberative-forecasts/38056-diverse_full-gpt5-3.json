@@ -1,0 +1,26 @@
+{
+  "forecastId": "38056-diverse_full-gpt5-3",
+  "questionId": 38056,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "38056-diverse_full",
+  "independentForecastId": "38056-gpt5-full",
+  "otherForecastIds": [
+    "38056-pro-full",
+    "38056-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters reiterate the key facts: Walker has officially withdrawn due to injury, Murzakanov is booked vs. Brendson Ribeiro, and the event is close. They outline the stacked contingencies required for a Yes outcome (Walker’s recovery/clearance, Ribeiro’s removal, UFC rebooking Walker vs. Murzakanov, and Walker then winning). No new evidence beyond what I already considered, but their framing reinforces that the current booking is firm and time is short.",
+    "rationale": "The base path is No because Walker is off the card and Murzakanov has a replacement. A Yes requires an unlikely cascade plus Walker winning as an underdog. I keep a small non-zero tail for chaotic last-minute changes (e.g., Ribeiro withdraws, Walker is suddenly cleared and reinstated, then wins). Absent credible reports of Walker’s reinstatement, the probability remains extremely low and will drift toward zero as Ribeiro completes fight week milestones (media day, weigh-ins). No new information warrants a change from my prior estimate.",
+    "probability": 1
+  },
+  "usage": {
+    "inputTokens": 1615,
+    "outputTokens": 868,
+    "totalTokens": 2483,
+    "reasoningTokens": 640,
+    "cachedInputTokens": 0
+  }
+}

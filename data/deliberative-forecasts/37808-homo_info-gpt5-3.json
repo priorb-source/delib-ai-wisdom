@@ -1,0 +1,26 @@
+{
+  "forecastId": "37808-homo_info-gpt5-3",
+  "questionId": 37808,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37808-homo_info",
+  "independentForecastId": "37808-gpt5-info3-3",
+  "otherForecastIds": [
+    "37808-gpt5-info1-1",
+    "37808-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds concrete, near-term operational details: DV-2026 results went live in early May and status checks run long into 2026—strong evidence that State is actively maintaining DV web content now and over the next few weeks. Their emphasis on URL stability and the main tail risks (URL change without redirect; precisely timed outage) is persuasive. Forecaster 3 introduces a potential April 2025 bill to terminate DV and mentions administration priorities affecting web content. While this adds a downside tail, they correctly note the tight timeline makes rapid statutory change and immediate web removal unlikely. Both highlight that policy moves typically leave pages up with notices rather than removing them abruptly. The main new argument I hadn’t explicitly weighed was the specific current-cycle milestone (results released in May), which supports continuity, and the legislative push, which slightly increases tail risk.",
+    "rationale": "The short horizon (~6 weeks), statutory basis of the program, and historical practice of keeping DV instruction/entry pages live between windows all favor a Yes. The most credible No scenarios are technical/editorial: a travel.state.gov reorganization that changes this exact slug without a working redirect, or an unlucky outage at the check time. Newly surfaced info that DV-2026 results are live as of May 2025 supports active maintenance and stability into July. The reported April bill to end DV marginally increases tail risk, but swift passage and immediate page removal by July 1 is unlikely; even if policy shifted, State would more likely retain the page with an explanatory notice. Net effect: slightly higher confidence than my prior 89%, with residual risk allocated to URL restructuring/redirect semantics and transient outages.",
+    "probability": 91
+  },
+  "usage": {
+    "inputTokens": 1844,
+    "outputTokens": 1505,
+    "totalTokens": 3349,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 0
+  }
+}

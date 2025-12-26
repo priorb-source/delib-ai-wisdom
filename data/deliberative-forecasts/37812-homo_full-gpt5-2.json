@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-homo_full-gpt5-2",
+  "questionId": 37812,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37812-homo_full",
+  "independentForecastId": "37812-gpt5-full-2",
+  "otherForecastIds": [
+    "37812-gpt5-full-1",
+    "37812-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my base case: starting around 39 destinations, a known pipeline of roughly five additions by July 1, and a sizable shortfall to >51 without a broad wave of resumptions. They add two useful emphases: (1) schedule-loading inertia—most additions that would operate by late June/July 1 should already be visible in OAG/flightsfrom by now; and (2) specificity on which absent hubs would need to return (DOH, KWI, JED/RUH, CAI, SAW, possibly BAH) to clear the threshold. They also note MEA seasonals as the main wild card but not sufficient alone. I didn’t see materially new positive evidence; if anything, the schedule-visibility point strengthens the No case.",
+    "rationale": "Time left is ~6 weeks. From ~39 destinations in May, the confirmed/announced adds (SAS to CPH/ARN, Wizz AUH, MEA BCN, LOT WAW on July 1) plausibly lift BEY into the low-to-mid 40s by July 1. Surpassing 51 would require at least eight more unique airports beyond this pipeline. Many of the easiest increments (Qatar, Kuwait, Saudia, EgyptAir, Pegasus; perhaps Gulf Air) show no firm, public indications of resumption by July 1, and the broader context—soft demand, high insurance/risk premia, Q1 pax softness, and newly tightened security/bans—argues against a sudden surge. The point that flightsfrom/OAG would likely already reflect late-June ops further reduces the likelihood of a last-minute wave. MEA could still load a handful of seasonal Mediterranean points, but that’s unlikely to bridge the full gap. Given that the peers’ analyses reinforce my baseline and introduce no concrete upside signals, I’m keeping a low probability.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 2746,
+    "outputTokens": 2066,
+    "totalTokens": 4812,
+    "reasoningTokens": 1664,
+    "cachedInputTokens": 0
+  }
+}

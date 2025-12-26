@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-diverse_full-pro-1",
+  "questionId": 37232,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37232-diverse_full",
+  "independentForecastId": "37232-pro-full",
+  "otherForecastIds": [
+    "37232-sonnet-full",
+    "37232-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I are in strong agreement on the fundamental drivers of this question. We all correctly identified the key evidence: the current three-month gap in posting, the historical irregularity (posts in 5 of the last 10 months), the ongoing flight hiatus reducing operational news, and the crucial precedent that earnings announcements are handled via Investor Relations, not the main News page. This consensus on the core facts and their implications lends confidence to the shared conclusion that 'Yes' (no posts) is the most likely outcome. The primary difference is in our final probabilities: my 75% vs. their shared 68%. This suggests they place more weight on the possibility of an unscheduled corporate announcement (e.g., a Delta vehicle milestone) than I initially did. Their use of the 50% historical posting rate as a quantitative anchor is a compelling counterpoint to my more heavily weighted qualitative argument about the flight hiatus changing the context. Their reasoning is convincing and highlights that I may have been slightly overconfident in the status quo continuing.",
+    "rationale": "After reviewing the other experts' analyses, I am lowering my forecast slightly. My core reasoning remains unchanged: the combination of the flight hiatus and the precedent for siloing financial news makes a post in May unlikely. However, the other forecasters make a persuasive case that my initial 75% confidence might be too high. They correctly point to the historical base rate where posts occurred in 50% of the preceding months. While I still believe the flight hiatus significantly suppresses this base rate, I now think I under-weighted the chance of other non-flight-related news, such as a manufacturing milestone for the Delta class ships, a new partnership, or other corporate developments. The consensus at 68% from two other experts is a strong signal that my initial forecast was an outlier. I am adjusting my probability downward from 75% to 70% to better reflect the baseline uncertainty and the possibility of an unexpected announcement, splitting the difference between my initial assessment and their consensus.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 1881,
+    "outputTokens": 2102,
+    "totalTokens": 3983,
+    "reasoningTokens": 1669,
+    "cachedInputTokens": 0
+  }
+}

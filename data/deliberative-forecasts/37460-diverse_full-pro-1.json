@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-diverse_full-pro-1",
+  "questionId": 37460,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37460-diverse_full",
+  "independentForecastId": "37460-pro-full",
+  "otherForecastIds": [
+    "37460-sonnet-full",
+    "37460-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial 92% forecast was fundamentally flawed due to a critical oversight, which Forecaster 3 brilliantly identified. My reasoning was entirely predicated on the May 1st protests of 65,000 people serving as a qualifying event. I failed to consider the high probability that the Global Protest Tracker (GPT) would classify this event as a continuation of the protest wave that began in March with the arrest of Ekrem İmamoğlu. As Forecaster 3 correctly argues, such databases typically assign a single start date to a protest wave. A March start date would render the event ineligible for this question, which requires a start date after May 7, 2025. This single, powerful argument invalidates my core evidence and forces a complete reassessment. Forecaster 2's concerns about reporting lag and government suppression are also valid points of downside risk, but Forecaster 3's insight on the resolution source's methodology is the decisive factor that transforms the question entirely.",
+    "rationale": "After reviewing my peers' analyses, I am making a significant update to my forecast, lowering it from 92% to 40%. The reasoning provided by Forecaster 3 has convinced me that my initial assessment was based on a critical misinterpretation of the resolution criteria.\n\nThe central issue is the 'start date' requirement. The question resolves 'Yes' only if the GPT reports a protest with a start date *after* May 7, 2025. The large, 65,000-person protests on May 1st almost certainly do not qualify. They are thematically and temporally linked to the wave of protests that began in March. It is standard practice for databases like the GPT to assign a single start date to such a wave. Therefore, the May 1st event will most likely be logged with a March 2025 start date, resolving this question as 'No' for that event.\n\nThis reframes the entire forecast. The question is no longer about the simple reporting of an event that has already occurred. It is now about the probability of a *new and distinct* protest wave, large enough to be considered a separate event by the GPT, starting between May 8 and June 30, 2025.\n\nWhile the underlying conditions for protest remain potent (high inflation, political tension, upcoming trials), the bar for generating a *new* wave, distinct from the ongoing one, is much higher. Potential triggers exist, such as a severe economic shock prompting new union action or large-scale Pride mobilizations in late June, which might be cataloged separately. However, with only about seven weeks remaining, and considering the government's demonstrated willingness to suppress dissent, the odds of a new, qualifying protest wave are significantly lower than my initial assessment.\n\nMy new forecast of 40% reflects this much higher uncertainty. It acknowledges that a new wave is plausible given the volatile environment, but it is far from a certainty. This represents a 52-point downward revision, a direct result of incorporating the superior reasoning regarding the resolution source's likely methodology.",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 2295,
+    "outputTokens": 2986,
+    "totalTokens": 5281,
+    "reasoningTokens": 2328,
+    "cachedInputTokens": 0
+  }
+}

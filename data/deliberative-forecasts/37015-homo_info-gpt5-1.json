@@ -1,0 +1,26 @@
+{
+  "forecastId": "37015-homo_info-gpt5-1",
+  "questionId": 37015,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37015-homo_info",
+  "independentForecastId": "37015-gpt5-info1-1",
+  "otherForecastIds": [
+    "37015-gpt5-info2-2",
+    "37015-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both offer useful additions. Forecaster 2 adds concrete polling headwinds (low single-digit to low-teens support, high “unacceptable” numbers) and highlights Hwang Kyo-ahn’s 2017 precedent—both reinforce the norm/optics barrier I already weighed. They also introduce the reported scale of the intra-party draft (50+ PPP lawmakers, formal support committee), which is a stronger elite-signal than I had explicitly incorporated. Forecaster 3 usefully stresses that a pre–May 5 announcement is not procedurally necessary to be viable in a June election, which decreases urgency for an early declaration. However, they underweight the resignation-eligibility constraint: if he intends to run, resigning by May 4 is a hard gate and practically tied to an announcement, given neutrality optics. Overall, their 22% feels high given party process barriers and weak public support, but their points modestly raise the tail risk versus my initial view.",
+    "rationale": "There are ~13 days left. The status quo is No: acting heads of state almost never launch campaigns, and Han faces weak polling, caretaker neutrality norms, and no visible campaign build-out. Additional barriers: he missed the PPP primary registration and leadership has signaled he won’t be included, implying a rule-bending emergency nomination would be needed—rare and politically costly. The key hinge is the May 4 resignation requirement; an announcement before May 5 likely coincides with or follows a resignation. That is a very high bar unless PPP elites coalesce decisively. New information (scale of the draft effort) nudges up the chance of a sudden elite-driven pivot, but countervailing data (poor polling, 2017 precedent, lack of urgency to announce strictly for procedural reasons) keeps the probability low. Net, I edge up slightly from my prior 9% to 11% to reflect nontrivial elite pressure and a plausible post–Apr 24 decision window, while still assigning dominant weight to institutional norms, party-process hurdles, and weak public appetite. Upward triggers: credible leaks of a planned resignation, PPP formalizing an emergency nomination path for Han, or scheduling of a major ‘direction of the nation’ address. Downward triggers: public disavowal by Han, PPP consolidating behind an alternative, or continued silence/no preparations into early May.",
+    "probability": 11
+  },
+  "usage": {
+    "inputTokens": 1722,
+    "outputTokens": 2289,
+    "totalTokens": 4011,
+    "reasoningTokens": 1792,
+    "cachedInputTokens": 0
+  }
+}

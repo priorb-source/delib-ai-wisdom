@@ -1,0 +1,26 @@
+{
+  "forecastId": "37003-diverse_info-pro-2",
+  "questionId": 37003,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37003-diverse_info",
+  "independentForecastId": "37003-pro-info2",
+  "otherForecastIds": [
+    "37003-sonnet-info3",
+    "37003-gpt5-info1"
+  ],
+  "forecast": {
+    "review": "The other two forecasters provide sound analyses rooted in Vienna's political history and structural factors. Forecaster 2 correctly emphasizes the SPÖ's 80-year incumbency and organizational strength, while Forecaster 3 astutely analyzes the demographic baseline favoring the SPÖ and the potential headwinds from the FPÖ's national momentum. However, a critical divergence appears to be the specificity of the polling data we are using. Both forecasters seem to be reasoning based on a generally competitive race. Forecaster 3 speaks of a 'small lead' and would raise their forecast with a '5-7 point' lead, while Forecaster 2 would revise upward if polls showed 'solid leads'. My primary evidence is a specific polling report showing a commanding 16-19 percentage point lead for the SPÖ less than a week before the election. Their arguments are compelling for a scenario with a 5-point race, but they don't seem to have access to or are not weighing this decisive piece of information. If their own stated update criteria were applied to the data I have, their forecasts would rise significantly, likely aligning closely with my own.",
+    "rationale": "I am maintaining my forecast of 97%. The deliberation process has strengthened my conviction that the most critical piece of evidence is the specific, recent polling data provided by my research assistant. The polls show the SPÖ with a 16-19 percentage point lead over the FPÖ just six days before the election. The other forecasters' analyses on historical dominance and structural advantages are valid and provide a strong prior, but proximate, high-quality polling data rightly supersedes those priors as an election nears. A polling miss of the magnitude required to flip this outcome—a 16+ point error—is almost without precedent in modern European elections. The other forecasters' lower probabilities (68% and 78%) appear to stem from an assumption of a much closer race, which is contradicted by the provided data. Since no new evidence has emerged to suggest the polls are fundamentally flawed or that a last-minute game-changing event has occurred, the overwhelming probability remains that the SPÖ's massive lead will translate into a plurality of seats.",
+    "probability": 97
+  },
+  "usage": {
+    "inputTokens": 1613,
+    "outputTokens": 2268,
+    "totalTokens": 3881,
+    "reasoningTokens": 1804,
+    "cachedInputTokens": 0
+  }
+}

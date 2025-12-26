@@ -1,0 +1,26 @@
+{
+  "forecastId": "37467-diverse_none-pro-1",
+  "questionId": 37467,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37467-diverse_none",
+  "independentForecastId": "37467-pro-none",
+  "otherForecastIds": [
+    "37467-sonnet-none",
+    "37467-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters presented analyses that were directionally similar to my own, emphasizing the very short timeframe as the dominant factor favoring a 'No' outcome. However, their reasoning was more structured and introduced a crucial piece of evidence I had not explicitly considered. Forecaster 3's point that Beyond Meat's primary convertible notes do not mature until 2027 is particularly compelling. This effectively removes the risk of a near-term 'maturity wall' forcing a bankruptcy, which is a common catalyst for such filings. Both forecasters also correctly highlighted the current absence of typical public precursors to bankruptcy, such as hiring restructuring advisors or announcing covenant violations. I found their reasoning convincing because it grounded the general concern about financial distress in the specific mechanics and timelines of corporate bankruptcy, correctly identifying the lack of an immediate, visible trigger.",
+    "rationale": "I am updating my forecast downwards from 15% to 11%. The primary reason for this change is the new information, highlighted by Forecaster 3, regarding the 2027 maturity date of the company's main debt instruments. My initial forecast of 15% was based on the company's high cash burn and significant operational losses, creating a non-trivial tail risk of a sudden liquidity crisis. However, the absence of a near-term debt maturity significantly lowers the probability of a forced filing within the next 54 days. This leaves an acute operational cash shortfall or a covenant breach as the main potential triggers, which, while possible, are less likely to occur suddenly and without any of the warning signs noted by all three forecasters. The consensus from the other experts reinforces my view that my initial estimate was slightly too high and did not adequately discount the lack of an imminent, hard catalyst. My revised forecast of 11% still acknowledges the company's precarious financial health but better reflects the low likelihood of a filing in this specific short window given the available evidence.",
+    "probability": 11
+  },
+  "usage": {
+    "inputTokens": 1579,
+    "outputTokens": 2098,
+    "totalTokens": 3677,
+    "reasoningTokens": 1689,
+    "cachedInputTokens": 0
+  }
+}

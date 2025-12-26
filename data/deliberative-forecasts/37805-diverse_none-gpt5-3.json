@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-diverse_none-gpt5-3",
+  "questionId": 37805,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37805-diverse_none",
+  "independentForecastId": "37805-gpt5-none",
+  "otherForecastIds": [
+    "37805-pro-none",
+    "37805-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 brings a crucial, concrete piece of evidence I hadn’t incorporated: they report that FlightsFrom currently lists six direct destinations (GUM, NRT, ICN, PUS, ROP, TIQ). If accurate, that strongly shifts the base case toward Yes with only ~6 weeks to go. Forecaster 3 leans on general priors and an older narrative about weak tourism without verifying the resolution source’s current listing; that makes their 22% too low if the present listing is indeed ≥5.\n\nKey caveats to Forecaster 2’s view: (1) FlightsFrom sometimes excludes very small commuter/on-demand operators; I’m not fully certain Rota/Tinian are consistently included in their database. (2) Some routes can be seasonal; what appears now must still be present in the Summer 2025 view around July 1. That said, July is peak season for leisure demand, which favors continuation rather than suspension. Given two independent Korean routes plus Guam and possibly Tokyo, it may already exceed four even without Rota/Tinian.\n\nNet: Forecaster 2’s specific, source-aligned claim is persuasive and materially updates my prior. Forecaster 3’s argument doesn’t account for current evidence and is less convincing.",
+    "rationale": "I initially forecast 22% based on a conservative prior of limited connectivity and the stringent threshold (>4). The new input that FlightsFrom currently shows six destinations is a strong update toward Yes, especially with only ~6 weeks until resolution and July being a high-demand period. Even if there’s some risk that Rota/Tinian aren’t counted by FlightsFrom or that one seasonal international route lapses, getting down to four or fewer by July 1 would typically require at least two concurrent removals from the current six, which seems unlikely absent a shock.\n\nResidual risk remains: (a) misinterpretation or transient listing on FlightsFrom; (b) seasonal routing quirks where a listed route doesn’t actually operate in early July; (c) localized operational or regulatory disruptions. These keep me short of 90%+. But the balance of evidence favors Yes.\n\nI’m updating up substantially from 22% to 80% on the strength of Forecaster 2’s source-specific evidence and the schedule inertia over this short horizon.",
+    "probability": 80
+  },
+  "usage": {
+    "inputTokens": 1626,
+    "outputTokens": 2155,
+    "totalTokens": 3781,
+    "reasoningTokens": 1664,
+    "cachedInputTokens": 0
+  }
+}

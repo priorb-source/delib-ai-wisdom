@@ -1,0 +1,26 @@
+{
+  "forecastId": "37466-diverse_info-gpt5-1",
+  "questionId": 37466,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37466-diverse_info",
+  "independentForecastId": "37466-gpt5-info2",
+  "otherForecastIds": [
+    "37466-sonnet-info1",
+    "37466-pro-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds the claim of a Jan 20, 2025 executive order and subsequent adoption by several U.S. federal agencies—new information I hadn’t incorporated. If accurate, that raises the chance somewhat that U.S.-facing publishers might follow. However, Forecaster 3’s point that WorldAtlas is Canadian-based (Valnet) meaningfully weakens the pull of a U.S. directive. F3 also highlights the long-term inertia of hydrographic names and prior failed renaming momentum, which aligns with my status quo bias. I find F2’s 25% a bit high given absent international standardization (IHO) and months of inaction on the specific North America map page; but F3’s 2% seems too low considering WorldAtlas already acknowledges the alternate name in an article title and the question resolves Yes with dual naming. The likely need to edit a static map asset, lack of geolocated labeling behavior on WorldAtlas, and international controversy all still point to low odds by July 1. Net: I slightly downgrade my prior estimate due to the Canadian ownership/inertia points, while keeping a non-trivial tail for a late dual-label update.",
+    "rationale": "Key drivers: (1) No IHO or broad international adoption; (2) months of inaction on the specific North America page despite site awareness; (3) probable static map asset and low likelihood of geolocation-specific labeling; (4) WorldAtlas’s Canadian ownership reducing susceptibility to U.S. federal naming shifts; (5) short remaining window (~7.5 weeks). Countervailing factors keeping probability above near-zero: WorldAtlas already references “Gulf of America” in an article title; Google’s U.S. usage provides some cover; the resolution counts dual naming as Yes. Balancing these, I lower my prior 15% to reflect stronger inertia and weaker U.S. pressure on a Canadian publisher, while retaining some chance of a late dual-label compromise or editorial update.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1799,
+    "outputTokens": 1702,
+    "totalTokens": 3501,
+    "reasoningTokens": 1280,
+    "cachedInputTokens": 1280
+  }
+}

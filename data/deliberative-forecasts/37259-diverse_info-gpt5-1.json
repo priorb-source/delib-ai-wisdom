@@ -1,0 +1,26 @@
+{
+  "forecastId": "37259-diverse_info-gpt5-1",
+  "questionId": 37259,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37259-diverse_info",
+  "independentForecastId": "37259-gpt5-info3",
+  "otherForecastIds": [
+    "37259-sonnet-info1",
+    "37259-pro-info2"
+  ],
+  "forecast": {
+    "review": "New information I hadn’t explicitly incorporated: (1) an independence/constitutional commission described as having a multi-year mandate, which reinforces a long runway; (2) the electoral detail that the more hardline pro-independence Naleraq grew but remains out of government; (3) polling nuance that independence support is soft and conditioned on living standards. Forecaster 2’s point about the commission’s timeline is a strong No signal; Forecaster 3’s emphasis on soft support and fiscal dependence also pushes No. Both note a potentially “low bar” path to Yes via announcing a distant date; I partially agree, but I think the bar isn’t as low as implied because the announcement must come from an authority that actually has scheduling power (likely requiring parliamentary action or a formal government decision), not a vague promise in a coalition agreement. Overall, I find their reasoning directionally convincing but slightly overweight the ease of a symbolic announcement. Their probabilities (12–15%) feel a bit high given the extremely short window, a new gradualist government prioritizing economic development, and no visible pre-legislative signals.",
+    "rationale": "Baseline remains strongly No: less than two months left, a government elected on gradualism, and deep fiscal dependence on Denmark’s block grant diminish incentives to rush even a future-dated referendum announcement. Past referendums had long lead times and broad consensus-building, and current constitutional/independence workstreams appear multi-year. Also, the authority requirement likely entails formal government or parliamentary action, not just rhetoric, further reducing the likelihood of a quick move.\n\nPaths to Yes exist but are narrow: a coalition deal or early governing program could include a concrete, future-dated referendum with a formal cabinet decision and immediate public announcement; or a political reaction to external pressures (e.g., U.S./Danish statements) could spur a symbolic, distant date to satisfy pro-independence sentiment. However, we’ve seen no credible reporting of imminent steps, and legislative calendars before summer recess are tight.\n\nUpdate: I slightly raise my estimate because my peers persuasively highlight that “any future date” could satisfy the question if properly authorized, which keeps a small tail risk alive. But the multi-year commission mandate and lack of signals keep this firmly low. I’m moving from 8% to 10%.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 1855,
+    "outputTokens": 2218,
+    "totalTokens": 4073,
+    "reasoningTokens": 1728,
+    "cachedInputTokens": 0
+  }
+}

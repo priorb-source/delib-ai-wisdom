@@ -1,0 +1,26 @@
+{
+  "forecastId": "37656-homo_full-sonnet-1",
+  "questionId": 37656,
+  "condition": "homo_full",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37656-homo_full",
+  "independentForecastId": "37656-sonnet-full-1",
+  "otherForecastIds": [
+    "37656-sonnet-full-2",
+    "37656-sonnet-full-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters independently reached remarkably similar conclusions (25%, 28%, 32%) using nearly identical reasoning, which increases my confidence in this forecast range. We all identified the same critical evidence: the 14-day delay between the executive order (May 2) and the most recent status check (May 16) strongly suggests the maintainers require more than just signing an order. We all noted the same obstacles: CPB's legal challenge, Congressional appropriations through 2027, some Republican opposition, and the difficulty of actually stopping funding flows. Forecasters 2 and 3 made the status quo bias even more explicit than I did - emphasizing that bureaucratic and legal processes move slowly and that actual federal dollars continue flowing. Their point that funding 'technically continues' and will 'legally continue through 2027' is particularly compelling evidence against completion. No forecaster raised any consideration the others missed, which suggests we've captured the main dynamics. The convergence of three independent analyses around 25-32% is itself evidence this range is reasonable.",
+    "rationale": "My original 25% forecast was well-reasoned and aligned closely with the other forecasters. The key evidence remains unchanged: the 14-day delay after the executive order is the strongest signal that maintainers want more than just presidential action. However, I'm persuaded to update slightly upward based on two considerations. First, the explicit emphasis on status quo bias by the other forecasters is warranted - legal challenges typically take months or years, Congress controls appropriations, and actual funding continues flowing. These factors make 'in progress' highly sticky. Second, the fact that three independent forecasters converged on 25-32% using similar reasoning increases confidence in this range, and I was at the lower end. The uncertainty remains about what exactly would trigger 'complete' status, but with only 45 days remaining and significant legal/political obstacles, the most likely outcome is that it remains 'in progress.' I'm updating from 25% to 27% to acknowledge the stronger case for status quo bias while maintaining that there's meaningful probability the maintainers could interpret the executive order itself as sufficient.",
+    "probability": 27
+  },
+  "usage": {
+    "inputTokens": 2410,
+    "outputTokens": 1268,
+    "totalTokens": 3678,
+    "reasoningTokens": 666,
+    "cachedInputTokens": 0
+  }
+}

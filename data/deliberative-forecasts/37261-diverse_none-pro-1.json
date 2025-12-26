@@ -1,0 +1,26 @@
+{
+  "forecastId": "37261-diverse_none-pro-1",
+  "questionId": 37261,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37261-diverse_none",
+  "independentForecastId": "37261-pro-none",
+  "otherForecastIds": [
+    "37261-sonnet-none",
+    "37261-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other forecasters provided critical insights that I had underweight in my initial analysis. Forecaster 2 correctly identified that the resolution depends specifically on the Global Protest Tracker's reporting, not just the occurrence of a protest. Forecaster 3's analysis was particularly compelling, offering a data-driven base rate by examining the historical frequency of new US entries in the tracker. They noted the tracker is highly selective, averaging well under one new entry per year for the US, and crucially pointed out that protests seen as continuations of existing movements (like Gaza-related demonstrations) might not receive a new start date, failing the resolution criteria. This focus on the specific mechanism of resolution—the tracker's own behavior—was a significant and persuasive counterpoint to my more event-focused initial analysis.",
+    "rationale": "I am making a significant downward revision to my forecast based on the other forecasters' analyses. My initial forecast of 65% was too high because it focused excessively on the likelihood of a catalyzing event (a major Supreme Court decision) and did not adequately account for the high bar set by the resolution criteria. Forecaster 3's research into the Global Protest Tracker's selectivity and slow update frequency for the US is a powerful argument that I had overlooked. The historical base rate of new entries is extremely low, making a 'Yes' resolution in any given two-month window inherently unlikely.\n\nI have therefore moved my forecast from 65% down to 35%. This revision reflects that 'No' is the more probable outcome due to the stringent and specific reporting requirements. However, I am not lowering my forecast to Forecaster 3's level of 18% because I maintain a higher-than-baseline conviction that this specific two-month window is not a random sample. It contains the end of the US Supreme Court term, a predictable period for high-impact, polarizing events. The 2022 Dobbs decision, for example, *did* trigger a new entry in the tracker. While another event of that magnitude is not guaranteed, the potential for one makes this period uniquely prone to generating the kind of distinct protest wave that would warrant a new entry. My 35% forecast now balances the very low base rate of new tracker entries with the heightened potential for a qualifying catalyst in late June.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 1827,
+    "outputTokens": 2910,
+    "totalTokens": 4737,
+    "reasoningTokens": 2419,
+    "cachedInputTokens": 0
+  }
+}

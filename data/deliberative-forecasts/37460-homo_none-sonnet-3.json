@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-homo_none-sonnet-3",
+  "questionId": 37460,
+  "condition": "homo_none",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37460-homo_none",
+  "independentForecastId": "37460-sonnet-none-3",
+  "otherForecastIds": [
+    "37460-sonnet-none-1",
+    "37460-sonnet-none-2"
+  ],
+  "forecast": {
+    "review": "The key debate centers on interpreting the Wikipedia article reference. Forecaster 2 weighs this as strong positive evidence ('key driver pushing probability above 50%'), arguing Wikipedia articles about ongoing protests indicate significant events. Forecaster 3 and I initially treated it as suggestive but inconclusive. Forecaster 2 raises a valid point: Wikipedia articles about current-year protest movements typically signal substantial activity. However, I find the jump to 65% excessive given critical uncertainties: (1) We don't know if Wikipedia protests occurred after question launch or meet participant thresholds, (2) The Global Protest Tracker has specific documentation criteria and reporting lags - not all protests get captured, (3) 10,000+ participants is a meaningful threshold that excludes many protests, (4) The 55-day window, while sufficient, is relatively short for new movements to develop and be documented. Forecaster 2's reasoning merits a modest upward update from my initial 35%, but the resolution criteria specificity prevents me from going as high as 65%.",
+    "rationale": "Upon reflection, I was likely underweighting the Wikipedia article signal. The existence of a '2025 Turkish protests' article does suggest notable protest activity this year, and Turkey's political environment (Erdogan government, economic challenges, 85 million population) makes large-scale mobilization plausible. However, the resolution criteria create meaningful friction: the protest must (a) have 10,000+ participants, (b) start after question launch, (c) occur before July 1, and (d) be documented by the Global Protest Tracker specifically. Each requirement reduces probability. The Global Protest Tracker's coverage is selective and has reporting delays. The 55-day window provides opportunity but isn't extensive. Without concrete intelligence about current protest scale or Global Protest Tracker documentation of 2025 Turkish events, I cannot justify Forecaster 2's 65%. However, the Wikipedia signal does warrant moving above my initial 35%. I'm updating to 42% - acknowledging the protest activity indicator while maintaining skepticism about meeting all specific resolution criteria within the timeframe.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 1779,
+    "outputTokens": 1297,
+    "totalTokens": 3076,
+    "reasoningTokens": 734,
+    "cachedInputTokens": 0
+  }
+}

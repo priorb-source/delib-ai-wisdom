@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-diverse_info-gpt5-2",
+  "questionId": 37266,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37266-diverse_info",
+  "independentForecastId": "37266-gpt5-info2",
+  "otherForecastIds": [
+    "37266-sonnet-info3",
+    "37266-pro-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters rightly stress the high threshold for a nationwide Level 4 and the short time window. Forecaster 2’s base-rate framing (very few Level 4 countries) is compelling, but their 18% seems inconsistent with that low base rate over ~60 days absent clear catalysts (e.g., embassy drawdown, nationwide violence). The example of South Sudan changing in March 2025 shows adjustments happen but doesn’t meaningfully raise Mozambique’s odds. Forecaster 3 adds potentially new information: that Mozambique is currently at Level 3. If correct, that marginally increases the chance of an upgrade, but their 20% still feels high given the insurgency’s geographic concentration in the far north and the lack of indicators of imminent nationwide destabilization (e.g., major attacks in Maputo, a state of emergency, or widespread infrastructure collapse). Both analyses appropriately identify escalation triggers; I agree those would be necessary for a Level 4 in the next two months.",
+    "rationale": "Time left is about two months. The State Department typically reserves Level 4 for pervasive, nationwide dangers or when U.S. government support is highly constrained (e.g., active war, collapse of services, widespread kidnapping/terrorism, embassy drawdown). Mozambique’s main kinetic risk remains concentrated in Cabo Delgado, with sub‑national “Do Not Travel” already in place, and protests have not (so far) produced sustained nationwide paralysis or extreme violence. Cyclone season is largely past for May–June, lowering the acute disaster risk pathway. I would move materially higher only on signs like ordered/authorized departure of U.S. personnel, major attacks in Maputo or across multiple southern/central provinces, a nationwide state of emergency, or a severe health/infrastructure collapse. Forecaster 3’s claim that Mozambique is currently Level 3 (if accurate) slightly raises the near-term upgrade probability versus if it were Level 2, since the next step up is closer—hence a small upward adjustment. Absent those escalation signals, the base rate and short horizon keep the probability low. I am nudging my prior 7% up modestly to reflect the possibility it is already Level 3 and recent protest/insurgency noise, but I do not see enough to justify the high-teens/20% calls.",
+    "probability": 9
+  },
+  "usage": {
+    "inputTokens": 1655,
+    "outputTokens": 2148,
+    "totalTokens": 3803,
+    "reasoningTokens": 1664,
+    "cachedInputTokens": 0
+  }
+}

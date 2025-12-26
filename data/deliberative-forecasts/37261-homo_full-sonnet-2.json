@@ -1,0 +1,26 @@
+{
+  "forecastId": "37261-homo_full-sonnet-2",
+  "questionId": 37261,
+  "condition": "homo_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37261-homo_full",
+  "independentForecastId": "37261-sonnet-full-2",
+  "otherForecastIds": [
+    "37261-sonnet-full-1",
+    "37261-sonnet-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters raise similar concerns about average protest size and GPT reporting uncertainty. However, Forecaster 3 makes a crucial observation I underweighted: the question hasn't resolved despite these major protest movements already occurring. This is significant negative evidence. If the April 5 or May 1 protests included individual events with 10,000+ participants and GPT had reported them, the question would likely have already resolved as Yes. The non-resolution suggests either: (a) no single location reached 10,000 participants despite the massive total turnout, (b) GPT has substantial reporting lag, or (c) GPT doesn't report U.S. protests at sufficient granularity. The Crowd Counting Consortium data showing 60-88 average participants per protest, combined with the emphasis on decentralization ('50 states'), suggests these movements intentionally spread participation across many locations rather than concentrating in a few cities. With 600,000 participants across 1,400 events, that's only ~428 average per event - meaning a 10,000+ event would need to be a major statistical outlier.",
+    "rationale": "I'm updating downward from 72% to 62% based primarily on the non-resolution evidence. The fact that massive coordinated protests have occurred but the question remains unresolved is strong negative information I initially underweighted. However, I'm not going as low as 58% because: (1) two months remain for additional protests or delayed reporting, (2) reporting lags of weeks are plausible for a tracker monitoring global events, (3) the demonstrated organizational capacity of coalitions involving 150+ groups suggests future large mobilizations are possible. The decentralization trend is concerning - it suggests modern protest movements favor distributed action over mass concentration. Still, historical precedent shows U.S. protest movements can generate 10,000+ single-location events (Women's March 2017, George Floyd protests), and the political context suggests continued mobilization is likely. My updated forecast balances the negative evidence from non-resolution against the remaining time window and organizational capacity.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 2194,
+    "outputTokens": 1228,
+    "totalTokens": 3422,
+    "reasoningTokens": 787,
+    "cachedInputTokens": 0
+  }
+}

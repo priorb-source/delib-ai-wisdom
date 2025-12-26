@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-homo_full-gpt5-2",
+  "questionId": 38080,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "38080-homo_full",
+  "independentForecastId": "38080-gpt5-full-2",
+  "otherForecastIds": [
+    "38080-gpt5-full-1",
+    "38080-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters align with my core view: short timeline plus massive third‑party harms make courts likely to preserve the status quo through July 1 via a PI or appellate stay. I found Forecaster 3’s point about a potential narrow injunction (protecting only current students, not new enrollments) especially useful—such relief might not satisfy the resolution criterion (“allowing international students to enroll”). Forecaster 2’s emphasis that even a PI denial could be briefly stayed to allow appeal is also important, reinforcing that multiple procedural off-ramps exist to keep certification effectively active into July. I largely agree with their reasoning; the narrow‑relief scenario adds a downside risk I hadn’t weighted explicitly enough.",
+    "rationale": "Baseline: TRO keeps certification active now. For a No by July 1, the government likely needs a sequence: (1) PI denied and TRO dissolved without a meaningful stay; (2) First Circuit declines emergency stay; (3) DHS swiftly enforces revocation in June. That path is plausible but requires consecutive government wins under time pressure, despite strong irreparable-harm arguments for Harvard and affected students. Alternatively, a court could issue narrow relief that preserves status for current students but not new enrollments—this would fail the resolution criterion and is a real, if less common, path to No. Conversely, if the PI is granted, it likely runs past July 1; while the government could seek a stay pending appeal, obtaining and implementing it before July 1 is uncertain. Given the TRO signal, typical judicial inclination to maintain the status quo, and the short runway, I still lean Yes, but I trim slightly to account for the narrow-injunction scenario and potential rapid appellate stays.",
+    "probability": 69
+  },
+  "usage": {
+    "inputTokens": 2589,
+    "outputTokens": 2092,
+    "totalTokens": 4681,
+    "reasoningTokens": 1728,
+    "cachedInputTokens": 0
+  }
+}

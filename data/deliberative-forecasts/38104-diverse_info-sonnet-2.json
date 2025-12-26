@@ -1,0 +1,26 @@
+{
+  "forecastId": "38104-diverse_info-sonnet-2",
+  "questionId": 38104,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "38104-diverse_info",
+  "independentForecastId": "38104-sonnet-info1",
+  "otherForecastIds": [
+    "38104-pro-info2",
+    "38104-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "Both forecasters provide crucial information I had missed: 8 out of 10 escapees have been recaptured by May 30, not just 3. This dramatically changes the forecast from needing to catch 7 more people to only 2. Forecaster 2 (92%) emphasizes the massive operation scale, resource commitment, and successful dismantling of support networks. Their optimism is understandable given the 8/10 success rate. Forecaster 3 (36%) applies valuable base-rate reasoning and highlights a critical factor: Massey's three prior escapes suggest exceptional evasion skills. Both identify the selection effect - these final two are likely the most difficult to catch. Forecaster 2's information about 200+ officers, 14 accomplices arrested, $50,000 rewards, and 700 tips demonstrates an intense, well-resourced operation. However, Forecaster 2 may underweight the 'all or nothing' nature and the selection effect. Forecaster 3's concern about late-stage fugitives and heavy-tailed capture distributions is well-founded, though they may be slightly pessimistic given the demonstrated operational effectiveness.",
+    "rationale": "I significantly underestimated the current state because I relied on the May 19 article without recognizing that 11 days had passed. With 8/10 recaptured, this question transforms from 'can they catch 7 people in 32 days' to 'can they catch these specific 2 people in 32 days.' The successful recapture of 8 demonstrates operational competence, broad multi-state reach, and effective resource deployment. The intensive federal involvement, substantial rewards, and dismantling of 14 accomplices' support networks are strong positive indicators. However, several factors temper optimism: (1) Selection effect - Groves and Massey are demonstrably the hardest to catch; (2) Massey's three prior successful escapes indicate exceptional evasion capability; (3) The 'all or nothing' criterion means just one staying free results in No; (4) 32 days, while substantial, isn't enormous for skilled fugitives who may have already relocated with assistance. Applying base rates: if each fugitive has roughly 2-2.5% daily capture probability over 31 remaining days, the probability of catching both is approximately 25-35%. However, the intense ongoing operation likely exceeds base rates, pushing this higher. Balancing the demonstrated operational success against the difficulty of these final targets and the strict resolution criteria, I'm updating significantly upward from 30% but remaining well below Forecaster 2's 92%.",
+    "probability": 55
+  },
+  "usage": {
+    "inputTokens": 2355,
+    "outputTokens": 1872,
+    "totalTokens": 4227,
+    "reasoningTokens": 918,
+    "cachedInputTokens": 0
+  }
+}

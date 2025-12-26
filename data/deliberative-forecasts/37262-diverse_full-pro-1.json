@@ -1,0 +1,26 @@
+{
+  "forecastId": "37262-diverse_full-pro-1",
+  "questionId": 37262,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37262-diverse_full",
+  "independentForecastId": "37262-pro-full",
+  "otherForecastIds": [
+    "37262-sonnet-full",
+    "37262-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other two forecasters presented a critical piece of reasoning that I had significantly underweight: the selectivity and specific logging behavior of the resolution source, the Global Protest Tracker (GPT). Forecaster 2's point that the GPT only logged 145 anti-government protests *globally* in a year provided a strong quantitative anchor for its selectivity. Forecaster 3's analysis was particularly convincing, arguing that the base rate for a new, qualifying Indian entry in any given two-month period is very low. They also raised several crucial nuances I missed: the risk that new protests could be logged as continuations of the April events (thus failing the start-date criterion), the potential for summer heat to suppress turnout, and the tracker's potential to avoid precise numbers. Their arguments collectively persuaded me that my initial forecast was based too much on the likelihood of a protest occurring and not enough on the much harder proposition of it being logged in the specific manner required for a 'Yes' resolution.",
+    "rationale": "I am significantly updating my forecast downwards from 75% to 40%. My initial analysis correctly identified the high potential for large-scale protests in India due to ongoing social and political tensions. However, as the other forecasters correctly pointed out, this is a question about the reporting of a specific database, not just the event itself. The evidence they presented on the Global Protest Tracker's high selectivity and irregular inclusion of Indian events is compelling. The tracker doesn't log every large protest; it logs salient, distinct movements, and the bar for inclusion is high. The two-month timeframe is very short for a new movement to emerge and meet this bar. Furthermore, the risk that a protest in May or June could be logged as a continuation of the April unrest, with a pre-May 2 start date, is a major factor that I had not properly considered and which strongly favors a 'No' resolution. While the current climate in India makes a large protest plausible, the specific hurdles imposed by the resolution criteria (a new entry, a specific start date, and a specific size noted by a selective tracker) are substantial. My new forecast of 40% reflects the real possibility of a qualifying event in a volatile country, but properly weights the high probability that such an event, even if it occurs, will not be captured by the GPT in the manner required to resolve this question as 'Yes'.",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 2183,
+    "outputTokens": 2387,
+    "totalTokens": 4570,
+    "reasoningTokens": 1879,
+    "cachedInputTokens": 0
+  }
+}

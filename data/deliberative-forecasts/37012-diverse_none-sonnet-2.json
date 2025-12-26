@@ -1,0 +1,26 @@
+{
+  "forecastId": "37012-diverse_none-sonnet-2",
+  "questionId": 37012,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37012-diverse_none",
+  "independentForecastId": "37012-sonnet-none",
+  "otherForecastIds": [
+    "37012-pro-none",
+    "37012-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 raises a crucial mathematical point I underweighted: starting from 66/93 seats provides an enormous buffer. For Labour (21 seats) to overtake Conservatives requires a swing of 20+ seats - historically rare even in very unfavorable environments. This is a strong structural argument.\n\nHowever, Forecaster 3 provides critical geographic context: West Northamptonshire's composition matters greatly. If Northampton town contains many multi-member wards and is heavily Labour-leaning, while Lib Dems target South Northamptonshire, the seat distribution could shift dramatically. The 2023-2024 local election cycles showed unprecedented Conservative losses, with many large majorities overturned.\n\nForecaster 2's 80% seems too confident given the severity of recent Conservative local election performances. But my original 30% underweighted the starting position advantage. Forecaster 3's 37% appears most calibrated, though I think the structural buffer argument pushes the probability slightly higher.\n\nThe key tension: massive starting advantage vs. historically poor national environment. Vote splitting (Reform/Labour/Lib Dem/Green) adds complexity - could help Conservatives retain plurality despite losing vote share, or could fragment their support while opposition consolidates around local favorites.",
+    "rationale": "After reviewing other forecasts, I'm updating upward from 30% to recognize the significance of the 66-seat starting position. A 45-seat advantage is genuinely massive and provides substantial protection against becoming the second-largest party, even in an unfavorable environment.\n\nHowever, I'm not moving as high as 80% because:\n1. The 2023-2024 local election cycles showed Conservative losses of historic proportions\n2. Geographic concentration in Northampton town could amplify Labour gains in multi-member wards\n3. First re-election since 2021 creates maximum vulnerability\n4. National polling showing 20+ point Labour leads suggests swings large enough to overcome even substantial majorities\n\nThe question asks specifically about 'most seats' not 'majority control' - this favors Conservatives since they can lose their majority but remain largest party through opposition fragmentation. However, if Labour dominates urban wards and Lib Dems pick up rural seats, a 20+ seat swing becomes plausible.\n\nBalancing the structural buffer against the severity of the national environment and recent electoral evidence, I estimate Conservatives have approximately 42% chance of remaining the largest party.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 2218,
+    "outputTokens": 1687,
+    "totalTokens": 3905,
+    "reasoningTokens": 919,
+    "cachedInputTokens": 0
+  }
+}

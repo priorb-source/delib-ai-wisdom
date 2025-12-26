@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-homo_none-gpt5-2",
+  "questionId": 37812,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37812-homo_none",
+  "independentForecastId": "37812-gpt5-none-2",
+  "otherForecastIds": [
+    "37812-gpt5-none-1",
+    "37812-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely corroborate my priors: July seasonality can lift BEY’s unique-destination count, but the security/insurance overhang keeps the outcome knife‑edge. Forecaster 2’s reminder that pre‑2019 summers exceeded 60 and that a single carrier pause could flip the tally is useful framing. Forecaster 3’s decomposition (MENA 20–30 + Europe/Turkey/Caucasus 15–20) and emphasis on schedule lead times reinforce a cautious stance. No decisive new evidence was introduced, but their emphasis on July peak seasonality and the sensitivity to late suspensions is convincing and nudges the probability slightly upward from my initial view, while keeping it sub‑50%.",
+    "rationale": "- Time to resolution (~6 weeks) means most summer schedules are already filed; big last‑minute adds are unlikely, but seasonal routes should be reflected by July 1 if they’re happening. \n- BEY’s resilient VFR/worker flows (Gulf/Saudi, Iraq, Egypt, Jordan, Turkey, Cyprus) underpin a high floor; July seasonality plausibly adds a handful of coastal Turkey/Greek/Caucasus and European points. This supports a non‑trivial path to >51.\n- Countervailing risk remains material: even a modest late‑June escalation or insurer caution could trigger one or two high‑impact suspensions, pulling the count below the threshold exactly when Metaculus checks. With weak tourism sentiment, marginal European seasonals are especially fragile.\n- Net: The additional weight both forecasters place on July seasonality moves me slightly up from 40%, but schedule inertia and security/insurance risk keep me below even odds. My view is that outcomes cluster near the threshold (~48–54), with downside events a bit more likely than the multiple concurrent additions needed for a clear Yes.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 2193,
+    "outputTokens": 1613,
+    "totalTokens": 3806,
+    "reasoningTokens": 1216,
+    "cachedInputTokens": 0
+  }
+}

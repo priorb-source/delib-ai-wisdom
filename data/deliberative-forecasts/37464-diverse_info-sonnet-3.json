@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-diverse_info-sonnet-3",
+  "questionId": 37464,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "info2",
+  "groupId": "37464-diverse_info",
+  "independentForecastId": "37464-sonnet-info2",
+  "otherForecastIds": [
+    "37464-pro-info1",
+    "37464-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "All three forecasters have converged remarkably on 35-36%, which increases my confidence in this range. Forecaster 2 provided the most valuable new information: citing that the median FSIS recall closure time is approximately 120 days. This is crucial quantitative evidence I lacked. Since the deadline is 97 days post-recall (June 1), we're essentially asking whether this recall will close faster than the median - placing us in roughly the 40th percentile or better. Forecaster 3 reinforced that many FSIS recalls take 3-6 months, consistent with this timeline. Both forecasters correctly emphasized the favorable factors (small quantity, expired product, limited distribution) while noting the concerning signal that 73 days have elapsed without closure, suggesting this isn't tracking exceptionally fast. The convergence on 35-36% from three independent analyses using similar reasoning is notable and suggests we've identified the key considerations correctly.",
+    "rationale": "The 120-day median closure time is the critical baseline. For this recall to resolve Yes, it must close by day 97 - faster than median but not exceptionally so. The favorable factors remain: only 303 pounds of product, already expired by February (removing market presence concerns), single-state vending machine distribution (easy to verify removal), and no adverse reactions reported. However, the 73-day duration without closure is a meaningful contra-indicator - if closure were imminent due to the straightforward nature, we'd expect it by now. The remaining 24 days represents about 25% of the elapsed time, but administrative and verification processes don't typically accelerate toward the end. The status quo strongly favors Active status persisting. While the small scope makes faster-than-median closure plausible (perhaps 35-40% likely), there's no evidence suggesting imminent closure or that standard procedures have been expedited. The remarkable convergence among all three forecasters at 35-36% increases my confidence that this range appropriately weights the competing considerations.",
+    "probability": 36
+  },
+  "usage": {
+    "inputTokens": 2313,
+    "outputTokens": 1152,
+    "totalTokens": 3465,
+    "reasoningTokens": 611,
+    "cachedInputTokens": 0
+  }
+}

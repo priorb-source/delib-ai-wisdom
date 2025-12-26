@@ -1,0 +1,26 @@
+{
+  "forecastId": "37252-diverse_full-sonnet-2",
+  "questionId": 37252,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37252-diverse_full",
+  "independentForecastId": "37252-sonnet-full",
+  "otherForecastIds": [
+    "37252-pro-full",
+    "37252-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises a critical methodological point that I completely overlooked: the Global Protest Tracker's curation logic. While I focused on whether large protests would occur, I failed to consider how GPT categorizes protests. Forecaster 3 correctly notes that GPT typically catalogs protest movements/waves rather than individual rallies, and may assign a single start date to an entire episode. Given that ACLED frames this as 'anti-government protests surge following martial law declaration,' it's plausible that GPT would characterize all 2025 protests as one continuous movement starting in December 2024 or early 2025. This would mean even large May-June protests wouldn't satisfy the 'start date after launch' requirement. Forecaster 2's 95% seems too high because it doesn't account for this curation issue - the forecast should distinguish between 'will large protests occur?' (very likely) and 'will GPT report them with a post-May 1 start date?' (less certain). However, I don't think 48% fully captures the possibility that post-election protests could be framed as a distinct new wave, or that a completely new issue could emerge. The June 3 election is significant enough that post-election contention might warrant separate GPT coding.",
+    "rationale": "I'm updating downward substantially based on Forecaster 3's insight about GPT's curation methodology. The key uncertainty is not whether 10,000+ protests will occur (they almost certainly will given the pattern and the June 3 election), but whether GPT will code them as having a start date after May 1, 2025. The most likely scenario is that GPT characterizes the ongoing anti-government protests as one movement that began with the martial law declaration in December 2024. However, several factors could result in a 'Yes': (1) post-election protests being coded as a distinct new wave starting in June, (2) a new issue-specific mobilization emerging separately from the anti-government movement, or (3) GPT's actual coding practices being more granular than Forecaster 3 suggests. The planned May 18 Gwangju rally and the presidential election on June 3 are still significant catalysts. While I was overconfident at 78% in not considering the curation issue, I believe 48% underweights the probability that the election creates a distinct new protest wave or that other significant mobilizations occur.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 2485,
+    "outputTokens": 1445,
+    "totalTokens": 3930,
+    "reasoningTokens": 806,
+    "cachedInputTokens": 0
+  }
+}

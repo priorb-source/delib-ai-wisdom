@@ -1,0 +1,26 @@
+{
+  "forecastId": "37620-diverse_full-pro-1",
+  "questionId": 37620,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37620-diverse_full",
+  "independentForecastId": "37620-pro-full",
+  "otherForecastIds": [
+    "37620-sonnet-full",
+    "37620-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I agree on the core evidence: the short ~20-day timeframe, Kadyrov's history of performative resignation talks, the countervailing and credible reports of his severe health issues, and Putin's ultimate authority and recent expression of support. The primary divergence is the weight we assign to these factors. Forecaster 2 (12%) aligns closely with my initial reasoning, heavily weighting the historical base rate and Putin's support, seeing the health risk as the main, but small, chance for a 'Yes' outcome. Forecaster 3 (24%) assigns a significantly higher probability, interpreting Kadyrov's most recent statement as a more serious signal of a potential managed transition, when combined with the health rumors. However, Forecaster 3 makes an excellent point that I had not explicitly considered: Kadyrov's designated successor, his son Adam, is only 17 and legally ineligible to take the post (minimum age is 30). This is a crucial detail. I find this point very convincing, but it paradoxically weakens the case for a higher probability, as it makes a planned, orderly, and immediate transition far more complicated and unlikely. The Kremlin would need to appoint an interim leader, which introduces instability—something Putin seeks to avoid in Chechnya.",
+    "rationale": "After reviewing the other analyses, I am slightly decreasing my forecast. My initial reasoning was that a 'Yes' outcome was unlikely but possible due to significant health risks. Forecaster 3's point about Adam Kadyrov's legal ineligibility to succeed his father is a compelling new piece of evidence for me. This legal barrier makes a *planned* resignation before June 1 even less probable than I originally thought, as it would necessitate a messy interim leadership appointment. Therefore, the probability of a 'Yes' outcome now rests almost exclusively on the chance of an acute, non-voluntary event, such as Kadyrov's sudden death or complete incapacitation from his reported health conditions. While these health reports appear credible, he was well enough to meet with Putin on May 7, suggesting he is not immediately at death's door. The barriers to a planned exit are now higher in my estimation, narrowing the path to a 'Yes' resolution. This moves my forecast downward, closer to Forecaster 2's position. I am reducing my probability from 15% to 13% to reflect the increased difficulty of even a managed transition within the short timeframe.",
+    "probability": 13
+  },
+  "usage": {
+    "inputTokens": 2250,
+    "outputTokens": 2312,
+    "totalTokens": 4562,
+    "reasoningTokens": 1781,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38340-diverse_none-gpt5-3",
+  "questionId": 38340,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38340-diverse_none",
+  "independentForecastId": "38340-gpt5-none",
+  "otherForecastIds": [
+    "38340-pro-none",
+    "38340-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the same core impediments I considered: acute state capacity constraints from the civil war, the lack of a functioning legislature, no public signaling, and a very tight timeline. Forecaster 2’s point that even a stable government would find <1 month tight is a useful calibration check. Forecaster 3 reiterates the absence of fresh indicators and the procedural time needed. I partially disagree with the implicit claim that ratification is practically impossible without a parliament—de facto authorities could, in principle, ratify by decree and deposit via the embassy in Addis—but agree the prioritization and coordination required amid conflict make it very unlikely. Net, their arguments nudge me slightly downward.",
+    "rationale": "I initially put 6%, allowing for a fast-track executive deposit timed to diplomatic optics. Since there’s no evidence of imminent action, only ~24 days remain, and the base rate of last-minute ratifications among remaining holdouts is low, I’m trimming to 3%. I’m not lower because: (1) executive ratification by decree is procedurally possible; (2) deposit can be done quickly through existing diplomatic channels; (3) symbolic international signaling sometimes motivates such moves. I’m not higher because: (1) no credible reporting of preparatory steps; (2) wartime bandwidth and priorities make non-urgent treaties unlikely to move; (3) Sudan hasn’t acted earlier despite low costs, suggesting low salience. I would revise upward on any credible report of Sovereign Council approval or MFA/AU confirmation of a pending deposit; downward if continued silence persists into late June or if conflict dynamics further degrade administrative capacity.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 1492,
+    "outputTokens": 1374,
+    "totalTokens": 2866,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-homo_info-gpt5-1",
+  "questionId": 37475,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37475-homo_info",
+  "independentForecastId": "37475-gpt5-info1-1",
+  "otherForecastIds": [
+    "37475-gpt5-info2-2",
+    "37475-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize base rates for foreign-material FSIS recalls closing within 1–3 months and note the key risks: multi-state effectiveness checks, potential scope expansion, and the stricter demands when Class I. Forecaster 2’s uncertainty about classification is resolved (this is Class I), which slightly lowers confidence. Forecaster 3 adds a firm-specific prior (Johnsonville often closing in 4–8 weeks) and contrasts with outliers like Tyson’s multi-month plastic recall expansions; that supports a “more likely than not but not high” stance. I find their reasoning generally aligned with mine; the Johnsonville-specific prior is a modest plus, but the Class I emphasis and historical tail risks temper the forecast. No fundamentally new hard evidence was presented, but the balance of their arguments nudges me a touch less confident than my initial 70%.",
+    "rationale": "Time window: Apr 5 to Jul 1 gives ~12.5 weeks total; as of May 9, ~7.5 weeks remain. Structure of the event: single production date (Feb 5), finite quantity (~22.7k lbs), 10-state retail distribution, Class I due to hard plastic, no injuries, two complaints. Base rates: Many limited-scope foreign-material recalls close in 6–12 weeks once effectiveness checks and corrective actions are verified. An experienced firm (Johnsonville) and a single-day lot support timely closure. Risks: Class I may entail more rigorous verification; multi-state retail checks can drag; grill-season usage could surface additional complaints that prompt scope expansion; any expansion would likely push past July 1. Closure depends on operational completion and timely FSIS status update. Net: more likely than not to close before July 1, but meaningful tail risk remains. I slightly lower my estimate to reflect Class I verification rigor and the non-trivial chance of expansion or administrative lag, partially offset by Johnsonville’s track record and the finite lot scope.",
+    "probability": 68
+  },
+  "usage": {
+    "inputTokens": 1903,
+    "outputTokens": 1438,
+    "totalTokens": 3341,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

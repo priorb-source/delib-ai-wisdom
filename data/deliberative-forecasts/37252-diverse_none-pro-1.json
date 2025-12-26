@@ -1,0 +1,26 @@
+{
+  "forecastId": "37252-diverse_none-pro-1",
+  "questionId": 37252,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37252-diverse_none",
+  "independentForecastId": "37252-pro-none",
+  "otherForecastIds": [
+    "37252-sonnet-none",
+    "37252-gpt5-none"
+  ],
+  "forecast": {
+    "review": "My initial forecast was far too high. The other forecasters introduced two critical arguments I had overlooked. Forecaster 2 correctly highlighted that five months have passed since the initial crisis in December 2024, making my assumption of sustained protest momentum questionable due to potential stabilization or protest fatigue. Forecaster 3 provided the most decisive argument: a deep analysis of the resolution source, the Global Protest Tracker (GPT). They convincingly argued that the GPT is a selective, curated database that catalogues significant, sustained protest movements, not just one-off large rallies. This means the bar for a 'Yes' resolution is much higher than I had assumed. The combination of the time lag and the high bar set by the specific resolution criteria makes a 'Yes' outcome significantly less likely than I first thought.",
+    "rationale": "I am substantially revising my forecast downward from 75% to 25%. My initial analysis was overly swayed by the severity of the December 2024 martial law declaration and failed to properly consider two key factors raised by my peers: the passage of time and the specific nature of the resolution source. Five months is a long time in politics, and the initial protest wave may have dissipated, with contention moving to other arenas like courts or parliament. More importantly, the requirement for the Global Protest Tracker to report the event changes the question entirely. It is not merely 'Will a large protest happen?' but 'Will a protest happen that is significant and sustained enough to warrant a new entry in this specific curated database before the deadline?' This is a much higher bar. A single large demonstration might not qualify. My new forecast of 25% acknowledges that the underlying political situation in South Korea remains volatile and could produce large-scale protests, but it heavily discounts this possibility to account for the very real chance that such protests either do not occur in this short two-month window or do not meet the GPT's specific criteria for inclusion as a new event.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 1538,
+    "outputTokens": 2734,
+    "totalTokens": 4272,
+    "reasoningTokens": 2325,
+    "cachedInputTokens": 0
+  }
+}

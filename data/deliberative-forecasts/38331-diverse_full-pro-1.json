@@ -1,0 +1,26 @@
+{
+  "forecastId": "38331-diverse_full-pro-1",
+  "questionId": 38331,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38331-diverse_full",
+  "independentForecastId": "38331-pro-full",
+  "otherForecastIds": [
+    "38331-sonnet-full",
+    "38331-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 98% was based almost entirely on the very low probability of any of the seven authoritarian regimes changing their censorship policies within the short timeframe. I considered the risk of a change on the Wikipedia page itself to be minimal. The other two forecasters convincingly argued this was a flawed assumption. Forecaster 2 and Forecaster 3 both correctly identified that the primary risk is not a change in a country's policy, but a change in how that policy is represented on the Wikipedia page, which is the sole resolution criterion. Forecaster 3's analysis was particularly compelling, breaking down the risk by country and highlighting the 'weakest link' principle: since all seven countries must be listed for a 'Yes' resolution, the forecast is dominated by the country most likely to be removed or reclassified. Both forecasters correctly identified Venezuela, with its history of intermittent blocking and throttling rather than a permanent ban like China's, as this weakest link. Forecaster 3 also pointed out that Russia's status could be nuanced by an editor. This detailed, source-specific analysis of Wikipedia risk is a crucial factor I had significantly underweighting.",
+    "rationale": "I am significantly updating my forecast downward from 98% to 91%. My initial analysis was correct that the underlying policies in the seven countries are extremely unlikely to change before the resolution date. However, my confidence was too high because I failed to adequately model the risk stemming from the resolution source itself: a human-edited Wikipedia article. The other forecasters correctly identified that the main path to a 'No' outcome is an editorial change, not a geopolitical one. The central risk is that an editor, citing new data from network monitors like NetBlocks or OONI, or simply applying a stricter definition of 'currently blocked,' reclassifies a country like Venezuela from 'current' to 'intermittent' or 'partial.' Venezuela's history of throttling and less-than-total blocks makes it the most significant vulnerability. Russia presents a smaller, but non-zero, similar risk. The other five countries (China, Iran, North Korea, Myanmar, Turkmenistan) have such entrenched and total blocks that their listings are very secure. My revised forecast of 91% maintains a strong belief in the status quo but incorporates a new ~7% probability that the 'weakest link'—primarily Venezuela's listing—is altered by a Wikipedia editor before the resolution date.",
+    "probability": 91
+  },
+  "usage": {
+    "inputTokens": 2467,
+    "outputTokens": 2339,
+    "totalTokens": 4806,
+    "reasoningTokens": 1827,
+    "cachedInputTokens": 0
+  }
+}

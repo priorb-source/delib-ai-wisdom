@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-diverse_info-gpt5-2",
+  "questionId": 37475,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37475-diverse_info",
+  "independentForecastId": "37475-gpt5-info1",
+  "otherForecastIds": [
+    "37475-sonnet-info3",
+    "37475-pro-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforced the right axes: base-rate timing for FSIS closures, Johnsonville’s operational competence, and risks from bureaucratic lag or scope expansion. New/useful to me was Forecaster 2’s claim that prior Johnsonville recalls often closed in 4–8 weeks, which would favor a Yes if it holds here, and the Tyson plastic recall taking ~4 months as a tail-risk example. Forecaster 3’s emphasis on FSIS effectiveness checks and paperwork bottlenecks is also salient, especially given the resolution depends on the FSIS page showing “Closed” before July 1 (posting lag risk). I find their reasoning largely sound; the Tyson comparison is not perfect (different scale/product), but it does demonstrate non-trivial tail risk. Overall, their inputs slightly increase my appreciation of closure/posting lag risk and keep me cautious near the 3‑month mark.",
+    "rationale": "We have ~52 days left (to July 1) and we’re 34 days into the recall. The scope is constrained (single production date, single establishment, moderate volume, 10 states) and Johnsonville is an experienced firm—factors that support closure within 2–3 months. Historical patterns for similar single-lot foreign matter recalls often fall within that window. Countervailing risks: (1) potential recall expansion from additional complaints (low but non-zero), (2) slower-than-expected retailer effectiveness checks across multiple chains/states, and (3) FSIS verification and posting lag—the resolution requires the status on the FSIS page to show Closed before July 1. Given July 1 is ~87 days post-initiation—near the upper end of common closure timelines—the hazard of missing by days due to bureaucratic or posting delays is material. Balancing these, I remain modestly above 50% due to the constrained scope and Johnsonville’s likely execution, but shade down slightly to reflect posting-lag and tail risks highlighted by the other forecasters.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 1928,
+    "outputTokens": 1764,
+    "totalTokens": 3692,
+    "reasoningTokens": 1344,
+    "cachedInputTokens": 0
+  }
+}

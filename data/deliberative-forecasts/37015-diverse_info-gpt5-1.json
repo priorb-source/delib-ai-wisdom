@@ -1,0 +1,26 @@
+{
+  "forecastId": "37015-diverse_info-gpt5-1",
+  "questionId": 37015,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37015-diverse_info",
+  "independentForecastId": "37015-gpt5-info2",
+  "otherForecastIds": [
+    "37015-sonnet-info1",
+    "37015-pro-info3"
+  ],
+  "forecast": {
+    "review": "New to me from Forecaster 2 is the claim that the PPP primary registration closed on April 15 and that party leadership has said Han won’t be included; also the specific May 4 resignation requirement. Those are material procedural hurdles that sharply constrain near-term feasibility. Forecaster 3’s emphasis on absence of campaign infrastructure and Han’s focus on current duties (e.g., trade talks) reinforces the status quo. I find F2’s argument about missed deadlines and legal/timing constraints particularly persuasive; it directly reduces the plausible pathways to a timely announcement. F3’s points are directionally right but less probative than F2’s procedural details. Together, they suggest my original 30% was too high for the tight window and institutional constraints.",
+    "rationale": "Key updates: If PPP primary registration has indeed closed and leadership has ruled out including Han, the party pathway is largely blocked absent an extraordinary rule change or an independent run. The reported need to resign by May 4 creates a very narrow runway; announcing without resigning is possible, but the combination of caretaker norms, weak polling/unfavorable sentiment, and no visible campaign build make a sudden declaration unlikely. Internal drafting pressure (50+ lawmakers) keeps a small tail risk: in a crisis pivot, Han could announce and pledge to resign imminently, with PPP engineering a late accommodation or backing an independent. But with only ~13 days to May 5 and no concrete preparatory signals, the base case is no announcement. I lower my forecast substantially to reflect the procedural closures and time pressure. I would move up only on credible signs of (a) Han signaling intent or scheduling an announcement, (b) resignation or legal steps toward eligibility, or (c) PPP creating an emergency draft mechanism. I’d move down further on a firm public denial by Han or PPP coalescing around another candidate.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1524,
+    "outputTokens": 1416,
+    "totalTokens": 2940,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 1024
+  }
+}

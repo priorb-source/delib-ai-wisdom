@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_none-gpt5-1",
+  "questionId": 37836,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37836-homo_none",
+  "independentForecastId": "37836-gpt5-none-1",
+  "otherForecastIds": [
+    "37836-gpt5-none-2",
+    "37836-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely align with my base-rate view: July is peak season for EBL, and the historical summer network sits in the low-to-mid 30s. Forecaster 2 added two useful cautions: (1) FlightsFrom’s potential exclusion of charter-like services if not filed as scheduled, and (2) the tightness of the threshold given we lack a verified current count. Forecaster 3 emphasized that FlightsFrom counts airports separately (e.g., IST and SAW), which indeed nudges totals upward, and highlighted diaspora-driven Europe routes in summer. Neither provided hard evidence of current counts or concrete new routes, but they sharpened the listing-mechanics and seasonality cases on both sides. Overall, I find F2’s caution on FlightsFrom’s exact-day listing behavior a meaningful downside consideration, while F3’s optimism is consistent with seasonality but not backed by specific route confirmations.",
+    "rationale": "I still expect July to be EBL’s network peak, with diversified contributors: Gulf (DXB/SHJ/AUH/DOH/KWI/BAH/MCT + multiple Saudi cities), domestic Iraq (BGW/BSR/NJF/ISU), Turkey (IST/SAW plus seasonal AYT/ADB/BJV, possibly more), Levant/Egypt (AMM/BEY/CAI/HBE/SSH seasonal), Iran, and several Europe/Caucasus points. A conservative tally often lands around the low 30s, and summer additions typically push it above the >31 threshold. However, the exact-day FlightsFrom snapshot risk is nontrivial: seasonal or quasi-charter routes may be omitted if not properly loaded or not operating that week, and post-Hajj adjustments could trim Saudi religious traffic around early July. Security/regulatory volatility in the region also remains a background risk. Balancing these, I keep a slight lean to Yes but nudge down modestly to reflect listing-mechanics risk highlighted in deliberation. Change: 68% -> 66%.",
+    "probability": 66
+  },
+  "usage": {
+    "inputTokens": 1978,
+    "outputTokens": 1386,
+    "totalTokens": 3364,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

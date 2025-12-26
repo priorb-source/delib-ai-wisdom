@@ -1,0 +1,26 @@
+{
+  "forecastId": "37644-diverse_full-gpt5-3",
+  "questionId": 37644,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37644-diverse_full",
+  "independentForecastId": "37644-gpt5-full",
+  "otherForecastIds": [
+    "37644-pro-full",
+    "37644-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely reiterate my priors: fresh mega-round reduces urgency; no credible banking/S-1 leaks; short runway to July 1; low base rate for decacorn IPOs. The one useful emphasis I hadn’t weighted enough is the resolution constraint: it only resolves Yes if there’s a public S‑1 or an explicit announcement on Anthropic’s own News page. Many companies confidentially submit without announcing; that further lowers odds versus a generic “planning” rumor. I also agree that, at this scale, leaks are common weeks ahead of any filing—continued silence is informative.",
+    "rationale": "Time left: ~46 days. Status quo outcome: No. Yes path: Anthropic either publicly files an S‑1 in late June or posts to its News page that it has confidentially submitted a draft S‑1/ plans an IPO targeting a later window. No path: continue operating privately, perhaps run secondary/tender liquidity for employees, and leverage ample strategic/private capital; no filing or News-page announcement by July 1. Evidence: recent ~$3.5B raise at ~$61.5B, deep strategic backers (Amazon/Google), no credible reports of bank mandates or confidential filing, typical months-long prep for an IPO of this size, and a very short remaining window. The resolution criteria being narrow (public S‑1 or company-site announcement) further depress probability because many firms don’t announce confidential submissions. The AI market’s strength and potential desire for liquidity keep this above near-zero, and a surprise “we have confidentially submitted” post in late June is conceivable, but lack of precursors makes it unlikely. Given peers’ arguments and the resolution mechanics, I’m trimming from my prior 8% to better reflect the short fuse and narrow announcement channels.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 2110,
+    "outputTokens": 1469,
+    "totalTokens": 3579,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

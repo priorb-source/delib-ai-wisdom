@@ -1,0 +1,26 @@
+{
+  "forecastId": "38089-diverse_full-pro-1",
+  "questionId": 38089,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38089-diverse_full",
+  "independentForecastId": "38089-pro-full",
+  "otherForecastIds": [
+    "38089-sonnet-full",
+    "38089-gpt5-full"
+  ],
+  "forecast": {
+    "review": "After reviewing my peers' analyses, I find their reasoning largely aligns with my own, focusing on the short timeframe and the importance of the current 3-point lead held by Sánchez. Forecaster 2 (67%) reinforces the idea that approval ratings are sticky and the status quo is the most likely outcome. Forecaster 3 (60%) introduces a crucial and compelling argument I had not sufficiently weighed: the risk of 'reversion to the mean.' They correctly point out that historically, Erdoğan has often polled higher than Sánchez, suggesting his current 32% may be a low point from which he is more likely to recover. This single argument provides a strong rationale for why the current 3-point gap might be less stable than it appears. The natural drift over the next month could favor Erdoğan, which significantly increases the downside risk for a 'Yes' outcome. Forecaster 3 also rightly noted the minor but real risk that a tie resolves as 'No'.",
+    "rationale": "My initial forecast of 65% was anchored on the status quo: with only one month until resolution, Pedro Sánchez's 3-point lead (35% to 32%) is a powerful predictor due to the general inertia of leader approval ratings. This core logic remains sound and is shared by the other forecasters. However, Forecaster 3's point about a potential 'reversion to the mean' for Erdoğan is a significant factor I now believe I underweighting. If Erdoğan's current approval is near a cyclical low for him historically, a modest rebound is more probable than a further decline, especially given the positive consumer confidence data. This makes Sánchez's narrow lead more precarious. I am therefore adjusting my forecast downward to better account for this risk. I am not moving lower than 62% because the timeframe is extremely short, and a full reversal still requires a notable shift that goes against the strong tendency toward inertia. My updated forecast of 62% reflects a continued belief that 'Yes' is the most likely outcome, but with a moderated confidence level that incorporates the non-trivial probability that Erdoğan's rating will recover some ground before the resolution date.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 2084,
+    "outputTokens": 2094,
+    "totalTokens": 4178,
+    "reasoningTokens": 1637,
+    "cachedInputTokens": 0
+  }
+}

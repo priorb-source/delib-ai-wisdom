@@ -1,0 +1,26 @@
+{
+  "forecastId": "37037-diverse_info-gpt5-2",
+  "questionId": 37037,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37037-diverse_info",
+  "independentForecastId": "37037-gpt5-info1",
+  "otherForecastIds": [
+    "37037-pro-info2",
+    "37037-sonnet-info3"
+  ],
+  "forecast": {
+    "review": "- Forecaster 2: Strong emphasis on bureaucratic inertia and the short timeline is persuasive and aligns with my baseline. They implicitly assume the tariff is already codified in HTS and that removing or altering it would be procedurally slow. They don’t grapple with the resolution nuance that “suspended still counts,” which, if anything, increases the Yes likelihood because litigation-driven pauses wouldn’t change resolution. They also underweight legal/judicial pathways, though that’s a minor quibble given the short window.\n- Forecaster 3: The caution about whether the exact rate is 50% is a useful check, but the RA provides explicit figures (including 50% for Lesotho), and the listed non-round rates for other countries argue against the “round-number” heuristic. Their lower probability seems to stem from uncertainty that the RA partially resolves. The status-quo/timeline logic is sound but over-discounted by the doubt on the exact number.\n\nNet: F2’s argument supports nudging up slightly from my prior; F3’s concern about the exact rate is mostly addressed by the RA and doesn’t move me down.",
+    "rationale": "- Status quo: The RA indicates a codified 50% rate for Lesotho under the new reciprocal tariff policy as of April 9, with a 90-day pause for some countries not extended to Lesotho. With roughly five to six weeks to June 1, the most likely outcome is that the HTS continues to show a 50% additional duty for Lesotho, likely via Chapter 99 provisions or country-specific notes.\n- Resolution nuance: Even if litigation or policy reconsideration leads to a suspension, the question resolves Yes as long as the 50% duty is still listed (suspended status doesn’t matter). Thus, many plausible disruption pathways still result in Yes.\n- Pathways to No: (1) A policy carve-out for least-developed countries or a recalibration that revises Lesotho’s listed rate below 50% before June 1; (2) a court ruling that forces USITC to remove (not merely suspend) the listing entirely pre–June 1; (3) a formula/errata update changing the displayed rate. All of these are possible but less likely within the short window, especially given the explicit decision not to extend the pause to Lesotho.\n- Why update: Forecaster 2’s timeline/bureaucratic inertia argument, combined with the “suspended still counts” clause, tilts me modestly higher. Forecaster 3’s uncertainty about the exact figure is largely resolved by the RA’s specifics.\n\nI’m moving up modestly from 75% to reflect the short horizon, the explicit exclusion of Lesotho from the pause, and the resolution’s tolerance for suspension.",
+    "probability": 82
+  },
+  "usage": {
+    "inputTokens": 1995,
+    "outputTokens": 3215,
+    "totalTokens": 5210,
+    "reasoningTokens": 2624,
+    "cachedInputTokens": 1536
+  }
+}

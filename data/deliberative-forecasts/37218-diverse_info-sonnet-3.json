@@ -1,0 +1,26 @@
+{
+  "forecastId": "37218-diverse_info-sonnet-3",
+  "questionId": 37218,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "info1",
+  "groupId": "37218-diverse_info",
+  "independentForecastId": "37218-sonnet-info1",
+  "otherForecastIds": [
+    "37218-gpt5-info2",
+    "37218-pro-info3"
+  ],
+  "forecast": {
+    "review": "Both forecasters identified critical information I completely missed: UFC 315 is in Montreal, Canada. This is a game-changing fact that fundamentally alters my analysis. Forecaster 2 and 3 both correctly emphasized that Trump has never attended a UFC event outside the U.S., which establishes a strong precedent against attendance. Forecaster 2 raised the excellent point about Canada's inadmissibility rules for individuals with felony convictions - Trump would need a special waiver or Temporary Resident Permit, adding bureaucratic complexity and uncertainty with only ~12 days remaining. Forecaster 3 added valuable context about Joe Rogan boycotting the event due to anti-Canadian government views shared with Trump, and Trump's strained relationship with Trudeau. These are powerful negative signals I hadn't considered. Both forecasters appropriately weighted the international security coordination challenges. However, I find Forecaster 3's 15% probability too high given these compounding barriers, while Forecaster 2's 10% may still be slightly generous. The combination of zero precedent for international UFC attendance, immigration complications, political tensions, associate boycott, and lack of pre-event signals with short timeframe should drive the probability significantly lower than domestic event base rates.",
+    "rationale": "My original 10% forecast was based on domestic UFC attendance patterns and recent Miami appearance, but I completely missed that UFC 315 is in Montreal, Canada. This changes everything. Trump has NEVER attended an international UFC event - this alone creates a strong prior against attendance. Adding multiple compounding factors: (1) He has felony convictions requiring Canadian entry waiver with bureaucratic lead time, (2) Publicly strained relations with Trudeau government, (3) Joe Rogan (Trump associate) actively boycotting this event over Canadian government issues, (4) Complex cross-border security coordination needed, (5) No credible signals or leaks with only 12 days out, (6) Limited political upside for international appearance vs domestic rallies. The international venue alone should cut my original probability in half; the Canada-specific complications should reduce it further. While Trump's unpredictability and Dana White relationship prevent going to near-zero, the weight of evidence strongly points toward non-attendance. I'm revising significantly downward from 10% to 4%.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 1981,
+    "outputTokens": 1305,
+    "totalTokens": 3286,
+    "reasoningTokens": 693,
+    "cachedInputTokens": 0
+  }
+}

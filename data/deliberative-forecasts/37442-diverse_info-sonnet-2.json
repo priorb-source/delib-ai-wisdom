@@ -1,0 +1,26 @@
+{
+  "forecastId": "37442-diverse_info-sonnet-2",
+  "questionId": 37442,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37442-diverse_info",
+  "independentForecastId": "37442-sonnet-info1",
+  "otherForecastIds": [
+    "37442-pro-info2",
+    "37442-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 presents a dramatically different information set, claiming multiple news articles in early May 2025 reported Berkshire increased its stake to 7%. This would be highly significant and well above the threshold. However, I must note a critical inconsistency: my research assistant's report explicitly covered Q1 2025 activity and purchases, yet made no mention of Domino's among the stocks purchased (which included Verisign, Sirius XM, Occidental, and Japanese trading houses). If Berkshire crossed 5% ownership to reach 7%, a Schedule 13D/G filing would be required within 10 days, generating immediate news coverage - yet my comprehensive Q1 report contains no such information. Either Forecaster 2 has access to information my research missed, or there may be an error in their sources. Forecaster 3 raises an excellent point I underweighted: confidential treatment. If Berkshire is strategically building the position, they could request SEC confidential treatment to avoid tipping off the market. In that scenario, any increase would NOT appear in the public Q1 13F, causing this question to resolve No regardless of actual purchases. This confidentiality mechanism is commonly used by Berkshire for positions they're actively building, which ironically means the more likely they are to be accumulating, the less likely we are to see it reported. Forecaster 3's 35% seems reasonable given base rates of portfolio changes and the confidentiality wildcard.",
+    "rationale": "After deliberation, I remain skeptical of Forecaster 2's claim about 7% stake reports. My research explicitly covered Q1 2025 Berkshire activity without mentioning Domino's, and such a significant ownership increase would generate immediate, widely-reported Schedule 13D/G filings. The absence of this information in my comprehensive research suggests either the reports don't exist or occurred outside the Q1 period. Forecaster 3's confidential treatment argument is compelling and actually argues for a LOWER probability - if Berkshire is building a position, they're incentivized to hide it via confidential treatment, making public 13F disclosure less likely. The 2,382,000 share threshold appears to be the current baseline, and my research shows Berkshire was broadly a net seller in Q1, with highly selective purchases that did not include Domino's. I'm increasing slightly from 20% to 25% to account for: (1) possibility I'm missing information Forecaster 2 has, (2) small chance of unreported Q1 buying, and (3) general forecasting humility. However, the preponderance of evidence - no mention in Q1 purchase lists, Berkshire's net selling posture, confidential treatment reducing disclosure probability - keeps my forecast well below Forecaster 3's 35% and far below Forecaster 2's 90%.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 2137,
+    "outputTokens": 1725,
+    "totalTokens": 3862,
+    "reasoningTokens": 818,
+    "cachedInputTokens": 0
+  }
+}

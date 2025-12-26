@@ -1,0 +1,26 @@
+{
+  "forecastId": "37268-diverse_info-pro-3",
+  "questionId": 37268,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 3,
+  "infoLabel": "info1",
+  "groupId": "37268-diverse_info",
+  "independentForecastId": "37268-pro-info1",
+  "otherForecastIds": [
+    "37268-sonnet-info2",
+    "37268-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "I found the other forecasters' analyses very helpful, particularly Forecaster 2's. The most critical piece of new information, which I had not previously considered, was Forecaster 2's identification of the May 4, 2025 registration deadline for political alliances. This is a game-changing detail, as it shortens the effective timeline for a conventional announcement from two months to just one day. Forecaster 2 correctly outlines that a 'Yes' outcome now requires an immediate reversal, a deadline extension, or a post-deadline workaround, all of which are low-probability events. Forecaster 3 provides excellent historical context on Muqtada al-Sadr's past reversals and his strategic use of boycotts and ambiguity. However, their analysis seems to overlook the immediate and severe constraint posed by the May 4 deadline, which makes their 22% forecast appear too high given the current facts on the ground.",
+    "rationale": "I am lowering my forecast from 5% to 3%. The primary driver for this downward update is the imminent May 4 registration deadline for political alliances, a critical fact highlighted by Forecaster 2. With today being May 3, the window for al-Sadr to register his alliance in a straightforward manner has effectively closed. Given his firm, public reaffirmation of the boycott as recently as May 2, the probability of a reversal in the next 24 hours is exceptionally low. A 'Yes' resolution before July 1 is now almost entirely dependent on a lower-probability scenario, such as the registration deadline being extended specifically to accommodate him, or another procedural exception being made. While such events are not impossible in the fluid context of Iraqi politics, they represent a significant deviation from the current administrative path. Forecaster 3's points about Sadr's history of reversals are valid, but this hard deadline is a more powerful and immediate factor. Furthermore, Sadr's tendency to delay decisions to maximize leverage argues against an early announcement even if the deadline were extended; he would likely wait until later in the year, which is outside this question's timeframe. My forecast remains above zero to account for Sadr's unpredictability and the possibility of a political deal that circumvents the deadline, but the path to 'Yes' has become substantially narrower.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 1888,
+    "outputTokens": 2490,
+    "totalTokens": 4378,
+    "reasoningTokens": 2004,
+    "cachedInputTokens": 0
+  }
+}

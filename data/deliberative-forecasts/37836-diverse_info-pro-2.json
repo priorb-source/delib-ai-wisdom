@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-diverse_info-pro-2",
+  "questionId": 37836,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37836-diverse_info",
+  "independentForecastId": "37836-pro-info2",
+  "otherForecastIds": [
+    "37836-gpt5-info3",
+    "37836-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "The other forecasters provided excellent, complementary arguments that strengthen the case for a 'Yes' outcome. Forecaster 2's key insight was establishing that the seasonal baseline for Erbil's summer network is historically in the low-to-mid 30s, meaning even a typical summer would meet the threshold. This shifts the question from one of achieving significant growth to simply maintaining a seasonal status quo. Forecaster 3 provided the most critical new evidence: confirmed new European routes for Summer 2025 from Athens and Cologne/Bonn. This provides concrete, verifiable additions to the destination count, moving the discussion from potential to reality. Their reasoning is highly convincing as it combines historical patterns with new, specific data points.",
+    "rationale": "I am increasing my forecast. My initial analysis focused on the underlying potential for growth created by recent airport upgrades, such as night flight clearance and ICAO inspections. The other forecasters have convincingly shown how this potential is being realized. The combined argument is now much stronger: 1) The fundamental capacity and attractiveness of the airport have improved (my initial point). 2) The airport's network has a strong seasonal pattern, and the baseline number of destinations in the summer is already near or above the threshold of 31 (Forecaster 2's point). 3) There is concrete evidence of new European carriers adding routes specifically for the Summer 2025 season, including to Athens and Cologne (Forecaster 3's point). The combination of a high seasonal baseline plus confirmed new additions makes it highly probable the total destination count will exceed 31 by July 1. While regional volatility remains a risk, the addition of new European routes diversifies the network and makes the total count more resilient to the suspension of one or two more volatile regional flights. The new evidence has substantially reduced the uncertainty in my forecast.",
+    "probability": 80
+  },
+  "usage": {
+    "inputTokens": 1836,
+    "outputTokens": 2441,
+    "totalTokens": 4277,
+    "reasoningTokens": 2047,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37621-diverse_info-sonnet-2",
+  "questionId": 37621,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37621-diverse_info",
+  "independentForecastId": "37621-sonnet-info1",
+  "otherForecastIds": [
+    "37621-gpt5-info2",
+    "37621-pro-info3"
+  ],
+  "forecast": {
+    "review": "The other forecasters raise several crucial points I didn't fully consider. Forecaster 3 makes the most compelling argument: the league's health and safety department found NO data linking the Tush Push to increased injuries. This is critical - player safety is typically the strongest driver of NFL rule changes, and without it, achieving 24 votes becomes significantly harder. Forecaster 2 provides important context that league officials and the Competition Committee favor elimination, which I noted but underweighted. However, this institutional support clearly hasn't translated to owner votes yet (only 16 in April). Both forecasters correctly emphasize that any restriction (not just total ban) counts as Yes, which slightly increases probability. The combination of: (1) no safety justification, (2) only 16 votes in April despite institutional support, (3) active lobbying by successful teams like the Eagles, and (4) the 75% vote threshold, suggests I was slightly overconfident in my 28% forecast.",
+    "rationale": "After reviewing the other analyses, I'm adjusting downward. The absence of injury data is more significant than I initially weighted - it removes the compelling rationale that typically drives rule changes past the 24-vote threshold. While institutional support from Goodell and the Competition Committee matters, it clearly hasn't been sufficient (only 16 votes in April). The 8-vote gap represents a 50% increase in support needed within one month, without new safety evidence to drive that shift. The scheduled May 20-21 meeting provides a concrete opportunity, and the broader framing ('ban pushing ball carriers') could sway some votes, preventing me from going lower. However, the structural barriers - high vote threshold, no safety case, powerful opposition, and recent voting history - are more formidable than I initially assessed. The 20-30% range from the other forecasters feels appropriate, and given the lack of safety data, I'm positioning toward the lower end of that range.",
+    "probability": 24
+  },
+  "usage": {
+    "inputTokens": 2297,
+    "outputTokens": 1136,
+    "totalTokens": 3433,
+    "reasoningTokens": 744,
+    "cachedInputTokens": 0
+  }
+}

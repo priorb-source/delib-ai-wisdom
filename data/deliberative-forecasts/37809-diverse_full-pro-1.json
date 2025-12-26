@@ -1,0 +1,26 @@
+{
+  "forecastId": "37809-diverse_full-pro-1",
+  "questionId": 37809,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37809-diverse_full",
+  "independentForecastId": "37809-pro-full",
+  "otherForecastIds": [
+    "37809-sonnet-full",
+    "37809-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial forecast was 8%, while the other forecasters were at 12% and 15%. My reasoning was heavily anchored on the very strong historical base rate (no player at .400 or higher on July 1 in over 25 years) and the clear statistical evidence that Aaron Judge's current performance is unsustainable (extremely high BABIP, lower xBA). \n\nBoth other forecasters made a compelling argument that I underweighted the current state of affairs: a player is *already* at the .400 mark. The challenge is one of maintenance over six weeks, not achievement from a lower baseline. Forecaster 3's analysis was particularly persuasive in quantifying this challenge, estimating that Judge would need to bat around .400 for his next ~160 at-bats. Their rough calculation that a player of Judge's caliber has a 10-20% chance of achieving this was a useful analytical frame that my initial forecast lacked. Both forecasters also correctly noted that while the chances for other hitters like Freeman or Ohtani are slim, they are not zero, and the 'multiple shots on goal' add a small amount of probability.\n\nFinally, Forecaster 3 introduced a point I had not explicitly considered: the 'qualified hitter' requirement. This adds an additional failure mode (e.g., through injury) that tempers the probability from rising too high. I found the group's reasoning convincing enough to warrant an update.",
+    "rationale": "I am increasing my forecast from 8% to 11%. The primary reason for this update is that the other forecasters convinced me that my initial analysis was too anchored to the historical base rate and did not sufficiently account for the conditional probability given that a player is currently meeting the threshold. Judge starting from .401 on May 20th is a significantly better starting position than any player has had at this point in many years.\n\nForecaster 3's quantitative framing of the problem—Judge needing to maintain a .400 average for the next six weeks—helped me recalibrate. While regression is still the most likely outcome, a 10-20% chance for a hitter of Judge's caliber to accomplish this feat seems plausible. My updated forecast of 11% places Judge's chances at the lower end of that range, reflecting the strong statistical signs of regression (his BABIP is .137 points above his career norm) and the powerful recent precedent of Luis Arraez's late-June dip in 2023. This 11% reflects about a 9-10% chance for Judge himself, plus a cumulative 1-2% chance for another contender like Ohtani or Freeman to go on an incredible hot streak. I am not raising my forecast higher because the combined forces of statistical regression, the 25-year base rate, and the risk of injury leading to disqualification remain formidable obstacles.",
+    "probability": 11
+  },
+  "usage": {
+    "inputTokens": 2508,
+    "outputTokens": 3052,
+    "totalTokens": 5560,
+    "reasoningTokens": 2421,
+    "cachedInputTokens": 0
+  }
+}

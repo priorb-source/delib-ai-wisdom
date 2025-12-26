@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-homo_full-gpt5-2",
+  "questionId": 37464,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37464-homo_full",
+  "independentForecastId": "37464-gpt5-full-2",
+  "otherForecastIds": [
+    "37464-gpt5-full-1",
+    "37464-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the same key facts and constraints: tiny scope, short shelf life, no illnesses, and FSIS closure depending on verification plus admin cadence. Forecaster 2 adds a useful caution about small-firm paperwork potentially slowing closure and the limited time window/website posting risk; that pushes me slightly more cautious. Forecaster 3’s lean-Yes view is reasonable given how straightforward this recall appears, but it doesn’t overcome the inertia of the current Active status plus possible FSIS backlog and posting lag before June 1. Neither brought decisive new evidence, but F2’s emphasis on timing and admin lag is persuasive at the margin.",
+    "rationale": "This is a small, contained Class II recall with product long out of commerce and a straightforward corrective action (labeling for anchovy-containing dressing). Substantively, closure seems likely eventually. The crux is timing and FSIS posting before June 1. As of May 8 it’s still Active, leaving ~3 weeks. For recalls like this, closures often occur within a few months, but many slip due to verification/documentation and posting latency. The limited urgency (Class II, no illnesses) and potential for small-company paperwork delays argue that closure could easily drift into early June even if the work is largely done. Balancing the simple scope (argues for mid/late May closure) against status quo and admin/posting risks (argue for after June 1), I’m nudging down from 57% to 48%. I’d move up if FSIS shows a recent cadence of closing similar small allergen recalls within ~80–95 days or if there’s evidence of completed effectiveness checks; I’d move down if it remains Active into the last week of May.",
+    "probability": 48
+  },
+  "usage": {
+    "inputTokens": 2160,
+    "outputTokens": 1330,
+    "totalTokens": 3490,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

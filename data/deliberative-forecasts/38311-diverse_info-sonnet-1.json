@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-diverse_info-sonnet-1",
+  "questionId": 38311,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "38311-diverse_info",
+  "independentForecastId": "38311-sonnet-info2",
+  "otherForecastIds": [
+    "38311-pro-info3",
+    "38311-gpt5-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters provide compelling additional evidence I had not fully considered. Forecaster 2 highlights the Trump-Scholz meeting scheduled for June 5 (just 2 days away) as a strong signal of active diplomatic engagement - this is important new information that indicates continued preparation for the summit. Forecaster 3 notes that official participant lists dated TODAY (June 3) include Trump, which is extremely current and relevant evidence. Both also correctly identify that we are 12 days from the summit start (June 15-17), not 7 days as I mistakenly calculated. The convergence of both forecasters at 94% despite independent analysis is noteworthy. Their evidence about the imminent Scholz meeting and today's participant lists strengthens the case beyond what I initially considered.",
+    "rationale": "The Trump-Scholz bilateral meeting on June 5 is significant new information - if Trump were planning to skip the G7, scheduling a meeting with a key G7 leader just days before would be diplomatically illogical. The fact that official participant lists as of today (June 3) include Trump provides very current confirmation. With 12 days remaining (not 7 as I miscalculated), and active diplomatic engagement continuing through the Scholz meeting, the probability of attendance is higher than I initially assessed. However, I remain slightly more cautious than the 94% consensus due to: (1) Trump's demonstrated willingness to make unpredictable decisions even at the last minute, (2) genuine tail risks including health emergencies for a 78-year-old president, and (3) potential major crises that could emerge in the remaining 12 days. The additional evidence warrants an upward revision, but I believe maintaining a marginally higher uncertainty estimate (7% vs 6%) is prudent given Trump's unique governing style.",
+    "probability": 93
+  },
+  "usage": {
+    "inputTokens": 1840,
+    "outputTokens": 1283,
+    "totalTokens": 3123,
+    "reasoningTokens": 755,
+    "cachedInputTokens": 0
+  }
+}

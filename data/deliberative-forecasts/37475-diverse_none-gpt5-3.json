@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-diverse_none-gpt5-3",
+  "questionId": 37475,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37475-diverse_none",
+  "independentForecastId": "37475-gpt5-none",
+  "otherForecastIds": [
+    "37475-pro-none",
+    "37475-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s reasoning largely aligns with my initial view: foreign-matter FSIS recalls by large, experienced firms often close within a few months, and a ~3‑month window is usually sufficient. The caution about administrative variability is fair. Forecaster 3 raises a counterpoint on base rates, suggesting many recalls remain open 3–6 months or longer and using the 34 days elapsed as evidence against an expedited closure. I don’t find the elapsed-time argument very informative here—FSIS closures rarely occur within the first month, so being open at day ~34 is near the mode, not a negative signal. Also, the “many recalls take 3–6 months” claim may blend FDA and FSIS and a mix of hazard/pathogen classes; foreign-matter, single‑lot meat recalls often resolve closer to the 2–3 month range when there’s no expansion or injuries. Net: F2’s points are solid; F3 adds useful caution on tail risks but likely overweights generic, slower base rates.",
+    "rationale": "As of May 9, there are ~52 days left to July 1, giving an 87‑day total window from the April 5 notice. For FSIS Class II foreign‑matter recalls of modest size (~22k lbs) with a single product/lot and no reported injuries or expansions, closure within 60–100 days is common. Johnsonville’s scale can both help (resources, compliance experience) and hinder (broad distribution complicates effectiveness checks), but absent signals of expansion or illness, the base case remains closure within the window. The fact it hasn’t closed by day ~34 is not materially informative—most closures occur after the first month. I modestly trim my estimate to reflect uncertainty about multi‑state verification and the possibility of administrative lag or scope expansion, but I still see the balance of probabilities favoring closure before July 1. I would raise the forecast if no expansion is posted by mid‑June or if there are indications of successful effectiveness checks; I would lower it if FSIS posts an expansion, reports injuries, or signals distribution complexities (e.g., additional consignees).",
+    "probability": 65
+  },
+  "usage": {
+    "inputTokens": 1549,
+    "outputTokens": 1547,
+    "totalTokens": 3096,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

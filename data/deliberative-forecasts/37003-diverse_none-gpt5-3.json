@@ -1,0 +1,26 @@
+{
+  "forecastId": "37003-diverse_none-gpt5-3",
+  "questionId": 37003,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37003-diverse_none",
+  "independentForecastId": "37003-gpt5-none",
+  "otherForecastIds": [
+    "37003-pro-none",
+    "37003-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds the most consequential new input: the IFDD Vienna poll (24 Mar 2025) showing SPÖ 28% vs FPÖ 27%. I hadn’t incorporated a near-tie; that materially weakens a base-rate-heavy view. Their framing of a toss-up with a slight SPÖ edge (incumbency, GOTV) is persuasive, though I’d caution against leaning too hard on a single municipal poll with potential house effects and higher error. Forecaster 3’s base-rate and structural arguments are valid but underweight recent polling and overstate how “unprecedented” the required swing would be—2020 to high-20s for SPÖ is already suggested by the cited poll. Thus, their 78% seems too high given current evidence.",
+    "rationale": "I’m updating down from 78% to 62% to reflect credible risk indicated by the March IFDD poll showing a statistical tie. Vienna’s long SPÖ dominance, urban demographics, a popular mayoral brand, and strong organization still justify SPÖ as the favorite to top the vote/seat count. But national FPÖ momentum and a plausible path to plurality in Vienna (especially if KPÖ+ crosses 5% drawing more from SPÖ/Greens) make a No outcome meaningfully more likely than I previously assessed. I’m not moving lower because the evidence is thin (one recent poll, months to go), Vienna-specific FPÖ ceilings have historically been lower than nationally, and late-campaign dynamics plus SPÖ turnout advantages tend to help them in close races. I’d move up if multiple independent Vienna polls show SPÖ regaining a clear lead; I’d move down if new polls confirm FPÖ tied/ahead or KPÖ+ consolidates above threshold with clear SPÖ leakage.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 1668,
+    "outputTokens": 2493,
+    "totalTokens": 4161,
+    "reasoningTokens": 2112,
+    "cachedInputTokens": 0
+  }
+}

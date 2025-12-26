@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-homo_info-gpt5-1",
+  "questionId": 37266,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37266-homo_info",
+  "independentForecastId": "37266-gpt5-info1-1",
+  "otherForecastIds": [
+    "37266-gpt5-info2-2",
+    "37266-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforced the strong base-rate case against a nationwide Level 4 in the next ~60 days. They added useful specificity: State’s upgrades are event-driven and relatively infrequent; Level 4 typically coincides with war-scale conflict, state collapse, targeted risks to foreigners, or major embassy posture changes (e.g., ordered/authorized departure), none of which are evident now. They also distinguished industry advisories (ATTA) and localized unrest from triggers that typically move State to Level 4. Forecaster 3’s note on peer advisories and the importance of embassy posture is especially salient. I didn’t explicitly weigh the embassy drawdown/ordered departure signal as a near-necessary precursor in my initial write-up; that lowers the short-term odds. I find their reasoning largely convincing and directionally consistent with mine, pushing me slightly lower.",
+    "rationale": "Mozambique remains at Level 3 with region-specific Level 4 warnings in the north. Recent incidents in Niassa and protests elevate risk but still look localized. The U.S. Embassy has issued alerts but not indicated ordered/authorized departure or broad movement restrictions—key precursors for a countrywide Level 4. Peer governments have tightened regional cautions rather than issuing nationwide “avoid all travel.” With ~60 days left, advisory inertia plus the high bar for Level 4 argue for a low probability. Tail risks persist (insurgency spread beyond Cabo Delgado/Niassa, targeted attacks or kidnappings of foreigners, a sharp embassy posture shift, widespread violent unrest), but absent clear triggers, the chance of a national Level 4 by July 1 is modest. I’m lowering from 15% to 10% to reflect the base-rate and trigger-based arguments highlighted by the other forecasters.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 2143,
+    "outputTokens": 1333,
+    "totalTokens": 3476,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37218-diverse_full-gpt5-3",
+  "questionId": 37218,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37218-diverse_full",
+  "independentForecastId": "37218-gpt5-full",
+  "otherForecastIds": [
+    "37218-pro-full",
+    "37218-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the unprecedented international venue for a presidential UFC appearance and the short interval since Trump’s Miami attendance. I agree those are the dominant factors. Their use of Rogan’s refusal to go to Canada is, at best, a weak directional signal, but it does align with the broader optics/logistics challenges. They also stress the lack of historical precedent for any president attending a UFC event abroad, which I weighted already but agree merits heavy emphasis given 12 days with no credible travel signals.",
+    "rationale": "My prior 8% leaned on proximity (Montreal is close to Trump’s usual bases) and his strong Dana White relationship. On reflection, the combination of (1) international travel as a sitting president for a non-official purpose, (2) no historical precedent, (3) the very recent April attendance (making back-to-back numbered cards within a month atypical), and (4) no current reporting or preparatory signals this close to the event collectively argues for a lower probability. I’m trimming to 5%. I would move up on credible reports of a Canada trip or signals from the White House/UFC/Dana White indicating attendance; I’d move down with a conflicting public schedule or explicit denials.",
+    "probability": 5
+  },
+  "usage": {
+    "inputTokens": 1895,
+    "outputTokens": 1353,
+    "totalTokens": 3248,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

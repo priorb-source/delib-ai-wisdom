@@ -1,0 +1,26 @@
+{
+  "forecastId": "37649-homo_full-gpt5-2",
+  "questionId": 37649,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37649-homo_full",
+  "independentForecastId": "37649-gpt5-full-2",
+  "otherForecastIds": [
+    "37649-gpt5-full-1",
+    "37649-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds a useful caution that Starlink often aligns map flips with quarter-end updates, which could favor a late-Q2 activation. They otherwise emphasize the same timing math and inertia I cited, landing at a lower 30%. Forecaster 3 highlights an important downside I underweighted: Starlink may open new markets as Waitlist first, which would not resolve Yes. They also lean heavily on the Airtel partnership and the clustering of prior activations around 10–16 weeks to justify 62%, which feels high given the lack of visible readiness signals nine weeks post-license and Chad’s logistical frictions. I find F2’s conservatism and F3’s Waitlist caveat compelling; the quarter-end batch-update point is a mild positive, but not enough to outweigh the risk that activation misses the cutoff by days or comes up as Waitlist.",
+    "rationale": "We have ~6.5 weeks left to July 1, which is ~15.6 weeks post-license. Recent African precedents span 10–24 weeks, with a cluster around 16. Conditioning on no activation by week 9, hitting ≤15.6 weeks requires a fast-to-typical timeline. Upside factors: license secured, likely adequate satellite capacity over Chad, and the Airtel partnership could accelerate distribution and retail readiness. Downside factors: landlocked logistics, customs/type-approval/VAT implementation, and a real chance Starlink opens as Waitlist before flipping to Available. The quarter-end pattern could nudge a late-June flip, but the absence of public signals (pricing, preorders, partner marketing) by mid-May argues against a confident fast track. Netting these, I slightly lower my estimate to reflect Waitlist/administrative slippage risk while still assigning a meaningful chance to a late-June “Available” flip, possibly limited-area, that would satisfy the criterion.",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 2409,
+    "outputTokens": 2128,
+    "totalTokens": 4537,
+    "reasoningTokens": 1728,
+    "cachedInputTokens": 0
+  }
+}

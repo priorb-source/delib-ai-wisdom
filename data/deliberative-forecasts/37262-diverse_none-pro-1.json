@@ -1,0 +1,26 @@
+{
+  "forecastId": "37262-diverse_none-pro-1",
+  "questionId": 37262,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37262-diverse_none",
+  "independentForecastId": "37262-pro-none",
+  "otherForecastIds": [
+    "37262-sonnet-none",
+    "37262-gpt5-none"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 68% was too high. I was aligned with Forecaster 2 (60%) in focusing on India's high base rate for protests and the potent current catalyst mentioned in the Reuters article. However, Forecaster 3's analysis (34%) was the most compelling and caused me to substantially revise my thinking. Their key contribution was to shift the focus from the probability of a protest occurring in reality to the probability of it being recorded by the specific resolution source—the Global Protest Tracker—according to the exact criteria. Forecaster 3 correctly identified two critical filters I had underweight: 1) The tracker's selectivity and historical reporting cadence for India, which suggests a baseline probability for a two-month period of only around 30%. 2) The possibility that the tracker might list a protest's size as 'Unknown,' which would invalidate a 'Yes' resolution even if the protest was large enough. This rigorous focus on the resolution mechanism is a crucial correction to my initial analysis.",
+    "rationale": "I am significantly lowering my forecast from 68% to 48%. The primary reason for this large update is the compelling evidence and reasoning provided by Forecaster 3 regarding the specific behavior of the resolution source, the Global Protest Tracker. My initial forecast was based on the high likelihood of a large protest occurring in India, especially given the recent violent clashes over a new land law. While this catalyst remains significant, I now believe I failed to properly discount for the high probability that such a protest might not be captured by the tracker, or not captured with the required '10,000+' participant data point.\n\nMy new reasoning integrates Forecaster 3's base-rate analysis. Historically, the tracker adds a qualifying protest for India only a handful of times per year, making the baseline probability for any given two-month window relatively low (around 30%). I believe the current volatile situation substantially increases the chance of a major protest occurring, likely doubling the baseline odds. However, this increased probability of a real-world event must still be filtered through the lens of the tracker's reporting habits. The filters of tracker selectivity and the risk of an 'Unknown' size tag remain substantial. Therefore, my updated forecast of 48% starts with the tracker's historical base rate, applies a strong upward adjustment for the current inflammatory political catalyst, and then discounts for the significant uncertainty related to the reporting and documentation process.",
+    "probability": 48
+  },
+  "usage": {
+    "inputTokens": 1688,
+    "outputTokens": 2989,
+    "totalTokens": 4677,
+    "reasoningTokens": 2472,
+    "cachedInputTokens": 0
+  }
+}

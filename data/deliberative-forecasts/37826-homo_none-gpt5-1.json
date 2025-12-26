@@ -1,0 +1,26 @@
+{
+  "forecastId": "37826-homo_none-gpt5-1",
+  "questionId": 37826,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37826-homo_none",
+  "independentForecastId": "37826-gpt5-none-1",
+  "otherForecastIds": [
+    "37826-gpt5-none-2",
+    "37826-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my base-rate framing and constraints: the rarity of strikes into Pakistan proper, the importance of a Pulwama-scale trigger, the narrow one-month window, nuclear/escalation and diplomatic costs, and the 2021 ceasefire backdrop. Forecaster 2’s emphasis on the post-2021 relative quiet and the requirement for a catalytic event reinforces a low prior. Forecaster 3’s “status quo deserves extra weight” point for a one-month horizon is a useful way to penalize tail scenarios absent signals. Neither adds concrete new events; their indicator lists align with mine. They don’t explicitly note the definitional exclusions (BSF not being part of the Armed Forces; LoC/PoK incidents not counting), but their conclusions still land in the same band. Overall, their reasoning is consistent and slightly nudges me toward trimming my estimate to align with a conservative base-rate view for a short window.",
+    "rationale": "I previously set 7% based on the 2019 precedent, a non-zero chance of a triggering terror attack, and India’s demonstrated capability for limited punitive action, tempered by high escalation costs and definitional constraints. The other analyses strengthen the case for leaning even more on the base rate and the very narrow June-only window, with no current signs of crisis. Given the absence of new indicators (no mass-casualty incident, no visible IAF posture shifts, no airspace/NOTAM anomalies, no breakdown of the ceasefire along the IB), I’m shading down slightly to reflect the strong status quo bias over a 30-day period. I still keep a small tail for a sudden trigger that could prompt a rapid, limited IAF or standoff strike into KP or Punjab, but view it as unlikely without clear precursors. Net change: down 1 percentage point, from 7% to 6%.",
+    "probability": 6
+  },
+  "usage": {
+    "inputTokens": 2064,
+    "outputTokens": 1485,
+    "totalTokens": 3549,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37459-diverse_info-pro-1",
+  "questionId": 37459,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37459-diverse_info",
+  "independentForecastId": "37459-pro-info1",
+  "otherForecastIds": [
+    "37459-gpt5-info3",
+    "37459-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "The other forecasters provide compelling arguments that largely reinforce a low-probability forecast. Forecaster 2 makes an exceptionally strong point regarding Berkshire's use of SEC confidential treatment for building new large positions (e.g., Chubb). This is a structural reason why a new purchase might not be revealed on the Q1 13F, making a 'Yes' resolution less likely even if they did start buying. Forecaster 2 also notes reports that Berkshire was a net seller again in Q1 2025, further strengthening the 'No' case. I find these arguments very convincing. Forecaster 3's analysis of market timing and valuations in Q1 aligns with the consensus view and provides good context. However, I believe both forecasters' final probabilities (12% and 8%) are too high given the strength of their own arguments against a 'Yes' outcome, particularly the point about confidential filings.",
+    "rationale": "I am maintaining my forecast of 5%. The deliberation has strongly reinforced my initial assessment. The most critical new argument, raised by Forecaster 2, is Berkshire's practice of requesting confidential treatment when building large new stakes. The resolution of this question hinges on what is *revealed* in the public 13F filing. If Berkshire were to initiate a significant position in any of these companies, they would almost certainly do so under confidential treatment to avoid front-running, which would result in a 'No' resolution for this question. This significantly narrows the path to a 'Yes' outcome. The only realistic scenario for a 'Yes' is a small, non-confidential 'toe-hold' position initiated by one of the other investment managers, Todd Combs or Ted Weschler. Furthermore, the confirmation that Berkshire was a net seller of stocks for the tenth consecutive quarter in Q1 2025 makes initiating a new, publicly disclosed position highly improbable. While the other forecasters have slightly higher probabilities, their most potent arguments actually support my lower-end forecast. Therefore, a 5% chance appropriately captures the low-probability event of a small, non-confidential purchase being disclosed.",
+    "probability": 5
+  },
+  "usage": {
+    "inputTokens": 1874,
+    "outputTokens": 2391,
+    "totalTokens": 4265,
+    "reasoningTokens": 1939,
+    "cachedInputTokens": 0
+  }
+}

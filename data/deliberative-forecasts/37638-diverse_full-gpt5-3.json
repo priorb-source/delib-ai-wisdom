@@ -1,0 +1,26 @@
+{
+  "forecastId": "37638-diverse_full-gpt5-3",
+  "questionId": 37638,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37638-diverse_full",
+  "independentForecastId": "37638-gpt5-full",
+  "otherForecastIds": [
+    "37638-pro-full",
+    "37638-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters correctly emphasize the bicameral split, the tight calendar, Abbott’s control over special sessions, and strong stakeholder opposition. I find their logic broadly sound. However, I think they overestimate the chance because they don’t fully grapple with the resolution bar: a law must fully prohibit the sale of THC in Texas. SB 3 (as described) targets intoxicating hemp/most non-medical THC but preserves the medical program, which would not satisfy the question’s criterion. The House is moving in the opposite direction (expanding medical access). That makes the path to an across-the-board sales ban—eliminating even medical sales—vanishingly small. Also, the resolution specifies the question resolves on signing; if a law were to become law without the governor’s signature, that might not count under these rules, narrowing the path further.",
+    "rationale": "Key points unchanged: (1) The Senate passed a crackdown bill, but it is not a total ban; (2) the House is resistant to prohibition and is expanding medical access, with a substitute to SB 3 that is partial; (3) the regular session timeline is extremely tight, and Abbott has not prioritized this; (4) only Abbott can call a special session, and even then, overcoming House opposition for a full sales ban including medical is highly unlikely; (5) economic (hemp industry), political (Sid Miller, veterans), and public opinion dynamics favor access, not a total prohibition. Incremental updates from peers reinforce these points but don’t add a plausible path to banning medical sales. I modestly discount the already-low probability further in light of the strict resolution requirement and signature trigger. Upside movers: Abbott explicitly calls a special session with an agenda to fully end all THC sales (including medical) and House leadership signals support. Downside movers: regular session ends without movement and no special call, or explicit gubernatorial disinterest—both of which seem likely.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 2636,
+    "outputTokens": 2332,
+    "totalTokens": 4968,
+    "reasoningTokens": 1920,
+    "cachedInputTokens": 0
+  }
+}

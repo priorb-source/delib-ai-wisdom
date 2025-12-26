@@ -1,0 +1,26 @@
+{
+  "forecastId": "37265-diverse_none-pro-1",
+  "questionId": 37265,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37265-diverse_none",
+  "independentForecastId": "37265-pro-none",
+  "otherForecastIds": [
+    "37265-sonnet-none",
+    "37265-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I are in strong agreement on the core drivers of this question: the outcome is heavily favored towards the status quo ('No') due to the short timeframe and the high degree of bureaucratic inertia in changing travel advisories. Both forecasters provided convincing reasoning. Forecaster 2's emphasis on the low base rate for such changes is a useful framing. However, I found Forecaster 3's analysis particularly insightful for highlighting a mechanism I had not sufficiently weighted: the State Department's practice of issuing more granular, sub-national advisories for specific regions. This is a crucial point, as it provides the US government with a tool to warn citizens about localized risks (like potential spillover from Mozambique) without resorting to the blunt instrument of a nationwide Level 3 upgrade. This makes a full country-wide upgrade even less likely, as it would require a threat perceived as pervasive and not just regional.",
+    "rationale": "My initial forecast of 15% was based on the significant tail risk of a security incident. While I maintain that a trigger event is necessary for a 'Yes' outcome, the other forecasters' analyses have convinced me that the bar for a *nationwide* Level 3 advisory is even higher than I first assumed. The argument from Forecaster 3, that the State Department would more likely issue a targeted regional advisory (e.g., for areas bordering Mozambique) in response to a localized incident, is very persuasive. Such an action would not resolve this question as 'Yes'. This alternative policy response means that even in some plausible negative scenarios, the nationwide level would remain at 2. Therefore, my initial 15% was likely too high as it did not fully account for this more probable, nuanced response. I am adjusting my forecast downward to 12% to reflect this higher threshold for a country-wide advisory change.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1515,
+    "outputTokens": 1954,
+    "totalTokens": 3469,
+    "reasoningTokens": 1556,
+    "cachedInputTokens": 0
+  }
+}

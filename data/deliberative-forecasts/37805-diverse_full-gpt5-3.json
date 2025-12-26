@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-diverse_full-gpt5-3",
+  "questionId": 37805,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37805-diverse_full",
+  "independentForecastId": "37805-gpt5-full",
+  "otherForecastIds": [
+    "37805-pro-full",
+    "37805-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters correctly emphasize the very short lead time and the difficulty of getting to ≥5 destinations. Forecaster 2’s focus on operational hurdles and the need for a route to be not just announced but loaded and operating by July 1 is persuasive. Forecaster 3 fairly notes uncertainty around Hong Kong and the intermittency of NRT, but 30% feels high given the lack of concrete schedule evidence. A useful nuance I’m adopting from both is the fragility of NRT and the possibility that we could even be at 3, which would require two additions by July 1—very unlikely.",
+    "rationale": "Baseline remains 3–4 destinations (GUM, ICN, PUS, and intermittently NRT). The resolution requires >4, i.e., at least 5, as listed on flightsfrom.com on/after July 1. With only ~6 weeks to go, adding a brand-new scheduled route is unlikely absent current filings or announcements. The most plausible Yes path would be NRT being active/listed plus one added city (e.g., HKG or another Korean secondary). However, evidence for any imminent new start is weak: Hong Kong Airlines listing Saipan and higher search volume do not equate to scheduled service by July 1, and yen weakness weighs on Japan expansion. The risk that NRT is not loaded/operating on July 1 (or that PUS is seasonal) makes ≥5 even less likely because it would then require two additions. Given these considerations and the additional emphasis from the other forecasters on timeline and NRT fragility, I’m nudging my forecast down slightly from 22% to 20%. I would move up if verifiable schedules appear for an added destination operating in late June/early July (e.g., HKG or a new Korean city) and if NRT is clearly loaded for early July; I’d move down if NRT is confirmed absent or PUS pauses.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 2204,
+    "outputTokens": 1951,
+    "totalTokens": 4155,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

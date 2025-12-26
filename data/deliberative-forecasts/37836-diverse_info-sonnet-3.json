@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-diverse_info-sonnet-3",
+  "questionId": 37836,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "info1",
+  "groupId": "37836-diverse_info",
+  "independentForecastId": "37836-sonnet-info1",
+  "otherForecastIds": [
+    "37836-gpt5-info3",
+    "37836-pro-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters provided valuable insights that challenge my initial conservatism. Forecaster 2 offers the critical detail that Erbil's summer network typically sits in the 'low-to-mid 30s' - this is more specific than my vague estimate and suggests the status quo already favors a Yes outcome. They also correctly emphasize that July 1 falls at peak season, when seasonal leisure routes (Turkish coast, Egyptian resorts) boost counts precisely at resolution time.\n\nForecaster 3 introduces new infrastructure information I hadn't considered: night flight clearance and ICAO inspection for international listing. These are fundamental operational upgrades occurring in early 2025 that would facilitate airline expansion. This is concrete evidence supporting growth beyond just the seasonal expansion I noted.\n\nBoth forecasters recognize the question essentially asks: will summer 2025 counts stay at typical levels? Rather than: will there be exceptional growth? This reframes the question importantly. The risks they identify (Beirut/Iran/KSA volatility, data lag issues) are real but would need to actively pull down what appears to be an already-favorable baseline.\n\nTheir forecasts (68% and 70%) cluster tightly and are both higher than mine, suggesting I underweighted the favorable status quo.",
+    "rationale": "Upon reflection, I was too conservative at 65%. The key insight from the other forecasters is that Erbil's summer network typically reaches the low-to-mid 30s, meaning the status quo likely resolves Yes without requiring exceptional growth. July 1 sits at peak summer season when seasonal routes (Turkish resorts, diaspora travel) are maximally operational - this timing advantage is substantial.\n\nThe infrastructure improvements (night flights, ICAO listing) that Forecaster 3 identified provide additional tailwinds I hadn't accounted for. Combined with the confirmed European expansion (Athens, Cologne/Bonn routes) for summer 2025, the fundamentals support maintaining or exceeding typical summer levels.\n\nThe question is less 'will Erbil grow significantly?' and more 'will anything disrupt the typical summer pattern?' Regional volatility risks (Lebanon, Iran, Saudi routes) could pull counts down, and flightsfrom.com data accuracy is uncertain, but these would need to overcome what appears to be a favorable baseline.\n\nI'm updating to 68% to align with Forecaster 2's analysis, which carefully balances the strong seasonal baseline against real operational risks. I'm not going higher because regional aviation volatility and data capture issues are genuine concerns that prevent higher confidence.",
+    "probability": 68
+  },
+  "usage": {
+    "inputTokens": 2259,
+    "outputTokens": 1323,
+    "totalTokens": 3582,
+    "reasoningTokens": 722,
+    "cachedInputTokens": 0
+  }
+}

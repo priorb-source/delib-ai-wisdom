@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-diverse_none-gpt5-3",
+  "questionId": 38080,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38080-diverse_none",
+  "independentForecastId": "38080-gpt5-none",
+  "otherForecastIds": [
+    "38080-pro-none",
+    "38080-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 surfaces strong points on the TRO path: irreparable harm to thousands of students, plausible APA and constitutional (academic freedom/First Amendment) claims, and courts’ ability to act fast. They also note judge assignment as a key pivot, which I agree is material. What they underweight, in my view, is the likelihood that DOJ would immediately seek and potentially obtain a stay from the appellate courts, especially given immigration/national-security framing, which can preserve the agency’s action through July 1 even if a district court initially grants relief.\n\nForecaster 3 rightly emphasizes the status quo and the short runway, and the government’s apparent resolve. But they overstate how slow emergency litigation must be—federal courts can and do issue TROs within days in analogous higher-ed/immigration contexts (e.g., 2020 Harvard/MIT case). Their 18% seems too low given the strength of irreparable-harm equities and Harvard’s ability to bring rapid, well-argued motions. \n\nNet: F2 adds weight to constitutional routes that can bypass exhaustion and strengthen the case for emergency relief; F3 reminds us that any win is fragile due to rapid appeals and potential stays before July 1. Those considerations largely align with my prior, with a small tilt downward due to the high probability the government seeks—and may get—an emergency stay prior to July 1.",
+    "rationale": "Baseline is No (decertified as of May 22). Paths to Yes are: (1) DHS voluntarily or via settlement reinstates certification by July 1 (unlikely given posture), or (2) a court orders restoration via TRO/PI and that order remains in effect through July 1. The equities for emergency relief are strong: severe, imminent, and widespread harm; plausible APA (arbitrary/capricious and procedural) challenges; and potential constitutional claims that support bypassing exhaustion and heighten scrutiny of punitive/political motives. Courts can move quickly.\n\nCountervailing forces: immigration/national-security framing boosts deference; SEVP regulations provide immediate-withdrawal mechanisms the government can point to; and the administration is likely to seek immediate stays from the circuit and, if needed, the Supreme Court. Given the short window, even a district-court win could be stayed before July 1. Also, courts may set PI schedules into July, blunting the chance that relief is in effect precisely on the resolution date.\n\nCompared with my initial 47%, the deliberation highlighted both the strength of constitutional arguments (slightly positive) and, more saliently, the practical likelihood of an emergency stay before July 1 (negative). On balance, I modestly lower my estimate. I would move up if: a favorable district judge promptly sets or grants a TRO and an appellate panel denies a stay; signs of DHS openness to provisional reinstatement. I would move down if: TRO is denied, venue is shifted to a less favorable court, or an appellate stay is granted quickly after any district relief.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 1900,
+    "outputTokens": 2619,
+    "totalTokens": 4519,
+    "reasoningTokens": 1984,
+    "cachedInputTokens": 0
+  }
+}

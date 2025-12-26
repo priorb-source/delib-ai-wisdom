@@ -1,0 +1,26 @@
+{
+  "forecastId": "38310-diverse_info-sonnet-1",
+  "questionId": 38310,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "38310-diverse_info",
+  "independentForecastId": "38310-sonnet-info3",
+  "otherForecastIds": [
+    "38310-gpt5-info2",
+    "38310-pro-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 identified critical information I completely missed: Zelenskyy publicly confirmed on May 27, 2025 that he would attend, stating 'I will be,' and Canadian security planning documents reportedly include specific preparations like a no-fly zone. This transforms the question from 'will he accept an invitation' to 'will he follow through on a public commitment made just one week ago.' Forecaster 2's observation about his active European travel schedule (Vilnius June 2, NATO summit June 24-25) reinforces the feasibility. Both forecasters correctly emphasize that the status quo strongly favors attendance, but Forecaster 3's evidence of an explicit public commitment is decisive. My initial 72% significantly underweighted this confirmation.",
+    "rationale": "I am updating substantially upward based on Zelenskyy's May 27 public commitment. A sitting head of state publicly stating 'I will be' at a summit creates strong diplomatic and reputational incentives to follow through. Combined with: (1) Canadian security preparations already underway, (2) his demonstrated pattern of in-person attendance at major summits, (3) his active travel in Europe this same week showing operational capability, and (4) the supreme strategic importance of the G7 for Ukraine's war effort, the probability of attendance is very high. I'm not going to 95% because approximately 10-15 days remain for something to change, and the war creates inherent unpredictability that even a public commitment cannot fully override. A sudden major offensive, acute security threat, or domestic crisis could still force cancellation despite the commitment. The battlefield situation and Russian actions remain outside Ukrainian control. However, absent such developments, all indicators point strongly toward attendance.",
+    "probability": 87
+  },
+  "usage": {
+    "inputTokens": 2061,
+    "outputTokens": 931,
+    "totalTokens": 2992,
+    "reasoningTokens": 605,
+    "cachedInputTokens": 0
+  }
+}

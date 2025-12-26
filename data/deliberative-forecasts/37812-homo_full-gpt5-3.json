@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-homo_full-gpt5-3",
+  "questionId": 37812,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37812-homo_full",
+  "independentForecastId": "37812-gpt5-full-3",
+  "otherForecastIds": [
+    "37812-gpt5-full-1",
+    "37812-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters’ reasoning closely mirrors my prior take: from an estimated ~39 destinations in May, the firm pipeline adds (CPH, ARN, AUH, BCN, WAW) still leaves us well short of >51 by July 1 absent a broad wave of resumptions. New points I found useful: (1) explicit emphasis on flightsfrom counting multi-airport cities (e.g., CDG and ORY separately), which slightly helps totals but is likely already reflected in the current count; and (2) the clear threshold math that we still need roughly +8 beyond the known pipeline in only ~6 weeks, which would require multiple Gulf/Turkish/Egyptian returns plus more MEA seasonals. Both also tie risk and insurance constraints, weak demand, and security measures to low odds of sudden widespread resumptions. I didn’t see concrete contrary evidence or new confirmed routes beyond what I had considered.",
+    "rationale": "The consensus arguments reinforce the inertia and timeline constraints. Known additions plausibly lift BEY into the low-to-mid 40s by July 1, leaving a large gap to 52. There are no credible signals yet of imminent returns by multiple key absent carriers (Qatar, Kuwait, Saudia, EgyptAir, Pegasus, BA/LH), and regional risk remains elevated. The flightsfrom multi-airport counting nuance likely contributes at the margin but doesn’t change the fundamental shortfall. Given their alignment and the strict >51 threshold, I’m nudging my forecast slightly down to reflect the need for a broad, coordinated resumption that appears unlikely within the remaining ~6 weeks. I would move up only if schedules visibly load several Gulf/Turkish/Egyptian returns plus additional MEA European seasonals before late June; conversely, any new security incidents or regulatory limits would push the probability lower.",
+    "probability": 18
+  },
+  "usage": {
+    "inputTokens": 2746,
+    "outputTokens": 1476,
+    "totalTokens": 4222,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

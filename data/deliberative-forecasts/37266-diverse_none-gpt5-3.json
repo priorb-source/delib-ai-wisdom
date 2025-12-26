@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-diverse_none-gpt5-3",
+  "questionId": 37266,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37266-diverse_none",
+  "independentForecastId": "37266-gpt5-none",
+  "otherForecastIds": [
+    "37266-pro-none",
+    "37266-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters lean on the high threshold for a Level 4 and the short two-month window. New/useful points they added: (1) the current overall advisory is Level 2 with stricter guidance for Cabo Delgado (I had left it as 2–3), making a two-level jump even less likely; (2) a base-rate frame noting only ~10–20 Level 4 countries globally, underscoring rarity. They did not surface concrete catalysts (e.g., embassy drawdown, nationwide state of emergency, or major attacks in Maputo/Beira) that would warrant moving meaningfully higher. I find their reasoning directionally consistent with mine; it nudges me slightly upward to reflect tail risk from protests plus the persistent Cabo Delgado insurgency, but not by much given cyclone season has largely passed and no signs of imminent nationwide deterioration are evident.",
+    "rationale": "Time left: ~60 days until July 1, 2025.\nStatus quo: Mozambique at Level 2 overall with localized higher warnings (not country-wide Level 4). If nothing significant changes, outcome is No.\nNo scenario: Protests dissipate or stay localized; insurgency remains contained to the north; no major security incidents in Maputo/central corridors; State/Embassy messaging remains routine. Country stays at Level 2 with provincial caveats.\nYes scenario: Rapid nationwide deterioration—e.g., high-casualty terror attacks or coordinated unrest across multiple major cities; targeting of foreigners; ordered/authorized departure of U.S. government personnel; significant degradation of government control or consular capacity; or a severe, sudden crisis that overwhelms security/response in multiple regions.\nReasoning: Level 4 is rare and sticky once assigned, typically tied to active war zones or near-complete breakdowns. A two-level jump in ~2 months is uncommon absent clear triggers. Cabo Delgado remains a serious but geographically concentrated risk; protests add volatility but, to date, lack signs of spiraling nationwide instability. With cyclone season waning and no indicators of an embassy drawdown or mass-casualty events in southern/central regions, the base case remains No. I slightly increase my estimate to reflect tail-risk coupling (protests + insurgency) during a short window.\nUpdate: From 8% to 9%, acknowledging peers’ base-rate framing and the possibility of a sharp but unlikely escalation.",
+    "probability": 9
+  },
+  "usage": {
+    "inputTokens": 1740,
+    "outputTokens": 1915,
+    "totalTokens": 3655,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

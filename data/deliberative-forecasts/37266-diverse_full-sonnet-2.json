@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-diverse_full-sonnet-2",
+  "questionId": 37266,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37266-diverse_full",
+  "independentForecastId": "37266-sonnet-full",
+  "otherForecastIds": [
+    "37266-pro-full",
+    "37266-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters provide compelling analyses that converge on a low but non-trivial probability (11-15%). The strongest new argument is Forecaster 3's specific precedents of countries like Nigeria, DRC, and Kenya maintaining Level 3 nationally while having regional Level 4 warnings for localized insurgencies. This systematic pattern in State Department practice is significant evidence I underweighted. Forecaster 2 makes an excellent point about the 'confluence' of spreading insurgency AND political unrest creating multiple risk vectors. However, both forecasters persuasively argue that the State Department's strong preference for granular regional warnings over national escalations should lower the probability. Forecaster 3's emphasis on southern Mozambique and Maputo's relative stability is particularly relevant - Level 4 typically requires nationwide conditions, not regional crises. The precedent that countries can maintain Level 3 status for years despite serious localized security threats is more predictive than I initially weighted.",
+    "rationale": "After deliberation, I'm updating my forecast downward from 18% to 14%. The key insight from my peers is the State Department's documented pattern of using regional Level 4 warnings within Level 3 countries when threats are geographically concentrated - a practice demonstrated in Nigeria, DRC, Kenya, and even within Mozambique itself for Cabo Delgado. This precedent strongly suggests the U.S. will continue granular warnings rather than escalate the entire country. However, I'm not going as low as Forecaster 3's 11% because several factors create meaningful tail risk: (1) the insurgency is demonstrably expanding geographically into Niassa, not remaining static, (2) concurrent post-election protests add a second vector of instability, (3) the State Department just issued warnings in late April/early May, suggesting active monitoring, and (4) South Sudan's March 2025 elevation to Level 4 proves upgrades do happen. With only 2 months remaining, a major incident targeting foreigners, attacks in urban centers, or security force loss of control could trigger rapid reassessment. The probability captures both the strong status quo bias and systematic preference for regional warnings, while acknowledging the non-zero risk of rapid deterioration in an already volatile situation.",
+    "probability": 14
+  },
+  "usage": {
+    "inputTokens": 2743,
+    "outputTokens": 1645,
+    "totalTokens": 4388,
+    "reasoningTokens": 958,
+    "cachedInputTokens": 0
+  }
+}

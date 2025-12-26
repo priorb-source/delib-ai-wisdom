@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_full-gpt5-3",
+  "questionId": 37051,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37051-diverse_full",
+  "independentForecastId": "37051-gpt5-full",
+  "otherForecastIds": [
+    "37051-pro-full",
+    "37051-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the same core constraints I relied on: IRS—not the President—controls revocation; due process and appeals make the timeline glacial by comparison to the 67 days left; Bob Jones took years; and anti-targeting safeguards and likely judicial intervention make a swift revocation very hard. They didn’t surface concrete new signals (e.g., a proposed adverse determination, compressed response windows, or leadership changes with explicit marching orders). I agree with their identification of a non-zero tail from unprecedented political pressure and irregular moves. The most persuasive incremental point is the resolution sensitivity: if the IRS were to issue a revocation letter and outlets credibly report Harvard “lost” its exemption—even if quickly enjoined—that could still satisfy the question’s criteria. I’m less convinced by their 5% level given that IRS turmoil more often slows action than speeds it and that issuing a final adverse determination without process would be an extreme legal outlier likely preempted or instantly stayed.",
+    "rationale": "Baseline remains that revocation before July 1 would require the IRS to take an extraordinary, likely unlawful shortcut (skipping exam/notice/appeals) or Congress to pass targeted legislation—both highly improbable on this timeline. Harvard’s ongoing litigation also increases the odds of preemptive or immediate injunctive relief. The reported “making plans” language is far from a final action and the IRS has strong institutional incentives to avoid a Bob Jones–style fight without a clear public-policy violation. That said, I’m nudging up slightly to reflect the tail where the IRS issues a surprise revocation notice that major outlets credibly report before courts can unwind it, which would still resolve this market as Yes. Update: from 2% to 3%, driven by the resolution criteria’s sensitivity to a public revocation announcement and acknowledgment of elevated norm-breaking risk, while still heavily discounting feasibility within 67 days.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 2240,
+    "outputTokens": 2001,
+    "totalTokens": 4241,
+    "reasoningTokens": 1600,
+    "cachedInputTokens": 0
+  }
+}

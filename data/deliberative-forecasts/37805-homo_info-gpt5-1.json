@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_info-gpt5-1",
+  "questionId": 37805,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37805-homo_info",
+  "independentForecastId": "37805-gpt5-info1-1",
+  "otherForecastIds": [
+    "37805-gpt5-info2-2",
+    "37805-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters sharpened two key points I underweighted: (1) FlightsFrom only counts scheduled (OAG-filed) services, so Korean charters or small-carrier inter-island flights (TIQ/ROP) likely won’t move the count; and (2) the calendar is tight—new July routes should already be filed. Forecaster 3’s note that current trackers show only 3–4 destinations and that NRT appears intermittent is especially relevant; if NRT doesn’t run on July 1, getting to >4 would require two additions in six weeks—unlikely. Forecaster 2’s Hong Kong Airlines angle is interesting but unverified and thus weakly persuasive; I give it low weight absent schedule filings. Both emphasize macro headwinds (weak JPY, limited China market), which further dampen expansion odds. Overall, their arguments convincingly reduce the likelihood that a fifth destination will be listed by July 1.",
+    "rationale": "My prior 64% leaned on two fragile assumptions: that inter-island services might be listed by FlightsFrom and that a seasonal Korean secondary city would likely be loaded. On reflection, FlightsFrom is unlikely to include TIQ/ROP given their typical exclusion from OAG/GDS, and seasonal Korean adds often operate as charters or with late/limited filings that may not appear as scheduled services on July 1. The decisive pivot is United’s NRT–SPN: if it’s operating that day, SPN plausibly sits at four (GUM, ICN, PUS, NRT). To resolve Yes (>4), we’d still need one more scheduled destination by July 1, which would probably require a clearly filed seasonal route (e.g., a Korean secondary city). With only ~6 weeks left and no firm evidence of such filings, that’s a stretch. If NRT is not operating on the date, the bar is even higher (two additions). Marketing momentum and Korean demand support maintaining existing routes, but they’re insufficient evidence for a fifth scheduled destination in the near term. Accordingly, I significantly lower my probability, while retaining a modest tail for a late-filed Korean seasonal or a confirmed NRT plus one more.",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1938,
+    "outputTokens": 2512,
+    "totalTokens": 4450,
+    "reasoningTokens": 2048,
+    "cachedInputTokens": 0
+  }
+}

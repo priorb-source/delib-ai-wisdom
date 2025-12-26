@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-homo_info-pro-1",
+  "questionId": 37052,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37052-homo_info",
+  "independentForecastId": "37052-pro-info1-1",
+  "otherForecastIds": [
+    "37052-pro-info2-2",
+    "37052-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I are in strong agreement on the fundamental dynamics of this question: the primary tension is between the very short timeframe (just over two months) and the exceptionally high recent base rate of successful coups, particularly in Africa's Sahel region. Both other forecasters arrived at a 30% probability, slightly higher than my initial 25%. Their reasoning was very similar, grounding their forecast in the recent annual rate of coups and then making a qualitative adjustment upwards to account for the acute 'contagion' effect and ongoing instability. Forecaster 2's explicit back-of-the-envelope calculation, which produced a baseline of ~25% before adjustment, was particularly useful as it closely mirrored my own implicit calculation. Forecaster 3 helpfully introduced the specific, albeit low-probability, scenario of a self-coup in Latin America, which I had not explicitly considered.",
+    "rationale": "I am updating my forecast from 25% to 30%. The reasoning provided by the other forecasters was convincing, and the independent consensus at a slightly higher number signals that my initial forecast may have been too conservative. My 25% forecast accurately captured the baseline probability derived from applying the recent annual coup rate to the short time window. However, the other forecasters correctly argued for a slight upward adjustment from this baseline to account for the *acuity* of the current risk. The provided background information of a foiled coup attempt in Burkina Faso as recently as April 2025—this very month—is a powerful piece of evidence that the conditions for a coup are not just present, but actively being acted upon right now. This suggests the short-term risk is higher than a simple average of the past few years would indicate. I find this argument to adjust upward from the ~25% baseline compelling. This 5-point increase reflects a revised belief that the 'contagion' effect and the intensity of current plotting slightly elevate the immediate probability beyond the simple historical base rate.",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 2639,
+    "outputTokens": 2036,
+    "totalTokens": 4675,
+    "reasoningTokens": 1610,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37434-diverse_none-sonnet-2",
+  "questionId": 37434,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37434-diverse_none",
+  "independentForecastId": "37434-sonnet-none",
+  "otherForecastIds": [
+    "37434-pro-none",
+    "37434-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 provides critical financial details I lacked: $1.5M cash at year-end 2024, $23M annual burn rate (~$2M/month), auditor going concern warning, and dependence on a Q2 Indiana farm sale. These facts, if accurate from the SEC filing, dramatically change the assessment from 'general distress' to 'survival depends on single asset sale closing within weeks.' This information makes my initial 15% forecast far too optimistic. Forecaster 3 raises important counterpoints: we're already 4+ months into 2025 without a filing, suggesting bridge financing or cost cuts occurred; micro-caps often secure dilutive equity lifelines; the 8-week window is short; and limited secured debt reduces creditor pressure. The fact that no bankruptcy has been filed yet despite such low cash at year-end is itself informative - either the farm sale is progressing, they raised emergency capital, or they drastically cut burn. Forecaster 2's 65% appropriately reflects severe distress but may underweight status quo bias and the signed nature of the purchase agreement. Forecaster 3's 34% seems more calibrated to the short window and survival-to-date.",
+    "rationale": "I significantly underestimated the severity of AquaBounty's financial distress. The combination of $1.5M cash, $2M+ monthly burn, going concern warning, and dependence on a single asset sale points to imminent insolvency risk. However, three factors prevent me from adopting Forecaster 2's 65%: (1) Status quo - we're in early May and no filing has occurred, suggesting they bridged the Jan-May period somehow; (2) The farm sale has a signed purchase agreement, not merely being contemplated, which significantly de-risks execution; (3) The 8-week window is short, and real estate closings, while subject to delays, more often proceed than fail once under contract. I'm revising sharply upward to reflect the knife-edge financial situation while crediting that they've survived this long and have a concrete path via the farm sale.",
+    "probability": 45
+  },
+  "usage": {
+    "inputTokens": 2035,
+    "outputTokens": 1390,
+    "totalTokens": 3425,
+    "reasoningTokens": 884,
+    "cachedInputTokens": 0
+  }
+}

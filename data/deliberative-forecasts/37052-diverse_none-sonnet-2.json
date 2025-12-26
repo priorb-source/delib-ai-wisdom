@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-diverse_none-sonnet-2",
+  "questionId": 37052,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37052-diverse_none",
+  "independentForecastId": "37052-sonnet-none",
+  "otherForecastIds": [
+    "37052-pro-none",
+    "37052-gpt5-none"
+  ],
+  "forecast": {
+    "review": "All three forecasts converge remarkably on 22-25%, using similar base rate methodology applied to the ~2-month window. The key tension is between the 2020-2023 base rate (suggesting 22-25%) versus the observation that 2024-Apr 2025 has seen ZERO successful coups despite multiple attempts - a 16-month dry spell. Forecaster 3's emphasis on this cooling period is compelling and suggests the underlying hazard may have decreased from the 2020-2023 peak. The junta consolidation argument is also strong: many at-risk countries are already under military rule and have purged rivals, raising the bar for new coups. However, Forecaster 2 correctly notes that structural drivers (jihadist insurgencies, weak governance, geopolitical competition) persist. The failed attempts in DRC (May 2024), Chad (Jan 2025), and Bolivia (June 2024) demonstrate ongoing intent and capability. Forecaster 3's Poisson calculation (1 − exp(−1.5×2.2/12) ≈ 24%) is mathematically sound. The specific hotspot analysis (Burkina Faso intra-junta tensions, Chad post-election consolidation, Guinea-Bissau historical pattern, DRC recent attempt) adds useful granularity. All forecasters correctly identify Latin America as contributing minimal risk.",
+    "rationale": "My initial 25% was well-calibrated but should modestly adjust downward. The 16-month dry spell since August 2023 is a significant update that suggests the 2020-2023 'coup contagion' has cooled somewhat. While structural fragility persists in the Sahel, the fact that multiple recent attempts have failed (rather than succeeded) indicates higher barriers to success - whether from improved government defenses, regional pressure, or junta consolidation. The mathematical base rate calculation remains sound: using 1.5 coups/year for Africa over 2.2 months yields ~24% via Poisson distribution. Adding 1-2% for Latin America's minimal risk gives 25-26%, but the recent cooling warrants slight downward adjustment. The consensus among all three forecasters (22-25%) with similar methodology strengthens confidence in this range. I'm adjusting from 25% to 24% to: (1) acknowledge the 16-month successful coup drought as evidence of moderating risk, (2) align with Forecaster 3's rigorous Poisson calculation, and (3) reflect that while structural conditions support ongoing risk, execution barriers appear higher than the 2020-2023 period suggested.",
+    "probability": 24
+  },
+  "usage": {
+    "inputTokens": 3259,
+    "outputTokens": 1697,
+    "totalTokens": 4956,
+    "reasoningTokens": 786,
+    "cachedInputTokens": 0
+  }
+}

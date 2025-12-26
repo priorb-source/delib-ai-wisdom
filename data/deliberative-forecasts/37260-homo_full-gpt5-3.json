@@ -1,0 +1,26 @@
+{
+  "forecastId": "37260-homo_full-gpt5-3",
+  "questionId": 37260,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37260-homo_full",
+  "independentForecastId": "37260-gpt5-full-3",
+  "otherForecastIds": [
+    "37260-gpt5-full-1",
+    "37260-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters correctly emphasize the hard procedural gate (no filing) and the Constitutional Court’s inherently long timelines, which dominate the short horizon. Forecaster 2 adds a useful calibration: even with an immediate filing, odds remain well under 1% due to timing alone. Forecaster 3 helpfully highlights the 2017 NPD precedent on “capability” in addition to anti-constitutional aims—useful legally, but it doesn’t mitigate the time constraint. I find their reasoning persuasive; nothing presented suggests a realistic legal path to a binding party ban by July 1 absent an unprecedented emergency plus extraordinary fast-tracking by the Court.",
+    "rationale": "- Timing: ~60 days remain. No application has been filed by the federal government, Bundestag, or Bundesrat. Without an application, the Court cannot act. Even with an immediate filing, party-ban proceedings are complex and historically take months to years; a final ruling by July 1 would require unprecedented acceleration. \n- Legal bar: The Court’s 2017 NPD jurisprudence requires both anti-constitutional aims and sufficient capability to undermine the democratic order. While AfD’s strength could satisfy capability more than NPD did, this does not shrink the required procedural steps or deliberation time. \n- Politics: The January Bundestag debate lacked majority support to initiate proceedings; the federal government and Länder have shown caution. AfD polling in the mid-20s further disincentivizes a hasty move. \n- Residual risk: A severe, sudden security crisis tied directly to AfD leadership could spur immediate filing and a request for interim measures. But an interim order would not constitute a “ban” under Art. 21(2); a formal ban announcement by the Constitutional Court before July 1 remains extraordinarily unlikely.\nGiven the strong convergence on the binding procedural and temporal constraints, I’m nudging my estimate down slightly to reflect just how dominant timing is, even conditional on a filing.",
+    "probability": 0.5
+  },
+  "usage": {
+    "inputTokens": 2468,
+    "outputTokens": 1508,
+    "totalTokens": 3976,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

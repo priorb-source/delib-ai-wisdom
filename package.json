@@ -1,0 +1,15 @@
+{
+  "name": "deliberative-forecasting",
+  "version": "1.0.0",
+  "description": "Does deliberation improve LLM-based forecasting?",
+  "type": "module",
+  "license": "MIT",
+  "author": "Paul Schneider <paul@priorb.com>",
+  "packageManager": "pnpm@10.20.0",
+  "dependencies": {
+    "@openrouter/ai-sdk-provider": "^1.5.3",
+    "ai": "^5.0.113",
+    "dotenv": "^17.2.3",
+    "zod": "^4.1.13"
+  }
+}

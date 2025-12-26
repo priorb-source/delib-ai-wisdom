@@ -1,0 +1,26 @@
+{
+  "forecastId": "37638-homo_none-sonnet-1",
+  "questionId": 37638,
+  "condition": "homo_none",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37638-homo_none",
+  "independentForecastId": "37638-sonnet-none-1",
+  "otherForecastIds": [
+    "37638-sonnet-none-2",
+    "37638-sonnet-none-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters converge on a low probability range (8-18%), which validates the core reasoning about the extremely tight timeline and status quo bias. Forecaster 3 raises a valuable point I underweighted: Texas's historically conservative drug policy stance could make a THC ban more politically viable there than in other states. Both other forecasters also appropriately note the uncertainty about bill status - without concrete tracking data, we cannot definitively rule out that legislation is further advanced than the article suggests. However, I find Forecaster 3's 18% somewhat high given that the article poses this as a question rather than reporting imminent passage. If a bill were truly far along, we would likely have more concrete information. Forecaster 2's 12% represents a reasonable middle ground that balances these considerations.",
+    "rationale": "Upon reflection, I think my initial 8% was slightly too conservative. Forecaster 3's point about Texas's conservative drug policy stance is well-taken - this state context does increase the baseline probability compared to other jurisdictions. The convergence of all three forecasts in the 8-18% range suggests this is the appropriate ballpark. However, several factors constrain me from moving significantly higher: (1) The article frames this as an open question rather than reporting concrete legislative momentum, (2) With only 6.5 weeks until the deadline and the session ending in late May, the procedural timeline is extremely compressed, (3) The base rate for controversial legislation passing late in session remains low, and (4) The complete lack of information about bill status, committee progress, or vote counts suggests no dramatic developments have occurred. I'm updating modestly upward to 11% to account for Texas-specific political context and uncertainty about bill status, while maintaining strong weight on status quo outcomes given the timeline constraints.",
+    "probability": 11
+  },
+  "usage": {
+    "inputTokens": 1817,
+    "outputTokens": 1153,
+    "totalTokens": 2970,
+    "reasoningTokens": 773,
+    "cachedInputTokens": 0
+  }
+}

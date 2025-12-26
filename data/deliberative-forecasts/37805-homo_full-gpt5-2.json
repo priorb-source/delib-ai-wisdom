@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_full-gpt5-2",
+  "questionId": 37805,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37805-homo_full",
+  "independentForecastId": "37805-gpt5-full-2",
+  "otherForecastIds": [
+    "37805-gpt5-full-1",
+    "37805-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters’ reasoning closely matches my baseline. New/useful additions: (1) explicit note that FlightsFrom reflects OAG/GDS up to 12 months ahead and excludes ad hoc charters; (2) China-mainland route prospects further dampened by the end of CNMI’s PRC parole program; (3) LCC aircraft/crew constraints as an added headwind; (4) the dependency on NRT remaining visible—if it drops, two new cities would be needed. I find these arguments credible and directionally consistent with a No-lean. No concrete new signals of an additional route were presented, so I don’t see a reason to move materially up or down.",
+    "rationale": "Time to gate is ~6 weeks. FlightsFrom will list any loaded schedules by July 1, even if first flights are later in summer. Status quo is 3–4 destinations (GUM, ICN, PUS, intermittent NRT). For a Yes, SPN likely needs NRT to be listed plus one more destination (most plausible is a late-added Korean secondary city; HKG is a stretch without evidence). Headwinds: weak Japan outbound on yen, PRC parole termination limiting China opportunities, and LCC capacity constraints reducing odds of last-minute adds. Upside exists because Korean LCCs can add seasonal cities with relatively short notice, but without concrete filings or announcements, the probability that both NRT is present and at least one new city appears by July 1 remains modest. Conversely, if NRT falls off, reaching ≥5 would require two additions, which is unlikely in this timeframe. Net: maintain a low-but-not-tiny chance, anchored by possible Korean seasonal additions and potential NRT visibility.",
+    "probability": 22
+  },
+  "usage": {
+    "inputTokens": 2361,
+    "outputTokens": 1649,
+    "totalTokens": 4010,
+    "reasoningTokens": 1280,
+    "cachedInputTokens": 0
+  }
+}

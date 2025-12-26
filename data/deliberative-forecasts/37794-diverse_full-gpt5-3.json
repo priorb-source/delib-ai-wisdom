@@ -1,0 +1,26 @@
+{
+  "forecastId": "37794-diverse_full-gpt5-3",
+  "questionId": 37794,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37794-diverse_full",
+  "independentForecastId": "37794-gpt5-full",
+  "otherForecastIds": [
+    "37794-pro-full",
+    "37794-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s argument correctly leans on regression and the short runway for extreme performance to normalize, but it overreaches slightly by invoking season-long .400 rarity and “defensive shifts” (largely constrained since 2023). Still, lower league BABIP and modern pitching are real headwinds. Their 25% feels a bit low if Judge currently has even a small cushion. \n\nForecaster 3’s math seems to assume Judge remains at ~.414, which likely ignores the 0-for-5 on May 18 that reduced his cushion materially. If he’s around .400 now, the required performance over the next 35–45 AB is closer to ~.375–.400 rather than ~.343. That makes 72% too high given the volatility of a 10–12 game stretch. The short horizon and possibility of walks limiting AB are valid tailwinds, but the baseline they use is probably too favorable.\n",
+    "rationale": "Main uncertainty is Judge’s exact baseline after May 18. If he’s ~.400 with ~150–165 AB, then with ~35–45 more AB through June 1 he likely needs about .375–.400 over that span to finish ≥ .400 (ESPN rounds to three decimals, so ≥ .3995 counts). That’s attainable but far from a favorite for a power hitter with a typical true BA around .310–.330. Walks help by holding down AB, but a single 1-for-15 skid would likely push him below .400. No other player appears close enough to overtake to .400 by June 1, so this is almost entirely Judge-dependent. \n\nCompared to my prior 35%, I’m nudging down slightly because Forecaster 3’s cushion looks overstated; the 0-for-5 likely means the maintenance requirement is closer to .380–.400 over the next ~40 AB rather than mid-.300s. That lowers the likelihood modestly but still leaves meaningful probability given the short timeframe and rounding.\n",
+    "probability": 33
+  },
+  "usage": {
+    "inputTokens": 2295,
+    "outputTokens": 3895,
+    "totalTokens": 6190,
+    "reasoningTokens": 3456,
+    "cachedInputTokens": 0
+  }
+}

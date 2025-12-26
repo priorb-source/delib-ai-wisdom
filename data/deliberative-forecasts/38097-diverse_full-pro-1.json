@@ -1,0 +1,26 @@
+{
+  "forecastId": "38097-diverse_full-pro-1",
+  "questionId": 38097,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38097-diverse_full",
+  "independentForecastId": "38097-pro-full",
+  "otherForecastIds": [
+    "38097-sonnet-full",
+    "38097-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters agree on the central fact: according to multiple credible news sources from late May 2025, Laurent Gbagbo is currently considered legally disqualified and has been removed from the electoral list, which satisfies the resolution criteria. Our differences lie in the degree of uncertainty we assign to this state of affairs. Forecaster 2 (87%) introduces uncertainty about potential legal appeals and the 'finality' of the decision. Forecaster 3 (90%) introduces a more nuanced uncertainty related to the resolution process itself, questioning whether the current reporting is sufficient for the resolver or if a new, more formal declaration before July 1st will be required. I find Forecaster 3's argument about this 'resolver uncertainty' to be the most compelling point I hadn't fully considered. My initial forecast of 98% was almost entirely based on the low probability of Gbagbo's legal status being reversed, but it did not sufficiently account for the possibility that the existing reporting might not trigger a 'Yes' resolution without a further official statement.",
+    "rationale": "I am slightly decreasing my forecast from 98% to 95%. My core reasoning remains unchanged: the status quo is that Laurent Gbagbo is legally ineligible to run, and this existing condition satisfies the resolution criteria. The political climate in Côte d'Ivoire, marked by the recent disqualification of another opposition leader, makes a reversal of Gbagbo's status before the July 1 deadline extremely unlikely. However, after reviewing the other analyses, particularly Forecaster 3's, I am incorporating a small amount of additional uncertainty related to the resolution process. It is possible that the question's resolver may require a new, official Ivorian government or judicial statement specifically pertaining to the 2025 election before resolving the question, and the current news reports re-affirming a long-standing disqualification may not be deemed sufficient. While I believe such a clarifying statement is likely to be issued before the deadline given the political context, it is not a certainty. This meta-uncertainty warrants a minor downward adjustment. I am not lowering my forecast to the 87-90% range because I believe the probability of Gbagbo's de facto ineligibility being reversed is vanishingly small, and this should remain the primary driver of the forecast.",
+    "probability": 95
+  },
+  "usage": {
+    "inputTokens": 2168,
+    "outputTokens": 3342,
+    "totalTokens": 5510,
+    "reasoningTokens": 2849,
+    "cachedInputTokens": 0
+  }
+}

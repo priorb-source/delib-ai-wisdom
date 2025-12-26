@@ -1,0 +1,26 @@
+{
+  "forecastId": "37614-homo_none-gpt5-1",
+  "questionId": 37614,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37614-homo_none",
+  "independentForecastId": "37614-gpt5-none-1",
+  "otherForecastIds": [
+    "37614-gpt5-none-2",
+    "37614-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my prior view: survival below 50% given recall base rates and the highly negative salience. The main new, explicit input is Forecaster 3’s quantified base rate that local recalls remove incumbents about 60% of the time (i.e., ~40% survival). That’s consistent with my mental model but stated more firmly. Both also appropriately emphasize the volatility of very small electorates and the possibility that absence of charges/self-defense framing could blunt removal pressure. No one introduced new local facts (charges, endorsements, turnout data), so the updates are methodological rather than evidentiary.",
+    "rationale": "I started at 40% survival based on small-town recall dynamics and the serious allegation likely energizing the pro-recall side. Incorporating the more explicit 60% removal base rate and the unusually severe allegation nudges me slightly lower than my prior. Offsetting that are small-town idiosyncrasies, potential absence of charges, and the possibility that personal networks plus status quo bias keep enough voters with Metz. With eight days to go and no concrete signals (charges, elite cues, ballot return skew) to break symmetry, I’ll shade down modestly to reflect the base rate and salience without overcommitting in a highly volatile, tiny electorate.",
+    "probability": 38
+  },
+  "usage": {
+    "inputTokens": 1765,
+    "outputTokens": 1239,
+    "totalTokens": 3004,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

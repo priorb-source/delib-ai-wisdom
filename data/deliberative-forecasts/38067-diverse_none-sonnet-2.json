@@ -1,0 +1,26 @@
+{
+  "forecastId": "38067-diverse_none-sonnet-2",
+  "questionId": 38067,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "38067-diverse_none",
+  "independentForecastId": "38067-sonnet-none",
+  "otherForecastIds": [
+    "38067-pro-none",
+    "38067-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters raised critical evidence I had significantly underweighted. The most important new information is the concrete historical data: women have won 5 out of 10 times from 2014-2024, a 50% win rate in the recent decade. This directly contradicts my assumption that 'women win less frequently than a pure random selection would predict.' I also hadn't fully accounted for the James Beard Foundation's post-2020 audit and restructuring explicitly aimed at promoting equity and diversity, which provides a structural reason to expect continued gender parity. \n\nForecaster 2 and 3 both identified specific recent female winners by name and year, demonstrating a clear pattern of recognition. They also provided useful contextual information about typical finalist compositions (2-3 women out of 5 finalists in recent years, though 2023 was 4 men to 1 woman). Both forecasters appropriately hedged against going above 50% given: (1) the last two winners (2023, 2024) were men, suggesting possible reversion; (2) uncertainty about the actual 2025 finalist composition; and (3) the fact that men still have slight historical advantages in the category overall.\n\nTheir convergence on 45% appears well-calibrated and evidence-based. My initial 30% was too pessimistic and overweighted long-term historical male dominance while underweighting the strong recent decade of gender parity.",
+    "rationale": "I am updating my forecast significantly upward from 30% to 43%. The evidence of 50% female winners over the 2014-2024 period is compelling and represents a clear base rate for the modern era of the award post-diversity reforms. My initial forecast was too anchored on general historical male dominance in culinary awards without properly weighting the recent trend.\n\nHowever, I'm settling at 43% rather than 45% for a few reasons: (1) The consecutive male wins in 2023-2024 create slight negative momentum; (2) We're extremely close to the announcement (early June, currently May 27) and without access to the actual 2025 finalist list or pre-ceremony reporting about frontrunners, I maintain slightly more uncertainty; (3) The 2023 finalist composition of 4 men to 1 woman suggests variability in nominee pools that could work against female winners in any given year.\n\nIf the 2025 finalists include 2-3 women (the recent typical pattern), then 45% would be fully justified. But given the possibility of a less favorable composition and recent male wins, I'm conservatively staying at 43%.",
+    "probability": 43
+  },
+  "usage": {
+    "inputTokens": 1936,
+    "outputTokens": 1359,
+    "totalTokens": 3295,
+    "reasoningTokens": 647,
+    "cachedInputTokens": 0
+  }
+}

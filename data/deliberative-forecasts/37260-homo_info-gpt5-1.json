@@ -1,0 +1,26 @@
+{
+  "forecastId": "37260-homo_info-gpt5-1",
+  "questionId": 37260,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37260-homo_info",
+  "independentForecastId": "37260-gpt5-info1-1",
+  "otherForecastIds": [
+    "37260-gpt5-info2-2",
+    "37260-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforce the core constraints I relied on: only the Federal Constitutional Court can ban a party; no filing exists; and the Court’s party-ban cases take months to years with no credible fast-track precedent. New/useful additions: (1) clear reminder that the Associations Act cannot be used against parties; (2) AfD’s strong polling raises political risk of filing and thus lowers the near-term likelihood of even initiating proceedings; (3) the explicit point that a Bundestag minority motion is far from a majority-backed filing. I find their reasoning convincing and consistent with the legal/temporal bottlenecks. They also frame tail risks similarly to my view.",
+    "rationale": "Time remaining is ~60 days. As of early May 2025, no application to the Federal Constitutional Court has been filed by any authorized entity. Even if filed immediately, historical timelines (e.g., NPD 2013–2017) and the Court’s caution make a final ban announcement before July 1 extraordinarily unlikely. Politically, high AfD polling and the risk of a failed ban attempt reduce the probability of initiating proceedings in the near term. Administrative bans are not available for parties. A Yes would require multiple unprecedented steps (rapid filing plus an extraordinarily expedited ruling) that run counter to established practice. Given the additional political context highlighted by the other forecasters and the lack of any sign of a fast-track, I trim my estimate slightly to reflect an even thinner tail.",
+    "probability": 0.2
+  },
+  "usage": {
+    "inputTokens": 2113,
+    "outputTokens": 955,
+    "totalTokens": 3068,
+    "reasoningTokens": 640,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37261-diverse_info-gpt5-2",
+  "questionId": 37261,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37261-diverse_info",
+  "independentForecastId": "37261-gpt5-info1",
+  "otherForecastIds": [
+    "37261-pro-info2",
+    "37261-sonnet-info3"
+  ],
+  "forecast": {
+    "review": "- Forecaster 2 introduces a new alleged event (“Hands Off!” on Apr 5 with 600k nationwide). That conflicts with the RA’s May 1 “50501” account and isn’t a widely recognized label; without corroboration, I treat it as low‑confidence. Their 95% heavily assumes Carnegie will both deem it notable and post it promptly; that underestimates the tracker’s selectivity and variable lag.\n- Forecaster 3 usefully stresses the small average U.S. protest size and the need for a rare right‑tail event to clear 10k at a single site. They also highlight the multiple gating steps (occurrence + GPT inclusion + timing), which aligns with my earlier concerns. However, they may overweight average-size data; U.S. protest sizes are heavy‑tailed, and known windows (May Day, June SCOTUS decisions) can produce 10k+.\n- Net: F2’s point about update window length is fair but overconfident; F3’s emphasis on GPT inclusion risk and timing nudges me slightly downward. The RA’s May 1 nationwide actions remain a plausible candidate, but inclusion by GPT is uncertain, and late‑June protests—if they occur—may not be posted by July 1.",
+    "rationale": "I previously set 47%, balancing a plausible May 1 candidate and other May–June catalysts against GPT’s selectivity and lag. After deliberation, I slightly lower the probability. Reasons: (1) increased weight on the tracker’s editorial threshold/timing risk (Forecaster 3), (2) lack of credible corroboration for Forecaster 2’s April 5 claim, and (3) recognition that even if May Day saw 10k+ in a city, Carnegie may not create a new U.S. entry for it by July 1. Countervailing factors (May–June protest windows, potential late‑June SCOTUS triggers) keep the forecast well above 30%.\nWhat would move me up: credible reports of 10k+ turnout for May 1 in major cities; evidence of recent, timely GPT additions for other countries/events; any indication GPT has added or plans to add a U.S. May–June 2025 protest entry.\nWhat would move me down: signs the tracker hasn’t been updated in months; confirmation that May Day actions were mostly sub‑10k; or that GPT will treat any large late‑June actions as continuations of earlier waves with older start dates.",
+    "probability": 44
+  },
+  "usage": {
+    "inputTokens": 1904,
+    "outputTokens": 3349,
+    "totalTokens": 5253,
+    "reasoningTokens": 2816,
+    "cachedInputTokens": 1408
+  }
+}

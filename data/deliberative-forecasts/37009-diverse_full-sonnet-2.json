@@ -1,0 +1,26 @@
+{
+  "forecastId": "37009-diverse_full-sonnet-2",
+  "questionId": 37009,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37009-diverse_full",
+  "independentForecastId": "37009-sonnet-full",
+  "otherForecastIds": [
+    "37009-pro-full",
+    "37009-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters make compelling arguments that challenge my initial conservatism. Forecaster 2's 'costly signals' framework is particularly persuasive—contacting potential House successors is not something you do tentatively; it's a strong commitment signal that suggests the decision is made and we're just awaiting the formal announcement. Forecaster 3's point about competitive pressure and the end-of-month fundraising deadline creating natural urgency is also well-taken. I had underweighted these strategic timing considerations. However, I find Forecaster 2's 90% too aggressive. While the preparatory actions are indeed costly signals, we're still relying on media reports about timing rather than confirmed facts, and 'as early as next week' leaves room for slippage. Forecaster 3's 77% strikes a better balance, acknowledging both the strong evidence for an imminent announcement and the reality that political rollouts frequently slip by several days, which matters when we only have 9 days remaining until May 1.",
+    "rationale": "Upon reflection, I was too conservative at 65%. The convergence of evidence is stronger than I initially credited: (1) The costly signals—especially contacting House successors—indicate a committed decision, not mere consideration; (2) Competitive pressure from McMorrow and El-Sayed already in the race creates urgency; (3) The April 30 fundraising deadline aligns perfectly with the May 1 cutoff; (4) Politico's 'as early as next week' on April 19 points to the April 21-27 window, giving us 7 highly relevant days. However, I'm not moving to 90% because: (1) No FEC filing yet (though not required before announcement); (2) Two outlets used softer 'coming weeks' language; (3) Even credible media reports about political timing can be off by days, and we only have 9 days; (4) Unforeseen delays in venue, endorsements, or strategy could push into early May. I'm updating to 73%, closer to Forecaster 3's balanced position, reflecting strong evidence for an imminent announcement while maintaining appropriate uncertainty about hitting this specific deadline.",
+    "probability": 73
+  },
+  "usage": {
+    "inputTokens": 2203,
+    "outputTokens": 1484,
+    "totalTokens": 3687,
+    "reasoningTokens": 842,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-diverse_info-gpt5-2",
+  "questionId": 37238,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37238-diverse_info",
+  "independentForecastId": "37238-gpt5-info2",
+  "otherForecastIds": [
+    "37238-pro-info1",
+    "37238-sonnet-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds useful, concrete recency evidence (UFC 309 in Nov 2024 and UFC 314 in Apr 2025) that supports a higher-than-baseline attendance rate and rightly emphasizes Newark’s convenience from Bedminster. The claim that he “rarely attends two UFC events in such close succession” is a reasonable caution, but the interval here (eight weeks) isn’t unusually tight for Trump given his 2023–2024 pattern. Forecaster 3’s analysis is less persuasive: the venue is known (Prudential Center, Newark), so travel/logistics are not uncertain in that sense, and applying a generic presidential base rate underweights Trump’s idiosyncratic behavior and his demonstrated willingness to appear at UFC events as president. Their broader point—that time and schedule constraints cap the ceiling—is valid, but the 32% seems too low given location and recent behavior.",
+    "rationale": "My prior leaned slightly Yes based on (1) strong personal relationship with Dana White; (2) clear, recent pattern of attendance (including April 2025 as president); (3) very convenient location near Bedminster; and (4) a marquee main event likely to draw VIPs. Forecaster 2’s added data about UFC 309 strengthens the case for an elevated base rate for Trump specifically. The main counterweights remain potential early-June presidential commitments (e.g., international summits or domestic events) and the fact he doesn’t attend every PPV—even favorable ones. Forecaster 3’s argument about generic presidential constraints is already reflected in not going much higher than the low-to-mid 50s. Net, I keep a slight-yes posture, with the biggest swing factor being confirmation of his June 7 weekend schedule. I make a small, conservative nudge down from my initial 57% to 56% to reflect residual uncertainty about potential early-June diplomatic travel while acknowledging the strong pull of Newark convenience and recent attendance.",
+    "probability": 56
+  },
+  "usage": {
+    "inputTokens": 1586,
+    "outputTokens": 1697,
+    "totalTokens": 3283,
+    "reasoningTokens": 1280,
+    "cachedInputTokens": 0
+  }
+}

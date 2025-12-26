@@ -1,0 +1,26 @@
+{
+  "forecastId": "37003-diverse_full-pro-1",
+  "questionId": 37003,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37003-diverse_full",
+  "independentForecastId": "37003-pro-full",
+  "otherForecastIds": [
+    "37003-sonnet-full",
+    "37003-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters, including myself, have reached the same directional conclusion with very high confidence, based on the same set of overwhelming evidence: the SPÖ's 80-year electoral dominance in Vienna, its strong incumbency, and a consistent, massive polling lead of 16-19 points just six days before the election. Our reasoning is largely aligned, with minor differences in how we calibrate the small probability of an upset. Forecaster 2's 92% seems overly cautious given the magnitude of the polling lead; a 1-in-12 chance of failure feels too high for an outcome this well-supported. Forecaster 3's analysis at 95% was particularly insightful. They raised two points I hadn't explicitly weighted: first, that the D'Hondt method for seat allocation tends to benefit the largest party, which strengthens the case for 'Yes'. Second, and more importantly for my update, they noted that the Freedom Party of Austria (FPÖ) has a history of outperforming its polling numbers. This introduces a specific, evidence-based mechanism for a polling miss beyond generic uncertainty, which I find convincing.",
+    "rationale": "After reviewing my peers' analyses, I am slightly revising my forecast downward. My initial 98% was based on the sheer size of the SPÖ's lead and their historical dominance, pricing the chance of an upset as a confluence of extremely rare events. However, Forecaster 3's point about the FPÖ's history of outperforming polls is a valid and specific risk factor that deserves more weight. This 'shy voter' effect, or similar phenomena, makes a systematic polling error in the FPÖ's favor more plausible than I had initially estimated. While the 16-19 point gap is almost certainly too large to be overcome by this effect alone, it slightly increases the probability of a 'No' outcome. I am not moving down to 95% or 92% because I believe the sheer scale of the lead, combined with the SPÖ's organizational strength and the point about the D'Hondt system favoring the frontrunner, still makes an upset extraordinarily unlikely. A modest adjustment from 98% to 96% properly incorporates the specific risk highlighted by my colleague while still reflecting my very high confidence in the base case.",
+    "probability": 96
+  },
+  "usage": {
+    "inputTokens": 1807,
+    "outputTokens": 2398,
+    "totalTokens": 4205,
+    "reasoningTokens": 1902,
+    "cachedInputTokens": 0
+  }
+}

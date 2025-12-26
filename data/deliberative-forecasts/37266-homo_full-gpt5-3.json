@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-homo_full-gpt5-3",
+  "questionId": 37266,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37266-homo_full",
+  "independentForecastId": "37266-gpt5-full-3",
+  "otherForecastIds": [
+    "37266-gpt5-full-1",
+    "37266-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my base reasoning: Level 4 is typically reserved for nationwide, acute crises, while Mozambique’s risk remains geographically concentrated. They add a few useful nuances I hadn’t explicitly cited: the waning cyclone season (reducing a potential non-security trigger), the LNG corridor remaining a bellwether, and concrete tripwires like attacks on provincial capitals/critical infrastructure and an Embassy ordered departure. I agree with their emphasis on the short time window and the State Department’s pattern of handling Mozambique-like risk profiles with regional Level 4s rather than a nationwide upgrade. I don’t see compelling counterevidence for a higher probability than my prior; if anything, their arguments support a slight downward adjustment.",
+    "rationale": "The probability of a nationwide Level 4 by July 1 remains low given (1) the State Department’s high threshold for Level 4 and preference for regional Do Not Travel designations when threats are localized; (2) current signals of risk escalation (Niassa incidents, Embassy alerts) being notable but still geographically bounded; and (3) the short ~60‑day window, which typically requires a conspicuous inflection (major urban attacks, widespread unrest, kidnappings of foreigners, or an Embassy ordered departure). I retain tail risk for a step-change if insurgent activity spreads into major population centers or if the Embassy takes evacuation-related measures, but absent that, the base rate argues against a national upgrade. I’m nudging my estimate down modestly to reflect the deliberators’ strong base-rate case and the lack of new indications of imminent nationwide deterioration.",
+    "probability": 11
+  },
+  "usage": {
+    "inputTokens": 2622,
+    "outputTokens": 1297,
+    "totalTokens": 3919,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38056-diverse_full-sonnet-2",
+  "questionId": 38056,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "38056-diverse_full",
+  "independentForecastId": "38056-sonnet-full",
+  "otherForecastIds": [
+    "38056-pro-full",
+    "38056-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters have arrived at identical 1% forecasts using remarkably similar reasoning. None have introduced new factual evidence beyond what was in the research report. The consensus strengthens confidence in the analytical framework: (1) the withdrawal is definitively established through multiple credible sources, (2) a replacement fighter is officially booked, (3) the event is only 12 days away, (4) the resolution criteria explicitly require Walker to fight Murzakanov for a YES outcome, and (5) even if improbably reinstated, Walker would need to win against an undefeated opponent. Forecaster 2 usefully emphasizes that this is 'not merely a probable outcome; it is the current established reality,' which is a critical distinction. Forecaster 3 helpfully notes that even conditional on reinstatement, Walker would likely be an underdog, making the compound probability even lower. The convergence at 1% suggests this is a well-calibrated forecast for a situation that is effectively resolved but where complete certainty (0%) would be epistemically overconfident given MMA's documented history of bizarre last-minute card changes.",
+    "rationale": "After deliberation, I maintain my 1% forecast. The three-way consensus, based on independent analysis of the same facts, validates the reasoning. The withdrawal is multiply confirmed, the replacement is officially booked, and time has nearly run out. While MMA has seen strange card shuffles, achieving a YES outcome would require an extraordinary sequence: Ribeiro withdrawing, Walker gaining medical clearance within days, UFC reversing its decision despite promotional commitments, and Walker defeating an undefeated opponent on short notice. No new evidence suggests any of these steps are underway. The 1% probability appropriately balances near-certainty (given established facts) with epistemic humility (acknowledging that truly unexpected events occasionally occur in combat sports). Going lower would imply overconfidence; going higher would ignore the strength of evidence that this matchup is definitively cancelled.",
+    "probability": 1
+  },
+  "usage": {
+    "inputTokens": 2027,
+    "outputTokens": 1131,
+    "totalTokens": 3158,
+    "reasoningTokens": 657,
+    "cachedInputTokens": 0
+  }
+}

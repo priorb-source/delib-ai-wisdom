@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_full-gpt5-3",
+  "questionId": 37805,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37805-homo_full",
+  "independentForecastId": "37805-gpt5-full-3",
+  "otherForecastIds": [
+    "37805-gpt5-full-1",
+    "37805-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both peers’ analyses closely match my baseline and add two useful points: (1) explicit emphasis that FlightsFrom reflects OAG/GDS filings, so with ~6 weeks left, new cities should already be loaded or imminently so; and (2) the end of CNMI’s parole program for PRC visitors meaningfully lowers the already-slim odds of a Mainland China route appearing by July 1. They also enumerate realistic Korean secondary-city options and note that NRT’s consistency is pivotal. I don’t see contradictory evidence; their reasoning is coherent and supports a No-leaning outlook.",
+    "rationale": "Time remaining is short, and current listings sit at 3–4 (GUM, ICN, PUS, and intermittent NRT). To resolve Yes, we need ≥5 listed destinations on FlightsFrom on/after July 1. The most plausible path is: NRT is present plus one added Korean secondary city for summer peak. Japan demand remains currency-constrained, but United’s marketing suggests some NRT activity; I estimate P(NRT listed around July 1) ~0.6. Conditional on NRT being listed, the chance a Korean LCC adds a secondary city and files it in time feels modest, ~0.3, given lack of announcements but some history of seasonal adds. That yields ~18%. If NRT is absent, we’d need two new destinations; probability is low, ~5%. A small tail exists for an HKG/TPE resumption, but with no concrete filings or press, I give only a few percentage points. Aggregating: ~0.6*0.3 + 0.4*0.05 + small HKG/TPE tail ≈ 0.22. The added point about PRC parole termination further reduces odds of a Mainland China route, but that was already a low-probability path. Net, the peers’ inputs reinforce my prior rather than shift it. I’ll hold my estimate.",
+    "probability": 22
+  },
+  "usage": {
+    "inputTokens": 2361,
+    "outputTokens": 1763,
+    "totalTokens": 4124,
+    "reasoningTokens": 1344,
+    "cachedInputTokens": 0
+  }
+}

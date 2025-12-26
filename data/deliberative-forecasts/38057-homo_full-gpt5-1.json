@@ -1,0 +1,26 @@
+{
+  "forecastId": "38057-homo_full-gpt5-1",
+  "questionId": 38057,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38057-homo_full",
+  "independentForecastId": "38057-gpt5-full-1",
+  "otherForecastIds": [
+    "38057-gpt5-full-2",
+    "38057-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my structure: decompose into (1) bout-occurs risk and (2) in-cage win probability. They add emphasis on draw/NC sliver and late-event volatility, plus standard fight-week signals (weight cut, sharp market movement) as key updaters. No materially new factual inputs emerged, but their reiteration of attrition/NC risk suggests my 90% fight-go estimate may be a touch high given Merab’s minor injuries and O’Malley’s post-surgery status. Their ranges (62–65%) are consistent with a small downward adjustment from my 66%.",
+    "rationale": "I maintain that the status quo favors Merab: he already won the matchup convincingly, his pressure/wrestling/cardio style tends to persist across rematches, and he has recent five-round form versus elite opposition (Umar). O’Malley’s clearest path is striking-led finishing upside and potential TDD/scramble improvements; those are real but must hold for 25 minutes against relentless chain wrestling—historically difficult. Updating: I modestly increase pre-fight attrition/No-resolution risk from ~10% to ~11–12% due to minor injuries and O’Malley’s recent surgery, and I explicitly carve out a small draw/NC slice. My current split: • Fight occurs: ~88–89%. • Conditional on fight: Merab ~71–72%, O’Malley ~26–27%, draw/NC ~2–3%. Point estimate: 0.89 × 0.72 ≈ 0.64. Triggers for movement: Up if clean bill of health at fight week, smooth weigh-ins for Merab, or sharp market steam toward Merab; down if credible reports of Merab’s injuries impacting training, tough cut, or compelling evidence of O’Malley’s markedly improved TDD/mobility.",
+    "probability": 64
+  },
+  "usage": {
+    "inputTokens": 2281,
+    "outputTokens": 1305,
+    "totalTokens": 3586,
+    "reasoningTokens": 896,
+    "cachedInputTokens": 0
+  }
+}

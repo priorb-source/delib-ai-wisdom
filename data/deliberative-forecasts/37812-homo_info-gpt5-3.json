@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-homo_info-gpt5-3",
+  "questionId": 37812,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37812-homo_info",
+  "independentForecastId": "37812-gpt5-info3-3",
+  "otherForecastIds": [
+    "37812-gpt5-info1-1",
+    "37812-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds several specific resumptions (SAS to CPH/ARN, Wizz Abu Dhabi from Jun 4, MEA to BCN from Jun 26, LOT to WAW from Jul 1) and argues the baseline may already be high‑40s, making >51 plausible with summer seasonals. If all those flights are indeed filed and visible on FlightsFrom’s Summer 2025 view, they would materially lift the count. However, those returns are not independently corroborated here, and several (SAS x2, LOT) seem optimistic given ongoing war‑risk concerns and SAS’s restructuring. The strongest point they raise—which I hadn’t emphasized enough—is that FlightsFrom will list all scheduled summer destinations, not just those active on July 1; that can inflate the count relative to “active in May.”\n\nForecaster 3 leans on seasonal breadth and relatively steady Q1 passenger volumes. The latter doesn’t map cleanly to destination count and can mask concentration on a few trunk routes. Their argument that VFR demand supports the network is fair, but it doesn’t overcome the specific absences flagged by the RA (QR, KU, SV, MS, BA, LH Group, PC). I find 56% too high without concrete evidence of multiple European, Gulf, and seasonal Mediterranean adds already filed.\n\nNet: I find F2’s structural point about FlightsFrom’s seasonal counting persuasive and it nudges me up somewhat. The specific airline‑return claims are plausible but not strong enough to justify near‑even odds. F3’s optimism seems to underweight the breadth lost from major carrier absences.",
+    "rationale": "Key anchors:\n- RA baseline: ~39 active destinations in May 2025 (OAG), materially below May 2024 (~53). Several high‑impact carriers remain absent (British Airways, Lufthansa Group, Saudia, EgyptAir, Pegasus; also Qatar Airways and Kuwait Airways). Those absences alone remove a dozen‑plus usual destinations (e.g., LHR if MEA isn’t operating it, FRA/MUC/VIE/ZRH/GVA, DOH, JED/RUH/DMM, CAI, SAW), meaning a lot has to be rebuilt to clear 51.\n- Timing and mechanics: FlightsFrom will list all scheduled Summer 2025 destinations visible when checked on/after Jul 1, including later‑in‑summer startups. That raises the ceiling relative to “active in May,” and is the main upside I hadn’t fully priced.\n- Potential adds: Some seasonal/returning routes by late June/July are plausible (e.g., 1–3 Greek island points, 1–2 Turkish leisure points if any, MEA’s one‑off European seasonals like BCN, possibly a Gulf LCC to AUH/SHJ). Forecaster 2’s list (SAS CPH/ARN, Wizz AUH, LOT WAW) would be meaningful if confirmed. Even so, with QR, SV, MS, PC, BA, LH Group still likely out by early July, the network needs roughly 12–15 net additions versus May to exceed 51—an ambitious rebound in ~6 weeks given war‑risk insurance and risk‑averse scheduling.\n- Risks: Any late‑June flare‑up along the Israel–Hezbollah front could prompt further suspensions, which disproportionately hit the marginal seasonal routes needed to clear the threshold.\n\nPutting this together, I lift my forecast modestly to reflect the seasonal‑listing effect and a plausible handful of summer adds, but I still see the modal outcome as ≤51 absent multiple concrete resumptions from major European/Gulf players. I will update upward if verifiable filings show a robust slate of additional summer destinations appearing on the FlightsFrom BEY page (e.g., mid‑to‑high 40s already by mid‑June with clear adds queued for July/August).",
+    "probability": 27
+  },
+  "usage": {
+    "inputTokens": 2121,
+    "outputTokens": 4599,
+    "totalTokens": 6720,
+    "reasoningTokens": 3776,
+    "cachedInputTokens": 0
+  }
+}

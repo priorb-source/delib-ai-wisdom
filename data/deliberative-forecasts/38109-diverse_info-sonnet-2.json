@@ -1,0 +1,26 @@
+{
+  "forecastId": "38109-diverse_info-sonnet-2",
+  "questionId": 38109,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "38109-diverse_info",
+  "independentForecastId": "38109-sonnet-info1",
+  "otherForecastIds": [
+    "38109-pro-info2",
+    "38109-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises the most compelling mathematical point I underweighted: the compound probability problem over 30 days. Even with high daily reliability, small failure probabilities accumulate. If each day has a 98% success probability, the 30-day success rate is only 55%. Forecaster 2 emphasizes the legal threat's timing - the judge's 'move quickly' statement is concerning since we're literally at June's threshold. However, I think Forecaster 2 overweights this risk. Even expedited legal proceedings rarely result in immediate injunctions against established, CFTC-regulated operations within 30 days. Courts typically allow continued operation during appeals. The research shows 44 consecutive days of operation (April 17-May 31) with no mentioned disruptions, suggesting high operational reliability. Forecaster 3's 70% forecast better captures the compound probability mathematics while acknowledging strong baseline conditions.",
+    "rationale": "I'm revising down from 87% primarily due to the compound probability argument I initially underweighted. With 30 days required for success, even small daily failure probabilities matter significantly. However, I'm not going as low as Forecaster 2's 55% because: (1) 44 days of consistent operation suggests operational systems are robust and daily success probability is likely 98-99%, (2) the legal threat, while real, faces high bars to immediate injunction of a CFTC-regulated business, (3) even 'quick' court action typically means weeks/months, not days. My revised estimate: daily operational success ~98.5%, legal/regulatory disruption risk during June ~5-7%, MLB schedule gaps ~1%. This yields: 0.985^30 × 0.94 = 0.64 × 0.94 ≈ 60%. Adding some probability for legal proceedings taking longer than June pushes this to 73%.",
+    "probability": 73
+  },
+  "usage": {
+    "inputTokens": 2015,
+    "outputTokens": 1660,
+    "totalTokens": 3675,
+    "reasoningTokens": 952,
+    "cachedInputTokens": 0
+  }
+}

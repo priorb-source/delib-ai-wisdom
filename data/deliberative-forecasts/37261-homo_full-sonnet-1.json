@@ -1,0 +1,26 @@
+{
+  "forecastId": "37261-homo_full-sonnet-1",
+  "questionId": 37261,
+  "condition": "homo_full",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37261-homo_full",
+  "independentForecastId": "37261-sonnet-full-1",
+  "otherForecastIds": [
+    "37261-sonnet-full-2",
+    "37261-sonnet-full-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises the most critical point I underweighted: the question remains unresolved despite two major protest movements already occurring (April 5 and May 1). This is significant Bayesian evidence. If the April 5 protests with 600,000+ participants across 1,200-1,400 events haven't triggered resolution nearly a month later, this suggests either: (1) the Global Protest Tracker hasn't reported them yet, (2) it reported them but no single location reached 10,000, or (3) the protests were too dispersed. Forecaster 2's statistical argument about 600,000 participants making individual 10,000+ events likely is reasonable in isolation, but Forecaster 3 correctly notes we should update on the actual outcome so far. The Crowd Counting Consortium data showing average sizes of 60-88 participants supports the decentralization hypothesis - even with 600,000 total participants across 1,400 events, that's only ~430 per event on average. For the largest events to reach 10,000, they'd need to be 20-25x the average, which seems less likely given the decentralization trend. Both forecasters correctly identify reporting lag as a key uncertainty, and with two months remaining, there's still time for either delayed reporting or new protests. However, the status quo evidence is more negative than I initially weighted.",
+    "rationale": "I'm updating downward based primarily on Forecaster 3's observation about the unresolved question status. The April 5 protests occurred nearly a month ago with massive participation, yet no resolution. This is meaningful evidence against the hypothesis that any single location reached 10,000+ participants. The decentralization trend (2,085 protests in February 2025 vs 937 in February 2017, but with much smaller average sizes) suggests that even large national mobilizations fragment across many small events rather than concentrating in a few massive ones. However, I'm not going as low as Forecaster 3 (58%) because: (1) there may be significant reporting lag in the Global Protest Tracker's methodology, (2) the May 1 protests just happened yesterday so there hasn't been time to report them, and (3) two months remain for additional protests or delayed reporting. The balance of evidence now suggests lower probability than my initial 65%, but the remaining time window and reporting uncertainty prevent going below 60%.",
+    "probability": 60
+  },
+  "usage": {
+    "inputTokens": 2194,
+    "outputTokens": 1240,
+    "totalTokens": 3434,
+    "reasoningTokens": 674,
+    "cachedInputTokens": 0
+  }
+}

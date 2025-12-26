@@ -1,0 +1,26 @@
+{
+  "forecastId": "38321-homo_info-gpt5-1",
+  "questionId": 38321,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38321-homo_info",
+  "independentForecastId": "38321-gpt5-info1-1",
+  "otherForecastIds": [
+    "38321-gpt5-info2-2",
+    "38321-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters correctly emphasize the strong base rate of U.S. presidential attendance at NATO summits and the short time horizon. Forecaster 3 adds two useful considerations I hadn’t explicitly weighed: (1) the optics of The Hague/ICC, which could marginally increase a deliberate snub probability, and (2) the sequencing with a mid‑June G7 that makes late‑June travel operationally plausible. Forecaster 2 highlights a strategic non‑attendance scenario to extract concessions—worth noting, though less likely after public confirmation. Neither appears to fully incorporate the reported on‑record White House confirmation echoed by allied officials, which materially raises the cost of backing out. Overall, their arguments modestly expand the downside tails (optics/leverage), but the confirmed commitment and logistics still dominate.",
+    "rationale": "I continue to weight the on‑record White House confirmation, corroborating allied statements, and the high base rate of attendance most heavily. The incremental arguments (Hague/ICC optics; strategic boycott leverage) are valid tail risks but, in my view, are outweighed by the diplomatic and political costs of reversing a public commitment this close to the date, plus Trump’s preference for high‑visibility, in‑person pressure. Residual risk remains from unforeseen domestic crises, health/security issues, or a last‑minute strategic reversal, and from the low‑probability scenario of a schedule change that moves the summit out of June. Netting the new considerations, I see no strong reason to move off my prior estimate.",
+    "probability": 92
+  },
+  "usage": {
+    "inputTokens": 1681,
+    "outputTokens": 1349,
+    "totalTokens": 3030,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

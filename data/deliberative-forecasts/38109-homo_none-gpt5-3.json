@@ -1,0 +1,26 @@
+{
+  "forecastId": "38109-homo_none-gpt5-3",
+  "questionId": 38109,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38109-homo_none",
+  "independentForecastId": "38109-gpt5-none-3",
+  "otherForecastIds": [
+    "38109-gpt5-none-1",
+    "38109-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters add useful caution. They emphasize the CFTC’s prior disapproval of sports event contracts (ErisX NFL, 2021) and the lack of concrete evidence that Kalshi presently runs real-money MLB markets. They also stress the “every day” fragility: one missed day resolves No. I had considered regulatory risk but didn’t explicitly anchor to the sports-as-gaming precedent or the possibility the sports/baseball page is only a placeholder. Those points lower the base rate meaningfully. I find their reasoning largely convincing and it suggests my prior was too high absent verification of live daily MLB markets.",
+    "rationale": "With one day left before June and no confirmed evidence of ongoing MLB game markets on Kalshi, the base rate that they will have uninterrupted daily listings for all 30 days is modest. The CFTC’s stance on sports contracts has been unfavorable, and ongoing legal flux around elections adds correlated platform-level risk. Even if MLB markets exist, the “every day” bar compounds operational/regulatory outage risk; a high per-day reliability still yields a nontrivial monthly failure chance, and correlated shocks make at-least-one-miss more likely. That said, if sports are already live, Kalshi’s ops could sustain daily listings, so the probability isn’t negligible. Net: I update down substantially from my initial view to reflect the stronger regulatory base rate and the strict resolution criterion.",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1917,
+    "outputTokens": 1836,
+    "totalTokens": 3753,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

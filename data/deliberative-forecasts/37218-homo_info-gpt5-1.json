@@ -1,0 +1,26 @@
+{
+  "forecastId": "37218-homo_info-gpt5-1",
+  "questionId": 37218,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37218-homo_info",
+  "independentForecastId": "37218-gpt5-info1-1",
+  "otherForecastIds": [
+    "37218-gpt5-info2-2",
+    "37218-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "New, material info from Forecaster 2: UFC 315 is May 10 at Bell Centre in Montreal. That directly addresses the key unknown in my prior take (location) and sharply lowers the odds versus a U.S. card. Both F2 and F3 persuasively emphasize the foreign-venue frictions: no precedent for a U.S. president at a non‑U.S. UFC, security/diplomatic coordination with RCMP, and limited political upside. They also note timing—12 days out with no signals of an official Canadian trip—which further depresses likelihood. Forecaster 3 adds admissibility/optics considerations and the Rogan datapoint; the latter is only a weak, directional signal but consistent with the broader story. Overall, their arguments are convincing and highlight considerations I underweighted (international travel frictions and the lack of precedent).",
+    "rationale": "Key update is venue certainty: Montreal, Canada. Conditional on Trump being the sitting president, a discretionary foreign trip to attend a sports event is extraordinarily unlikely absent an official visit that conveniently coincides. With ~12 days to go and no credible reporting of a Canada trip, the base case is non‑attendance. Even if not in office, Canada adds nontrivial logistical/optics/security and potential admissibility friction, making attendance much less likely than a domestic PPV. Countervailing factors (Dana White relationship, Trump’s affinity for UFC optics, Montreal’s proximity to the U.S. Northeast) keep the probability above zero, but the lack of signals this close to the date keeps it low. I’m updating down from 18% to 4%. Up-movers: credible reports of a Canadian visit that weekend (especially Montreal), White/UFC teasing or confirming attendance, or official scheduling that places him in Montreal. Down-movers: confirmed conflicting U.S. engagements, explicit indications he will remain stateside, or any security/diplomatic developments constraining travel.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 1951,
+    "outputTokens": 1628,
+    "totalTokens": 3579,
+    "reasoningTokens": 1216,
+    "cachedInputTokens": 0
+  }
+}

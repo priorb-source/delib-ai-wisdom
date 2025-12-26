@@ -1,0 +1,26 @@
+{
+  "forecastId": "37261-diverse_info-sonnet-3",
+  "questionId": 37261,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37261-diverse_info",
+  "independentForecastId": "37261-sonnet-info3",
+  "otherForecastIds": [
+    "37261-pro-info2",
+    "37261-gpt5-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 and 3 reference specific protest events (April 5 'Hands Off!' campaign with 600k participants, and May 1 '50501' action) that do not appear in my research assistant's report. I cannot verify these claims exist. If they do have access to different information, that would be highly significant. However, I must base my forecast on information I can verify.\n\nForecaster 3 raises an extremely valuable point I underweighted: the Global Protest Tracker is highly selective and typically only logs major U.S. protest waves (Women's March 2017, George Floyd 2020), adding perhaps one U.S. entry per year. This means even if 10,000+ protests occur, Carnegie may not choose to report them, or may report them after July 1. This selective reporting behavior is critical.\n\nForecaster 3's base rate approach (~15-20% for a 2-month window) combined with timing risk from both forecasters suggests I was too optimistic at 28%. The challenge isn't just whether large protests occur, but whether Carnegie will both (1) deem them significant enough to add, and (2) update the tracker before July 1.",
+    "rationale": "Upon reflection, I should update DOWN from my original 28%. The key insight from the deliberation is understanding the Global Protest Tracker's selective reporting behavior. They don't catalog every large protest - they focus on sustained, significant antigovernment movements. Even major one-day protests may not qualify.\n\nMy original analysis correctly identified that current protest patterns show many small events (60-88 avg participants) rather than large concentrated ones. The 2-month timeframe remains constraining. But I failed to adequately account for the tracker's gatekeeping function.\n\nUsing Forecaster 3's base rate framework: roughly 15-20% baseline for any U.S. addition in a random 2-month period. May-June do offer catalysts (Supreme Court decisions, May Day, etc.) that could generate 10k+ crowds, warranting a modest upward adjustment of +3-5%. However, reporting lag and selectivity warrant a -3% adjustment.\n\nI cannot incorporate Forecaster 2's claimed April/May events because they're unverifiable from my information. If true, that would dramatically change my forecast, but I must work with what I can confirm.\n\nNet result: 18-22% range feels appropriate.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 2260,
+    "outputTokens": 1660,
+    "totalTokens": 3920,
+    "reasoningTokens": 858,
+    "cachedInputTokens": 0
+  }
+}

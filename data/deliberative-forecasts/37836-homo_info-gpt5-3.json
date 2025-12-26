@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_info-gpt5-3",
+  "questionId": 37836,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37836-homo_info",
+  "independentForecastId": "37836-gpt5-info3-3",
+  "otherForecastIds": [
+    "37836-gpt5-info1-1",
+    "37836-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "New arguments I hadn’t incorporated: (1) concrete 2025 Europe adds (Aegean ATH active; Eurowings CGN planned), (2) a “21 countries” connectivity claim for Kurdistan implying breadth, and (3) the July seasonal peak effect specifically from Turkish leisure and Saudi/Umrah-related services. Both forecasters correctly stress that FlightsFrom’s snapshot is the arbiter and that seasonal routes can tip the count above the threshold. I agree with the general direction, but I discount unverified specifics: the 21-country figure likely aggregates Erbil + Sulaymaniyah; Aegean/Eurowings references are plausible but not confirmed by me; and operational improvements (e.g., ICAO inspection, night ops) cited by Forecaster 3 weren’t in the assistant’s brief. Forecaster 3’s 74% feels high given the tight threshold and data-source quirks; Forecaster 2’s 64% is more defensible but still presumes that multiple seasonal adds are already loaded and displayed on FlightsFrom by July 1. Net: their points nudge me upward, but I remain cautious about overconfidence and the risk that a few thin routes slip or aren’t reflected in FlightsFrom’s listing on the check date.",
+    "rationale": "Time to resolution: ~5.5 weeks. The key is whether seasonal and newly launched routes are listed on FlightsFrom by July 1. Erbil’s base network (Turkey’s IST/SAW plus resorts, multiple Gulf hubs, Jordan/Lebanon, Egypt, several Iranian cities, and domestic Iraqi points) makes 30+ plausible in summer. If even one or two European adds (e.g., ATH, CGN) and a couple of Turkish/Egyptian seasonal leisure points are visible, crossing 31 is likely. Conversely, this is a knife-edge threshold; a small number of suspensions or delayed starts could keep the count at 29–31. I previously leaned slightly No due to lack of verified route adds. The deliberation adds plausible evidence of European and seasonal boosts and reminds me July is the local peak. I still factor risks: data-display idiosyncrasies at FlightsFrom, potential short-notice suspensions in the region, and the possibility that the 21-country connectivity isn’t Erbil-specific. Weighing these, I update modestly upward from 46% to reflect higher-than-even odds that summer breadth will be at least 32 destinations on the FlightsFrom snapshot.",
+    "probability": 58
+  },
+  "usage": {
+    "inputTokens": 1968,
+    "outputTokens": 2382,
+    "totalTokens": 4350,
+    "reasoningTokens": 1856,
+    "cachedInputTokens": 0
+  }
+}

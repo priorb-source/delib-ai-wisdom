@@ -1,0 +1,26 @@
+{
+  "forecastId": "37267-diverse_none-sonnet-2",
+  "questionId": 37267,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37267-diverse_none",
+  "independentForecastId": "37267-sonnet-none",
+  "otherForecastIds": [
+    "37267-pro-none",
+    "37267-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters raise an important point I underweighted: Ethiopia currently has a Level 3 advisory with specific regions (Tigray, Amhara, parts of Oromia) already designated as Level 4. This nuanced approach is crucial - it shows the State Department has a mechanism to warn about the most dangerous areas without the blunt instrument of a country-wide Level 4. Forecaster 3's emphasis on bureaucratic status quo bias is also well-taken. However, I find Forecaster 3's 10% marginally overconfident in the status quo. While the regional Level 4 mechanism does lower the probability substantially, Ethiopia's volatility and the existence of genuine tail risks (major terror attack in Addis, sudden conflict escalation, Embassy drawdown) warrant slightly more uncertainty. Forecaster 2's 18% seems a bit high given the strong pattern of using regional advisories during even the Tigray conflict crisis. The historical precedent that Ethiopia maintained Level 3 overall during previous major crises is compelling evidence for a lower forecast.",
+    "rationale": "The most important new information is that the State Department already uses regional Level 4 designations within Ethiopia's Level 3 framework. This significantly reduces the probability of a country-wide upgrade because: (1) it demonstrates they have a tool to address dangerous areas without elevating the entire country, and (2) they maintained this structure during the Tigray conflict, suggesting a very high bar for country-wide Level 4. The bureaucratic inertia argument is also strong - absent a dramatic acute crisis visible to the international community, agencies are slow to make major shifts in a 2-month window. However, I'm not dropping to 10% because: (1) Ethiopia remains genuinely unstable with ongoing conflicts in multiple regions, (2) tail risks exist (major Addis Ababa incident, sudden escalation, regional war spillover), and (3) 2 months, while short, isn't impossibly short for rapid deterioration. The historical pattern strongly suggests staying at Level 3, but not with overwhelming confidence.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 2163,
+    "outputTokens": 1290,
+    "totalTokens": 3453,
+    "reasoningTokens": 797,
+    "cachedInputTokens": 0
+  }
+}

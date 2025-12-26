@@ -1,0 +1,26 @@
+{
+  "forecastId": "37817-homo_info-gpt5-3",
+  "questionId": 37817,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37817-homo_info",
+  "independentForecastId": "37817-gpt5-info3-3",
+  "otherForecastIds": [
+    "37817-gpt5-info1-1",
+    "37817-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds two specific claims: (a) United NRT–ROR beginning Oct 29, 2025 (after the resolution date, so irrelevant for July), and (b) a Qantas Brisbane–Koror route launched in Feb 2025. The former doesn’t affect July; the latter, if true and displayed on flightsfrom.com, could add one destination. They appropriately discount its certainty. Their structure and thresholds match my view, and their 15% is close to my prior. Forecaster 3 assumes Manila (United) and Brisbane (Qantas) are already scheduled, yielding 4–5 destinations now. I’m skeptical: current evidence for scheduled MNL–ROR is weak, and a Qantas BNE–ROR scheduled service would be unusual without broader reporting; JAL charters also likely won’t count on flightsfrom. Their 30% seems to overweight unverified routes and the chance that charters will be listed as scheduled. Overall, Forecaster 2’s analysis is largely consistent with my baseline; Forecaster 3 likely overestimates the base count and thus the probability.",
+    "rationale": "My base case remains that Koror lists 2–4 scheduled nonstop destinations in early July: Guam (United) and Taipei (China Airlines) are most likely; Yap may or may not be listed depending on United’s schedule; others (Korea, Japan scheduled, Hong Kong, Manila, Brisbane) are uncertain. To clear >5, multiple things must align: at least two of (a) a scheduled Korea service in July, (b) United’s Yap leg being shown as a nonstop destination on flightsfrom, (c) a verified Brisbane service that appears on flightsfrom, (d) a Philippines link, or (e) another regional restart (e.g., HKG). With ~6 weeks left, the lead-time constraint and weak demand signals (Korea lagging; PRC group-tour ban) make it unlikely that enough additions will be filed in GDS/OAG by July 1. I slightly nudge up my forecast to acknowledge a non-trivial chance that one or two of Yap and Brisbane appear on flightsfrom, and that a seasonal Korean flight could be filed for peak summer—but getting all the way to six still requires multiple concurrent positives. I see Forecaster 2’s reasoning as largely corroborating this; I discount Forecaster 3’s higher baseline as it relies on routes I consider unverified or charter-only.",
+    "probability": 14
+  },
+  "usage": {
+    "inputTokens": 2437,
+    "outputTokens": 2313,
+    "totalTokens": 4750,
+    "reasoningTokens": 1792,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37476-diverse_full-gpt5-3",
+  "questionId": 37476,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37476-diverse_full",
+  "independentForecastId": "37476-gpt5-full",
+  "otherForecastIds": [
+    "37476-pro-full",
+    "37476-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the very short window to July 1 and the absence of an imminent debt maturity, which I agree are the dominant considerations. They add weight to the liquidity-risk angle via the 0.5 current ratio and the possibility of vendor tightening or an adverse Q1 surprise; that’s a useful stress-path framing. The 8% figures appear a bit high to me given reported cash of $283m at year-end and the lack of visible acute triggers (no near-term maturity, no reports of advisors, no legal shocks). Still, their points about the current ratio and market cap signaling distress justify a small upward adjustment from my initial view, especially with the May 12 earnings acting as a potential catalyst and the chance of going-concern language or unexpectedly rapid cash burn.",
+    "rationale": "Time remaining is ~7 weeks. Status quo is No: companies with >$250m cash and no near-term maturities rarely file absent a trigger. The main Yes path before July 1 would be a sharp Q1 deterioration that (a) reveals cash far below expectations, (b) introduces going-concern language, (c) triggers covenant/contractual issues, or (d) prompts vendor tightening that accelerates a liquidity squeeze. The convertible note maturity is November 2025, outside the window. GoPro is cutting opex ~30% in 2025, which should slow burn. While the current ratio of 0.5 is a real red flag and the microcap valuation suggests medium-term restructuring risk, I still see a bankruptcy filing in the next ~50 days as unlikely without clear new negative disclosures. I’m nudging my probability up modestly to reflect the plausible—but not yet evidenced—path where Q1 results spark a rapid loss of confidence and liquidity. I would move meaningfully higher if May 12 shows cash <~$150–200m, a going-concern warning, or signs of counterparties tightening terms; I would move lower if liquidity appears stable and cost cuts are progressing.",
+    "probability": 5
+  },
+  "usage": {
+    "inputTokens": 2215,
+    "outputTokens": 1577,
+    "totalTokens": 3792,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 0
+  }
+}

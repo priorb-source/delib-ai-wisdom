@@ -1,0 +1,26 @@
+{
+  "forecastId": "37796-diverse_none-pro-1",
+  "questionId": 37796,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37796-diverse_none",
+  "independentForecastId": "37796-pro-none",
+  "otherForecastIds": [
+    "37796-sonnet-none",
+    "37796-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I are in broad agreement on the fundamental drivers of this question: the FATF process is dynamic, changes to the grey list are the historical norm at plenaries (a high base rate), and the low threshold for a 'Yes' resolution (a single addition or removal) pushes the probability high. The main difference lies in weighing the chance of a 'No' outcome. Forecaster 2 (75%) raises a valid point about the short four-month period since the February plenary, which could limit the time for countries to demonstrate sufficient progress. Forecaster 3 (85%) provides a compelling synthesis, anchoring their forecast in the recent base rate of changes while articulating the specific mechanisms (e.g., scheduling slips of on-site visits) that could lead to a 'No' result. I find their explicit use of the recent base rate particularly convincing. In the last seven plenaries, six have resulted in changes, suggesting a base rate of ~86%. My initial forecast of 92% now appears slightly overconfident in light of this specific data point and the concrete example of the June 2024 plenary, where no changes occurred.",
+    "rationale": "I am revising my forecast downwards from 92% to 88%. The core of my reasoning remains that changes are highly probable due to strong historical precedent and the large number of jurisdictions (25) currently under increased monitoring. However, the deliberation has convinced me to weigh the possibility of a static outcome more heavily. Forecaster 3's analysis, pointing to a recent base rate of changes in 6 of the last 7 plenaries (~86%), provides a strong anchor. The June 2024 plenary, which saw no changes, serves as a crucial reminder that a static result is not just a theoretical possibility but a recent reality. The reasons for such an outcome, such as scheduling delays for on-site visits or last-minute legislative hurdles in candidate countries, are plausible. I am maintaining my forecast slightly above the raw base rate because the current list of 25 jurisdictions is particularly long, which I believe increases the statistical probability that at least one jurisdiction will either successfully complete its action plan for removal or that a new jurisdiction will be added. My updated forecast of 88% better reflects a synthesis of the high likelihood of change with the non-trivial, recently observed possibility of a static outcome.",
+    "probability": 88
+  },
+  "usage": {
+    "inputTokens": 1873,
+    "outputTokens": 2418,
+    "totalTokens": 4291,
+    "reasoningTokens": 1913,
+    "cachedInputTokens": 0
+  }
+}

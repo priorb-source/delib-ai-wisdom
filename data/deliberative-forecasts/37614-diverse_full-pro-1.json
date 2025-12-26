@@ -1,0 +1,26 @@
+{
+  "forecastId": "37614-diverse_full-pro-1",
+  "questionId": 37614,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37614-diverse_full",
+  "independentForecastId": "37614-pro-full",
+  "otherForecastIds": [
+    "37614-sonnet-full",
+    "37614-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 20% aligns perfectly with Forecaster 2's. We both emphasized the extreme severity of the felony charge (shooting a teenager), which we believe is likely to overwhelm typical political considerations, and we both used the ~60% historical success rate for recalls as a strong prior indicating removal is the baseline expectation. Forecaster 3 arrived at a slightly higher probability of 30% for Metz to survive. Their reasoning introduced two concepts I had not explicitly weighed: 'status quo bias' and, more convincingly, the potential for a 'cohesive pro-incumbent bloc' to have a disproportionate influence in a tiny electorate of fewer than 400 voters. While I think the shocking nature of the allegations largely negates typical status quo bias, the argument about a cohesive bloc of supporters is compelling. In such a small election, personal relationships and a motivated minority can dramatically affect the outcome, especially if turnout among the opposition is not as high as their initial passion for the recall petition might suggest. This specific mechanism for a 'Yes' win is more concrete than my initial general 'small town volatility' reasoning.",
+    "rationale": "After reviewing the other forecasts, I am slightly increasing my probability. My initial forecast was 20%, same as Forecaster 2. We are in strong agreement that the facts of the case are exceptionally damaging for Brent Metz and that historical base rates point towards his removal. The central argument for his removal remains unchanged: being charged with shooting a teenager in the face under circumstances that police have stated did not involve a crime by the victim is an almost insurmountable political obstacle. However, Forecaster 3's analysis persuaded me that I might be underestimating the unique dynamics of a micro-electorate. Their point about a 'cohesive pro-incumbent bloc' having an outsized impact is particularly relevant. In an election with fewer than 400 eligible voters, if Metz has a strong network of family, friends, and loyalists who believe his version of events or feel the recall is unfair before his trial, they could form a significant voting bloc. If turnout among the less-organized majority is mediocre, this bloc could be enough to secure a victory. This specific scenario provides a stronger rationale for a 'Yes' outcome than my previous, more general reasoning about volatility. Therefore, I am adjusting my forecast to reflect a slightly higher chance of Metz surviving the recall, moving from 20% to 25%. This small shift acknowledges the increased uncertainty introduced by the electorate's tiny size and the potential power of personal networks, while still maintaining that removal is the highly probable outcome.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 1956,
+    "outputTokens": 2199,
+    "totalTokens": 4155,
+    "reasoningTokens": 1647,
+    "cachedInputTokens": 0
+  }
+}

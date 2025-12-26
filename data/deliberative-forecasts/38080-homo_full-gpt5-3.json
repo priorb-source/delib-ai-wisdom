@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-homo_full-gpt5-3",
+  "questionId": 38080,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "38080-homo_full",
+  "independentForecastId": "38080-gpt5-full-3",
+  "otherForecastIds": [
+    "38080-gpt5-full-1",
+    "38080-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my reasoning and reach a similar conclusion range. The most useful incremental point they add is the likelihood that, even if the district court denies a preliminary injunction, it would often issue a short administrative stay to allow appellate review, and the First Circuit could also grant emergency relief—mechanisms that could keep certification in effect through July 1. They also emphasize the short runway as a factor that tends to preserve the status quo, which I agree with. I still see two downside pathways that they note but may underweight: (1) a tailored order that protects only current students without restoring full SEVP certification (which might not meet the resolution’s requirement), and (2) a rapid appellate or Supreme Court stay of any PI on asserted national-security/Title VI grounds. Overall, their arguments nudge me slightly upward from my prior 67%.",
+    "rationale": "Time to resolution is about a month, and the current TRO keeps Harvard certified. The upcoming May 29 PI hearing is pivotal. Given the scale of irreparable harm to thousands of students and the institution, and the presence of nonfrivolous APA/constitutional claims, courts commonly preserve the status quo via PI or, failing that, short administrative stays pending appeal. Either would likely carry certification past July 1. The government can seek a stay of any PI from the First Circuit and potentially the Supreme Court, but securing such relief before July 1—especially when it would immediately disrupt thousands of students—is less likely than the courts maintaining continuity. The principal No paths are: (a) the district court denies a PI, declines to issue any stay, and the First Circuit also declines emergency relief, enabling DHS to enforce in June; or (b) the district court grants a PI but it’s swiftly stayed on appeal before July 1. A narrower remedy that preserves only current students’ status without restoring full SEVP certification would also risk a No, though the TRO’s current form suggests the court is inclined to halt enforcement broadly. Balancing these, I slightly increase my estimate, with the most probable Yes scenario being a granted PI that remains in effect through July 1; the next most likely is a denial accompanied by an administrative or appellate stay that preserves certification into July.",
+    "probability": 71
+  },
+  "usage": {
+    "inputTokens": 2589,
+    "outputTokens": 2711,
+    "totalTokens": 5300,
+    "reasoningTokens": 2240,
+    "cachedInputTokens": 1024
+  }
+}

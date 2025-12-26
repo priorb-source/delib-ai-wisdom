@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-diverse_none-sonnet-2",
+  "questionId": 37812,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37812-diverse_none",
+  "independentForecastId": "37812-sonnet-none",
+  "otherForecastIds": [
+    "37812-pro-none",
+    "37812-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 provides crucial concrete data: the resolution source currently shows 49 destinations, meaning we need a net gain of 3+ destinations in 6 weeks for a 'Yes' outcome. This is the most important piece of information in the deliberation. Both forecasters emphasize that with only 6 weeks remaining, airline schedules are largely set, and in the current security environment, route cancellations are more likely than additions. Forecaster 2's pessimism (15%) seems justified by the need for net growth in an unfavorable environment. Forecaster 3's 38% gives more weight to seasonal additions and diaspora traffic resilience, which has merit but may be too optimistic given we're starting below threshold. The key insight I missed initially was that we're not just asking whether Beirut maintains decent connectivity, but whether it will GROW from its current 49 to 52+ destinations despite ongoing security challenges and weak tourism.",
+    "rationale": "I am significantly updating my forecast downward based on the concrete baseline data. Starting at 49 destinations means we need net growth of at least 3 routes in 6 weeks to reach the 52+ threshold. This changes the question fundamentally - it's not about maintaining status quo connectivity, but about achieving growth in an adverse environment. Key factors supporting a lower forecast: (1) Security situation makes airlines risk-averse and more likely to cancel than add routes; (2) Tourism sector is struggling, reducing demand for seasonal leisure routes; (3) Six weeks is insufficient time for major network expansion; (4) Economic crisis limits airline confidence. Factors preventing an even lower forecast: (1) July is peak summer season, and some seasonal routes to Mediterranean/Greek destinations may be planned but not yet displayed; (2) The gap is only 3 destinations; (3) Diaspora VFR traffic provides baseline demand resilience; (4) Some core routes may return from temporary suspension. However, the burden of proof is now on growth rather than maintenance, which in the current context makes >51 destinations less likely than I initially estimated.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 2165,
+    "outputTokens": 1435,
+    "totalTokens": 3600,
+    "reasoningTokens": 819,
+    "cachedInputTokens": 0
+  }
+}

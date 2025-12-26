@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_none-sonnet-2",
+  "questionId": 37051,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37051-diverse_none",
+  "independentForecastId": "37051-sonnet-none",
+  "otherForecastIds": [
+    "37051-pro-none",
+    "37051-gpt5-none"
+  ],
+  "forecast": {
+    "review": "All three forecasters converge on 1-3%, emphasizing the same fundamental constraints: unprecedented nature of the action, extremely short timeline (67 days), robust procedural safeguards, and lack of modern precedent. Forecaster 3 makes particularly strong points about the need for 'clear and egregious' grounds for revocation - none of which have been reported - and Harvard's ample compliance resources. Forecaster 2's distinction between a politically-motivated announcement versus an actual, legally-effective revocation is important. The resolution criteria requires 'credible reporting that Harvard has lost its 501(c)(3) status with the Internal Revenue Service,' which would need to be more than just rhetoric or a legally-challenged announcement. The absence of any reporting about actual IRS proceedings (formal examination, proposed adverse determination, etc.) versus mere political threats is a significant datum. All three of us identify the timeline as the binding constraint - even if proceedings started today, the combination of due process requirements, notification periods, appeal rights, and inevitable litigation makes completion by July 1 nearly impossible.",
+    "rationale": "Upon reflection, I find the collective reasoning compelling for moving slightly lower. The key insight is distinguishing political rhetoric from actual administrative proceedings. The NYT article (10 days old) reports threats but provides no evidence of formal IRS action. Forecaster 3's emphasis on requiring 'clear and egregious' grounds is particularly persuasive - the IRS would need legal justification even under political pressure, and no such violations have been reported. The procedural timeline is even more constraining than I initially weighted: even an expedited process would require examination opening, findings, proposed determination, protest period, appeals consideration, and final determination - typically taking many months minimum. Harvard's litigation would almost certainly obtain preliminary relief that would extend past July 1. The tail risk remains non-zero due to the unprecedented political environment and explicit presidential threats, but the procedural and institutional barriers are sufficiently robust that 2% better captures the balance. I'm aligning with Forecaster 3's comprehensive analysis rather than going to 1%, as the political environment and explicit threats warrant slightly more than minimal probability.",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 1945,
+    "outputTokens": 1436,
+    "totalTokens": 3381,
+    "reasoningTokens": 1018,
+    "cachedInputTokens": 0
+  }
+}

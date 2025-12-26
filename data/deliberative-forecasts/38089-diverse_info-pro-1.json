@@ -1,0 +1,26 @@
+{
+  "forecastId": "38089-diverse_info-pro-1",
+  "questionId": 38089,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "38089-diverse_info",
+  "independentForecastId": "38089-pro-info2",
+  "otherForecastIds": [
+    "38089-sonnet-info1",
+    "38089-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "The deliberation presents a critical conflict in the baseline data. Forecaster 2 cites a recent poll from May 8, 2025, showing Sánchez ahead of Erdoğan by 3 points (35% to 32%). In contrast, Forecaster 3 describes a persistent trend of Erdoğan leading by 8-12 points through early 2025. I find Forecaster 2's specific, recent data point more compelling for this short-term forecast. It is plausible that the longer-term trend described by Forecaster 3 has recently reversed, especially considering the significant losses for Erdoğan's party in the March 2024 local elections driven by economic discontent, which would likely depress his approval rating. Therefore, I will treat the current state of affairs as Sánchez holding a small lead. My initial reasoning and Forecaster 2's are highly aligned, both emphasizing the strong effect of inertia over the short timeframe and the narrowness of the lead. Forecaster 3's point that a tie resolves as 'No' is an important detail that slightly increases the chance of a 'No' outcome.",
+    "rationale": "I am updating my forecast slightly upward, from 65% to 67%. The primary reason for this change is the new and more specific polling data provided by Forecaster 2, which indicates Pedro Sánchez holds a 3-point lead (35% to 32%) as of early May 2025. This is a slightly stronger position for Sánchez than the 2-point lead I had initially assumed. While still a narrow margin, this 3-point gap provides a marginally better cushion against random polling fluctuations and the rule that a tie resolves as 'No'. My core thesis remains unchanged: with just over a month until resolution, the inertia of public opinion is the most significant factor. The status quo, where Sánchez is ahead, is the most probable outcome. President Erdoğan faces entrenched economic problems in Turkey, primarily high inflation, which serve as a powerful anchor on his approval rating and make a rapid recovery unlikely. Prime Minister Sánchez's challenges are more political and, while polarizing, are less likely to cause a sudden collapse in his support in the next month. My forecast is not higher because the lead is small and a single news cycle or polling error could erase it. The updated probability of 67% reflects a strong, but not certain, belief that Sánchez will maintain his current, narrow advantage.",
+    "probability": 67
+  },
+  "usage": {
+    "inputTokens": 1697,
+    "outputTokens": 3315,
+    "totalTokens": 5012,
+    "reasoningTokens": 2801,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-homo_info-gpt5-2",
+  "questionId": 37812,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37812-homo_info",
+  "independentForecastId": "37812-gpt5-info2-2",
+  "otherForecastIds": [
+    "37812-gpt5-info1-1",
+    "37812-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 presents a plausible path to just over the threshold via summer seasonals and several resumptions, but some specifics they cite (notably SAS returning to CPH/ARN and LOT to WAW) seem unlikely without corroboration, which weakens confidence in their high-40s baseline. Their overall framing about timing (summer schedules largely loaded; swings driven by security) is sound. Forecaster 3’s analysis is more data-anchored, citing OAG with ~39 active destinations in May 2025 and naming key absent carriers (BA, Lufthansa Group, Saudia, EgyptAir, Pegasus; also Qatar Airways and Kuwait Airways). If accurate, that baseline makes >51 by July hard without multiple major resumptions. Given current regional risk and insurer constraints, F3’s constraints-based argument feels more convincing than F2’s optimistic adds.\n\nNew to me were the concrete claims of specific resumptions (F2) and the OAG point-in-time count (F3). I find the OAG-based 39-destination figure and the list of absent majors more persuasive than the claimed SAS/LOT returns.\n",
+    "rationale": "My initial take leaned on seasonal uplift and assumed a summer baseline near or above 50 in normal times, with incremental additions tipping over the threshold. The OAG-derived baseline of ~39 active destinations in May 2025, plus plausible absences of several major carriers (QR, SV, MS, PC, KU, and Lufthansa Group/BA) materially lowers the near-term ceiling. To exceed 51 by July 1, Beirut would need ~13+ net additions in ~6 weeks. That would likely require multiple big-carrier resumptions plus seasonal Mediterranean leisure adds. Given ongoing security risks on the Israel–Hezbollah front, war-risk insurance constraints, and weak tourism demand signals, broad-based resumptions before July 1 look unlikely. \n\nThere is still upside via MEA-driven seasonals (e.g., some European leisure points, Greek/Turkish islands if any operate), Gulf LCCs, and Iraq/Caucasus/North Africa regionals. If even a subset of the allegedly absent Gulf/European carriers reappears on the FlightsFrom listing by late June, the count could climb quickly. But the more conservative, data-backed baseline suggests a shortfall remains the more probable outcome. \n\nKey swing factors I’d watch: FlightsFrom BEY page in mid/late June; announcements from Qatar Airways, Saudia, EgyptAir, Pegasus, Kuwait Airways, and Lufthansa Group; any de-escalation/insurance improvements. Absent those, I now weight the No outcome more heavily.",
+    "probability": 36
+  },
+  "usage": {
+    "inputTokens": 2111,
+    "outputTokens": 3246,
+    "totalTokens": 5357,
+    "reasoningTokens": 2688,
+    "cachedInputTokens": 0
+  }
+}

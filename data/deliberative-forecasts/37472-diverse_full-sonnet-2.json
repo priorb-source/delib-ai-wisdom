@@ -1,0 +1,26 @@
+{
+  "forecastId": "37472-diverse_full-sonnet-2",
+  "questionId": 37472,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37472-diverse_full",
+  "independentForecastId": "37472-sonnet-full",
+  "otherForecastIds": [
+    "37472-pro-full",
+    "37472-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other forecasters raise some valid points but I believe they're overweighting certain factors. Forecaster 2 emphasizes political volatility and the probe report as creating 'non-trivial chance of sudden political development,' while Forecaster 3 highlights the possibility of Hasina returning to 'energize supporters' and draws parallels to Khaleda Zia's May 6 return. However, the Zia comparison is weak - she returned from medical treatment abroad, not criminal exile facing crimes against humanity charges. The situations are fundamentally different. \n\nRegarding the political calculus argument: with elections potentially delayed until June 2026, there's no clear strategic benefit for Hasina to return now and face immediate arrest. Her public vow to return is likely political rhetoric rather than actionable intent. While I agree the political situation is volatile, volatility doesn't necessarily increase the probability of her return in such a short window - it could just as easily lead to further entrenchment of the status quo.\n\nThe forecasters correctly identify the core constraints: India's 5-month silence on extradition, the short 7-week timeframe, serious criminal charges, and hostile interim government. These factors are heavily determinative and should dominate our estimates.",
+    "rationale": "Upon reflection, I think there's merit to accounting slightly more for tail risk scenarios. The May 15 show-cause deadline is imminent, and the completion of the ICT probe could theoretically trigger unexpected responses. Additionally, there may be private diplomatic channels or information we lack. However, these remain low-probability scenarios.\n\nThe strongest argument for staying at or near my original estimate: extradition processes for high-profile political figures typically take many months even when both countries cooperate. India's complete silence for 5 months suggests either disinterest or deliberate delay. A forced extradition in 7 weeks would require India to reverse course dramatically and expedite all legal procedures - highly unlikely. A voluntary return would require Hasina to accept near-certain arrest on serious charges with no clear political upside in the immediate term.\n\nI'll update modestly to 10% to account for slightly higher tail risk than my initial 8%, acknowledging political volatility and information uncertainty. But I remain skeptical of the 12-15% range, which seems to overweight speculative scenarios without sufficient concrete indicators.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 2352,
+    "outputTokens": 1538,
+    "totalTokens": 3890,
+    "reasoningTokens": 988,
+    "cachedInputTokens": 0
+  }
+}

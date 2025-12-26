@@ -1,0 +1,26 @@
+{
+  "forecastId": "38339-diverse_info-gpt5-1",
+  "questionId": 38339,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38339-diverse_info",
+  "independentForecastId": "38339-gpt5-info1",
+  "otherForecastIds": [
+    "38339-pro-info3",
+    "38339-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize contractual inertia and the short runway, which I agree are the dominant forces. Forecaster 3 adds two useful pieces I hadn’t incorporated explicitly: (1) as of May 2, talks were centered on renegotiation rather than cancellation; (2) a public claim (Stankov) that termination is blocked until debts are settled. Forecaster 2’s points on diversification and the Turkish hub’s diminished strategic value are directionally relevant but don’t change the near‑term timeline. I do note that “blocked until debt settlement” may constrain Bulgaria’s willingness to cancel but does not constrain resolution: a unilateral cancellation announcement still resolves Yes under the criteria, even if contractually improper. Both may be underweighting BOTAS’s option to terminate for nonpayment; however, BOTAS likely preserves leverage and recovery prospects by keeping the contract alive, which tempers that path to a Yes.",
+    "rationale": "My base case was 22%, reflecting severe financial stress but strong inertia and very short time remaining. Forecaster 3’s evidence that negotiations are focused on price/capacity rather than exit, plus the political/contractual signaling that Bulgaria would prefer renegotiation over outright cancellation in June, marginally lowers the odds of a decisive announcement before July 1. BOTAS terminating for nonpayment remains a non‑zero risk but seems suboptimal for recovering arrears, so I keep that path low. Unilateral Bulgarian cancellation remains possible given domestic politics, but the combination of legal exposure, Turkish opposition, and the lack of signaling of imminent action in early May suggests it is unlikely within ~3.5 weeks. Net: slight downward adjustment.",
+    "probability": 19
+  },
+  "usage": {
+    "inputTokens": 2039,
+    "outputTokens": 1441,
+    "totalTokens": 3480,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

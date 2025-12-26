@@ -1,0 +1,26 @@
+{
+  "forecastId": "37640-diverse_info-gpt5-1",
+  "questionId": 37640,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37640-diverse_info",
+  "independentForecastId": "37640-gpt5-info1",
+  "otherForecastIds": [
+    "37640-pro-info3",
+    "37640-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforce the core inertia argument. Forecaster 2 adds concrete procedural constraints (GSA domain process, NARA record-retention) and a relevant 2017 precedent of redirects/static pages instead of removal—useful nuance I hadn’t explicitly cited. Forecaster 3 emphasizes stakeholder integration and logistical complexity, which supports persistence but is somewhat overlapping with my prior reasoning. Both also flag small technical/measurement risks (DNS/cert issues), aligning with my earlier outage caveat. I find F2’s procedural specifics most persuasive and incrementally supportive of a higher probability; nothing presented makes me more pessimistic.",
+    "rationale": "Time to resolution is short (~48 days). The site is currently up, and elimination of the program doesn’t necessitate immediate domain takedown. Federal web decommissioning typically requires coordination with GSA and adherence to NARA obligations, making a formal shutdown in under two months unlikely. Precedent suggests content deprecation or redirects rather than hard removal. Even a static archive or redirect would register as “up” for the resolution source. Remaining risks: a politically driven symbolic takedown (non-zero but atypical for a long-standing, consumer-facing brand), and small measurement/transient outage risk at the moment of Metaculus’s check. Given the added weight from F2 on GSA/NARA processes, I slightly raise my forecast while keeping a few points for intentional takedown and monitoring risk.",
+    "probability": 92
+  },
+  "usage": {
+    "inputTokens": 1920,
+    "outputTokens": 1333,
+    "totalTokens": 3253,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 1024
+  }
+}

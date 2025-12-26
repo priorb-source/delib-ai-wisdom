@@ -1,0 +1,26 @@
+{
+  "forecastId": "38110-homo_info-sonnet-1",
+  "questionId": 38110,
+  "condition": "homo_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38110-homo_info",
+  "independentForecastId": "38110-sonnet-info1-1",
+  "otherForecastIds": [
+    "38110-sonnet-info2-2",
+    "38110-sonnet-info3-3"
+  ],
+  "forecast": {
+    "review": "The other forecasters raised several critical points I underweighted. Forecaster 2's mention of the May 30 AFRICOM briefing noting a 'deteriorating security threat environment' is particularly significant - the situation is actively worsening, not stabilizing. Forecaster 3's historical data is compelling: only 20% of security-related ECOWAS border closures since 2015 reopened within 60 days, and we have merely 31 days remaining. The precedent of the 2019-2020 Nigeria-Benin closure lasting 16 months between these exact countries is highly relevant and something I should have weighted more heavily. Both forecasters correctly emphasized the complete absence of any positive signals or progress reports, despite the Nigerian House resolution on May 14. Their reasoning about the compressed timeframe being insufficient for complex security coordination is more persuasive when combined with the base rate data and deteriorating conditions. My original 25% appears too optimistic given these factors.",
+    "rationale": "Revising my forecast downward based on three key factors I underweighted: (1) The AFRICOM assessment of deteriorating security conditions as of May 30 suggests the situation is worsening rather than moving toward resolution; (2) The historical base rate of only 20% of similar closures reopening within 60 days, when we have merely half that timeframe; (3) The highly relevant precedent of the 2019-2020 16-month closure between these exact countries over similar security concerns. While economic pressure and the Nigerian House resolution provide some upward pressure, the combination of deteriorating security, extremely compressed timeline relative to historical base rates, and complete absence of positive diplomatic signals makes reopening before July 1 quite unlikely. The status quo bias is stronger than I initially assessed. Adjusting to align more closely with the evidence-based reasoning of the other forecasters.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 2052,
+    "outputTokens": 1196,
+    "totalTokens": 3248,
+    "reasoningTokens": 697,
+    "cachedInputTokens": 0
+  }
+}

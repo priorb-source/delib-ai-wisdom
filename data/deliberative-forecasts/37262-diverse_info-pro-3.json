@@ -1,0 +1,26 @@
+{
+  "forecastId": "37262-diverse_info-pro-3",
+  "questionId": 37262,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 3,
+  "infoLabel": "info2",
+  "groupId": "37262-diverse_info",
+  "independentForecastId": "37262-pro-info2",
+  "otherForecastIds": [
+    "37262-gpt5-info1",
+    "37262-sonnet-info3"
+  ],
+  "forecast": {
+    "review": "My initial forecast was significantly higher than the other two experts. Their analyses provided a critical counterpoint that I had underestimated: the specific behavior of the Global Protest Tracker (GPT) as the resolution source. Forecaster 2's argument that the primary bottleneck is not the *occurrence* of a 10,000+ person protest in India, but its *inclusion* in the tracker, is exceptionally persuasive. Forecaster 3 reinforced this by noting the tracker's low overall publication rate worldwide (145 in 12 months), confirming it is highly selective. Both correctly identified that the short, two-month timeframe amplifies the risks of both reporting lag and the protest not meeting the tracker's high, unstated threshold for significance. The evidence that recent, violent protests from April 2025 are not yet listed on the tracker is a strong negative signal that I had not sufficiently considered. Their reasoning has convinced me to substantially revise my forecast.",
+    "rationale": "I am significantly decreasing my forecast from 70% to 45%. My original analysis focused too heavily on the high base rate of large protests in India and the existence of current social tensions. I failed to adequately weigh the specific constraints imposed by the resolution criteria. The arguments from the other forecasters corrected this oversight. The key factor for my update is the Global Protest Tracker's nature as a selective, curated academic product, not a real-time news aggregator. This introduces two major hurdles: 1) Selectivity: A protest must be exceptionally large, sustained, or nationally significant to be included, and many 10,000+ person events may not make the cut. 2) Lag: The tracker does not update in real-time, and a protest occurring in June might not be documented before the July 1 deadline. The combination of these two factors within a tight two-month window makes a 'Yes' resolution far less likely than I initially believed. I am not lowering my forecast to their 35-40% range because I maintain a slightly stronger belief that the current volatile political climate in India could produce an event so significant (e.g., a major national strike call) that it would overcome the tracker's high bar for inclusion and compel a relatively swift update. However, the deliberative process has made it clear my initial optimism was misplaced.",
+    "probability": 45
+  },
+  "usage": {
+    "inputTokens": 1777,
+    "outputTokens": 2230,
+    "totalTokens": 4007,
+    "reasoningTokens": 1732,
+    "cachedInputTokens": 0
+  }
+}

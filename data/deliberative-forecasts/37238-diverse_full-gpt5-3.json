@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-diverse_full-gpt5-3",
+  "questionId": 37238,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37238-diverse_full",
+  "independentForecastId": "37238-gpt5-full",
+  "otherForecastIds": [
+    "37238-pro-full",
+    "37238-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 credibly emphasizes proximity (Newark/Bedminster-NYC corridor), the reliably warm reception at UFC events, and the Trump–Dana White relationship. I agree these push the odds up versus a random PPV. However, 65% seems to overweight proximity and audience fit relative to the base rate that he skips most cards and the ever-present risk of conflicting presidential obligations. Forecaster 3 leans on base rates and recency. I agree the default on any given card is non-attendance, but their 22% may underweight how unusually low-friction this specific event is (Saturday night, local venue, proven security playbook from UFC 314). Neither forecaster presented new concrete signals (e.g., schedule leak, credible reporter hints, local security prep) that would justify a large move. The claim that he “rarely attends two in close succession” is directionally plausible but not well quantified; without hard data, I treat it as a modest negative rather than a strong constraint.",
+    "rationale": "My prior (36%) already incorporated: (1) base rate of non-attendance; (2) strong Trump–UFC ties; (3) Newark’s convenience; (4) the short interval since UFC 314 as a mild drag; and (5) the need for schedule/security confirmation before moving higher. Forecaster 2’s argument nudges me slightly upward due to the ‘low-effort, high-reward’ framing in this particular geography. Forecaster 3’s points are largely consistent with my prior, but I think they underweight the proximity and demonstrated feasibility of a Presidential visit to a UFC arena in 2025. Net: a small upward adjustment, pending any concrete scheduling or security signals.\n\nKey signals to watch: credible MMA/political reporters indicating intent; addition to the public schedule; visible advance/security coordination at Prudential Center; or, conversely, a conflicting trip/fundraiser/rally the same evening.\n",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 2016,
+    "outputTokens": 2020,
+    "totalTokens": 4036,
+    "reasoningTokens": 1600,
+    "cachedInputTokens": 0
+  }
+}

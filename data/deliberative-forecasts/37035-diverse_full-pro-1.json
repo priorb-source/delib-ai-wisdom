@@ -1,0 +1,26 @@
+{
+  "forecastId": "37035-diverse_full-pro-1",
+  "questionId": 37035,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37035-diverse_full",
+  "independentForecastId": "37035-pro-full",
+  "otherForecastIds": [
+    "37035-sonnet-full",
+    "37035-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I have reached a strong consensus, with forecasts tightly clustered between 4% and 6%. We all agree on the primary drivers of this forecast: the extremely strong historical precedent of the CDC not elevating yellow fever outbreaks beyond Level 2, the current lack of sustained urban transmission in Colombia, the availability of a vaccine as a key mitigation measure, and the very short timeframe until the resolution date. Forecaster 2 provided a helpful framing by explicitly listing the unlikely chain of events required for a 'Yes' outcome, which reinforces the low probability. Forecaster 3's analysis was particularly insightful, introducing a point I hadn't explicitly weighed: that Colombia's declaration of an emergency and its mass vaccination campaign could be seen by the CDC as evidence of a managed response, thereby reinforcing the appropriateness of a Level 2 notice rather than being a trigger for escalation. This nuanced argument is highly convincing.",
+    "rationale": "My initial reasoning remains the same, but the deliberation has added nuance and slightly increased my confidence in a 'No' outcome. I still believe the most critical factor is the CDC's historical precedent of keeping much larger yellow fever outbreaks at Level 2. The arguments from the other forecasters have reinforced this. Specifically, Forecaster 3's point that an active and visible public health response by the Colombian government could paradoxically make a CDC escalation *less* likely is a compelling piece of reasoning. It suggests that the CDC would see the situation as serious but appropriately managed, fitting the 'Practice Enhanced Precautions' (Level 2) framework perfectly, as it directs travelers toward the very mitigation measures (vaccination) being promoted in-country. This argument, combined with the other shared factors (no urban spread, short timeline), has convinced me to slightly lower my probability. I am shifting my forecast from 5% to 4% to reflect this sharpened conviction that the CDC will adhere to its established response pattern for vaccine-preventable diseases.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 2205,
+    "outputTokens": 1974,
+    "totalTokens": 4179,
+    "reasoningTokens": 1562,
+    "cachedInputTokens": 0
+  }
+}

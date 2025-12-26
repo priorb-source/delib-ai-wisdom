@@ -1,0 +1,26 @@
+{
+  "forecastId": "37263-diverse_info-gpt5-1",
+  "questionId": 37263,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37263-diverse_info",
+  "independentForecastId": "37263-gpt5-info3",
+  "otherForecastIds": [
+    "37263-pro-info2",
+    "37263-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters make solid points emphasizing the short timeline, small market size, and lack of any launch signals. Forecaster 3 adds useful new information I hadn’t incorporated: the presence of local ride-hailing apps (GetMe Ride, Conch Cab) suggests both that demand is being met and that regulators/taxi interests may prefer local solutions. That reduces the ‘quick Uber Taxi pivot’ pathway I was weighting. Forecaster 2’s note about Uber’s broader strategic focus is directionally right, though I view it as a weak prior because Uber can and does run smaller/seasonal pilots. Overall, their reasoning tightens the case for a lower probability than my initial 7%.",
+    "rationale": "Time left: ~60 days to July 1, 2025. Status quo: Uber not listed for TCI and local authorities recently warned against illegal taxis, signaling enforcement rather than liberalization. Necessary preconditions for Yes—government alignment, local taxi partnership (Uber Taxi), driver onboarding, and Uber website/app listing—typically produce public signals weeks in advance; none are visible. New factor: if accurate, local ride-hailing options (GetMe Ride since 2019; Conch Cab launch in May 2025) likely absorb the modernization narrative and reduce political space for Uber near-term. While strong tourism creates demand and could support a taxi-integration model, the combination of short runway, protective regulatory posture, very small resident base, absence of launch chatter, and existing local competitors makes a sudden Uber availability by July 1 unlikely. Upside triggers would include an official e-hailing framework announcement or Uber/TCI taxi association partnership news; absent that, the default is No.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 1750,
+    "outputTokens": 1384,
+    "totalTokens": 3134,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

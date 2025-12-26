@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-diverse_none-gpt5-3",
+  "questionId": 37464,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37464-diverse_none",
+  "independentForecastId": "37464-gpt5-none",
+  "otherForecastIds": [
+    "37464-pro-none",
+    "37464-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize status-quo inertia and the short remaining window, which I underweighted. Forecaster 3’s point that the recall remains Active 2.5 months in with only 24 days left is salient given the resolution requires the page to flip to Closed before June 1. Forecaster 2’s focus on bureaucratic verification timelines is reasonable; absent concrete base-rate data, assuming sub-90-day closure as typical may be too optimistic. Neither added new facts about this specific recall, but they credibly highlight process/website-update lag risk that can push closures past otherwise reasonable operational timelines.",
+    "rationale": "I still think the case-specific factors lean Yes: small, contained scope (vending machines in one state), very short shelf life, and over 10 weeks already elapsed all support timely completion of recovery and corrective actions. However, the decisive risk is administrative/verification lag and the requirement that the FSIS page show Closed before June 1. The fact it’s still Active now suggests closure is not imminent, and a flip within the next ~3 weeks is plausible but far from assured. Balancing these, I reduce my estimate from 76% to the mid-to-high 50s to reflect meaningful but not dominant odds of timely posting. I would move up if FSIS shows recent pattern of closing similar small allergen/misbranding recalls in ~80–100 days, or if any update suggests verification is complete; I would move down if there’s no change by the last week of May.",
+    "probability": 58
+  },
+  "usage": {
+    "inputTokens": 1730,
+    "outputTokens": 1347,
+    "totalTokens": 3077,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38055-diverse_none-gpt5-3",
+  "questionId": 38055,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38055-diverse_none",
+  "independentForecastId": "38055-gpt5-none",
+  "otherForecastIds": [
+    "38055-pro-none",
+    "38055-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters use the same decomposition I did (fight occurs × win if it occurs). Forecaster 3’s structure aligns closely with mine and appropriately notes UFC’s propensity to find replacements, which I had implicitly considered. Forecaster 2 pushes Pyfer’s win chance to 65%, which strikes me as aggressive absent market odds or clear matchup advantages; Pyfer vs. Gastelum profiles closer to a competitive fight where Pyfer might be a slight favorite at most. Neither adds concrete evidence (odds, injury news, camp notes) that materially shifts priors. The draw/NC edge case remains a small downward adjustment that wasn’t emphasized by Forecaster 2.",
+    "rationale": "I maintain a two-step estimate with a small NC/draw adjustment:\n- P(fight at UFC 316): 0.84–0.88. We’re still months out, so injury/weight-cut risks persist, but UFC often salvages bookings with replacements. I’ll use 0.86.\n- P(win | fight): If it’s Gastelum, I see a near-even-to-slight Pyfer lean (≈0.52–0.57). If a short-notice replacement happens, Pyfer might get a marginally more favorable matchup (≈0.56–0.60). Blending those scenarios yields ≈0.55.\n- Multiply: 0.86 × 0.55 ≈ 0.47. Subtract a small chance of draw/NC (~1–2%) keeps it in the high-40s.\nForecaster 2’s 65% conditional win rate would lift the overall probability to the mid-50s, but I don’t see evidence to support that right now. Without new information (betting markets, health/weight reports, opponent confirmation), I don’t have reason to move meaningfully. I’ll hold near my initial estimate.",
+    "probability": 48
+  },
+  "usage": {
+    "inputTokens": 1701,
+    "outputTokens": 2325,
+    "totalTokens": 4026,
+    "reasoningTokens": 1920,
+    "cachedInputTokens": 0
+  }
+}

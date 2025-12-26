@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-homo_none-gpt5-1",
+  "questionId": 37266,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37266-homo_none",
+  "independentForecastId": "37266-gpt5-none-1",
+  "otherForecastIds": [
+    "37266-gpt5-none-2",
+    "37266-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters align with my base-rate view and add a useful emphasis on cyclone seasonality (Nov–Apr) and the Embassy posture as key triggers. They don’t introduce concrete new events suggesting imminent nationwide deterioration. Their trigger lists (ordered departure, major attacks in Maputo/Beira/Nampula, sustained nationwide unrest) match my priors. I find their reasoning sound and consistent with State’s pattern of using Level 3 plus regional Do Not Travel for localized insurgencies.",
+    "rationale": "Time remaining is ~60 days. The status quo is Mozambique at Level 2/3 with area-specific Do Not Travel (Cabo Delgado). A Level 4 upgrade in this short window would typically require a sudden, nationwide-impact shock (major terror attacks in the south, sweeping civil unrest/repression, coup, consular drawdown) or a severe disaster. Current signals—localized insurgency in the far north and episodic protests—do not point to nationwide breakdown. Cyclone risk diminishes after April, reducing one plausible trigger. Embassy Maputo has not (to public knowledge) shifted to ordered/authorized departure, which often precedes or accompanies Level 4 changes. Base rates for a new Level 4 designation over two months for a country in Mozambique’s current condition are low. I slightly lower my estimate from 7% to 6% to reflect the seasonality point and consensus among peers, while keeping a non-trivial tail for an unforeseen shock or Embassy posture change.",
+    "probability": 6
+  },
+  "usage": {
+    "inputTokens": 1808,
+    "outputTokens": 1020,
+    "totalTokens": 2828,
+    "reasoningTokens": 704,
+    "cachedInputTokens": 0
+  }
+}

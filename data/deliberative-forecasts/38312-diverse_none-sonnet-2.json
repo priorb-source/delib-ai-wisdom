@@ -1,0 +1,26 @@
+{
+  "forecastId": "38312-diverse_none-sonnet-2",
+  "questionId": 38312,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "38312-diverse_none",
+  "independentForecastId": "38312-sonnet-none",
+  "otherForecastIds": [
+    "38312-pro-none",
+    "38312-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises the most compelling new argument: the extraordinarily tight timeframe combined with the specific diplomatic crisis. I had underweighed just how constrained we are - it's June 3rd, summits typically occur mid-to-late June, and we're looking at perhaps 2-3 weeks maximum for invitation, acceptance, and complex security/logistics arrangements for a PM-level visit. Forecaster 2 helpfully names the specific crisis (Nijjar investigation) and emphasizes the two-sided political cost - both Trudeau inviting Modi and Modi accepting would face domestic backlash in their respective countries. This bilateral political constraint is more severe than I initially considered. The fact that other non-G7 countries have already been invited while India has not, at this late stage, is an extremely strong negative signal that I insufficiently weighted. Both forecasters make the point that the status quo has shifted from 'India typically attends' to 'India is in active diplomatic crisis with the host nation.' However, I find Forecaster 2's 20% slightly more defensible than Forecaster 3's 7% because great power stakeholders could still apply significant pressure, and diplomatic surprises, while unlikely, are not vanishingly rare. The gap between 7% and 20% represents uncertainty about just how impossible a last-minute resolution would be.",
+    "rationale": "After deliberation, I'm updating downward significantly. The combination of: (1) the severe and specific Canada-India diplomatic crisis over the Nijjar case, (2) the extremely compressed timeline with only 2-3 weeks until the likely summit dates, (3) the strong negative signal of other countries being invited while India is not, and (4) the bilateral political costs for both leaders making attendance problematic - all point to a lower probability than my initial 20%. Forecaster 3's 7% appropriately weights the timing constraints and the seriousness of the bilateral tensions. However, I'm settling at 10% rather than going all the way to 7% because I want to preserve slightly more probability space for: (a) intense behind-the-scenes pressure from the U.S., Japan, or other G7 members for whom India's strategic importance outweighs Canadian domestic politics, and (b) the possibility of diplomatic developments we're not yet aware of. The path to 'Yes' requires multiple low-probability events to align in rapid succession, but it's not quite impossible.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 1913,
+    "outputTokens": 1311,
+    "totalTokens": 3224,
+    "reasoningTokens": 695,
+    "cachedInputTokens": 0
+  }
+}

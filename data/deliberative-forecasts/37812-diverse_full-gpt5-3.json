@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-diverse_full-gpt5-3",
+  "questionId": 37812,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37812-diverse_full",
+  "independentForecastId": "37812-gpt5-full",
+  "otherForecastIds": [
+    "37812-pro-full",
+    "37812-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters’ reasoning largely aligns with my prior view. I find Forecaster 3’s arithmetic more precise: starting from ~39 in May and adding the 5 identified launches (CPH, ARN, AUH, BCN, WAW) puts us around ~44 by July 1, leaving a gap of 8+ destinations to clear >51. Forecaster 2’s statement that 13 new destinations are needed implicitly ignores those imminent additions, which slightly overstates the gap. I agree with both on the key drivers: regional security risk, absent major carriers (Qatar, Kuwait, Saudia, EgyptAir, Pegasus, BA/LH Group), soft demand, and short lead times. One nuance I would add is that FlightsFrom often lists all scheduled summer-season destinations (including those starting later in July/August). That could, in principle, inflate the count on July 1 versus “active today.” However, I see no evidence that multiple absent carriers have preloaded late-summer returns, so this nuance likely doesn’t change the base case much. Overall, their arguments reinforce my prior estimate rather than shifting it.",
+    "rationale": "Baseline: ~39 destinations as of May (OAG). Known adds before/around July 1: SAS (CPH, ARN), Wizz AUH (Jun 4), MEA BCN (Jun 26), LOT WAW (Jul 1) → roughly ~44. To exceed 51 requires at least 8 more destinations in the next ~6 weeks. The key missing contributors remain the Gulf and European network carriers; without several of them returning, it’s hard to bridge the gap. Demand indicators (Q1 departures down, tourism ~30% below 2019) and heightened security posture reduce the likelihood of rapid resumption. Airlines typically need lead time, and we lack announcements of multi-route comebacks. The one caveat is FlightsFrom’s seasonal listing methodology, which could include later-summer starts; yet given current risk, it’s unlikely many such routes are loaded and committed. Downside risks (further escalations or last-minute suspensions) remain material. Upside requires multiple major carrier resumptions announced imminently. Net: the probability of exceeding 51 by what FlightsFrom will show on/after July 1 remains low. I keep my forecast essentially unchanged.",
+    "probability": 17
+  },
+  "usage": {
+    "inputTokens": 2264,
+    "outputTokens": 3757,
+    "totalTokens": 6021,
+    "reasoningTokens": 3264,
+    "cachedInputTokens": 0
+  }
+}

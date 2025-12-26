@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-diverse_none-sonnet-2",
+  "questionId": 37805,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37805-diverse_none",
+  "independentForecastId": "37805-sonnet-none",
+  "otherForecastIds": [
+    "37805-pro-none",
+    "37805-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 raises a critical piece of information I completely missed: they claim to have checked the resolution source and found SIX current direct destinations from Saipan (Guam, Tokyo, Seoul, Busan, Rota, and Tinian). If accurate, this fundamentally changes the question from 'Will routes be added?' to 'Will routes be maintained?' - a much more likely outcome over 6 weeks. The inclusion of inter-island destinations (Rota, Tinian) is particularly notable, as these short-haul Northern Marianas routes would likely be stable. However, Forecaster 3's more cautious analysis suggests uncertainty about current service levels, noting that Busan is 'intermittent/seasonal' and Japan service has been 'uncertain.' This creates doubt about whether all six routes Forecaster 2 lists are currently operating versus merely listed. The background article's emphasis on 'struggles' and 'flight suspensions' also suggests a more constrained network than six destinations would imply. Forecaster 3's 22% matches my original forecast, but they seem to acknowledge some possibility of seasonal routes appearing without having checked current levels definitively.",
+    "rationale": "The central question is whether Forecaster 2's claim of six current destinations is accurate. Their specific airport codes and claim to have checked the resolution source suggest genuine research, but the vagueness from Forecaster 3 and the pessimistic background article create uncertainty. If there are truly 5-6 destinations currently operating, maintaining >4 through July 1 (just 6 weeks away) is highly probable - airline schedules are sticky over such short periods. The inter-island flights to Rota and Tinian, if confirmed, would be particularly stable. However, key concerns remain: (1) seasonal variation - some routes may only operate in certain months, (2) the distinction between listed vs. actually operating flights on aggregator sites, (3) whether 'scheduled' routes include suspended or upcoming service. I'm significantly updating upward from 22% based on the strong possibility that Forecaster 2 is correct, but remaining below their 95% due to uncertainty about the current state and the documented tourism struggles. The most likely scenario is 4-6 current destinations with high probability of maintaining >4.",
+    "probability": 68
+  },
+  "usage": {
+    "inputTokens": 2029,
+    "outputTokens": 1457,
+    "totalTokens": 3486,
+    "reasoningTokens": 718,
+    "cachedInputTokens": 0
+  }
+}

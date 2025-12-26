@@ -1,0 +1,26 @@
+{
+  "forecastId": "37831-homo_info-gpt5-2",
+  "questionId": 37831,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37831-homo_info",
+  "independentForecastId": "37831-gpt5-info2-2",
+  "otherForecastIds": [
+    "37831-gpt5-info1-1",
+    "37831-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely align with my prior view but add a useful detail: the CNT reportedly repealed the existing party law (130–2) and signaled a new framework will be drafted. That legislative sequencing suggests the dissolution wasn’t a one-off decree but part of a deliberate, multi-step consolidation, making a quick reversal even less likely. They also emphasize AES alignment further insulating the junta from ECOWAS-style leverage and note that crafting a new party law typically takes months. I find these points credible and additive. Their tail-risk scenarios (court ruling respected by the junta; sudden mass mobilization; elite fractures; face-saving temporary reinstatement pending a new law) are reasonable but low-likelihood within the 6-week window.",
+    "rationale": "Time remaining is ~40 days. The regime’s trajectory (suspending party activity in 2024; now dissolving parties) and arrests of opposition figures point to entrenchment. New information about the CNT’s repeal of the party law and intent to draft a replacement increases the institutional and reputational costs of a rapid reversal. Mali’s exit from ECOWAS and tighter AES/Russia alignment reduces near-term external coercive leverage. Domestic pressure so far appears limited in scale, and Mali’s judiciary is unlikely to force an outcome the executive will honor on this timeline. A Yes outcome would most plausibly come from an unexpected tactical concession—e.g., allowing parties to resume pending a new law—to defuse unrest or unlock support, or from a court ruling the junta chooses to respect. Given the added legislative entrenchment, I slightly lower my estimate.",
+    "probability": 6
+  },
+  "usage": {
+    "inputTokens": 1891,
+    "outputTokens": 1172,
+    "totalTokens": 3063,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

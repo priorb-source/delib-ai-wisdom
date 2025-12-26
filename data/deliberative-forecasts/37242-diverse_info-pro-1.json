@@ -1,0 +1,26 @@
+{
+  "forecastId": "37242-diverse_info-pro-1",
+  "questionId": 37242,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37242-diverse_info",
+  "independentForecastId": "37242-pro-info1",
+  "otherForecastIds": [
+    "37242-sonnet-info3",
+    "37242-gpt5-info2"
+  ],
+  "forecast": {
+    "review": "My initial forecast was primarily based on the strong leading indicator of increased airline capacity. The other forecasters brought two critical new pieces of information to the discussion. Forecaster 2 introduced a late-April power outage, which provides a concrete, albeit likely small, mechanism for a decrease in arrivals. Forecaster 3, however, presented the most impactful argument: the timing of Easter. The fact that Easter 2025 fell entirely within April, whereas in 2024 it was in late March, is a powerful structural factor that strongly favors a year-over-year increase in arrivals. This point, combined with Forecaster 3's data showing robust underlying growth in Q1 2025, was highly convincing and significantly strengthened the case against a 'Yes' outcome.",
+    "rationale": "I am significantly decreasing my forecast for a 'Yes' outcome from 25% to 15%. The new information about the Easter holiday's timing, introduced by Forecaster 3, is the primary driver of this change. This calendar shift provides a substantial, built-in tailwind for April 2025 passenger numbers compared to April 2024. This factor powerfully reinforces my original reasoning based on increased airline capacity and the strong underlying growth trend reported for Q1 2025 (+3.6% YoY). While Forecaster 2's point about the late-April power outage is valid and represents a concrete downside risk, its impact is likely limited to the final few days of the month and is insufficient to counteract the multiple strong positive factors. The confluence of increased capacity, strong baseline demand, and the favorable Easter timing makes a year-over-year decline in arrivals highly improbable. My updated forecast of 15% now better reflects the weight of this new evidence, while still acknowledging the small possibility that the outage or other unforeseen disruptions could have had an outsized impact.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 1993,
+    "outputTokens": 2203,
+    "totalTokens": 4196,
+    "reasoningTokens": 1797,
+    "cachedInputTokens": 0
+  }
+}

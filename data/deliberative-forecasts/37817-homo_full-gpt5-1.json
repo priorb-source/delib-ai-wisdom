@@ -1,0 +1,26 @@
+{
+  "forecastId": "37817-homo_full-gpt5-1",
+  "questionId": 37817,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37817-homo_full",
+  "independentForecastId": "37817-gpt5-full-1",
+  "otherForecastIds": [
+    "37817-gpt5-full-2",
+    "37817-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "- Both forecasters appropriately emphasize that “>5” means 6+ and that charters won’t count.\n- I agree with Forecaster 2’s skepticism on Brisbane–Koror as a Qantas scheduled route; that would be an unusual deployment and lacks corroboration. I also find their caution on Manila/Yap being intermittently filed (and sometimes triangular) credible. Their note that FlightsFrom may or may not list far-future routes by July 1 is an important uncertainty I underweighted.\n- Forecaster 3’s higher estimate leans on two points I view as weaker: (a) treating early-2024 as 4–5 destinations including Brisbane as a scheduled service, and (b) relying on NRT being listed by early July plus one more addition. I’m less convinced on Brisbane’s reality and on a second additive route (ICN/HKG) materializing in time.\n- New arguments I’m adopting: (1) The possibility that FlightsFrom might not list UA’s Oct 29 NRT route by July 1 (F2), and (2) the practical need for two incremental listings beyond the likely core to hit 6+, which is a high bar in the next ~6 weeks.\n- Net: F2’s reasoning nudges me downward from my prior; F3 usefully highlights the “checked any time after July 1” nuance, but typical resolution behavior is to check near the date, so I won’t weight that heavily.",
+    "rationale": "Time until cutoff: ~6 weeks (as of May 21, 2025). Resolution occurs on or after July 1 via the FlightsFrom ROR page’s listed non-stop destinations.\n\nBaseline today likely includes: Guam (UA) and Taipei (CI) with high confidence; Yap (UA) is plausible but not guaranteed; Manila as a non-stop is uncertain (often triangular via GUM/YAP). Charters (e.g., JAL Narita) won’t count. The RA’s Qantas Brisbane claim remains uncorroborated and atypical for Qantas; I discount it heavily unless independently verified on FlightsFrom/OAG.\n\nPath to Yes (6+): From a realistic base of 3–4 (GUM, TPE, ±YAP, ±MNL), you’d still need two more listed destinations by the time of check. Candidates: (i) UA Narita listing for Oct 29 (could be shown, but not guaranteed by July 1), and (ii) some additional scheduled service like Brisbane, ICN, or HKG. Given demand recovery is slow, Korean leisure carriers’ caution, geopolitical headwinds limiting China/HK group traffic to Palau, and the questionable Brisbane claim, getting two incremental listings is unlikely in this short window. While Metaculus could check later in 2025 (which would likely include NRT), historical practice is to resolve near the date, and even later in 2025 a second additive route remains speculative.\n\nUpside risks I’ll still allow for: FlightsFrom lists NRT by July 1; Yap and Manila are both filed as non-stops; an Australian-supported operation is indeed scheduled and listed; or a summer seasonal ICN filing appears. But I assign low joint probability to the combination required to hit 6.\n\nGiven Forecaster 2’s credible caution on schedule filings and my skepticism about Brisbane, I’m moving down modestly from my prior. I’m not as low as 9% because there is some chance NRT is listed and one other addition materializes, but I see that as a long shot.\n\nWhat would move me up materially before July 1: Verified listings on FlightsFrom for at least two among NRT, BNE, ICN, HKG, plus confirmation that both YAP and MNL are simultaneously listed as non-stops in July.\nWhat would move me down: Evidence that MNL and/or YAP are not listed as non-stops in July and no sign that FlightsFrom lists UA NRT prior to late summer.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 2707,
+    "outputTokens": 3223,
+    "totalTokens": 5930,
+    "reasoningTokens": 2368,
+    "cachedInputTokens": 0
+  }
+}

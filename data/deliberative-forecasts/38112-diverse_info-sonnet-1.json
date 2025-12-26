@@ -1,0 +1,26 @@
+{
+  "forecastId": "38112-diverse_info-sonnet-1",
+  "questionId": 38112,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "38112-diverse_info",
+  "independentForecastId": "38112-sonnet-info3",
+  "otherForecastIds": [
+    "38112-gpt5-info2",
+    "38112-pro-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raised the most significant new evidence: Brazilian presidential adviser Celso Amorim's May 11, 2025 statement that BRICS 'should stabilise where it is' before further enlargement, combined with late April draft agendas that don't include enlargement as a key topic. This is critical information I had missed. As the host nation, Brazil has substantial agenda-setting power, and this public statement from a senior adviser is a very strong signal against new invitations at the July summit.\n\nForecaster 2 provided useful additional details (Kazakhstan's May 30 ruling out membership, Saudi Arabia's unresolved status) but remained more optimistic at 30%. Their emphasis on the partner pipeline and the fact that only one invitation is needed for Yes resolution is valid, but I find it doesn't adequately weight the host nation's explicit stance.\n\nForecaster 3's reasoning about consolidation after rapid expansion (2023 wave, Indonesia in January 2025) is compelling and aligns with my original thinking about the partner framework representing a gradualist turn. The combination of Brazil's public position, absent agenda items, April communiqué failure, and short timeline creates a much stronger case for 'No' than I initially assessed.",
+    "rationale": "The key new evidence significantly strengthens the case for no new invitation. Brazil's explicit May 11 statement about stabilizing membership, combined with draft agendas omitting enlargement, indicates the host nation does not intend to advance new invitations. This is particularly important given Brazil's agenda-setting power as summit host.\n\nHowever, I'm not going as low as 15% because: (1) BRICS operates on consensus, and China/Russia strongly favor expansion and could pressure for at least one invitation as a compromise; (2) the partner framework provides ready candidates; (3) diplomatic situations can shift quickly; (4) 'stabilizing' isn't an absolute prohibition; (5) only ONE invitation triggers Yes resolution, which is easier than a large expansion round.\n\nThe April foreign ministers' failure to produce a communiqué, which I emphasized initially, combined with Brazil's statement, creates a very challenging environment for achieving unanimous consent on new members. The consolidation logic after 2023's expansion and Indonesia's recent accession is sound.\n\nBalancing Brazil's clear signal against the non-zero possibility of a compromise single invitation or behind-the-scenes developments, I'm adjusting downward from my initial 22% to 17%.",
+    "probability": 17
+  },
+  "usage": {
+    "inputTokens": 2891,
+    "outputTokens": 1259,
+    "totalTokens": 4150,
+    "reasoningTokens": 760,
+    "cachedInputTokens": 0
+  }
+}

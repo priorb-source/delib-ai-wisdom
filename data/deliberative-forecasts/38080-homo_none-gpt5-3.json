@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-homo_none-gpt5-3",
+  "questionId": 38080,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38080-homo_none",
+  "independentForecastId": "38080-gpt5-none-3",
+  "otherForecastIds": [
+    "38080-gpt5-none-1",
+    "38080-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 makes a strong case that DHS’s stated rationale is misaligned with SEVP’s regulatory remit, boosting APA/First Amendment arguments and the odds of rapid injunctive relief. They also highlight credible off-ramps (TRO/PI, administrative stay, negotiated recertification). However, 65% seems high given deference risks if DHS invokes national security or regulatory noncompliance (e.g., refusal to provide records under 8 C.F.R. 214.3/214.4), plus the real possibility of an appellate stay before July 1. Forecaster 3’s analysis is more balanced: they weigh irreparable harm and courts’ past willingness to act quickly against immigration/national security deference and stay risk. Their emphasis on timing and implementation frictions (SEVIS updates, stays) is well taken. Overall, I find F3’s likelihood range closer to my priors; F2 offers useful arguments for upward adjustment but likely overstates the near-term odds.",
+    "rationale": "Status quo is No. The most plausible Yes paths by July 1 are (1) a district-court TRO/PI restoring certification and SEVIS access, not stayed on appeal by that date; (2) a DHS administrative stay or conditional reinstatement pending litigation; (3) a negotiated resolution. Courts will likely view the harms to thousands of students as irreparable and scrutinize whether DHS’s grounds track SEVP regulations. That favors some form of interim relief. Against this, DHS can argue immediate withdrawal under 8 C.F.R. 214.4 on national security/public safety or compliance grounds, which garners deference and could blunt procedural challenges. Even if Harvard secures a TRO, a rapid appellate or Supreme Court stay could push effective relief past July 1. Implementation frictions (SEVIS updates) are minor but could matter at the margin if orders issue very late in June. Netting these, I modestly increase my forecast from 40% to 47%, giving more weight to multiple off-ramps and the speed with which courts can act, while still discounting for deference and stay risk under an aggressive administration.",
+    "probability": 47
+  },
+  "usage": {
+    "inputTokens": 2544,
+    "outputTokens": 2312,
+    "totalTokens": 4856,
+    "reasoningTokens": 1856,
+    "cachedInputTokens": 0
+  }
+}

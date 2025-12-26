@@ -1,0 +1,26 @@
+{
+  "forecastId": "38088-diverse_full-sonnet-2",
+  "questionId": 38088,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "38088-diverse_full",
+  "independentForecastId": "38088-sonnet-full",
+  "otherForecastIds": [
+    "38088-pro-full",
+    "38088-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters converge on a probability between 32-38%, using similar reasoning around the base rate of ~38% U.S. representation in the 200-300 range, the current non-U.S. status quo, and the declining trend in U.S. representation. Forecaster 3 raises an interesting point I hadn't explicitly considered: USD strength could mechanically reduce non-U.S. fortunes when measured in USD, potentially elevating U.S. billionaires. However, over a 33-day horizon, this effect is likely modest. Forecaster 2 emphasizes the volatility at this ranking level, suggesting small market shifts could cause positional changes. While valid, I note that both recent snapshots (April 30 and May 29) showed non-U.S. occupants, reinforcing a persistent pattern rather than random volatility. The strongest common argument is the base rate: if ~38% of positions in this range are U.S., that alone suggests probability shouldn't stray too far below that figure. However, I believe the compounding factors - current non-U.S. status quo, seasonal Q2 weakness for U.S. representation, declining year-over-year trend, and the short 33-day timeline - justify being modestly below the base rate.",
+    "rationale": "After deliberation, I'm updating my forecast slightly upward from 32% to 34%. The other forecasters convinced me that I may have weighted the status quo too heavily relative to the base rate. While the current 250th position is held by Russia, and both recent data points were non-U.S., the underlying distribution shows 38% U.S. representation in this range. Over 33 days, market movements could realistically shift rankings, particularly given recent positive U.S. market developments. However, I remain below the 35-38% range of the other forecasters because: (1) the status quo bias over a short timeline is real - we have two consecutive non-U.S. data points; (2) the seasonal pattern explicitly suggests Q2 weakness for U.S. representation, and July 1 falls right at Q2 end; (3) the year-over-year trend shows declining U.S. representation (40% to 35%); and (4) the 62% non-U.S. composition in this range creates structural headwinds. At 34%, I'm acknowledging the force of the base rate argument while still accounting for multiple factors that suggest below-average U.S. probability at this specific moment in time.",
+    "probability": 34
+  },
+  "usage": {
+    "inputTokens": 2620,
+    "outputTokens": 1572,
+    "totalTokens": 4192,
+    "reasoningTokens": 678,
+    "cachedInputTokens": 0
+  }
+}

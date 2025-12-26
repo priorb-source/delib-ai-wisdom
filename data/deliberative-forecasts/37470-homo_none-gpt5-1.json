@@ -1,0 +1,26 @@
+{
+  "forecastId": "37470-homo_none-gpt5-1",
+  "questionId": 37470,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37470-homo_none",
+  "independentForecastId": "37470-gpt5-none-1",
+  "otherForecastIds": [
+    "37470-gpt5-none-2",
+    "37470-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely align with my initial take on timing and process. The strongest new consideration is Forecaster 2’s point about federation/event ambiguity: the article references a “World Cup,” while the question requires an ITKF announcement about the 2026 “World Championship.” That mismatch, plus the requirement for an explicit ITKF announcement (not local media or ministry statements), raises the bar. They also emphasize the likelihood that host awards occur at scheduled meetings; absent evidence of an imminent ITKF congress/board session before July 1, the base case skews to no announcement. I find these arguments convincing and incrementally bearish relative to my initial 25%.",
+    "rationale": "- Time left: ~7 weeks is tight for a formal, on-record ITKF announcement if no decision window is public.\n- Process: Host selection typically requires formal ratification and is often tied to scheduled governance meetings; no sign of such a meeting before July 1.\n- Signal quality: One local report of a minister-level discussion suggests interest but not a concluded decision or pending ratification.\n- Announcement criterion: Resolution demands an explicit ITKF announcement; smaller federations can be slow to publish, increasing the chance of missing the deadline even if internally decided.\n- Ambiguity risk: The source mentions a “World Cup,” while the question specifies the “World Championship” and ITKF. This increases the chance of a mismatch even if something is announced.\nGiven these, I’m nudging down from 25% to 20%. I’d move up on evidence of an ITKF board/congress before July 1 with host selection on the agenda or credible ITKF communications foreshadowing Egypt’s selection. I’d move down on indications the decision will occur after July 1 or that another federation/event is the one under discussion.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 1717,
+    "outputTokens": 1092,
+    "totalTokens": 2809,
+    "reasoningTokens": 704,
+    "cachedInputTokens": 0
+  }
+}

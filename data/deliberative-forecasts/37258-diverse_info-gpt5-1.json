@@ -1,0 +1,26 @@
+{
+  "forecastId": "37258-diverse_info-gpt5-1",
+  "questionId": 37258,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37258-diverse_info",
+  "independentForecastId": "37258-gpt5-info3",
+  "otherForecastIds": [
+    "37258-pro-info2",
+    "37258-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the short timeline, lack of signaling, and the Scottish Government’s current focus on non-constitutional priorities. New/useful points they add: (1) Sturgeon’s \"off the radar\" framing reinforces the de‑prioritization narrative; (2) an emphasis on the absence of any preparatory signals; and (3) typical long lead times for constitutional referendums. I agree with most of this. One caveat: the long lead-time argument isn’t decisive for this question because any dated announcement—even for far in the future—would resolve it Yes, and there is precedent (Sturgeon’s 2022 announcement) for setting a date amid legal uncertainty. That said, the political incentives now are weaker than in 2022, and there’s still no signaling. Their analyses overall support a very low probability. I don’t see compelling new evidence to push my estimate up or down; if anything, the lead-time point is less relevant to resolution, which slightly weakens the No case, but not enough to move my number.",
+    "rationale": "Context remains strongly against an announcement before July 1: SNP minority government under a cautious strategy; UK Labour majority opposed to a Section 30; the 2022 UKSC ruling raises legal/political costs; and there are no credible signals of imminent scheduling. The government has guidance discouraging significant announcements May 15–June 5, further shrinking the window, and there’s no coalition partner or leverage point pushing for a dated referendum. While the question’s legality clause means a purely political scheduling would count, repeating the 2022 tactic now delivers little strategic value and invites backlash. Polling is mixed despite the headline Yes lead in one survey, offering no clear trigger. Net: a small tail risk of a surprise consultative referendum date announcement exists, but the base case is No. I’m keeping my forecast unchanged.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 1946,
+    "outputTokens": 1936,
+    "totalTokens": 3882,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

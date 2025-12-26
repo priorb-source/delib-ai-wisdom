@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_info-gpt5-1",
+  "questionId": 37836,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37836-homo_info",
+  "independentForecastId": "37836-gpt5-info1-1",
+  "otherForecastIds": [
+    "37836-gpt5-info2-2",
+    "37836-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 usefully emphasizes that Erbil’s network tends to peak in summer and likely already sits in the low–mid 30s, plus operational improvements (night ops, ICAO check) that imply stability. However, Hajj/charter capacity is mostly irrelevant to FlightsFrom’s scheduled count, so that part of the bullish case carries less weight. Forecaster 3 rightly stresses that most summer schedules are already loaded by late spring and that without concrete route additions, the number on July 1 will resemble today’s. That’s a good caution against assuming further mid‑season increases. I also agree with F3 that Istanbul’s two airports counting separately helps, and with the reminder that late cancellations or security disruptions could shave the total—though FlightsFrom typically reflects filed schedules for the season, so short-term disruptions may not fully translate into removed destinations. Net: F2’s stance may be slightly overconfident without a current count; F3’s is a touch conservative given known adds (Aegean ATH already operating; Eurowings CGN in S25).",
+    "rationale": "Key pieces: 1) The resolution depends on FlightsFrom’s destination list for EBL, which generally reflects scheduled seasonal routes rather than day-of operations. That reduces the impact of temporary disruptions. 2) Known 2025 adds include Aegean’s Athens (operational) and Eurowings’ CGN for summer, which support edging above the threshold. 3) The base network across Turkey (IST/SAW plus likely AYT), the Gulf (DXB/SHJ/AUH/DOH/BAH/KWI), Saudi (at least JED/RUH, possibly MED/DMM), Jordan (AMM), Lebanon (BEY), Egypt (CAI and at least one resort city), Iran (multiple cities), and domestic Iraq (BGW/BSR/NJF) yields a plausible high-20s to low-30s before European adds. That makes 32+ attainable. 4) Offsetting uncertainties: some European/seasonal/Turkish leisure routes might not be in the schedules or could be trimmed; Iranian routes can be volatile. I discount the assistant’s easyJet ATH–EBL claim as unlikely. Overall, I remain modestly positive but not as high as F2 without a current snapshot. I trim slightly toward the middle after considering F3’s schedule-finalization point, while still leaning Yes on the strength of the diversified base and the two concrete additions.",
+    "probability": 63
+  },
+  "usage": {
+    "inputTokens": 1975,
+    "outputTokens": 4494,
+    "totalTokens": 6469,
+    "reasoningTokens": 3968,
+    "cachedInputTokens": 0
+  }
+}

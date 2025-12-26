@@ -1,0 +1,26 @@
+{
+  "forecastId": "37006-diverse_info-gpt5-1",
+  "questionId": 37006,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37006-diverse_info",
+  "independentForecastId": "37006-gpt5-info1",
+  "otherForecastIds": [
+    "37006-pro-info3",
+    "37006-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters supplied useful, concrete updates beyond my baseline. New to me were (1) specific seat projection ranges (BQ ~19–25 vs CPC ~10–12) and (2) multiple-poll evidence that BQ currently leads CPC in Quebec by mid–single to mid–teens points. They also highlighted a localized CPC candidate issue in the Quebec City area that plausibly trims CPC’s best region, modestly improving BQ’s relative seat outlook. I find their reasoning largely convincing: Quebec’s electoral geography and BQ’s vote efficiency remain material, and a Liberal resurgence mainly threatens BQ in Montreal/suburbs rather than directly flipping ridings to CPC. I remain cautious about six months of runway for opinion shifts and the potential for a national CPC wave to bleed into francophone regions, but the cited current seat buffer for BQ over CPC suggests my initial 65% was too low.",
+    "rationale": "Updating on the reported polling spread (BQ ahead of CPC provincewide) and seat models showing a durable BQ seat edge even after recent BQ erosion, I move upward. The mechanism for a No outcome still exists—continued BQ slippage from a Liberal surge plus unexpected CPC gains beyond Quebec City—but current indicators favor BQ winning more Quebec seats than CPC. The Quebec City candidate problem for CPC slightly reduces their upside in their strongest zone. Given roughly six months until E-day, I won’t go as high as 85%, but I see the probability comfortably above two-thirds. I would raise further if (a) francophone-only polling shows a clear, sustained BQ lead and (b) seat models consistently project BQ> C PC by 5–10+ seats. I would lower if CPC leads or ties BQ among francophones in sustained polling and/or reputable models flip to CPC≥BQ in Quebec.",
+    "probability": 77
+  },
+  "usage": {
+    "inputTokens": 1701,
+    "outputTokens": 1541,
+    "totalTokens": 3242,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 0
+  }
+}

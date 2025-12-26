@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-homo_none-gpt5-1",
+  "questionId": 37238,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37238-homo_none",
+  "independentForecastId": "37238-gpt5-none-1",
+  "otherForecastIds": [
+    "37238-gpt5-none-2",
+    "37238-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters use a sensible base-rate and conditional decomposition, which I agree is the right frame. Forecaster 2 adds an explicit split (≈70–80% chance UFC 316 is in the U.S.; conditional attendance ~30–40% if domestic, ~0–5% if international), yielding a blended ~25–35%. Forecaster 3 emphasizes presidential scheduling/security frictions but acknowledges the strong Trump–UFC relationship and that a brief drop-in suffices for resolution—both points I accept. Neither provides new concrete intel on the 316 location/date, but their quantitative conditioning is a useful refinement I hadn’t explicitly laid out. Their assumptions strike me as slightly on the high side but within a reasonable range.",
+    "rationale": "My prior (24%) was based on a generic per-event base rate without an explicit U.S./international split. Adopting the decomposition: if UFC 316 is U.S.-based (plausibly 70–80%), I estimate Trump’s attendance at roughly 30–35% given his pattern, optics, and demonstrated feasibility as sitting president; if international, ~0–5%. That blends to roughly 23–30%. A small upward adjustment is warranted because (1) the recent April 2025 appearance as president confirms operational feasibility and suggests continued appetite, and (2) a brief venue visit satisfies the criterion. Offsetting that, Q3 often features at least one international PPV (e.g., Australia or the Middle East), which could map to 316 and drive the probability toward zero. On balance, I nudge up modestly but stay below Forecaster 2’s midpoint given the real risk 316 is international and that he still skips most domestic cards. I’ll update materially once location/date are announced.",
+    "probability": 27
+  },
+  "usage": {
+    "inputTokens": 1595,
+    "outputTokens": 1786,
+    "totalTokens": 3381,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

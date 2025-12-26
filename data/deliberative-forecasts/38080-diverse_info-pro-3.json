@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-diverse_info-pro-3",
+  "questionId": 38080,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 3,
+  "infoLabel": "info1",
+  "groupId": "38080-diverse_info",
+  "independentForecastId": "38080-pro-info1",
+  "otherForecastIds": [
+    "38080-sonnet-info3",
+    "38080-gpt5-info2"
+  ],
+  "forecast": {
+    "review": "My initial forecast was critically flawed as it was based on outdated information. The other two forecasters, particularly Forecaster 2, correctly identified the single most important development: that a court granted Harvard a temporary restraining order (TRO) on May 23. This completely reverses the effective status quo from 'No' to 'Yes' for the time being. Forecaster 2's reasoning that a TRO is a strong leading indicator for a preliminary injunction is highly convincing. Forecaster 3 provided excellent additional context on the legal standards, the favorable judicial forum for Harvard, and importantly, potential failure modes like an appellate stay or a narrowly tailored court order that might not fully restore certification. Both analyses correctly frame the situation as a legal battle where Harvard currently has the advantage, tempered by the political volatility and determination of the executive branch.",
+    "rationale": "I am significantly updating my forecast from 35% to 80%. My initial analysis was based on the premise that Harvard had to initiate and win a legal challenge from a starting point of 'no certification.' The new information reveals they have already won the first legal round, and the TRO is currently in effect. The burden has now shifted to the government to get this court order overturned.\n\nThe reasoning for this major revision is as follows:\n1.  **The TRO Changes Everything:** A judge has already determined that Harvard has a likelihood of success on the merits and faces irreparable harm. This makes the granting of a longer-lasting preliminary injunction, which would extend beyond July 1, highly probable.\n2.  **High Bar for Reversal:** The government faces a difficult, though not impossible, task. They must first convince the district court to reverse its initial finding at the upcoming preliminary injunction hearing. If they fail, they must then appeal to the First Circuit and seek an emergency stay of the injunction. Achieving all of this before July 1 is a rapid and challenging legal maneuver.\n3.  **Acknowledged Uncertainty:** While the odds now strongly favor 'Yes,' I am keeping the forecast at 80% rather than higher to account for the valid risks raised by the other forecasters. There is a non-trivial chance that the district court denies the preliminary injunction. Furthermore, the executive branch has significant powers in matters of immigration and national security, and an appellate court could grant an emergency stay. The small but real risk of a 'tailored relief' order that doesn't fully restore certification also tempers my confidence. \n\nIn sum, the existence of the TRO moves the likely outcome from 'No' to 'Yes,' and the forecast must reflect this dramatic shift.",
+    "probability": 80
+  },
+  "usage": {
+    "inputTokens": 2539,
+    "outputTokens": 2773,
+    "totalTokens": 5312,
+    "reasoningTokens": 2224,
+    "cachedInputTokens": 0
+  }
+}

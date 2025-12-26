@@ -1,0 +1,26 @@
+{
+  "forecastId": "37267-diverse_info-gpt5-2",
+  "questionId": 37267,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info3",
+  "groupId": "37267-diverse_info",
+  "independentForecastId": "37267-gpt5-info3",
+  "otherForecastIds": [
+    "37267-sonnet-info2",
+    "37267-pro-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds a useful quantitative base rate: very few Level 3 countries are upgraded to Level 4 in any given year, implying a very low 60-day hazard for a random Level 3 country. I hadn’t explicitly anchored to that base rate; it argues for trimming my probability. Their emphasis on specific catalysts (ordered departure, airport disruption, coups) aligns with my triggers. Forecaster 3’s point about two years at Level 3 after a downgrade in early 2023 highlights advisory inertia and the high bar for reinstating a nationwide Level 4; that also supports a lower estimate. Neither forecaster introduced evidence of imminent triggers (e.g., embassy posture change, major attack in Addis, nationwide state of emergency). Both acknowledge Ethiopia’s elevated risk relative to an average Level 3, which I share. Overall, their base-rate framing and inertia argument are convincing and suggest my 20% was a bit high for a ~60-day window without clear escalation signals.",
+    "rationale": "Time remaining is short (~60 days), the status quo is Level 3 with regional Level 4s, and there are no current signs of an imminent nationwide crisis or U.S. mission drawdown. The May 1 sanctions indicate concern but are not, by themselves, a travel-advisory trigger. Base rates for Level 3→Level 4 upgrades over a two-month window are very low; Ethiopia likely sits above that average due to active conflicts and volatility, but still with a low absolute chance absent clear catalysts. A Yes outcome would most plausibly come from: (1) authorized or ordered departure of U.S. personnel; (2) a nationwide state of emergency or severe escalation impacting Addis/transport hubs; (3) a significant attack on foreigners or in the capital; or (4) major disruption at Addis Bole International Airport. None are currently in evidence. Given this, I’m revising down from 20% to reflect the low short-window hazard while keeping a modest premium for Ethiopia’s elevated risk.",
+    "probability": 13
+  },
+  "usage": {
+    "inputTokens": 1972,
+    "outputTokens": 1900,
+    "totalTokens": 3872,
+    "reasoningTokens": 1472,
+    "cachedInputTokens": 0
+  }
+}

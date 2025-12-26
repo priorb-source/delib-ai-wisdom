@@ -1,0 +1,26 @@
+{
+  "forecastId": "37828-diverse_info-gpt5-1",
+  "questionId": 37828,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37828-diverse_info",
+  "independentForecastId": "37828-gpt5-info1",
+  "otherForecastIds": [
+    "37828-sonnet-info2",
+    "37828-pro-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds specific, recent CEO statements that Rippling has “no specific plans to go public,” an IPO is “not imminent,” and a profitability prerequisite. If accurate, that’s strong, direct evidence against a near-term announcement and is more probative than my prior, more generic inference from the fresh funding and tender offer. Forecaster 3 adds the ongoing Deel litigation as an additional headwind; I view that as relevant but secondary compared to explicit CEO guidance and the tight timeline. Both agree the 5–6 week window and the resolution triggers (public S-1 or a Rippling blog/news post) make a Yes difficult. I find F2’s argument the most convincing new input; F3’s litigation point modestly nudges down but is less decisive.",
+    "rationale": "Time left is ~40 days, and the resolution requires either a public S-1 or an explicit Rippling news/blog announcement—confidential submissions don’t count. Rippling just raised $450M and is running a sizable tender offer, which typically alleviates near-term pressure to go public. The newly surfaced CEO comments that there are no specific IPO plans, that an IPO isn’t imminent, and that profitability is a prerequisite materially lower the odds of a June S-1 or blog announcement. The Deel litigation is an additional deterrent to choosing this exact window. A Yes is still conceivable if they’ve already done the work confidentially and decide to go public with an S-1 in June despite prior statements, perhaps to position for a fall listing, but that would require a rapid and public reversal within weeks. Given these factors, I’m updating down from 15% to 6%.",
+    "probability": 6
+  },
+  "usage": {
+    "inputTokens": 1771,
+    "outputTokens": 1511,
+    "totalTokens": 3282,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 1280
+  }
+}

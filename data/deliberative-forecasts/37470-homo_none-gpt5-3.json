@@ -1,0 +1,26 @@
+{
+  "forecastId": "37470-homo_none-gpt5-3",
+  "questionId": 37470,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37470-homo_none",
+  "independentForecastId": "37470-gpt5-none-3",
+  "otherForecastIds": [
+    "37470-gpt5-none-1",
+    "37470-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforce the short-window/status quo argument and the need for a formal, explicit ITKF announcement (not just media reports). The most useful additional point is the nomenclature/federation ambiguity: the article mentions a “World Cup,” while the resolution requires ITKF to announce Egypt as host of the 2026 World Championship. Given multiple traditional karate bodies and inconsistent use of terms, this raises a nontrivial mismatch risk. They also note small federations’ communication lags, which matters because the resolution hinges on an official ITKF channel. I find their reasoning sound; if anything, their new points slightly decrease the likelihood versus my prior view, even though their numeric estimates are higher than mine.",
+    "rationale": "Time left is ~7.5 weeks. There’s only one weak-positive signal (a minister-level meeting) and no official ITKF indication of an imminent decision meeting or agenda. The requirement for an explicit ITKF announcement is a high bar, and smaller federations can be slow or imprecise in communications. The added risk that the press item refers to a “World Cup” (potentially a different event or even different federation) lowers the chance that we’ll get the exact qualifying announcement by July 1. A quick award is still plausible if ITKF holds a late-May/June executive session and Egypt has government guarantees, but absent any public scheduling or ITKF teasers, the base case remains no announcement in time. I’m nudging my estimate down slightly to reflect the naming/federation mismatch risk.",
+    "probability": 17
+  },
+  "usage": {
+    "inputTokens": 1717,
+    "outputTokens": 1160,
+    "totalTokens": 2877,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

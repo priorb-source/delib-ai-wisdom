@@ -1,0 +1,26 @@
+{
+  "forecastId": "37268-diverse_full-sonnet-2",
+  "questionId": 37268,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37268-diverse_full",
+  "independentForecastId": "37268-sonnet-full",
+  "otherForecastIds": [
+    "37268-pro-full",
+    "37268-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters make compelling arguments that strengthen the case for a lower probability. Forecaster 3's timing analysis is particularly persuasive - they correctly note that a July 1 announcement would be unusually early (4.5 months before the November election) compared to al-Sadr's historical pattern of reversing about 2 months before elections. This temporal mismatch is a stronger constraint than I initially weighted. Forecaster 2's emphasis on the May 4 registration deadline as an imminent hard constraint also adds urgency to the near-term unlikelihood. Both note the absence of visible preparatory signals or organizational ramp-up, which would typically precede any serious participation announcement. These are concrete, verifiable factors that suggest my 25% may have been too optimistic about the probability of a reversal within the question's specific timeframe.",
+    "rationale": "Upon reflection, I'm updating downward based on three key insights from the other forecasters: (1) The timing pattern argument is stronger than I credited - al-Sadr's 2021 reversal came ~2 months pre-election, which would place a similar 2025 reversal in September, well after our July 1 cutoff; (2) The May 4 deadline creates an immediate procedural barrier that makes near-term participation announcements mechanically difficult; (3) The complete absence of preparatory signals (meetings, softened rhetoric, organizational activity) that would typically precede a major strategic shift argues against an imminent reversal. However, I'm not going as low as 15% because al-Sadr's documented unpredictability, the voter registration instruction suggesting option preservation, and rapid political shifts in Iraqi politics maintain meaningful uncertainty. The resolution allows announcements without formal IHEC registration, providing some flexibility. My updated forecast of 18% acknowledges the stronger temporal and procedural constraints while preserving appropriate uncertainty around an inherently unpredictable political actor.",
+    "probability": 18
+  },
+  "usage": {
+    "inputTokens": 2465,
+    "outputTokens": 1419,
+    "totalTokens": 3884,
+    "reasoningTokens": 994,
+    "cachedInputTokens": 0
+  }
+}

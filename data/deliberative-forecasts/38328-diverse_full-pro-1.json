@@ -1,0 +1,26 @@
+{
+  "forecastId": "38328-diverse_full-pro-1",
+  "questionId": 38328,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38328-diverse_full",
+  "independentForecastId": "38328-pro-full",
+  "otherForecastIds": [
+    "38328-sonnet-full",
+    "38328-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other forecasters and I agree on the three main potential drivers for a 'Yes' outcome: baseline turnover, the Huawei scandal, and national government appointments. We also agree on the key countervailing factors, namely the precedent from 'Qatargate' where accused MEPs did not immediately resign, and the narrowness of the 21-day resolution window. The most valuable new argument came from Forecaster 3, who introduced a more rigorous Poisson model for the baseline turnover rate, calculating a 60-70% probability of at least one resignation from routine churn alone. This quantitative anchor is more compelling than my initial, more qualitative assessment of the baseline. However, I find Forecaster 3's final probability of 65% to be inconsistent with their own baseline calculation; if the floor is 60-70%, then adding major catalysts like the scandal and appointments should logically push the final forecast higher, not leave it within the baseline range. Forecaster 2's reasoning is very similar to my own, providing confidence in the general framework of analysis.",
+    "rationale": "My initial forecast was 70%. After reviewing the other analyses, I am increasing my forecast. The primary reason for this update is the quantitative analysis provided by Forecaster 3 regarding the baseline turnover rate. Their Poisson model estimate of a 60-70% chance of a routine resignation within the 21-day window is a powerful argument that I had previously underestimated. This high baseline significantly raises the floor for the forecast. When this strong baseline probability is combined with the two other distinct and acute drivers—the Huawei lobbying scandal with immunity votes scheduled during the resolution window, and the strong possibility of MEPs being appointed to newly forming national governments (e.g., Portugal)—the cumulative probability of a 'Yes' outcome becomes substantially higher. While the 'Qatargate' precedent for MEPs resisting resignation remains a valid tempering factor, the convergence of three separate potential causes for a resignation in such a short window is compelling. The high baseline means we are not solely reliant on the more speculative outcomes of the scandal or cabinet appointments. Therefore, I am updating my forecast upward to reflect a greater confidence in the event occurring, driven by this more robust understanding of the baseline risk.",
+    "probability": 75
+  },
+  "usage": {
+    "inputTokens": 2171,
+    "outputTokens": 3004,
+    "totalTokens": 5175,
+    "reasoningTokens": 2529,
+    "cachedInputTokens": 0
+  }
+}

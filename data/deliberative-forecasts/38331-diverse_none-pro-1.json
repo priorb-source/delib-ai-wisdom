@@ -1,0 +1,26 @@
+{
+  "forecastId": "38331-diverse_none-pro-1",
+  "questionId": 38331,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "38331-diverse_none",
+  "independentForecastId": "38331-pro-none",
+  "otherForecastIds": [
+    "38331-sonnet-none",
+    "38331-gpt5-none"
+  ],
+  "forecast": {
+    "review": "My initial forecast was 97%, based on the high inertia of both the censorship policies in the seven autocratic nations and the stability of the corresponding Wikipedia article. Forecaster 2 (93%) shared this reasoning but placed slightly more weight on the uncertainty surrounding Venezuela's more 'dynamic' censorship and general Wikipedia editorial stability. Forecaster 3 (75%) presented a significantly different risk assessment, arguing that there is a substantial probability (~25%) of a 'No' outcome. Their key argument, which I found compelling, was not that a country would reverse its policy, but that a Wikipedia editor might reclassify Venezuela or Russia from 'currently' blocked to something like 'intermittent' based on a re-interpretation of existing sources. This highlights a vulnerability I had underestimated: the resolution depends on the *representation* of the facts on Wikipedia, not just the facts themselves. While I find a 25% chance of this happening in under a month to be too high, Forecaster 3's focus on this specific mechanism of failure is a crucial point that merits adjusting my forecast downwards.",
+    "rationale": "I am updating my forecast from 97% to 93%. My initial analysis correctly identified the extremely high likelihood that all seven countries will continue their censorship policies through the end of the month. However, I underestimated the risk associated with the resolution source itself—the Wikipedia page. Both other forecasters, particularly Forecaster 3, made a convincing case that the listing for Venezuela is the most vulnerable point. The country's history of intermittent, rather than total and continuous, blocking could lead a well-intentioned editor to revise its status from 'currently' blocked to something else, which would trigger a 'No' resolution. This is a more plausible failure mode than an actual policy change in any of the seven countries. While I believe Forecaster 3's 75% is overly pessimistic about the stability of the page over a short 26-day period, their reasoning prompted me to increase the probability I assign to a 'No' outcome. I am moving my forecast down by 4 percentage points to align with Forecaster 2's 93%. This new forecast better reflects the small but significant risk that an editorial change on Wikipedia regarding the classification of a single country, most likely Venezuela, could alter the outcome.",
+    "probability": 93
+  },
+  "usage": {
+    "inputTokens": 1831,
+    "outputTokens": 2382,
+    "totalTokens": 4213,
+    "reasoningTokens": 1890,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-homo_full-gpt5-3",
+  "questionId": 38311,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "38311-homo_full",
+  "independentForecastId": "38311-gpt5-full-3",
+  "otherForecastIds": [
+    "38311-gpt5-full-1",
+    "38311-gpt5-full-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters present the same core evidence set I used: official White House confirmation, inclusion on participant lists, and visible Canadian security/airspace preparations. They add a couple of useful specificity points (e.g., monitoring NOTAMs, motorcade/airlift movements, and the president’s published press schedule), and explicitly cite age-related health risk and mechanical/weather delays as tail risks. No contradictory evidence was introduced. Their reasoning is consistent and well-calibrated for this stage.",
+    "rationale": "The converging official signals (WH confirmation, G7 lists, security perimeters/airspace restrictions) and the high historical base rate for U.S. presidential attendance make attendance the clear default. The distance/logistics are straightforward, and even contentious summits historically do not deter in-person participation. Tail risks remain: sudden health issues, an acute domestic or foreign crisis requiring the president in Washington, credible security threats, or severe weather/aviation disruptions. Reports about a possible lack of a joint communiqué are largely orthogonal to attendance. Given no new adverse signals and some incremental planning evidence, I see no reason to adjust from a high-90s but not certain forecast. I will hold at 94% and would move higher upon release of detailed WH travel guidance and observable aviation/motorcade movements; I’d move lower on credible reports of illness, crisis, or security-driven format changes.",
+    "probability": 94
+  },
+  "usage": {
+    "inputTokens": 2073,
+    "outputTokens": 1000,
+    "totalTokens": 3073,
+    "reasoningTokens": 704,
+    "cachedInputTokens": 0
+  }
+}

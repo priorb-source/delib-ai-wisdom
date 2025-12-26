@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-diverse_full-pro-1",
+  "questionId": 37475,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37475-diverse_full",
+  "independentForecastId": "37475-pro-full",
+  "otherForecastIds": [
+    "37475-sonnet-full",
+    "37475-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other forecasters provided excellent, data-driven analyses that challenged my initial assessment. Forecaster 2 (38%) made a very compelling argument by quantitatively framing the 87-day window from recall to resolution against the typical 2-4 month (60-120 day) timeline for Class I recalls. This reframed a 'Yes' outcome as an average-to-fast resolution, not a slow one, which I hadn't fully appreciated. Forecaster 3 (70%) provided a strong counterargument, emphasizing Johnsonville's specific history of faster closures and the recall's limited scope. Crucially, Forecaster 3 clarified that closure depends on the effectiveness of the recall process, not on the physical retrieval of every package from consumers' freezers, which usefully mitigates a key risk factor.",
+    "rationale": "After reviewing my peers' analyses, I am lowering my forecast. My initial 65% forecast placed too much weight on Johnsonville's company-specific recall history and did not sufficiently account for the general difficulty of a Class I foreign material recall. Forecaster 2's analysis was particularly persuasive in highlighting that the July 1 deadline is close to the median resolution time for recalls of this nature, making the outcome much closer to a toss-up than I first believed. While Forecaster 3's points about the company's experience and the limited scope remain valid reasons to lean towards 'Yes', the tension between the specific case and the general data is greater than I appreciated. Balancing these competing lines of evidence, I now believe the probability is lower. The factors favoring a faster resolution (experienced company, single production date) still lead me to believe 'Yes' is the more probable outcome, but the risk of delays inherent in a Class I investigation, as highlighted by Forecaster 2, necessitates a significant downward revision. I am therefore adjusting my forecast from 65% to 55%.",
+    "probability": 55
+  },
+  "usage": {
+    "inputTokens": 2358,
+    "outputTokens": 2696,
+    "totalTokens": 5054,
+    "reasoningTokens": 2283,
+    "cachedInputTokens": 0
+  }
+}

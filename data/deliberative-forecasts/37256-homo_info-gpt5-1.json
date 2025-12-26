@@ -1,0 +1,26 @@
+{
+  "forecastId": "37256-homo_info-gpt5-1",
+  "questionId": 37256,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37256-homo_info",
+  "independentForecastId": "37256-gpt5-info1-1",
+  "otherForecastIds": [
+    "37256-gpt5-info2-2",
+    "37256-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds concrete, bearish details I hadn’t explicitly incorporated: very limited TNLA sitting days, a May–June order paper without trade items, and lack of AfCFTA-related budget provisioning—plus late‑April political turbulence. Those specifics meaningfully lower near‑term legislative bandwidth and follow‑through odds. Forecaster 3 highlights April 2025 ministerial signaling, private‑sector advocacy, and EAC technical engagement. While plausible, these are softer signals that don’t substitute for a bill on the order paper or cabinet approval. I find F2’s argument more decision-relevant for a 60‑day horizon; F3’s 35% feels high absent concrete procedural movement, though the cited signals justify keeping the probability above near-zero.",
+    "rationale": "Time left is ~60 days, and ratification requires sequential steps: cabinet approval/transmittal, TNLA passage, presidential assent, and deposit with the AU. The new information that the May–June calendar lists no relevant bills and that legislative sittings are sparse, alongside no budgetary preparation for tariff phase‑down, points to low readiness. Political disruptions and competing priorities (oil revenue shock, security/governance strains, election prep) further reduce bandwidth. On the upside, public commitments by the Trade Minister and private‑sector advocacy preserve a chance of a fast‑track if leadership decides to pursue a low‑cost signal; ratifications can be expedited when prioritized. Netting these, I move slightly down from 18% to 15% to reflect the concrete procedural and capacity headwinds, while retaining a small tail for a rapid, politically driven push and quick deposit before July 1.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 1794,
+    "outputTokens": 931,
+    "totalTokens": 2725,
+    "reasoningTokens": 576,
+    "cachedInputTokens": 0
+  }
+}

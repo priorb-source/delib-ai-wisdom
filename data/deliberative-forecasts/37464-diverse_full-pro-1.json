@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-diverse_full-pro-1",
+  "questionId": 37464,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37464-diverse_full",
+  "independentForecastId": "37464-pro-full",
+  "otherForecastIds": [
+    "37464-sonnet-full",
+    "37464-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial forecast (40%) was positioned between the other two experts (32% and 45%). Both forecasters provided strong, structured reasoning, focusing on the tension between the recall's simplicity and the demonstrated administrative slowness. Forecaster 2 raised an excellent point about a general base rate of 3-6 months for recall closures, a strong argument supporting a 'No' resolution. However, I found Forecaster 3's argument more compelling. They suggested a more specific and applicable base rate of 2-4 months for small, localized, allergen-related recalls. Forecaster 3 also effectively framed the timeline, noting that the June 1 deadline falls at the 13.5-week mark, right in the middle of this more specific 2-4 month (8-16 week) window. This reframes the 74-day 'delay' not as a sign of a problem, but as the normal processing time before a recall enters the likely window for administrative closure.",
+    "rationale": "After deliberation, I am updating my forecast from 40% to 55%. I was most persuaded by Forecaster 3's argument for using a more specific base rate of 2-4 months for this type of simple recall. The recall's key features—a very small quantity (303 lbs), limited local distribution, and a product that expired over two months ago—all suggest that the operational phase of the recall is long complete. The remaining steps are purely administrative. The June 1 deadline places the potential closure at the 3.25-month mark, which is a very typical timeframe for this kind of straightforward case according to the more specific base rate. While Forecaster 2's point about bureaucratic inertia and the 74 days of inactivity is valid, I now interpret this as the standard lead time before a recall is administratively finalized. Given the simplicity of the case, it is more likely than not that the FSIS will process the closure within the next 24 days, as this aligns with an efficient, albeit not instantaneous, bureaucratic process for a low-risk, easily verifiable recall.",
+    "probability": 55
+  },
+  "usage": {
+    "inputTokens": 1982,
+    "outputTokens": 2866,
+    "totalTokens": 4848,
+    "reasoningTokens": 2414,
+    "cachedInputTokens": 0
+  }
+}

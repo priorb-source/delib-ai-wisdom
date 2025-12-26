@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-diverse_full-sonnet-2",
+  "questionId": 38311,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "38311-diverse_full",
+  "independentForecastId": "38311-sonnet-full",
+  "otherForecastIds": [
+    "38311-pro-full",
+    "38311-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters provide strong analyses with similar evidence bases. Forecaster 2 (98%) emphasizes the joint statement workaround as evidence that organizers are actively ensuring the summit proceeds despite disagreements, which is a reassuring signal I hadn't fully appreciated. Forecaster 3 (90%) raises an important point I underweighted: Trump's specific history of abruptly canceling or skipping international events, citing the 2018 Summit of the Americas and 2019 Davos cancellation. This is a crucial distinction - while U.S. presidents generally have perfect G7 attendance, Trump specifically has demonstrated willingness to deviate from diplomatic norms. However, I note that the G7 carries significantly more weight than those other events, and we're now extremely close to the summit (12 days) with major security and logistical preparations already locked in. Forecaster 3's concerns about Trump's unpredictability are valid but must be balanced against the unprecedented proximity to the event and level of commitment already demonstrated.",
+    "rationale": "Upon reflection, Forecaster 3's point about Trump's specific history with international events is more significant than I initially weighted. While the general base rate for U.S. presidents attending G7 is perfect since 1975, Trump has shown he's willing to skip international engagements when it suits his purposes. This is an important individual-level characteristic that should modestly increase my uncertainty. However, Forecaster 2's observation about the joint statement workaround is also valuable - it shows active problem-solving to ensure the summit proceeds, which is a positive signal. The extremely close proximity (12 days), official White House confirmation, Trump's inclusion on official participant lists, extensive security preparations already underway, and the scheduled Scholz bilateral meeting in two days all remain very strong indicators of attendance. The balance of evidence still strongly favors attendance, but Trump's documented unpredictability with international events warrants slightly more caution than my initial forecast reflected. I'm adjusting down modestly from 93% to 92% to account for Trump's individual history while maintaining high confidence given the timing and preparations.",
+    "probability": 92
+  },
+  "usage": {
+    "inputTokens": 2322,
+    "outputTokens": 1391,
+    "totalTokens": 3713,
+    "reasoningTokens": 760,
+    "cachedInputTokens": 0
+  }
+}

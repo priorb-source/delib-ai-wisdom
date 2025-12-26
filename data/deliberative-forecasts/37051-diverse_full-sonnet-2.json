@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_full-sonnet-2",
+  "questionId": 37051,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37051-diverse_full",
+  "independentForecastId": "37051-sonnet-full",
+  "otherForecastIds": [
+    "37051-pro-full",
+    "37051-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters provide strong analyses with similar conclusions. Forecaster 2's reasoning mirrors my own at 5%, while Forecaster 3 makes several compelling arguments for 2% that I hadn't fully articulated. Key additional points from Forecaster 3: (1) The protest/Appeals stage would preserve exemption during review even if IRS issued a proposed adverse determination quickly; (2) The legal grounds here (DEI/campus climate) are substantially weaker than Bob Jones (racial discrimination), making IRS counsel likely more cautious; (3) Courts would almost certainly grant immediate injunctive relief to a prominent university, meaning even a technical revocation would likely be stayed before taking effect. These procedural safeguards are stronger than I initially weighted. However, I remain slightly less confident than Forecaster 3 that all norms will hold given the administration's demonstrated willingness to push boundaries and the explicit intensity of pressure. The resolution criteria only requires 'credible reporting' of lost status, which could potentially occur even with immediate legal challenge, though this scenario remains highly unlikely.",
+    "rationale": "After reviewing the detailed procedural analysis from Forecaster 3, I'm convinced to lower my forecast slightly. The specific emphasis on the protest/Appeals stage preserving exemption during review is a strong procedural barrier I didn't fully articulate. Additionally, the point about weaker legal grounds compared to Bob Jones makes IRS counsel more likely to proceed cautiously, and the near-certainty of immediate injunctive relief creates another layer of protection. These factors make even a technical or temporary 'loss' of status less likely to be reported as final before July 1. However, I'm not moving all the way to 2% because: (1) The resolution only requires credible reporting, not effective revocation; (2) We're in unprecedented political territory with demonstrated executive willingness to test boundaries; (3) 'Making plans' suggests some forward momentum exists; (4) Small but non-zero chance of highly irregular actions that bypass normal procedures. A forecast of 3% better reflects these enhanced procedural barriers while maintaining realistic tail risk for norm-breaking scenarios.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 2698,
+    "outputTokens": 1447,
+    "totalTokens": 4145,
+    "reasoningTokens": 901,
+    "cachedInputTokens": 0
+  }
+}

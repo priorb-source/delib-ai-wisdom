@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-homo_none-gpt5-3",
+  "questionId": 37238,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37238-homo_none",
+  "independentForecastId": "37238-gpt5-none-3",
+  "otherForecastIds": [
+    "37238-gpt5-none-1",
+    "37238-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both analyses align with my base-rate framing: Trump attends some but not most numbered UFC events; venue is the main driver. New points that are useful: (1) an explicit conditional split by venue (domestic vs. international), and (2) the note that pairing with other travel/fundraisers could raise odds. I’m less convinced by Forecaster 3’s relatively high conditional attendance rate (30–40%) on a U.S. card; recent years suggest closer to ~20–30% per U.S. PPV even during campaign mode, and as sitting president he’s likely to throttle back somewhat despite the April precedent. Also, the UFC’s recurring fall Abu Dhabi PPV pattern is a meaningful tail risk if 316 lands near that slot, which trims the overall probability versus assuming 70–80% U.S. likelihood. Overall, F2’s 24% feels closer to the base-rate anchor; F3’s 30% seems a bit high absent venue/date info.",
+    "rationale": "Key drivers unchanged: (1) Trump–UFC relationship and demonstrated 2025 attendance keep the event-specific probability materially above a token level; (2) he still skips most PPVs; (3) venue/date uncertainty dominates. I model roughly: 60–70% chance UFC 316 is in the U.S.; conditional attendance on a U.S. PPV ~20–30%; international attendance near 0–5%. That aggregates to about 15–23% from the split, with upside for favored markets (Vegas/Miami/NJ/NYC) or coordination with other travel, and downside if 316 is announced for an international site (e.g., Abu Dhabi) or conflicts arise. Balancing those, I make a slight upward nudge versus my prior to reflect the strong April 2025 precedent and the political/optics value, but not as high as 30% given presidential scheduling friction and the live possibility of a non-U.S. venue.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 1595,
+    "outputTokens": 2022,
+    "totalTokens": 3617,
+    "reasoningTokens": 1600,
+    "cachedInputTokens": 0
+  }
+}

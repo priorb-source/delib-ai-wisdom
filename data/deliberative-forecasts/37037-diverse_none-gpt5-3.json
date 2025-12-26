@@ -1,0 +1,26 @@
+{
+  "forecastId": "37037-diverse_none-gpt5-3",
+  "questionId": 37037,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37037-diverse_none",
+  "independentForecastId": "37037-gpt5-none",
+  "otherForecastIds": [
+    "37037-pro-none",
+    "37037-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 brought concrete, testable detail I hadn’t explicitly incorporated: the HTS Chapter 99 steel additional duty line (e.g., 9903.80.01) shows +25%, not +50%, and they assert there is no '+50%' listing tied to Lesotho at all. That directly challenges the implicit assumption in my prior take that a 50% line might already exist (even if suspended). Forecaster 3 leans heavily on the AP headline and status quo persistence without verifying the HTS text; that’s much less persuasive given the question resolves on what the HTS actually lists. Net: F2’s argument is specific, falsifiable, and consistent with known Section 232 rates; F3’s is inference from media framing and timing, which is weak for this narrowly defined resolution criterion.",
+    "rationale": "The key hinge is whether the HTS contains a '+ 50%' additional duty explicitly tied to Lesotho. If it doesn’t, a ‘Yes’ outcome would require an active, unlikely change before June 1 to introduce such a listing. Given typical Section 232 rates (25% steel; 10% aluminum) and the lack of any known policy basis for imposing a 50% additional duty on Lesotho, the probability that a new 50% line appears imminently is very low. My earlier weighting toward persistence wrongly assumed a 50% entry might already exist and that suspension wouldn’t matter; Forecaster 2’s specifics make that assumption doubtful. I therefore update sharply downward. I would update up only if USITC/HTS posts or the Federal Register announces a revision adding a +50% Lesotho-specific additional duty, or if the HTS search for ‘Lesotho’ shows a +50% entry (even if suspended).",
+    "probability": 8
+  },
+  "usage": {
+    "inputTokens": 1580,
+    "outputTokens": 3518,
+    "totalTokens": 5098,
+    "reasoningTokens": 3136,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-diverse_full-gpt5-3",
+  "questionId": 37232,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37232-diverse_full",
+  "independentForecastId": "37232-gpt5-full",
+  "otherForecastIds": [
+    "37232-pro-full",
+    "37232-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my reasoning: recent multi-month gaps on the News page, the current flight hiatus reducing operational news, and earnings communications being routed through IR rather than the main News page. Forecaster 2 emphasizes the “siloing” of financial news and treats it as an established practice; Forecaster 3 grounds the argument in a 50% monthly post rate over the last 10 months but notes the current dry spell and lack of clear May catalysts. No materially new evidence surfaced, but their convergence increases confidence that routine May events (Q1 call) won’t show up on the News page. The 75% from Forecaster 2 feels slightly high given residual tail risks (manufacturing milestone, leadership change, partnership), but the direction is reasonable.",
+    "rationale": "My prior view (68%) leaned Yes due to the three-month quiet period, lack of flight-related news until 2026, and precedent that earnings items aren’t posted to the News page. The other forecasters’ analyses are consistent with this and slightly strengthen the case that May’s Q1 results won’t translate into a News post. There remains non-trivial upside risk from unscheduled corporate announcements, but with no concrete May catalyst that typically appears on the News page, the base case remains silence. I’m nudging up slightly to reflect the reinforced assessment that IR-only distribution is likely to continue through May. Update: 68% -> 70%.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 1828,
+    "outputTokens": 1845,
+    "totalTokens": 3673,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

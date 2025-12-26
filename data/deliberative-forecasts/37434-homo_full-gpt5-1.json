@@ -1,0 +1,26 @@
+{
+  "forecastId": "37434-homo_full-gpt5-1",
+  "questionId": 37434,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37434-homo_full",
+  "independentForecastId": "37434-gpt5-full-1",
+  "otherForecastIds": [
+    "37434-gpt5-full-2",
+    "37434-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize two points I underweighted: (1) low leverage/diffuse creditors make an involuntary or creditor‑driven filing before July less likely, and (2) the status quo—months of distress without a filing, including getting through the March 10‑K—implies a lower near‑term hazard rate. They also add plausible non‑bankruptcy paths (out‑of‑court wind‑down, ABC, dissolution, reverse merger) and note that delisting risk does not force bankruptcy. The timing argument that a filing would likely have occurred around the December shutdown or the 10‑K is a useful diagnostic. I also find the note about the Q1 10‑Q (mid‑May) as a potential but not decisive catalyst reasonable: inability to file may lead to late filings or non‑bankruptcy actions rather than an immediate petition.",
+    "rationale": "Core facts remain: cash near exhaustion at year‑end 2024, operations shuttered, going‑concern warning, failed capital raises, and no operating inflows. Those sustain a material risk of a Chapter 7/11 in the next eight weeks, especially if caretaker costs, facility carrying costs, or compliance expenses become unpayable. However, the short window to July 1, low financial leverage (reducing creditor pressure), and demonstrated ability to limp along since December without court protection all temper the odds of a filing before the deadline. Bankruptcy is costly; if they lack funds for retainers and have limited secured creditors, they may prefer to delay while pursuing asset sales or an out‑of‑court dissolution. I’m slightly lowering my estimate to reflect the additional weight on timing/inertia and the low likelihood of an involuntary filing in this horizon.\n\nChange: Down 5 points (from 40% to 35%) to account for the status‑quo persistence and creditor‑pressure dynamics highlighted by the other forecasters.\n\nKey upside triggers before July: 8‑Ks on defaults/accelerations, retention of restructuring counsel for an in‑court process, inability to meet June payroll/benefits or critical vendor payments, failed asset sale with explicit liquidity shortfall. Key downside triggers: binding asset sale of the Ohio facility or small bridge financing that funds caretaker/public‑company costs into Q3, or an announced out‑of‑court dissolution plan with sufficient liquidity to execute past July.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 2588,
+    "outputTokens": 1592,
+    "totalTokens": 4180,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

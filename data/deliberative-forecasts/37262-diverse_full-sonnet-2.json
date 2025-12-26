@@ -1,0 +1,26 @@
+{
+  "forecastId": "37262-diverse_full-sonnet-2",
+  "questionId": 37262,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37262-diverse_full",
+  "independentForecastId": "37262-sonnet-full",
+  "otherForecastIds": [
+    "37262-pro-full",
+    "37262-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises the most compelling argument I had underweighted: the Global Protest Tracker's selectivity. They correctly note that GPT documents only nationally salient movements, not every large protest, and India entries are irregular (major movements like anti-CAA 2019-20, farmers 2020-21). The crucial insight is the base rate - if GPT adds India entries for major movements occurring roughly every 1-2 years, then a 60-day window has much lower unconditional probability than my initial 45%. Forecaster 3 also makes the key observation that April events started before question launch and wouldn't count even if later documented. Forecaster 2's 75% appears overconfident, treating the planned farmers' march as highly reliable when planned protests often fail to materialize at expected scale or achieve GPT's salience threshold. However, Forecaster 3's practical factors (summer heat, preventive policing) are valid additions. The multiple filters required - post-May 2 start date, 10,000+ explicitly noted, GPT inclusion criteria met, documented before July 1 - are more restrictive than I initially weighted.",
+    "rationale": "I am updating significantly downward based primarily on Forecaster 3's base rate analysis of GPT's selectivity. My original 45% inadequately accounted for how rarely GPT adds India entries - they document major, nationally salient movements, not routine large protests. Given GPT's irregular India coverage pattern and the narrow 60-day window, the status quo (no new qualifying entry) is indeed the stronger base case. However, I don't update all the way to 30% because: (1) multiple active flashpoints (Waqf Act, land laws, farmer demands) create elevated protest potential versus a typical 60-day period, (2) India's large population and mobilization infrastructure remain relevant, (3) if coordinated national actions (bandhs, marches) occur in May-June, GPT inclusion becomes more plausible. The key uncertainty is whether current tensions spawn a distinct, post-May 2 movement meeting GPT's salience bar, not merely whether large protests occur. I'm settling at 35% - acknowledging Forecaster 3's superior structural analysis while maintaining modest weight on elevated near-term protest probability.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 2553,
+    "outputTokens": 1468,
+    "totalTokens": 4021,
+    "reasoningTokens": 886,
+    "cachedInputTokens": 0
+  }
+}

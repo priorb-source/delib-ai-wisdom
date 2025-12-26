@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-diverse_full-sonnet-2",
+  "questionId": 37836,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37836-diverse_full",
+  "independentForecastId": "37836-sonnet-full",
+  "otherForecastIds": [
+    "37836-pro-full",
+    "37836-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 provides the most compelling network analysis, enumerating specific destination categories (Gulf: 7-9 cities; Turkey: 4+; Iran: 3-5; Levant/Egypt: 2-3; Europe: 3-5; Domestic: 3) that plausibly sum to 25-35 total destinations. This detailed breakdown suggests my initial 28-32 estimate may have been conservative and the baseline is likely already at or near the threshold. Their point about summer being peak season for Turkish leisure destinations is particularly salient.\n\nForecaster 2 raises an important caveat I partially overlooked: the new European carriers (Aegean Athens, Eurowings Cologne) might represent additional service on existing routes rather than entirely new destinations. However, the research language ('launched a direct route,' 'added Erbil to its summer flight plan') suggests these are genuinely new connections, not just additional carriers.\n\nThe key insight from the deliberation is that Forecaster 3's comprehensive network enumeration makes a much stronger case for already being at/above 31 than my country-count multiplication approach. Their concern about flightsfrom.com potentially pruning marginal services is valid but balanced by summer's typical route expansion.",
+    "rationale": "After reviewing the other forecasts, I believe my initial estimate of the current baseline (28-32) was too conservative. Forecaster 3's systematic breakdown of Erbil's network—spanning Gulf carriers (7-9 destinations), multiple Turkish cities (4+), Iranian connections (3-5), Levant/Egypt routes (2-3), European destinations (3-5), and domestic Iraqi points (3)—demonstrates the baseline is likely already at 28-33 destinations, with summer seasonality pushing toward the higher end.\n\nKey factors supporting an upward revision: (1) Summer 2025 is explicitly framed as a 'promising season' with confirmed new European routes; (2) Infrastructure upgrades (night flights, ICAO certification pursuit) signal expansion capacity; (3) Summer typically sees Turkish leisure destinations added; (4) The threshold is close enough that even maintaining current levels likely succeeds.\n\nRemaining uncertainties tempering my confidence: (1) Lack of precise current destination count; (2) Uncertainty about flightsfrom.com's listing criteria for seasonal/charter services; (3) Regional security risks could prompt last-minute suspensions; (4) The July 1 timing may miss some routes that launch later in summer.\n\nBalancing Forecaster 3's stronger baseline case against Forecaster 2's appropriate caution about the short timeframe and data ambiguities, I'm revising upward but not to Forecaster 3's level. The evidence supports being more optimistic than my initial 60%.",
+    "probability": 63
+  },
+  "usage": {
+    "inputTokens": 2418,
+    "outputTokens": 1694,
+    "totalTokens": 4112,
+    "reasoningTokens": 857,
+    "cachedInputTokens": 0
+  }
+}

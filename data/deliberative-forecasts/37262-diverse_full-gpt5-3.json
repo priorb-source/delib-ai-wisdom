@@ -1,0 +1,26 @@
+{
+  "forecastId": "37262-diverse_full-gpt5-3",
+  "questionId": 37262,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37262-diverse_full",
+  "independentForecastId": "37262-gpt5-full",
+  "otherForecastIds": [
+    "37262-pro-full",
+    "37262-sonnet-full"
+  ],
+  "forecast": {
+    "review": "- Forecaster 2 argues the environment is sufficiently volatile that a ≥10k protest is more likely than not in the next two months, hinging heavily on a planned 10,000-farmer march. I think this overweights a single planned event and underweights two key constraints: (1) GPT’s selectivity/start-date convention (it may treat such a march as part of an earlier movement) and (2) the need for GPT to explicitly reflect 10,000+ participants. The 75% seems too high given those frictions and the short window.\n- Forecaster 3 highlights the tracker’s selectivity (145 global entries/12 months) and the risk of lag and non-inclusion, plus the start-date issue. I find this framing sound. Their 45% still feels a bit high to me because many active Indian movements likely have pre–May 2 start dates, making new, distinct GPT entries less likely in a 60-day span.\n- New to consider: Both emphasize the planned farmers’ march and multiple independent triggers. That does increase the chance of at least one genuinely new movement starting in May/June, but it does not fully overcome GPT’s selectivity and dating practices.",
+    "rationale": "Key constraints remain: (1) GPT typically lists only salient, national-scale movements, (2) many current Indian mobilizations (Waqf/land-law, farmers, teachers) likely have start dates before May 2, which would not qualify even if they surge, and (3) GPT must either explicitly tag 10,000+ or clearly describe that magnitude. The 60-day window is short, and May–June heat and preventive policing can suppress or fragment mobilizations.\n\nOffsets: India’s protest capacity is high, and multiple flashpoints mean a genuinely new issue or coalition could emerge in May/June with a fresh start date that GPT deems entry-worthy. A large, coordinated national action (e.g., bandh), or a significant new policy trigger, could quickly cross 10,000 and attract international coverage—conditions that increase GPT inclusion odds.\n\nNet: I modestly raise my probability to reflect the plurality of triggers and the specific mention of a potential ≥10k farmers’ march, while still discounting for GPT’s selectivity, start-date constraints, and documentation/lags.\n\nWould adjust up on: credible announcements of nationwide actions dated after May 2 with clear ≥10k turnout signals and early international wire coverage; signs GPT is adding new entries promptly. Down on: absence of large coordinated actions by mid-June; clear framing of ongoing protests as continuations; evidence of severe suppression or heat-driven turnout collapse.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 2130,
+    "outputTokens": 2869,
+    "totalTokens": 4999,
+    "reasoningTokens": 2304,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37817-homo_none-gpt5-3",
+  "questionId": 37817,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37817-homo_none",
+  "independentForecastId": "37817-gpt5-none-3",
+  "otherForecastIds": [
+    "37817-gpt5-none-1",
+    "37817-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters align with my base view: ROR’s network is small, recovery is slow, and hitting ≥6 destinations by July 1 is a high bar. They added two useful points: (1) plausible subsidized/seasonal adds (Japan, Philippines, extra Korea city) could briefly lift the count; (2) downside risk if United’s Micronesia ops (e.g., Yap) aren’t in the July schedule. No new hard evidence, but the subsidy/seasonal angle marginally increases upside. Overall, their reasoning is consistent and measured.",
+    "rationale": "We’re ~6 weeks out. Baseline likely sits around Guam + Taipei + one of Seoul/Yap (and maybe both), i.e., 3–4, occasionally 5. To clear >5 by July 1 requires at least two additional scheduled destinations to be loaded and visible on FlightsFrom (OAG/GDS-based), not just ad-hoc charters. The most plausible adds are a Japan route (NRT/KIX) and a Philippines route (MNL/CRK), or a second Korea city, potentially underwritten for peak season. However, lead-time and demand remain constraints, and any slip in existing marginal routes (e.g., no Yap or no Seoul) would make ≥6 even harder. The others’ emphasis on government-subsidized summer services nudges me slightly upward from my prior, but absent concrete filings or announcements, the status quo (≤5) remains the favored outcome. I’m therefore making a small update toward their midpoint.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 1902,
+    "outputTokens": 2446,
+    "totalTokens": 4348,
+    "reasoningTokens": 2112,
+    "cachedInputTokens": 0
+  }
+}

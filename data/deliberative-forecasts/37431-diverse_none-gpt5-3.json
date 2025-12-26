@@ -1,0 +1,26 @@
+{
+  "forecastId": "37431-diverse_none-gpt5-3",
+  "questionId": 37431,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37431-diverse_none",
+  "independentForecastId": "37431-gpt5-none",
+  "otherForecastIds": [
+    "37431-pro-none",
+    "37431-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize base rates and the short runway. Forecaster 3’s 2–4 month typical closure window is a useful anchor I hadn’t explicitly stated, and it makes a <10-week close look ambitious. Forecaster 2’s point that Class I status doesn’t inherently shorten the verification and effectiveness checks, despite prioritization, resonates. I’m less convinced that Class I materially accelerates closure timelines; closure hinges on documentation and effectiveness checks, not risk level alone. The emphasis on the substantial quantity (≈65,000 lbs) and likely broad distribution reinforces my prior caution. Neither brought new concrete case evidence, but their base-rate framing pushes me to shade down from my initial midpoint-ish view.",
+    "rationale": "We’re ~11 days post-announcement with ~56 days left to July 1. FSIS recall closures for undeclared allergen/misbranding often take multiple months due to retrieval verification, consignee confirmations, and documentation. A 9–10 week close is possible but below the median timeline. The product volume and probable multi-state distribution increase the number of effectiveness checks, making a pre–July 1 closure less likely. Upside scenarios (narrow distribution, mainly foodservice, excellent records, rapid accounting) remain plausible but we lack evidence. Downside risks (recall expansion, fragmented distribution, slower documentation) are material and common. Given the others’ emphasis on 2–4 month norms and my own priors, I’m nudging down from 46% to reflect a heavier base-rate weight and the status quo bias toward remaining Active by the deadline.",
+    "probability": 38
+  },
+  "usage": {
+    "inputTokens": 1725,
+    "outputTokens": 1300,
+    "totalTokens": 3025,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37262-diverse_none-gpt5-3",
+  "questionId": 37262,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37262-diverse_none",
+  "independentForecastId": "37262-gpt5-none",
+  "otherForecastIds": [
+    "37262-pro-none",
+    "37262-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters rightly stress India’s high protest base rate and that 10,000 participants is a relatively low threshold in the Indian context. They also point out plausible catalysts (the April 14 protests, farmers, exams, communal flashpoints) and acknowledge the Global Protest Tracker’s selectivity and possible lags. What they don’t fully account for, in my view, is the Tracker’s movement-level coding and start-date constraint: Carnegie typically creates a single entry for a protest movement with the start date set at its onset. If the “Muslim land law” protests began before the question launched, subsequent large demonstrations in that same movement likely won’t generate a new entry with a fresh start date. That materially lowers odds within a ~60-day window. I agree with them that 10,000 is not a high bar and that multiple independent triggers could still produce a new, distinct movement after launch, but I find their probabilities high given the gating factors (movement definition, reporting lag, and short horizon).",
+    "rationale": "Time left: ~60 days (to July 1, 2025).\nStatus quo if nothing new is added/coded: No.\nNo-scenario: The April “Muslim land law” unrest remains the dominant thread and is treated as a pre-launch movement in the Tracker; other protests stay localized or below 10,000; or the Tracker either doesn’t add India entries in time or tags size as unknown/<10,000.\nYes-scenario: A distinct new movement starts after launch and reaches 10,000+, e.g., a renewed farmer mobilization, large student/exam protests, or nationwide demonstrations sparked by a fresh policy/communal trigger, and the Tracker codes it promptly at 10,000+.\nReasoning: India’s protest propensity and the low threshold argue for nontrivial odds, and multiple plausible triggers could generate a new movement. Offsetting this are (a) the Tracker’s selectivity and potential delays, (b) the requirement that the start date be post-launch (key if ongoing April protests are treated as one movement), and (c) the short window. After weighing colleagues’ points on base rates/low threshold, I nudge my prior up modestly but remain below 50% due to the movement start-date constraint and curation risk.",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 1668,
+    "outputTokens": 2474,
+    "totalTokens": 4142,
+    "reasoningTokens": 1984,
+    "cachedInputTokens": 0
+  }
+}

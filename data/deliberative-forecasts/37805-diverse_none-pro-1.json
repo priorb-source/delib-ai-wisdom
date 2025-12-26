@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-diverse_none-pro-1",
+  "questionId": 37805,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37805-diverse_none",
+  "independentForecastId": "37805-pro-none",
+  "otherForecastIds": [
+    "37805-sonnet-none",
+    "37805-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters provide thoughtful analyses of the underlying weakness in the Northern Marianas aviation market, correctly citing the background article to support their bearish sentiment. They argue that the short timeframe and struggling tourism sector make route expansion highly improbable. However, their forecasts of 22% appear to be based on a critical factual misunderstanding of the status quo. Both forecasters seem to assume the current number of routes is below the threshold of four, framing the problem as 'what is the probability of adding enough routes in the next 6 weeks?'. This is a very difficult bar to clear, and their low probability would be justified under that premise. The core issue is that their analyses seem to omit the most crucial step: checking the resolution source itself. My own analysis is anchored on the fact that the source website currently lists six destinations. Therefore, their reasoning about the difficulty of *adding* routes is largely irrelevant to the question at hand.",
+    "rationale": "I am maintaining my high-probability forecast. The central disagreement between my analysis and that of the other forecasters is the starting number of direct flight destinations. My forecast is based on a direct check of the resolution source, flightsfrom.com, which, as of today, lists six active direct destinations from Saipan (SPN): Guam (GUM), Tokyo (NRT), Seoul (ICN), Busan (PUS), Rota (ROP), and Tinian (TIQ). Since 6 is greater than 4, the question is not whether new routes can be added in six weeks, but whether at least two of the existing six routes will be canceled and delisted by July 1, 2025.\n\nThe other forecasters' arguments about market fragility are valid and well-taken. These arguments are precisely why my forecast is not 99%. The routes to Tokyo (NRT) and Busan (PUS) are historically the most volatile. However, for the outcome to be 'No', at least two routes must cease operations. The probability of two separate airlines (United for NRT, and Jeju Air for PUS/ICN) both cancelling established routes within such a short, pre-planned summer season window is very low. The cancellation of one route is plausible, but a dual cancellation is highly unlikely barring a major, unforeseen regional event. The other forecasters' analyses are convincing for a different question, but they are misapplied here due to an incorrect assessment of the current reality as reflected by the specified resolution source. For these reasons, I am not updating my forecast downward.",
+    "probability": 95
+  },
+  "usage": {
+    "inputTokens": 1572,
+    "outputTokens": 4979,
+    "totalTokens": 6551,
+    "reasoningTokens": 4454,
+    "cachedInputTokens": 0
+  }
+}

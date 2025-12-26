@@ -1,0 +1,26 @@
+{
+  "forecastId": "38110-diverse_info-pro-1",
+  "questionId": 38110,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38110-diverse_info",
+  "independentForecastId": "38110-pro-info1",
+  "otherForecastIds": [
+    "38110-sonnet-info2",
+    "38110-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "All three forecasters agree that a reopening before July 1 is unlikely due to the short timeframe and the serious security concerns cited for the closure. My initial forecast of 15% aligns closely with Forecaster 2's 18%, while Forecaster 3 is more optimistic at 25%. I found arguments from both other forecasters insightful. Forecaster 2 introduced a key piece of new evidence: a May 30 AFRICOM briefing noting a 'deteriorating security threat environment.' This is a specific, negative update that I had not considered and it strengthens the case for the border remaining closed. Forecaster 3 provided a valuable quantitative anchor by citing a base rate for similar events: only about 20% of ECOWAS security-related border closures since 2015 reopened within 60 days. This historical data strongly suggests that a reopening within our much shorter 30-day window is even less probable, making Forecaster 3's final 25% forecast seem inconsistent with their own evidence. However, Forecaster 3's points about the closure's limited geographic scope and mixed motives (commercial alongside security) are valid-they represent the strongest arguments for a potential 'Yes' outcome and prevent the forecast from being near-zero.",
+    "rationale": "After reviewing my peers' analyses, I am lowering my forecast slightly. My initial 15% was based on the general principle that serious bilateral security and economic issues are rarely resolved in under a month. The new evidence presented by the other forecasters strengthens this conclusion. Specifically, Forecaster 2's citation of the AFRICOM briefing indicating a 'deteriorating security' situation is a significant negative factor. It suggests that the underlying conditions that caused the closure are worsening, not improving, making a swift reversal less likely. Furthermore, Forecaster 3's base rate analysis, which found that only 20% of similar closures reopen within a 60-day period, provides a strong quantitative reason to be pessimistic about a resolution within our ~30-day timeframe. While I agree with Forecaster 3 that the geographically limited nature of the closure could make it easier to resolve than a nationwide shutdown, this positive factor is outweighed by the new negative evidence. The combination of an actively deteriorating security environment and a historical base rate that points towards longer closures leads me to revise my probability downward from 15%. I am not lowering it more significantly because the economic pressures and limited scope of the closure still allow for a small chance of a rapid, targeted political solution.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1707,
+    "outputTokens": 2452,
+    "totalTokens": 4159,
+    "reasoningTokens": 1915,
+    "cachedInputTokens": 0
+  }
+}

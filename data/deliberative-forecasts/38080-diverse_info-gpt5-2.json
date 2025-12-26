@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-diverse_info-gpt5-2",
+  "questionId": 38080,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "38080-diverse_info",
+  "independentForecastId": "38080-gpt5-info2",
+  "otherForecastIds": [
+    "38080-sonnet-info3",
+    "38080-pro-info1"
+  ],
+  "forecast": {
+    "review": "- New and material: Forecaster 2 reports a May 23 TRO restoring SEVP status and a May 29 PI hearing. If accurate, that flips the status quo to Yes and materially raises the odds. Their linkage from TRO factors to likely PI is sound, though I’d temper it by noting appellate stay risk (First Circuit or Supreme Court) and that TROs can be extended but are temporary.\n- Forecaster 2’s 82% feels a bit high given realistic chances of an appellate stay before July 1 and the possibility of tailored relief that might not clearly restore full enrollment authority, but their core reasoning is persuasive.\n- Forecaster 3’s analysis appears to miss the TRO and thus assumes a No status quo. That lowers their forecast unjustifiably. Their points about executive deference in immigration/national security are important tail risks but are over-weighted given the immediate irreparable harm and APA/retaliation claims likely to sway district courts.\n",
+    "rationale": "I previously assessed 62% based on the plausibility of quick injunctive relief but without confirmation it had already been granted. With a TRO reportedly in place as of May 23, Harvard’s certification is currently active; a PI hearing on May 29 creates a clear path to keeping certification in effect through July 1. The TRO indicates the judge found irreparable harm and at least a meaningful likelihood of success or serious questions on the merits. Those factors, plus strong public-interest equities and the 2020 precedent of judicial pushback on disruptive SEVP actions, all favor continued injunctive relief.\n\nKey residual risks keeping me below 80–85%:\n- Appellate stay risk: DOJ could obtain a stay of any PI from the First Circuit or, failing that, the Supreme Court before July 1. While not my base case, it’s a non-trivial possibility given the politically charged context and executive-branch deference arguments.\n- Scope of relief: There is a small chance a court crafts interim relief that preserves current students’ status without fully restoring SEVP certification to enroll, which would fail the question’s criterion. The TRO likely enjoins the revocation (thus restoring certification), but scope bears watching at the PI stage.\n- Timing slippage: If the PI is denied or delayed and the TRO lapses without extension, certification could again be inactive before July 1.\n\nNet: TRO + imminent PI hearing materially improve odds relative to my prior. I move up 16 points to reflect stronger short-term legal protection while retaining discount for stay/scope risks.",
+    "probability": 78
+  },
+  "usage": {
+    "inputTokens": 2528,
+    "outputTokens": 2081,
+    "totalTokens": 4609,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38328-homo_info-pro-1",
+  "questionId": 38328,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38328-homo_info",
+  "independentForecastId": "38328-pro-info1-1",
+  "otherForecastIds": [
+    "38328-pro-info2-2",
+    "38328-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "My initial forecast was too narrowly focused on the Huawei scandal, an 'inside view' error. I completely failed to consider the historical base rate of resignations for any reason. \n\nForecaster 2 introduced a compelling 'outside view' argument by quantifying this base rate. Their calculation that the parliament sees 1.3 to 2 resignations per month on average establishes a very high statistical floor for the probability, suggesting a greater than 60% chance of a 'Yes' outcome even before considering the scandal. This is a crucial piece of evidence I missed.\n\nForecaster 3 convincingly explained the drivers behind this base rate, citing post-election government appointments in various member states as a key mechanism for turnover. This adds a qualitative, narrative layer to Forecaster 2's quantitative analysis, making the base rate argument more concrete and persuasive. \n\nBoth forecasters have convinced me that my initial analysis was incomplete and my probability estimate was too low. Their reasoning is sound and complementary.",
+    "rationale": "I am significantly increasing my forecast from 65% to 80%. My initial forecast was based solely on the Huawei lobbying scandal. The other forecasters correctly identified my failure to account for the historical base rate of resignations, which is the most important factor in this forecast.\n\nAs Forecaster 2 pointed out, the European Parliament averages between 1.3 and 2 resignations per month for a variety of mundane reasons (e.g., health, taking up a new role in a national government). A 21-day resolution window represents about 70% of a month, which means we should statistically expect approximately one resignation during this period, regardless of any scandal. This high base rate alone suggests a probability of over 60%.\n\nForecaster 3 provides specific, timely examples of what drives this base rate, such as upcoming appointments to national governments. This strengthens the base rate argument by showing concrete, plausible pathways to a 'Yes' resolution that are completely independent of the scandal.\n\nTherefore, the overall probability is a combination of this high base rate plus the added pressure from the Huawei scandal. The scandal, involving the arrest of one MEP and immunity waiver proceedings for four others, provides a strong, independent catalyst that significantly increases the likelihood of a resignation above the already high baseline. Combining these largely independent factors—the normal churn of a 720-member body and an acute political crisis—justifies a high-confidence forecast.",
+    "probability": 80
+  },
+  "usage": {
+    "inputTokens": 1757,
+    "outputTokens": 2701,
+    "totalTokens": 4458,
+    "reasoningTokens": 2169,
+    "cachedInputTokens": 0
+  }
+}

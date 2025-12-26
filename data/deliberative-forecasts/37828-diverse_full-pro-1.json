@@ -1,0 +1,26 @@
+{
+  "forecastId": "37828-diverse_full-pro-1",
+  "questionId": 37828,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37828-diverse_full",
+  "independentForecastId": "37828-pro-full",
+  "otherForecastIds": [
+    "37828-sonnet-full",
+    "37828-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters are in strong agreement on the primary evidence driving a 'No' outcome: CEO Parker Conrad’s very recent and direct statements ruling out an imminent IPO, the company's large new funding round, and the establishment of alternative liquidity programs. My initial forecast was the lowest at 2%, with the others slightly higher at 4% and 5%. The key new arguments came from Forecaster 3, who pointed out two factors I had not explicitly weighed: 1) The narrow resolution criteria, which require a public S-1 filing or a direct company blog post, excluding third-party reports of confidential filings. 2) The ongoing, high-profile litigation with rival Deel, which serves as a significant management distraction and adds uncertainty, making an IPO less likely. These are excellent points that further strengthen the case against a near-term announcement.",
+    "rationale": "After deliberation, I am maintaining my original forecast of 2%. The reasoning provided by the other forecasters, particularly Forecaster 3, has reinforced my conviction in a low-probability outcome. While the other forecasters arrived at slightly higher probabilities (4-5%), the new arguments they introduced—specifically the narrow resolution criteria and the distraction of the Deel lawsuit—are both strong indicators for 'No'. These points add to the already overwhelming evidence from the CEO's statements, the recent $450M funding round, and the commitment to tender offers. The combined weight of this evidence makes a sudden reversal of strategy to announce an IPO within the next ~40 days extremely improbable. I believe the 4-5% range slightly overestimates the chance of a surprise given these specific circumstances. My 2% forecast acknowledges the small, non-zero tail risk of an abrupt strategic pivot or market shock, but I find the arguments against an announcement to be more compelling and numerous after this review.",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 2113,
+    "outputTokens": 2236,
+    "totalTokens": 4349,
+    "reasoningTokens": 1841,
+    "cachedInputTokens": 0
+  }
+}

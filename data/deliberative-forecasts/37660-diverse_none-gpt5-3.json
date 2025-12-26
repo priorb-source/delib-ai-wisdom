@@ -1,0 +1,26 @@
+{
+  "forecastId": "37660-diverse_none-gpt5-3",
+  "questionId": 37660,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37660-diverse_none",
+  "independentForecastId": "37660-gpt5-none",
+  "otherForecastIds": [
+    "37660-pro-none",
+    "37660-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the prolonged delay since the Q3 2024 target and the short remaining window, which strengthens the inertia argument. Forecaster 2’s point about the Starlink map’s originally indicated timeline slipping multiple quarters is a useful signal of lingering hurdles. Their suggestion to watch for TRCSL “final approvals” and any pushback of the map’s ETA are good update triggers. Forecaster 3’s framing around the map-based resolution (not just licensing) and the historic tendency for last‑mile operational delays is sound. I also note neither considered that any map layer (e.g., Mobile/Business) showing “Available” could satisfy the criterion, which preserves some upside. Overall, their reasoning is convincing on the risk of continued slippage; it nudges me slightly lower but not dramatically, given license already exists and Starlink can flip availability quickly once ready.",
+    "rationale": "License in hand since Aug 2024 materially lowers barriers, but nine months without a map change suggests unresolved steps (terminal type approval/imports, billing/currency/tax setup, potential local partnership, or compliance conditions). With roughly six weeks left, the status quo (Not Available) and Starlink’s history of slipping internal ETAs in some markets weigh against a near‑term flip. On the other hand, Starlink can enable service rapidly once the operational pieces are ready, and the resolution only needs any part of Sri Lanka to show “Available” on the map, potentially via Business or Mobile plans. Net effect: I modestly downgrade from 32% to 30%, reflecting the reinforced inertia/delay arguments while retaining meaningful probability for a late‑June activation or a limited-plan availability that would satisfy the criterion. I would move up on evidence of preorders/shipping to Sri Lanka, TRCSL or Starlink launch announcements, or map/UI signals (pricing pages, country dropdown). I would move down on signs of import/type‑approval holdups, billing/currency constraints, or if Starlink’s map pushes Sri Lanka’s ETA further out.",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1529,
+    "outputTokens": 1711,
+    "totalTokens": 3240,
+    "reasoningTokens": 1280,
+    "cachedInputTokens": 0
+  }
+}

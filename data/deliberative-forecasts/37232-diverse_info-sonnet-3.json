@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-diverse_info-sonnet-3",
+  "questionId": 37232,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37232-diverse_info",
+  "independentForecastId": "37232-sonnet-info3",
+  "otherForecastIds": [
+    "37232-pro-info1",
+    "37232-gpt5-info2"
+  ],
+  "forecast": {
+    "review": "The critical disagreement centers on whether Q1 2025 earnings will appear on the News page. Forecaster 2 assumes historical practice means earnings will be posted, yielding a 90% chance of a post appearing. Forecaster 3 provides crucial counterevidence: the Q4 2024 earnings release (Feb 26, 2025) was NOT posted to the News page, appearing only in IR/PR channels. This is recent, direct evidence that strongly contradicts Forecaster 2's assumption.\n\nForecaster 3's argument is more compelling for several reasons: (1) The Feb 2025 earnings treatment represents the most recent data point - more predictive than older historical patterns; (2) The separation of investor relations from the News page aligns with a company in cost-cutting mode with limited operational content; (3) This pattern matches the observed 3-month gap in News posts during the same period when IR communications continued.\n\nForecaster 2's weakness is assuming continued historical practice without accounting for the company's recent behavior change. Public companies can fulfill disclosure obligations through IR channels without posting to general News pages - this is common practice.\n\nHowever, I cannot fully discount the possibility of non-earnings announcements in May: Delta-class manufacturing milestones, partnerships, or strategic updates remain possible, even if less likely given the current hiatus.",
+    "rationale": "I'm updating my forecast upward (toward YES/no post) based on Forecaster 3's evidence about the Q4 2024 earnings separation. If Virgin Galactic has already established a pattern of not cross-posting earnings to the News page as recently as February 2025, this significantly reduces the probability that May's Q1 earnings will appear there. This addresses my primary uncertainty from my initial forecast.\n\nThe status quo of sparse posting (89 days since last post) combined with recent evidence of IR/News separation creates a strong case for no May post. The main remaining risk is a non-earnings announcement, but given the operational hiatus and lack of flights until 2026, such announcements are less probable.\n\nI'm moving from 70% to 73% - a modest update that reflects increased confidence in the IR separation pattern while maintaining some probability weight on unexpected announcements (partnerships, manufacturing milestones, leadership changes) that could still appear on the News page.",
+    "probability": 73
+  },
+  "usage": {
+    "inputTokens": 2117,
+    "outputTokens": 1440,
+    "totalTokens": 3557,
+    "reasoningTokens": 720,
+    "cachedInputTokens": 0
+  }
+}

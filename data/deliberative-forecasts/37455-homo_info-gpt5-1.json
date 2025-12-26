@@ -1,0 +1,26 @@
+{
+  "forecastId": "37455-homo_info-gpt5-1",
+  "questionId": 37455,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37455-homo_info",
+  "independentForecastId": "37455-gpt5-info1-1",
+  "otherForecastIds": [
+    "37455-gpt5-info2-2",
+    "37455-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds a concrete recent base-rate point I hadn’t explicitly leveraged: DRC moving from license to “Available” in days. That’s a meaningful upside data point for current Africa rollouts. They also flag the three-week lag since Lesotho’s license as a mild negative and raise the enclave-within–South Africa caution, both reasonable. Forecaster 3 sharpens the South Africa transit/logistics chokepoint argument and notes Airtel Africa doesn’t operate in Lesotho, so regional partnerships may not help—good nuance. However, the outcome hinges on the website map flipping to “Available,” which typically coincides with readiness to accept orders. While logistics through South Africa could slow shipments, it doesn’t categorically prevent Starlink from updating the map if regulatory/type approval and commerce setup are done. Net, F2 pushes me slightly up; F3’s SA-transit risk pulls me down; these largely offset.",
+    "rationale": "Time left is ~54 days, enough for Starlink to act if remaining compliance steps are minor. The license is granted, technical coverage is in place, and recent African precedents (e.g., DRC) show Starlink can flip to Available very quickly post-approval. Countervailing risks are (1) potential device type approvals or other LCA conditions not yet completed, (2) Lesotho’s small market potentially lowering prioritization, and (3) practical shipping/payment setup—especially if physical imports commonly transit South Africa, where Starlink faces regulatory headwinds. That said, the criterion is the map showing “Available,” not deliveries, and Starlink has sometimes enabled availability ahead of broad logistics ramp. The three-week post-license silence modestly lowers confidence that a near-immediate flip is imminent, but the remaining window is still ample. Balancing the faster recent rollout base rates against enclave/logistics and small-market prioritization risks, I maintain a modestly >50% view.",
+    "probability": 60
+  },
+  "usage": {
+    "inputTokens": 1924,
+    "outputTokens": 1945,
+    "totalTokens": 3869,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

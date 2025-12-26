@@ -1,0 +1,26 @@
+{
+  "forecastId": "37638-diverse_none-sonnet-2",
+  "questionId": 37638,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37638-diverse_none",
+  "independentForecastId": "37638-sonnet-none",
+  "otherForecastIds": [
+    "37638-pro-none",
+    "37638-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters raise critical points I underweighted in my initial analysis. Forecaster 2 provides the specific June 2, 2025 adjournment date (less than 3 weeks away) and notes that similar efforts failed in 2023. Forecaster 3 makes the most crucial observation: the resolution criteria requires a FULL prohibition on THC sales, not just restrictions on hemp-derived products. This would implicate Texas's existing Compassionate Use Program for low-THC medical cannabis and FDA-approved THC medications like dronabinol. Most realistic legislative proposals target hemp-derived intoxicating cannabinoids (delta-8/delta-9), not a comprehensive ban on all THC sales including medical programs. This distinction is massive - a full prohibition would be far more legally complex, politically contentious, and practically unprecedented than partial restrictions on recreational hemp products. Both forecasters also note that House deadlines for originating bills have largely passed and that the governor's recent priorities have been elsewhere. These are strong structural barriers I insufficiently weighted.",
+    "rationale": "Upon reflection, my initial 15% was too high because I failed to properly parse the stringency of the resolution criteria. The question requires a law that 'fully prohibit[s] the sale of THC within the state' - not a partial ban on hemp-derived products or age restrictions, but a complete prohibition. This would necessarily conflict with Texas's existing Compassionate Use Program and potentially with FDA-approved THC medications, creating enormous legal, medical, and political obstacles far beyond those facing typical hemp regulation bills. Combined with the extremely compressed timeline (under 3 weeks to adjournment), House procedural deadlines largely past, and no evidence of a bill actively advancing through both chambers, the probability of such a sweeping measure passing is very low. The scenarios that could lead to Yes (surprise late-session amendment, emergency special session specifically on THC) are highly improbable given gubernatorial priorities and the political capital required. I'm updating significantly downward to align with the structural and definitional barriers identified by the other forecasters. I'm settling at 4% rather than 2-3% only because legislative processes can occasionally produce surprises, and there's minimal information about current bill status.",
+    "probability": 4
+  },
+  "usage": {
+    "inputTokens": 2239,
+    "outputTokens": 1296,
+    "totalTokens": 3535,
+    "reasoningTokens": 746,
+    "cachedInputTokens": 0
+  }
+}

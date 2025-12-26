@@ -1,0 +1,26 @@
+{
+  "forecastId": "37456-diverse_full-sonnet-2",
+  "questionId": 37456,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37456-diverse_full",
+  "independentForecastId": "37456-sonnet-full",
+  "otherForecastIds": [
+    "37456-pro-full",
+    "37456-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three analyses converge on similar fundamentals: Class III recall, ~90-day median closure time, and 95 days until the July 1 deadline. The key debate centers on how heavily to weigh complicating factors against the baseline probability.\n\nForecaster 3 makes a compelling point I initially underweighted: at 95 days, we're essentially AT the historical median, not below it, which should anchor us closer to 50% before adjustments. This is a valid correction to my framing.\n\nForecaster 2 provides the strongest case for pessimism, particularly emphasizing that FSIS regulatory caution regarding the March 2026 shelf life could meaningfully extend the Active status. This is a substantial consideration - products could remain in commerce for nearly another year, making verification genuinely difficult.\n\nHowever, I notice all three of us may be somewhat anchored by the complications without fully crediting that Class III recalls with zero illnesses and capable firms DO regularly close within the median timeframe despite distribution complexity. The median exists precisely because many recalls with various complications still close around that point.\n\nThe critical insight is that 95 days vs. 90-day median suggests a starting point near 52-55%, then adjust downward for specific complications (shelf life, foodservice, multi-state). The adjustments matter but shouldn't overwhelm the baseline.",
+    "rationale": "Upon reflection, Forecaster 3's baseline framing is more accurate than my initial approach. Being at the 95-day mark when the median is 90 days means we should start closer to 50-52% probability, not 40%. The question is then how much to adjust downward for complications.\n\nThe March 2026 shelf life remains the most significant concern, as Forecaster 2 emphasizes. FSIS closure requires confidence that products are out of commerce, and a 10+ month remaining shelf life genuinely complicates this. The foodservice distribution across multiple states adds verification complexity.\n\nHowever, three mitigating factors support staying in the 40-45% range rather than dropping to 35%: (1) Class III classification with zero illnesses reduces regulatory complexity, (2) Cargill's operational sophistication matters for execution speed, and (3) we're talking about a relatively standard recall type that FSIS processes routinely.\n\nThe status quo (currently Active with 55 days remaining) provides some negative signal - if closure were imminent, we might expect to be further along. But 40 days into a 90-day median process isn't alarming.\n\nBalancing the more accurate baseline against the real complications, I'm adjusting upward slightly from 40% to 42%, acknowledging Forecaster 3's median argument while maintaining that the shelf life and distribution factors create meaningful headwinds.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 2619,
+    "outputTokens": 1690,
+    "totalTokens": 4309,
+    "reasoningTokens": 886,
+    "cachedInputTokens": 0
+  }
+}

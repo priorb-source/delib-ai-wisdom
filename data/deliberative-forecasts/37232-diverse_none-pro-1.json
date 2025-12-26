@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-diverse_none-pro-1",
+  "questionId": 37232,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37232-diverse_none",
+  "independentForecastId": "37232-pro-none",
+  "otherForecastIds": [
+    "37232-sonnet-none",
+    "37232-gpt5-none"
+  ],
+  "forecast": {
+    "review": "All three forecasters correctly identified the central evidence: Virgin Galactic's sparse posting history and, crucially, the absence of a Q4 2024 earnings announcement on the 'News' page in February. This creates a strong consensus that the most predictable catalyst for a May post—the Q1 2025 earnings report—is unlikely to appear here. The primary point of divergence is in how much weight to assign to the possibility of other, non-routine announcements. Forecaster 2's argument that a four-month-plus silence would be 'exceptionally long' and that pressure to communicate can build over time is a reasonable counterpoint to assuming the status quo holds indefinitely. Forecaster 3's framing of the resolution as a 'fragile yes'—where any single, unexpected post flips the outcome—is a particularly compelling reason for caution against overconfidence. Their analyses, taken together, persuasively argue that my initial forecast may have understated this tail risk.",
+    "rationale": "I am updating my forecast downward. My initial reasoning was heavily anchored on the fact that Virgin Galactic did not use its News page for its previous quarterly earnings announcement, which I believe is the strongest available piece of evidence pointing towards a 'Yes' resolution. I maintain this conviction. However, the other forecasters' arguments have convinced me that my 80% confidence was too high. They rightly pointed out the 'fragile' nature of the 'Yes' outcome: a single unexpected press release about a partnership, technical milestone, or any other corporate event during the 31 days of May would resolve the question to 'No'. While I still believe the most probable catalyst for a post (earnings) is absent from this specific page, their reasoning has made me increase the weight I assign to the possibility of an unforeseen announcement. A 20% chance of a post over a full month felt too low upon reflection. Therefore, I am reducing my forecast from 80% to 75% to better account for this tail risk, acknowledging the uncertainty while still leaning heavily on the established pattern of communication.",
+    "probability": 75
+  },
+  "usage": {
+    "inputTokens": 1538,
+    "outputTokens": 2229,
+    "totalTokens": 3767,
+    "reasoningTokens": 1788,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-diverse_info-gpt5-2",
+  "questionId": 37464,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info3",
+  "groupId": "37464-diverse_info",
+  "independentForecastId": "37464-gpt5-info3",
+  "otherForecastIds": [
+    "37464-pro-info1",
+    "37464-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters add useful specificity I hadn’t stated: the 303 lbs quantity, that product expiry was in February, and a 120‑day median FSIS closure time. The small, short‑shelf‑life, single‑state vending distribution strengthens the upside case. The 120‑day median and the fact we’re already at ~73 days with only ~24 days left are strong anchors toward No. I also weigh the distinction that the question resolves on the FSIS page status change, so any posting/administrative lag cuts against a Yes in a short window—this wasn’t explicitly highlighted by them. Overall, I find their reasoning sound and largely aligned with mine; the median-closure data nudges me slightly downward.",
+    "rationale": "As of May 8 the recall has been active ~73 days; it must close by day 97 to resolve Yes. Base rates (median ~120 days) suggest closure before day 97 is faster than typical. Despite the limited scope (303 lbs, expired in Feb, vending machines in one state) and likely straightforward corrective actions, FSIS verification and administrative posting can easily extend beyond the next ~3.5 weeks. The current active status after ~10+ weeks, combined with potential agency posting lag, tilts the balance toward No while still allowing a nontrivial chance that the small scope and perishable nature enable completion in time. Given the added median-duration evidence, I trim my estimate slightly.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 1868,
+    "outputTokens": 1208,
+    "totalTokens": 3076,
+    "reasoningTokens": 896,
+    "cachedInputTokens": 0
+  }
+}

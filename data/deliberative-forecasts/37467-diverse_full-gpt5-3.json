@@ -1,0 +1,26 @@
+{
+  "forecastId": "37467-diverse_full-gpt5-3",
+  "questionId": 37467,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37467-diverse_full",
+  "independentForecastId": "37467-gpt5-full",
+  "otherForecastIds": [
+    "37467-pro-full",
+    "37467-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the very short horizon and the fresh $100m PIK senior secured facility as the dominant facts—points I agree are decisive. Forecaster 2’s argument that lenders’ diligence makes an immediate filing unlikely is persuasive, as is the observation that near‑term liquidity (> $200m) probably covers the next several months of burn. Forecaster 3’s framing that chronic distress does not equal imminent bankruptcy within 54 days is also sound. The one place I’m slightly less confident than Forecaster 2 is assigning as low as 5% given possible closing conditions/covenants on the new facility and vendor behavior risks; Forecaster 3’s 10% feels a touch high given the just‑secured financing and lack of a near‑term maturity wall. Net, their reasoning nudges me slightly lower from my prior 9%.",
+    "rationale": "Time to resolution is ~54 days. Since my prior 9% forecast, the key new weight from peers is the status‑quo inertia post‑financing: a newly inked 4.75‑year PIK term loan materially reduces the chance of a filing in the next few weeks absent a shock. Even with continued losses and distressed converts, there is no obvious cash wall before July 1, and a prepack immediately after raising senior secured money is atypical. I keep some tail risk for: (1) the facility failing to close or restrictive conditions not being met; (2) an unexpected operational/legal shock prompting vendor pullback or a minimum‑liquidity covenant breach; or (3) a deliberate, rapid restructuring pivot if stakeholders conclude burn plus deteriorating demand make out‑of‑court fixes untenable. These remain low‑probability within this window. Given this, I trim my estimate modestly to reflect stronger near‑term inertia while retaining non‑zero tail risk.",
+    "probability": 7
+  },
+  "usage": {
+    "inputTokens": 2094,
+    "outputTokens": 1356,
+    "totalTokens": 3450,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

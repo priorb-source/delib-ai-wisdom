@@ -1,0 +1,26 @@
+{
+  "forecastId": "37265-homo_info-pro-1",
+  "questionId": 37265,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37265-homo_info",
+  "independentForecastId": "37265-pro-info1-1",
+  "otherForecastIds": [
+    "37265-pro-info2-2",
+    "37265-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters are in strong agreement on the core drivers of this question: the high inertia of US State Department travel advisories, the short two-month timeframe, and the necessity of a significant catalyzing event to prompt a change from Level 2 to Level 3. Our probability estimates are all within a narrow 5-point range, indicating a shared analytical framework.\n\nForecaster 2 introduced a valuable piece of context by highlighting that regional neighbors like Uganda and Burundi already have Level 3 advisories for similar reasons (terrorism, crime). This establishes a clear precedent for how the State Department might react to a security deterioration in Tanzania, reinforcing the plausibility of a 'Yes' outcome under the right conditions.\n\nForecaster 3 provided a more specific analysis of the primary threat vector, namely the insurgency spilling over from Mozambique. Their key argument, which I found highly persuasive, is that this is a chronic, known threat that the State Department has already addressed with a targeted Level 3 advisory for the Mtwara region specifically. This demonstrates a preference for a localized response rather than a blanket, country-wide upgrade, implying the threshold for a nationwide change is very high.",
+    "rationale": "After reviewing my peers' analyses, I am revising my forecast downward. My initial 20% forecast was based on the same core logic as the others, but I find Forecaster 3's reasoning about the existing, localized Level 3 advisory to be a crucial nuance I had not fully weighted. The State Department has already acknowledged and contained the primary regional threat (Mozambique spillover) with a specific advisory for the Mtwara region. This action significantly raises the bar for what it would take to elevate the entire country's status. A simple intensification of conflict in Mtwara is unlikely to be sufficient; the threat would likely need to manifest in a new location, such as a major city or tourist destination like Dar es Salaam or Zanzibar, to trigger a nationwide change. While Forecaster 2's point about regional precedents is valid, it speaks more to the *type* of response if an event happens, whereas Forecaster 3's point speaks to the *likelihood* of an event meeting the high threshold for a nationwide change. Given this higher-than-initially-estimated threshold, the probability of such a catalyzing event occurring in the next two months is lower. Therefore, I am reducing my forecast by 5 percentage points to align with Forecaster 3.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 1476,
+    "outputTokens": 1977,
+    "totalTokens": 3453,
+    "reasoningTokens": 1452,
+    "cachedInputTokens": 0
+  }
+}

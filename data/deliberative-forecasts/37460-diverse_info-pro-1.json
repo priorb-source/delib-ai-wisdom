@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-diverse_info-pro-1",
+  "questionId": 37460,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37460-diverse_info",
+  "independentForecastId": "37460-pro-info1",
+  "otherForecastIds": [
+    "37460-sonnet-info3",
+    "37460-gpt5-info2"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 88% was based on a research assistant's report describing extremely large, ongoing protests in March 2025. The analyses from the other forecasters have completely changed my understanding of the situation. They introduce new, critical information that appears to supersede my initial briefing: specifically, the occurrence of a ~65,000-person May Day protest on May 1, 2025. This event has already happened and meets the size threshold. Forecaster 3's argument that the primary uncertainty is now the Global Protest Tracker's (GPT) reporting methodology and timing—not the occurrence of a protest—is exceptionally persuasive and something I had not sufficiently weighted. Forecaster 2's point about the effectiveness of government crackdowns also provides a crucial check on the likelihood of a *future* large protest before the deadline. Both forecasters rightly redirect the focus to the resolution criteria and the real-world constraints on protest in Turkey, revealing the fictional nature of my initial intelligence. Their reasoning is highly convincing and necessitates a major revision of my forecast.",
+    "rationale": "I am dramatically lowering my forecast from 88% to 55%. The initial forecast was based on flawed intelligence of massive, ongoing protests. The deliberation introduced the crucial fact that a protest of ~65,000 people already occurred on May 1st, 2025. This fundamentally shifts the question from 'Will a large protest happen?' to 'Will the Global Protest Tracker (GPT) report an eligible protest by July 1st?'\n\nThere are now two main paths to a 'Yes' resolution:\n1. The GPT reports the May 1st protest. This is the most likely path. The event was large and involved significant police clashes and detentions, increasing its salience and likelihood of being included in a curated tracker despite being an annual event. However, as Forecaster 3 noted, the GPT is selective and can have reporting lags, introducing significant uncertainty. I estimate a ~40% chance for this path alone.\n2. A new protest with 10,000+ participants occurs between today (May 7) and July 1, AND the GPT reports it in time. As Forecaster 2 pointed out, potential flashpoints like the May 30 trial and the dire economic situation exist. However, effective government suppression lowers the probability. I estimate a ~15% chance for this second path.\n\nCombining these probabilities, my new forecast is 55%. This reflects a greater than even chance of a 'Yes' outcome, primarily driven by the large protest that has already occurred, but acknowledges the significant uncertainty surrounding the resolution source's reporting behavior. The ~33-point drop from my initial forecast is a direct result of correcting my flawed understanding of the facts on the ground, thanks to the other forecasters' input.",
+    "probability": 55
+  },
+  "usage": {
+    "inputTokens": 1938,
+    "outputTokens": 3577,
+    "totalTokens": 5515,
+    "reasoningTokens": 2965,
+    "cachedInputTokens": 0
+  }
+}

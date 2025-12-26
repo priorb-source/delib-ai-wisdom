@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-diverse_none-pro-1",
+  "questionId": 37460,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37460-diverse_none",
+  "independentForecastId": "37460-pro-none",
+  "otherForecastIds": [
+    "37460-sonnet-none",
+    "37460-gpt5-none"
+  ],
+  "forecast": {
+    "review": "I have reviewed the analyses from two other forecasters. Forecaster 2's analysis, with a 65% probability, is based on a critical misinterpretation of the provided Wikipedia link. The link points to a non-existent page, a common practice in forecasting questions to serve as a placeholder should the event occur. It is not, as the forecaster assumes, evidence of ongoing notable protests. This foundational error invalidates the reasoning for their high forecast. In contrast, Forecaster 3's analysis (15%) is exceptionally sharp and aligns closely with my own initial assessment while adding significant nuance. Their focus on the specific curation practices of the Global Protest Tracker (GPT) as a key filter is a crucial point I had not fully weighted. The argument that GPT may not create a *new* entry for annual commemorative events (like the Gezi anniversary) or may bundle new protests into existing movements (like further Gaza-related rallies) is highly convincing and strengthens the case for a 'No' resolution.",
+    "rationale": "My initial forecast of 15% was based on the low base rate of 10,000+ participant protests being logged by the Global Protest Tracker for Turkey and the short time frame remaining. The deliberation process has reinforced this view. I am discarding Forecaster 2's analysis due to its reliance on a non-existent Wikipedia article as evidence. Forecaster 3's reasoning, however, provides a compelling argument to be even more skeptical of a 'Yes' outcome. Their focus on the GPT's curation practices introduces a second, powerful filter: not only must a large protest occur, but it must be recognized by the tracker as a *new and distinct movement* to receive a start date within the resolution window. This makes it less likely that predictable flashpoints, such as the Gezi Park anniversary, would trigger a 'Yes' resolution, as they could be classified as commemorative or part of an ongoing theme. This insight narrows the path to a 'Yes' to primarily an unforeseen, significant shock that births a completely new movement. Acknowledging this additional constraint, I am lowering my forecast. My initial 15% accounted for the rarity of the event; this update reflects the additional rarity of it meeting the specific classification criteria of the resolution source. I am adjusting my forecast down by 5 percentage points to reflect increased confidence in the 'No' outcome.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 1790,
+    "outputTokens": 2585,
+    "totalTokens": 4375,
+    "reasoningTokens": 2082,
+    "cachedInputTokens": 0
+  }
+}

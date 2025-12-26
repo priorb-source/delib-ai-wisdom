@@ -1,0 +1,26 @@
+{
+  "forecastId": "37233-homo_none-gpt5-3",
+  "questionId": 37233,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37233-homo_none",
+  "independentForecastId": "37233-gpt5-none-3",
+  "otherForecastIds": [
+    "37233-gpt5-none-1",
+    "37233-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters correctly emphasize that this is a timing question and that Ivorian practice (and Ouattara’s own 2020 pattern) points to late declarations, typically around party investitures and filing windows in mid-to-late summer. They add a clear eligibility note (2016 constitution/2020 precedent) and the plausible path to a May “investiture” if RHDP convenes a congress. However, neither cites concrete May-dated events or credible reports of an RHDP congress, so their 30–33% hinges on a hypothetical May gathering rather than observed scheduling. I find their logic solid but somewhat optimistic without evidence of a May calendar trigger.",
+    "rationale": "With ~33 days left and no known legal or procedural deadline in May, the status quo favors delay. Ouattara has historically managed timing late, and strategic ambiguity benefits him while RHDP gauges the opposition (Thiam’s PDCI, uncertainty around Gbagbo). Age and succession dynamics also argue for retaining flexibility rather than rushing an early declaration. I decompose as follows: P(he runs) ≈ 55% given incumbency advantages and party incentives; conditional on running, P(declare by June 1) ≈ 35% absent a publicly signaled May congress, yielding ≈ 19%. I modestly raise my prior (17%) to 20% after weighing peers’ point that RHDP could choose to project stability early and stage a May investiture, but without concrete indications of such an event, a pre–June 1 declaration remains a minority scenario. Upside triggers: credible reporting of an RHDP May congress/investiture to designate the candidate, senior RHDP calls with Ouattara signaling acceptance, or wire-service leaks of imminent declaration. Downside triggers: signals of grooming a successor, statements deferring decision to summer, or scheduling investiture for June or later.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 1910,
+    "outputTokens": 1233,
+    "totalTokens": 3143,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

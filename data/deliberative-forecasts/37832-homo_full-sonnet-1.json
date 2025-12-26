@@ -1,0 +1,26 @@
+{
+  "forecastId": "37832-homo_full-sonnet-1",
+  "questionId": 37832,
+  "condition": "homo_full",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37832-homo_full",
+  "independentForecastId": "37832-sonnet-full-1",
+  "otherForecastIds": [
+    "37832-sonnet-full-2",
+    "37832-sonnet-full-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters converge on similar reasoning with forecasts ranging 10-18%. The common ground is strong: the recent massive funding round, absence of preparation signals, tight timeframe, and uncertain market conditions all point toward No. However, I found two arguments particularly compelling that warrant reconsidering my forecast. First, Forecaster 3's point about employee liquidity provisions in the funding round is crucial - this addresses a major IPO driver without going public, reducing urgency even more than I initially weighted. Second, Forecaster 3's observation that 'if they planned to announce at the June summit, we would likely see preparatory signals by now' is quite strong given how closely IPO markets are monitored. Late May with no leaks or rumors is telling. Forecaster 2 also makes an excellent point that 'companies rarely announce IPOs at user conferences' - they typically use formal channels like S-1 filings or press releases. While the resolution criteria allow for website announcements (which could theoretically happen with less preparation), the absence of any market signals this late is more significant than I initially credited.",
+    "rationale": "After deliberation, I'm updating my forecast downward from 15% to 12%. The key factors driving this revision are: (1) The employee liquidity component of the funding round more decisively reduces IPO urgency than I initially weighted - this was a substantial $10B+ round that addressed multiple objectives including employee needs; (2) The absence of any preparation signals (underwriters, confidential filings, market rumors) as of late May 2025 is more telling given we're only 40 days from resolution; (3) If a June summit announcement was planned, we would expect to see some market intelligence by now given how closely tech IPO activity is monitored. That said, I'm not moving as low as 10% because: (1) The June 9-12 summit remains a plausible catalyst window with high-profile attendance; (2) The question asks only about announcing plans (not executing), which is technically a lower bar; (3) The CEO has kept 2025 as a possibility; (4) At $62B valuation, the company is certainly mature enough. The probability remains low but non-negligible given the specific catalyst window and the fact that corporate announcements occasionally surprise observers.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 2629,
+    "outputTokens": 1285,
+    "totalTokens": 3914,
+    "reasoningTokens": 747,
+    "cachedInputTokens": 0
+  }
+}

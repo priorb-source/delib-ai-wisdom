@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-diverse_none-sonnet-2",
+  "questionId": 37266,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37266-diverse_none",
+  "independentForecastId": "37266-sonnet-none",
+  "otherForecastIds": [
+    "37266-pro-none",
+    "37266-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other forecasters raise several important points I hadn't fully considered. Most significantly, Forecaster 2 identifies that Mozambique's current advisory is specifically Level 2, not Level 3, meaning a two-level jump would be required within 60 days - a much rarer occurrence than I initially weighted. Both forecasters emphasize that the Cabo Delgado insurgency has persisted for years without triggering a country-wide Level 4, suggesting the State Department has maintained a measured approach even with ongoing security threats. Forecaster 3's point about the 'stickiness' of advisory levels and the geographic concentration of risk is well-taken. The fact that both independently arrived at 8-10% while using similar reasoning suggests my 12% may be slightly elevated. However, I don't find their arguments so compelling as to drastically reduce my forecast - the combination of an existing insurgency plus new protest activity still creates meaningful tail risk, and rapid deteriorations, while rare, are possible. The 8-12% range represents genuine analytical uncertainty rather than a clear error on anyone's part.",
+    "rationale": "Upon review, the most important new information is that Mozambique currently sits at Level 2, requiring a two-level jump to reach Level 4 within approximately 60 days. This is a higher bar than I initially weighted. The historical precedent of the Cabo Delgado insurgency persisting for years without triggering Level 4 demonstrates the State Department's tendency toward measured responses. However, I maintain that the convergence of two separate risk factors - an existing insurgency and new civil unrest - creates a volatile environment where rapid escalation, while unlikely, remains plausible. The protests represent a new variable beyond the northern insurgency that the State Department has historically contained. My forecast should move downward to align more closely with the consensus range while acknowledging that 10-12% represents reasonable analytical uncertainty about tail risks in unstable situations. I'm updating to 10%, splitting the difference between Forecasters 2 and 3, which reflects both the lower base rate than I initially estimated and the non-negligible risk from dual threats.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 2161,
+    "outputTokens": 1382,
+    "totalTokens": 3543,
+    "reasoningTokens": 807,
+    "cachedInputTokens": 0
+  }
+}

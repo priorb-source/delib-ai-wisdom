@@ -1,0 +1,26 @@
+{
+  "forecastId": "37267-diverse_full-gpt5-3",
+  "questionId": 37267,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37267-diverse_full",
+  "independentForecastId": "37267-gpt5-full",
+  "otherForecastIds": [
+    "37267-pro-full",
+    "37267-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters lean on the same core pillars I used: low base rate for L3→L4 upgrades over short windows, the high trigger threshold (ordered departure, airport closure, coup, major incidents involving foreigners), and the mitigating effect of region-specific Level 4s. Forecaster 3 adds emphasis on the April 30 review as a strong near-term anchor, which I agree is material. Both also note tail risks from active conflicts, new US sanctions, and proximity to Level 4 neighbors. No genuinely new indicators surfaced (e.g., no ordered departure, no Addis-specific threat), but the framing that a fresh review just occurred two days ago is a particularly compelling anchor against near-term change. The main place I diverge slightly is on calibration: 12% feels a bit high given the two-month horizon and absence of catalysts; 10% seems a reasonable upper bound for now.",
+    "rationale": "My prior (9%) already weighted the recent review, the lack of key triggers, and the short horizon, while allowing for volatility in Amhara/Tigray/Oromia and potential spillovers. The deliberation reinforces the anchoring effect of the April 30 reaffirmation at Level 3 and the State Department’s ability to manage risk via region-specific Level 4s without a nationwide change. However, I’ll make a small upward nudge to reflect shared judgment on non-trivial tail risk over a 60-day window—especially given fresh US sanctions signaling concern and Ethiopia’s past movement between Level 3 and Level 4. Triggers that would move me higher quickly: ordered/authorized departure from the embassy, significant unrest in Addis or along key corridors, Bole International Airport disruption, or credible threats/attacks on foreigners. Absent such signals, the status quo is likely to hold.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 2217,
+    "outputTokens": 1599,
+    "totalTokens": 3816,
+    "reasoningTokens": 1216,
+    "cachedInputTokens": 0
+  }
+}

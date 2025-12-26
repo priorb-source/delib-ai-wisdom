@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-diverse_full-gpt5-3",
+  "questionId": 38080,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "38080-diverse_full",
+  "independentForecastId": "38080-gpt5-full",
+  "otherForecastIds": [
+    "38080-pro-full",
+    "38080-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters make strong cases that the TRO signals judicial concern and that the equities/irreparable harm favor Harvard. Forecaster 2 leans heavily on APA/retaliation and balances to reach 92%, which I find too high given deference to the executive on immigration/national security and the live risk of an appellate stay. Forecaster 3 adds the practical point that, if granted, a PI typically lasts months and would almost surely carry past July 1; that timing argument is persuasive. However, I’m less convinced by the claim that a TRO necessarily implies the judge found all four factors in Harvard’s favor at a strong level; TROs can be granted on a thinner showing to preserve the status quo. Neither addressed in detail the risk of a rapid government appeal and emergency stay, or DHS reissuing a revocation with a bolstered national-security record before July 1, which modestly tempers the odds.",
+    "rationale": "Time to resolution is short (~34 days), and the status quo is Yes due to the TRO. The most likely Yes path is a preliminary injunction on or soon after the May 29 hearing, or an extension of the TRO while the court decides; either would probably persist through July 1 absent an appellate stay. Harvard’s irreparable-harm showing is very strong, and there are plausible procedural/APA and constitutional defects in a sudden revocation without typical notice-and-response. These factors make near-term maintenance of certification more likely than not.\n\nKey downside risks: (1) the judge could deny a PI and dissolve the TRO, (2) the government could secure an emergency stay from the First Circuit (or higher) based on immigration/national-security deference, and (3) DHS could attempt to cure defects with a new, more defensible action and seek to enforce it quickly. Given the compressed timeline, (2) and (3) are possible but not the base case. Netting these, I slightly raise my forecast from my prior 72%, acknowledging the persuasive timing/duration arguments, but remain below the 80–90% range due to appellate/stay risks and executive-branch deference in this domain.\n\nWhat would move me up: PI granted with strong findings and no immediate stay; explicit TRO extension into July. What would move me down: PI denial; strong signals from the First Circuit about granting a stay; DHS reissuance invoking national security with a tightened record and swift judicial acceptance.",
+    "probability": 76
+  },
+  "usage": {
+    "inputTokens": 2492,
+    "outputTokens": 2438,
+    "totalTokens": 4930,
+    "reasoningTokens": 1920,
+    "cachedInputTokens": 0
+  }
+}

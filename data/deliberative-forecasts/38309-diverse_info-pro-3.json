@@ -1,0 +1,26 @@
+{
+  "forecastId": "38309-diverse_info-pro-3",
+  "questionId": 38309,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "38309-diverse_info",
+  "independentForecastId": "38309-pro-info3",
+  "otherForecastIds": [
+    "38309-gpt5-info1",
+    "38309-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "The other two forecasters provided valuable new information and perspectives. Forecaster 2 introduced a more nuanced analysis of the race's potential geographic and demographic cleavages—pitting Jay Jones's base in Hampton Roads and among Black voters against Shannon Taylor's potential strength with suburban voters in Northern Virginia and Richmond. They also highlighted how the concurrent gubernatorial primary creates significant uncertainty about the composition of the electorate, a factor I had not explicitly considered. Forecaster 3 provided the most critical new evidence: hard data on fundraising. Their report that Jones has a substantial lead in funds raised (~$1.8M to ~$1M+) and a large cash-on-hand advantage ($1.4M) heading into the final two weeks is a powerful, concrete indicator of institutional support and campaign strength.",
+    "rationale": "I am increasing my forecast from 62% to 66%. The primary driver for this update is the new fundraising data supplied by Forecaster 3. A nearly 2-to-1 fundraising advantage, and especially a significant cash-on-hand lead this close to the election, is a strong predictor of success. It allows for greater ad buys in expensive media markets and funds more robust get-out-the-vote (GOTV) operations, which are critical in a low-turnout primary. This evidence solidifies Jones's position as the clear favorite. However, I am not moving my forecast as high as Forecaster 3's 72%. I find Forecaster 2's reasoning about turnout uncertainty to be a compelling moderating factor. The potential for a high-turnout, suburban-dominated primary driven by the governor's race presents a credible path to victory for Shannon Taylor, especially given her profile as a prosecutor. Taylor's own fundraising total of over $1 million demonstrates she is a serious and viable candidate, not an under-resourced challenger. My updated forecast of 66% reflects increased confidence in Jones's chances due to his financial strength, while still accounting for the significant uncertainty and Taylor's plausible path to an upset.",
+    "probability": 66
+  },
+  "usage": {
+    "inputTokens": 1807,
+    "outputTokens": 2404,
+    "totalTokens": 4211,
+    "reasoningTokens": 1966,
+    "cachedInputTokens": 0
+  }
+}

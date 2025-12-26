@@ -1,0 +1,26 @@
+{
+  "forecastId": "38057-diverse_info-gpt5-3",
+  "questionId": 38057,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "38057-diverse_info",
+  "independentForecastId": "38057-gpt5-info3",
+  "otherForecastIds": [
+    "38057-pro-info2",
+    "38057-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters sensibly decompose the problem into (1) fight happens and (2) Dvalishvili wins if it happens. I agree with that framing. Forecaster 3’s adjustment of the “fight happens” probability upward given we’re close to fight week is reasonable; my prior 80–85% was a bit conservative at this lead time. The appeals to Rogan/Cejudo are weak evidence, but the underlying point—that expert/market sentiment leans Merab—is consistent with the first-fight outcome and style dynamics. Forecaster 2’s emphasis on cancellation risk is appropriate under the resolution criteria, but the specific claim about Merab’s finger/toe injuries isn’t in the provided RA summary; without corroboration, I give it little weight. I concur with both on O’Malley’s live KO/counter equity and the potential for adjustments, while still favoring Merab’s replicable, cardio-driven wrestling edge over five rounds. Overall, their numbers (56–58%) align closely with my prior; the main update I buy is nudging up P(fight happens).",
+    "rationale": "I continue to see this as: P(fight happens) × P(Dvalishvili wins | fight happens), with a small deduction for draw/NC paths (which resolve No). Given we’re roughly ~2 weeks out, I now estimate P(fight happens) ≈ 88–90% rather than 80–85%. Conditional on the fight, I keep Dvalishvili around 63–67%: he won the first meeting decisively, his chain wrestling, clinch control, and pace tend to translate in rematches and over five rounds, and his durability/cardio give him multiple rounds to bank control time. O’Malley’s best path remains impactful striking—early counters or momentum-swinging moments—and potential mobility/TDD improvements post-hip surgery, but I’ve seen no hard evidence of layered TDD/cage-escape upgrades sufficient to flip the matchup. Sparring with Adesanya helps striking looks more than it answers chain wrestling. I do not incorporate unverified injury rumors about Dvalishvili. Putting it together: using midpoints P(fight) ≈ 0.89 and P(win|fight) ≈ 0.65 gives ~0.58 after accounting for a small draw/NC tail. That’s a slight uptick from my prior 57% due to the higher “fight happens” estimate, with the matchup assessment unchanged.",
+    "probability": 58
+  },
+  "usage": {
+    "inputTokens": 2109,
+    "outputTokens": 2005,
+    "totalTokens": 4114,
+    "reasoningTokens": 1472,
+    "cachedInputTokens": 0
+  }
+}

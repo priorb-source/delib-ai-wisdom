@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_full-gpt5-1",
+  "questionId": 37805,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37805-homo_full",
+  "independentForecastId": "37805-gpt5-full-1",
+  "otherForecastIds": [
+    "37805-gpt5-full-2",
+    "37805-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my baseline and pathways. The most useful additions were: (1) explicit emphasis on FlightsFrom’s reliance on OAG-filed schedules and the practical lead-time constraints for new routes to appear by early July, and (2) LCC aircraft/crew constraints making last‑minute seasonal adds less likely. I also agree with their clarification that FlightsFrom would list a route even if first flights are later in July, as long as schedules are filed. None of their arguments raise a concrete catalyst I had missed; rather, they modestly strengthen the case against a late-breaking fifth destination, absent current signals.",
+    "rationale": "Status quo remains 3–4 destinations (GUM, ICN, PUS, intermittently NRT). To resolve Yes, SPN needs ≥5 listed destinations on FlightsFrom when checked on/after July 1. That likely requires NRT plus one more city, or two new cities if NRT drops. With ~6 weeks to go, we have no credible announcements or loaded schedules for HKG/TPE/extra KR secondary cities, while Japanese demand is still hampered by yen weakness and PRC market constraints persist. Korean demand is the most plausible upside, but LCC capacity/crew and filing lead times reduce the odds of a new route appearing in time. United’s NRT remaining visible is a necessary but not sufficient condition. Given the additional emphasis on scheduling lead times and LCC constraints from the other forecasters, I’m trimming slightly from 23% to 22%. Upside triggers: verified OAG/FlightsFrom listings for NRT and any additional city (e.g., a KR secondary, HKG, TPE, KIX/NGO). Downside triggers: NRT absent from early-July listings or any current route removed.",
+    "probability": 22
+  },
+  "usage": {
+    "inputTokens": 2361,
+    "outputTokens": 1215,
+    "totalTokens": 3576,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

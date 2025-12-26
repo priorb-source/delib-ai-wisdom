@@ -1,0 +1,26 @@
+{
+  "forecastId": "37009-diverse_info-gpt5-1",
+  "questionId": 37009,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37009-diverse_info",
+  "independentForecastId": "37009-gpt5-info3",
+  "otherForecastIds": [
+    "37009-pro-info2",
+    "37009-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "New and material evidence I hadn’t incorporated: multiple reports (Politico, Washington Examiner, Livingston Post) indicating an announcement “as early as next week,” plus claims that Stevens has expanded staff, posted strong Q1 fundraising, and is sounding out successors for her House seat. Politico’s timing signal is particularly weighty and usually reflects real campaign planning. I agree with Forecaster 3’s emphasis on the short window and slippage risk. I find Forecaster 2’s confidence (90%) too high absent an on-the-record date or a firm media hold; even well-sourced “next week” pieces can slip a week or two. The lack of FEC paperwork (raised in the prior baseline) is not very informative, since candidates can announce before filing once they cross the threshold. Overall, the corroborated “imminent” reporting substantially raises odds versus my prior, but the risk of delay past May 1 keeps me below 80%.",
+    "rationale": "Time remaining: ~9 days. Baseline was low due to no visible prep and no filings. The new reporting meaningfully updates the likelihood that the campaign is already in motion, with signals consistent with a near-term launch (staffing, fundraising capacity, succession planning for the House seat). Politico’s “as early as next week” on Apr 19 targets the week of Apr 21, which sits squarely before May 1. That said, announcements often slip for logistical or strategic reasons (venue, endorsements, fundraising sequencing, competing news cycles). Because our resolution deadline is May 1 specifically, even a short delay into early May would resolve this as No. I therefore overweight timing risk versus the overall probability she’s running at all. Net: substantial update upward, but not to near-certainty without a specific date or media advisory. I would move higher with a reported firm date or a media advisory; lower with credible reporting of a push into early May or new complications.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 1618,
+    "outputTokens": 1820,
+    "totalTokens": 3438,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

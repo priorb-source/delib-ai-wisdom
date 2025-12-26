@@ -1,0 +1,26 @@
+{
+  "forecastId": "38056-homo_info-pro-1",
+  "questionId": 38056,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38056-homo_info",
+  "independentForecastId": "38056-pro-info1-1",
+  "otherForecastIds": [
+    "38056-pro-info2-2",
+    "38056-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "The other forecasters presented critical, dispositive information that I had missed: Johnny Walker has reportedly withdrawn from the fight due to injury, and a new opponent has been lined up for Azamat Murzakanov. Their reasoning is flawless and directly addresses the resolution criteria, which state that if Walker does not fight Murzakanov, the question resolves as 'No'. Their analysis renders my initial forecast, which was based on the fight proceeding as scheduled, completely obsolete. I find their reasoning entirely convincing.",
+    "rationale": "My previous forecast of 35% was predicated on the fight occurring. Based on the new information provided by the other forecasters—that Johnny Walker has withdrawn from the bout and Azamat Murzakanov has a new opponent—the fundamental premise of my analysis has changed. The resolution criteria are explicit: if the Walker vs. Murzakanov fight does not happen at UFC 316, this question resolves as 'No'. As the fight appears to be cancelled, the probability of a 'Yes' outcome has collapsed. I am therefore dramatically updating my forecast from 35% down to 1%. I am not setting the probability to 0% because, in the volatile world of MMA, there remains a remote, but non-zero, chance that the reports of withdrawal are inaccurate or that an unforeseen chain of events (e.g., the new opponent also withdraws and Walker is cleared to return) leads to the original fight being reinstated at the last minute. This is an exceptionally unlikely scenario, but it prevents me from assigning a probability of absolute zero.",
+    "probability": 1
+  },
+  "usage": {
+    "inputTokens": 1516,
+    "outputTokens": 1768,
+    "totalTokens": 3284,
+    "reasoningTokens": 1432,
+    "cachedInputTokens": 0
+  }
+}

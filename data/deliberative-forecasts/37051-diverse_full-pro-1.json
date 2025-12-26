@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_full-pro-1",
+  "questionId": 37051,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37051-diverse_full",
+  "independentForecastId": "37051-pro-full",
+  "otherForecastIds": [
+    "37051-sonnet-full",
+    "37051-gpt5-full"
+  ],
+  "forecast": {
+    "review": "The other forecasters and I are in strong agreement on the core drivers of this forecast, leading to a consensus that the probability is very low. We all correctly identified the primary barriers: the IRS's sole authority, the lengthy multi-step legal and administrative process, the extremely short time frame of under three months, and the lack of historical precedent. Forecaster 2's reasoning closely mirrored my own. I found Forecaster 3's analysis particularly compelling and insightful. They added valuable detail by breaking down the specific stages of the IRS revocation process and emphasizing how Harvard's procedural right to protest and appeal an initial finding would almost certainly push a final decision well past the July 1 deadline. Furthermore, Forecaster 3's point that the substantive legal case against Harvard is likely much weaker than the precedent set in *Bob Jones University v. United States* is crucial, as it increases the probability that a court would grant an immediate injunction, creating another significant delay.",
+    "rationale": "After reviewing my peers' analyses, I am lowering my forecast from 5% to 3%. My initial assessment correctly identified the major obstacles to a 'Yes' resolution. However, Forecaster 3's analysis convinced me that I had underestimated the robustness of the specific procedural safeguards available to Harvard. The key new insight is the mechanics of the IRS appeals process: even if the administration could compel the IRS to issue a proposed adverse determination at unprecedented speed, Harvard's subsequent protest would trigger an appeals process that preserves its tax-exempt status pending review, making a final revocation before July 1 procedurally almost impossible. This internal IRS brake, combined with the near-certainty that Harvard's lawsuit would result in an external judicial brake (a temporary restraining order or injunction), creates a two-layered defense against a rapid, politically-motivated revocation. The argument that the legal grounds for revocation are tenuous further strengthens the case for a court injunction. The change from 5% to 3% reflects a recalibration based on these specific, powerful procedural hurdles. The remaining 3% accounts for the tail risk of an entirely unprecedented, norm-shattering action from the executive branch that bypasses all established legal and administrative processes, a scenario that cannot be completely dismissed in the current environment.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 2235,
+    "outputTokens": 2428,
+    "totalTokens": 4663,
+    "reasoningTokens": 1955,
+    "cachedInputTokens": 0
+  }
+}

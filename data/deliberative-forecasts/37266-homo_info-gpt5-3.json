@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-homo_info-gpt5-3",
+  "questionId": 37266,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37266-homo_info",
+  "independentForecastId": "37266-gpt5-info3-3",
+  "otherForecastIds": [
+    "37266-gpt5-info1-1",
+    "37266-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters’ reasoning is broadly aligned with mine: the State Department reserves nationwide Level 4 for extreme, widespread deterioration, and historically uses region-specific Level 4s for localized insurgencies like Cabo Delgado. New elements I hadn’t explicitly incorporated: Forecaster 2’s note of suspected jihadist activity in Niassa and a related U.S. Embassy warning, plus UK/Canada tightening regional cautions. That’s credible and nudges risk up slightly by suggesting some geographic spread. I agree with both on key triggers (embassy ordered/authorized departure, major attacks in major cities, targeting of foreigners, peer governments moving to nationwide ‘avoid all travel’). I find Forecaster 3’s 7% close to my prior; Forecaster 2’s 15% feels a bit high given base rates and advisory inertia over a ~60-day window without visible embassy posture changes.",
+    "rationale": "Time remaining is about two months, and Mozambique’s current advisory is below Level 4 with long-standing region-specific ‘Do Not Travel’ in the north. The bar for a nationwide Level 4 is high and typically tied to war-scale conflict, state collapse, severe nationwide unrest, or a major embassy posture shift. While reports of renewed militant activity in Niassa and recent embassy alerts/industry advisories suggest elevated, possibly widening risk, they are still consistent with localized instability. Peer advisories (UK/Canada) remain region-specific rather than nationwide ‘do not travel,’ and there is no sign of an ordered/authorized departure from U.S. Embassy Maputo or sustained mass-casualty incidents in major cities. Given advisory inertia and the short horizon, a rapid nationwide upgrade is possible but unlikely absent a clear trigger. I’m nudging up slightly from 8% to reflect the Niassa/embassy alert signals but keep the probability low overall.",
+    "probability": 9
+  },
+  "usage": {
+    "inputTokens": 2160,
+    "outputTokens": 1798,
+    "totalTokens": 3958,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

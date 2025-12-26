@@ -1,0 +1,26 @@
+{
+  "forecastId": "37797-diverse_full-pro-1",
+  "questionId": 37797,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37797-diverse_full",
+  "independentForecastId": "37797-pro-full",
+  "otherForecastIds": [
+    "37797-sonnet-full",
+    "37797-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters agree on the core dynamics: the FATF black list is highly stable, the current members are unlikely to be removed, and any change would be a significant event. Forecaster 2 and I both identified the key risks, particularly Russia's status, but Forecaster 2 assigns a higher probability (20%) to these tail risks materializing in the short term. I find this a bit high. Forecaster 3's analysis (7%) was the most convincing, introducing a critical piece of evidence I had underweighted: the procedural nature of FATF changes. The point that black-list additions or removals are typically well-signaled in advance through specific reports and prior communiqués is a powerful argument for a low probability, especially given that the June 2025 plenary is only a month away and no such signals have been reported.",
+    "rationale": "My initial forecast of 15% was based on the high inertia of the FATF process, balanced against the non-zero chance of a geopolitical event, primarily concerning Russia, forcing a change. After reviewing the other analyses, I am lowering my forecast. The key factor is the argument raised by Forecaster 3 regarding procedural signaling. Black list changes are major decisions for an international body and are not made lightly or suddenly; they are typically the culmination of a long process of evaluation and warnings. The February 2025 plenary made no changes and, critically, issued no public statements suggesting any jurisdiction was on a path to being added to the black list in June. With the plenary just weeks away, the window for such signals to emerge has nearly closed. My previous forecast over-weighted the possibility of a reactive, surprise decision and under-weighted this procedural inertia. The status quo of Russia's suspension appears to be a stable political compromise, and other potential scenarios (like adding Pakistan) are extremely unlikely to escalate to black-list level in this timeframe. Therefore, I am reducing my forecast significantly from 15% to 8% to better reflect the extremely high likelihood of the status quo holding.",
+    "probability": 8
+  },
+  "usage": {
+    "inputTokens": 2320,
+    "outputTokens": 2311,
+    "totalTokens": 4631,
+    "reasoningTokens": 1874,
+    "cachedInputTokens": 0
+  }
+}

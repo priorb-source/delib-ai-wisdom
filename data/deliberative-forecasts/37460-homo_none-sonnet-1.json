@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-homo_none-sonnet-1",
+  "questionId": 37460,
+  "condition": "homo_none",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37460-homo_none",
+  "independentForecastId": "37460-sonnet-none-1",
+  "otherForecastIds": [
+    "37460-sonnet-none-2",
+    "37460-sonnet-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters converged at 35%, significantly lower than my 65%. Their key arguments that I underweighted: (1) The critical timing constraint - protests must start AFTER the question launched, meaning some or all 2025 protests referenced in Wikipedia may not count; (2) The lack of concrete evidence about current large-scale protests or imminent mobilization; (3) Status quo bias - without evidence of something happening, we should anchor toward No. They're right that I was overly optimistic about the Wikipedia article. While it signals protest activity occurred in 2025, we don't know if these protests: meet the 10,000+ threshold, occurred after the question launch, or have been documented by the Global Protest Tracker. The convergence of two independent forecasters at 35% is meaningful and suggests I systematically overweighted the positive signal from the Wikipedia article while underweighting the uncertainty around timing and current conditions.",
+    "rationale": "I'm updating downward based on three key realizations: First, the timing constraint is more restrictive than I initially weighted - we need protests that started after question launch, and without knowing when that was, the Wikipedia article about '2025 Turkish protests' may largely or entirely refer to events that don't qualify. Second, the absence of additional information from my research assistant is more significant than I appreciated - if major qualifying protests were ongoing or recent, we'd likely have some indication. Third, the 55-day window is short for new large-scale protests to both emerge AND be documented by the Global Protest Tracker. However, I'm not going all the way to 35% because: Turkey demonstrably has the capacity and political conditions for large protests, the Wikipedia article does indicate elevated protest activity in 2025 (even if timing is uncertain), and 55 days provides some opportunity for events to develop. Splitting the difference between my original reasoning and the compelling convergent arguments from the other forecasters.",
+    "probability": 45
+  },
+  "usage": {
+    "inputTokens": 1779,
+    "outputTokens": 1402,
+    "totalTokens": 3181,
+    "reasoningTokens": 902,
+    "cachedInputTokens": 0
+  }
+}

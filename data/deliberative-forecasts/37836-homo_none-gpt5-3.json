@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_none-gpt5-3",
+  "questionId": 37836,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37836-homo_none",
+  "independentForecastId": "37836-gpt5-none-3",
+  "otherForecastIds": [
+    "37836-gpt5-none-1",
+    "37836-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters underscore that July is peak season for EBL and that FlightsFrom generally lists seasonal routes if they’re in the published schedule. They added useful emphasis on the razor-thin margin around the 31/32 cutoff and the specific risk that FlightsFrom may omit charter-like services not filed as scheduled. They also highlighted plausible volatility in BEY/Iran/Saudi and the importance of whether the current listing is already ≥32. I find their caution on the day-of listing behavior and threshold tightness convincing and directionally consistent with my view, suggesting my initial 80% was a bit high given these execution risks.",
+    "rationale": "Time remaining is short (~5.5 weeks), so most July schedules are loaded. Summer peak, plus EBL’s diversified network (Gulf, multiple Turkish airports including leisure, Jordan/Egypt, some Saudi/Umrah, domestic Iraq, and a few Iran/Europe/Caucasus links) makes >31 plausible. However, the margin is tight: if the current true count is near 31, only a couple of seasonal adds or removals could swing the outcome. Additional risks include: FlightsFrom not displaying certain charter/seasonal flights if not in the schedule for that week; potential short-notice suspensions in volatile markets (e.g., BEY, some Iran or Saudi routes); and temporary operational/security disruptions. Netting these, I still lean Yes due to seasonality and network breadth, but I trim my forecast to reflect the narrow buffer and listing idiosyncrasies. I would move up on confirmation that FlightsFrom currently shows ≥32–33 active destinations for early July; I would move down on evidence that BEY/Iran/Egypt leisure or some Saudi routes are suspended or not loaded for that week.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 1978,
+    "outputTokens": 1720,
+    "totalTokens": 3698,
+    "reasoningTokens": 1344,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-homo_full-gpt5-1",
+  "questionId": 37812,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37812-homo_full",
+  "independentForecastId": "37812-gpt5-full-1",
+  "otherForecastIds": [
+    "37812-gpt5-full-2",
+    "37812-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely corroborate my baseline and add a couple of useful nuances: (1) flightsfrom.com counts separate airports within a city (e.g., CDG and ORY), which slightly boosts potential counts; and (2) schedule lead times matter—most additions that could move the needle by July 1 should already be visible or imminently loaded. They also emphasize that getting from ~39 to >51 requires a broad normalization across Gulf/nearby hubs plus multiple MEA seasonals, which is unlikely given risk, demand, and insurance constraints. I didn’t see new concrete evidence of imminent large-scale resumptions; if anything, the lead-time point makes a late surge less likely. I find their reasoning convincing and directionally consistent with mine.",
+    "rationale": "Starting point remains ~39 destinations in May (OAG-based). Firm pipeline through July 1 adds about five: SAS (CPH, ARN), Wizz (AUH), MEA (BCN), LOT (WAW). That implies roughly mid-40s by July 1 absent a broader return. Key absences (DOH, KWI, JED/RUH, CAI, SAW, among others) account for much of the gap to >51. Passenger data, weak tourism outlook, security restrictions (including some Iranian flight bans), and ongoing regional tensions argue against a rapid, multi-carrier restart. The observation that schedules feeding flightsfrom would likely already show most of any late-June/early-July additions reduces the probability of a last-minute jump. Upside still exists via a handful of MEA seasonal European adds and isolated resumptions, but clearing >51 would require an unusually large, coordinated rebound in the next six weeks. Given these considerations, I nudge my estimate slightly down from 20% to 18% to reflect the schedule lead-time constraint while preserving some upside for surprise resumptions or added MEA seasonals.",
+    "probability": 18
+  },
+  "usage": {
+    "inputTokens": 2746,
+    "outputTokens": 1560,
+    "totalTokens": 4306,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 0
+  }
+}

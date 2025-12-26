@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-homo_full-pro-1",
+  "questionId": 37052,
+  "condition": "homo_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37052-homo_full",
+  "independentForecastId": "37052-pro-full-1",
+  "otherForecastIds": [
+    "37052-pro-full-2",
+    "37052-pro-full-3"
+  ],
+  "forecast": {
+    "review": "The other two forecasters presented a compelling and unified argument that my initial forecast was too low. Their primary critique, which I accept, is that I used a base rate of successful coups (from 2020-2025) that was too broad and averaged out the significant increase in frequency that has occurred since 2021. Forecaster 2's heuristic of a successful coup occurring every 73 days (based on 2024 global data) and Forecaster 3's application of a Poisson distribution both convincingly demonstrated a higher underlying risk than I had modeled. While I believe Forecaster 2's implied base rate might be slightly too high by using global data, their core argument and Forecaster 3's more formal approach have persuaded me to significantly revise my estimate upwards.",
+    "rationale": "After reviewing the other analyses, I am updating my forecast from 20% to 35%. My initial forecast was based on an average of about 1.4 successful coups per year in Africa since 2020. The other forecasters correctly pointed out that this dilutes the clear spike in activity since 2021. Adopting their approach, I've re-analyzed the base rate. The provided background lists seven successful coups in Africa between August 2020 and August 2023, a three-year span. This yields a more representative rate of approximately 2.3 successful coups per year for the current high-risk period. Using this rate (λ = 2.3) in a Poisson distribution for the remaining 66-day period (approx. 0.18 years) gives a probability of at least one successful coup of about 34%. This calculation provides a much stronger quantitative footing for the forecast and aligns well with the qualitative risks highlighted by all forecasters, such as the instability in the 'coup belt' of the Sahel. This updated forecast of 35% better reflects the demonstrated increase in coup propensity while still acknowledging that for any short two-month window, a successful coup remains a less-than-50% probability event.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 3024,
+    "outputTokens": 3927,
+    "totalTokens": 6951,
+    "reasoningTokens": 3474,
+    "cachedInputTokens": 0
+  }
+}

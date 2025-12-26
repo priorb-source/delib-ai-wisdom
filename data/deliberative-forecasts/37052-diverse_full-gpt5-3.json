@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-diverse_full-gpt5-3",
+  "questionId": 37052,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37052-diverse_full",
+  "independentForecastId": "37052-gpt5-full",
+  "otherForecastIds": [
+    "37052-pro-full",
+    "37052-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters lean on a simple time-scaling of an elevated annual base rate and point to current Sahel instability. New/useful points: (1) emphasizing the conditional success rate of recent African attempts (if an attempt gets traction, it often succeeds), which nudges risk up; (2) reiterating near-term triggers like elections/elite splits. Cautions: both use rough time-proportional math; a Poisson framing is slightly more appropriate. Also, the “7 of 9” success ratio likely reflects selection/measurement issues and shouldn’t be over-weighted. Still, their arguments for a modest upward nudge are reasonable, especially given the imminent Chad election.",
+    "rationale": "Update: I previously had 26%. Re-checking the window (67 days ≈ 18% of a year) and applying a Poisson base with λ≈1.5 successful coups/year in Africa gives P≈1−e^(−0.275)≈24%. Chad’s early-May election and fresh signs of plotting (Burkina foiled plot Apr 16; possible attempt in Chad Jan) justify a small upward adjustment. The conditional point that recent attempts in Africa often succeed if they get traction also argues for a modest bump. Latin America remains a small contributor in this window. Countervailing factors: zero successes YTD 2025, active regime vigilance/purges in Sahel states, and international scrutiny. Net effect: slight upward revision, not to 30% because the conditional-success argument is partly selection-biased and the recent foiled plot is double-edged (elevated hazard but demonstrated regime control).",
+    "probability": 28
+  },
+  "usage": {
+    "inputTokens": 3318,
+    "outputTokens": 2269,
+    "totalTokens": 5587,
+    "reasoningTokens": 1920,
+    "cachedInputTokens": 0
+  }
+}

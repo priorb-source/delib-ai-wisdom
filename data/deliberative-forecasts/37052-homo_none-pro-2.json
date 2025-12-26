@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-homo_none-pro-2",
+  "questionId": 37052,
+  "condition": "homo_none",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37052-homo_none",
+  "independentForecastId": "37052-pro-none-2",
+  "otherForecastIds": [
+    "37052-pro-none-1",
+    "37052-pro-none-3"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 20% was closely aligned with Forecaster 2, who also arrived at 20%. We both focused on the central tension between the high frequency of recent coups in Africa and the very short two-month forecast window, which favors the status quo. Forecaster 3, however, arrived at a higher probability of 30%. The key difference in our reasoning lies in the weight given to the roughly 20-month period since the last successful coup in August 2023. My initial analysis, like Forecaster 2's, implicitly treated this recent lull as evidence of a potentially lower current risk. Forecaster 3’s analysis was more compelling in arguing that this lull might be statistical noise. Forecaster 3 placed greater emphasis on the unchanged underlying drivers of instability (insurgency, poor governance) and introduced the important concept of 'coup contagion,' suggesting the risk remains elevated despite the recent quiet spell. This argument challenges my initial interpretation of the data.",
+    "rationale": "I am updating my forecast upward. I was persuaded by Forecaster 3's argument that I may have overweighted the significance of the ~20-month lull in successful coups since August 2023. The underlying conditions that fueled the 2020-2023 'coup spike' in the Sahel have not fundamentally changed, and the 'coup contagion' effect, where successful coups normalize and embolden similar actions in neighboring states, remains a potent risk factor. A simple base rate calculation, which I performed in my initial analysis, provides a solid anchor. There have been 7 successful coups in Africa since August 2020, over a period of approximately 56 months (to the start of the forecast window in May 2025). This gives a rate of 0.125 coups per month. Over the two-month forecast period (May and June 2025), this base rate implies a probability of 25% (0.125 * 2). My initial forecast of 20% was an adjustment downwards from this rate to account for the lull. After deliberation, I believe this downward adjustment was too cautious. The base rate itself already incorporates the lull. Therefore, I am moving my forecast to 25% to align more closely with the historical data from the entire recent period of instability, reflecting a belief that the risk of a coup remains as high as the average over the past ~5 years.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 2547,
+    "outputTokens": 2835,
+    "totalTokens": 5382,
+    "reasoningTokens": 2308,
+    "cachedInputTokens": 0
+  }
+}

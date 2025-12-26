@@ -1,0 +1,26 @@
+{
+  "forecastId": "37008-diverse_none-pro-1",
+  "questionId": 37008,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37008-diverse_none",
+  "independentForecastId": "37008-pro-none",
+  "otherForecastIds": [
+    "37008-sonnet-none",
+    "37008-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other forecasters and I are in strong agreement on the fundamental dynamics of this question. We all recognize that the current state of emergency (SOE) has a scheduled end date of April 29, 2025, making 'No' the status quo outcome for the resolution date of April 30. We also all agree that the underlying cause—a severe national power infrastructure failure—creates a significant, non-trivial probability of an extension. Forecaster 2's emphasis on strictly weighting the status quo in the absence of new evidence is a valuable reminder and a core forecasting principle. Forecaster 3 provided two excellent new points I hadn't fully considered: (1) the specific precedent of the Samoan government extending SOEs on a month-to-month basis during the COVID pandemic, which establishes this as a routine tool for them, and (2) the small but real possibility of an entirely different emergency arising. Their reasoning is highly convincing and has caused me to refine my own.",
+    "rationale": "My initial forecast of 35% was based on the general principle that severe infrastructure crises often take longer than 30 days to resolve, making an extension likely. After reviewing the other analyses, I am lowering my forecast slightly to 30%. The arguments from the other forecasters have convinced me to assign more weight to the officially announced end date. Forecaster 2's point about defaulting to the status quo when no new information is available is a strong anchor against over-interpreting the situation. However, I am not lowering my forecast further because of the compelling evidence raised by Forecaster 3 regarding Samoa's recent history of extending SOEs for other prolonged crises. This precedent suggests the government is both willing and able to extend the declaration if the power situation has not substantively improved, which remains a strong possibility. My updated forecast of 30% reflects a better balance between the official timeline (favoring 'No') and the combination of the crisis's nature and the government's established precedent for extensions (favoring 'Yes').",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1490,
+    "outputTokens": 2288,
+    "totalTokens": 3778,
+    "reasoningTokens": 1852,
+    "cachedInputTokens": 0
+  }
+}

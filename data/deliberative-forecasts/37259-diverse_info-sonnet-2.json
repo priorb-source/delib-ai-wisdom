@@ -1,0 +1,26 @@
+{
+  "forecastId": "37259-diverse_info-sonnet-2",
+  "questionId": 37259,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37259-diverse_info",
+  "independentForecastId": "37259-sonnet-info1",
+  "otherForecastIds": [
+    "37259-gpt5-info3",
+    "37259-pro-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters make compelling points that strengthen the case for a low probability. Forecaster 2 provides valuable historical context - past Greenlandic referendums (1979, 2008) had substantial lead times, which is directly relevant precedent. The quantification of economic dependence (4.3bn DKK annual grant, ~50% of budget) and the note that the constitution-drafting process has been contentious and delayed both reinforce the gradualist timeline. Forecaster 3's polling data (80%+ support for independence, but ~half would reconsider with lower living standards) effectively illustrates why conditional support doesn't translate to urgency. The procedural barriers emphasized by Forecaster 2 - coalition forming, legislative process, enabling acts - are particularly important given we're talking about a brand new government with only 2 months remaining. However, I think Forecaster 3's point about volatility and symbolic gestures has some merit, which is why 15% isn't unreasonable, though I find the procedural and historical arguments more persuasive.",
+    "rationale": "After reviewing both analyses, I'm updating my forecast slightly downward to 10%. The historical precedent of long lead times for past Greenlandic referendums is a strong data point I had underweighted. The procedural complexity of a new government needing to form coalitions, establish priorities, and navigate legislative processes in just ~8 weeks makes even a simple announcement quite difficult. The quantified economic dependence (50% of budget from Denmark) reinforces why this gradualist government won't feel pressure to rush. That said, I'm not going as low as 8% because: (1) the question's bar is very low - merely announcing a future date, which could be years away, (2) the volatile political environment with Trump's attention could create unexpected pressure for symbolic action, and (3) Greenlandic politics are broadly pro-independence, creating some baseline risk of political maneuvering. The 8-15% range all three of us occupy suggests reasonable consensus that this is unlikely but not impossible. 10% appropriately weights the strong procedural and historical arguments while maintaining some probability for unexpected political developments.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 2257,
+    "outputTokens": 1309,
+    "totalTokens": 3566,
+    "reasoningTokens": 781,
+    "cachedInputTokens": 0
+  }
+}

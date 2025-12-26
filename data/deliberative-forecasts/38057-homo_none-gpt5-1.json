@@ -1,0 +1,26 @@
+{
+  "forecastId": "38057-homo_none-gpt5-1",
+  "questionId": 38057,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "38057-homo_none",
+  "independentForecastId": "38057-gpt5-none-1",
+  "otherForecastIds": [
+    "38057-gpt5-none-2",
+    "38057-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters use the same decomposition I used and land in a very similar range. Useful additions I hadn’t explicitly stated: potential judging emphasis on damage vs control, referee/venue factors (cage size, altitude), and the reminder that any lineup change resolves to No. They also note the “2” in the billing implies a rematch but, like me, they lack concrete results/market lines. Their arguments are consistent with base rates and do not introduce new hard evidence that would swing the matchup one way or the other.",
+    "rationale": "I keep the core structure: P(Yes) = P(fight occurs as booked at UFC 316) × P(Merab wins | occurs). I still see the fight as near even with a slight Merab edge due to pace/wrestling over five rounds, but balanced by O’Malley’s damage/KO equity and modern judging tendencies. Conditional remains ~55%. I’m nudging the fight-occurrence probability slightly up from 80% to 82% after considering their similar (80–85%) estimates and the fact this appears to be a planned PPV headliner, which historically is relatively stable. Unconditional ≈ 0.82 × 0.55 ≈ 45%. This is a small update from my prior 44%, driven by the occurrence leg, not by any change in the matchup view. I would move meaningfully only with new market odds, concrete news on health/camp, or event-week confirmations.",
+    "probability": 45
+  },
+  "usage": {
+    "inputTokens": 2105,
+    "outputTokens": 1408,
+    "totalTokens": 3513,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

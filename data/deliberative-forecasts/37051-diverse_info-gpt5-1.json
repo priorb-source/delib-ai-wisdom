@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_info-gpt5-1",
+  "questionId": 37051,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37051-diverse_info",
+  "independentForecastId": "37051-gpt5-info2",
+  "otherForecastIds": [
+    "37051-pro-info3",
+    "37051-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters rightly emphasize the heavy procedural/administrative inertia and short timeline. Forecaster 2 adds a useful legal guardrail (IRC §7217 anti-targeting) that reinforces the low odds. Their novel claim is that there’s credible reporting the IRS is “making plans” to act; I haven’t independently seen that substantiated. If verified, it would increase tail risk. Forecaster 3’s assertion that Harvard has already filed suit and that billions in funding are frozen could matter politically, but litigation would more likely slow than accelerate IRS action. Also, for resolution, a formal IRS revocation would suffice even if immediately enjoined—so injunctions don’t negate a Yes. Given lack of clear evidence of a formal IRS examination or proposed revocation, I find 8–10% too high. Still, both analyses underscore a non-zero tail from norm-breaking or an abrupt political move, which I already acknowledged but can weight slightly more if the White House is actively pressing IRS leadership.",
+    "rationale": "- Authority/timeline: IRS revocations of 501(c)(3) status typically involve examination, notice of proposed adverse action, opportunity for protest/appeal, and a final adverse determination—normally months to years. With ~66 days left, finishing even to the point of a final determination letter is highly unlikely absent extraordinary norm-breaking.\n- Legal/organizational constraints: IRC §7217 deters taxpayer-specific political direction. Career IRS/Treasury resistance, reputational risk, and the need to articulate defensible legal grounds (e.g., Bob Jones-style public policy violations) make a rushed revocation extraordinarily fraught. There’s no clear, documented violation that would justify immediate action at Harvard’s scale.\n- Resolution nuance: A formal revocation letter before July 1 would resolve Yes even if courts instantly stay it. That tail scenario keeps the probability above zero if political pressure translates into an attempted immediate action by a compliant acting commissioner.\n- Evidence status: I have not seen credible reporting that the IRS has opened a formal examination, issued a proposed revocation, or that a new acting commissioner intends to execute a revocation imminently. Without those, base rates dominate.\n- Update: Forecaster 2’s mention of §7217 strengthens the case for low odds; their unverified claim that the IRS is already making plans marginally increases tail risk. Forecaster 3’s litigation point likely slows things rather than speeds them. Net effect: keep a very low forecast, nudge slightly upward to reflect the non-zero possibility of a sudden, politically driven revocation letter.\n",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 2002,
+    "outputTokens": 2656,
+    "totalTokens": 4658,
+    "reasoningTokens": 2112,
+    "cachedInputTokens": 0
+  }
+}

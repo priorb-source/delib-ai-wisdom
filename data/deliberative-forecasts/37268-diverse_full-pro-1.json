@@ -1,0 +1,26 @@
+{
+  "forecastId": "37268-diverse_full-pro-1",
+  "questionId": 37268,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37268-diverse_full",
+  "independentForecastId": "37268-pro-full",
+  "otherForecastIds": [
+    "37268-sonnet-full",
+    "37268-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters identified the central tension: Muqtada al-Sadr's consistent public boycott declarations versus his documented history of dramatic, last-minute reversals. Forecaster 2 (25%) and I (20%) focused on this history as a significant source of uncertainty, while Forecaster 3 (15%) provided a more nuanced analysis that I found highly compelling. Specifically, Forecaster 3's key insight was not just that Sadr reverses his decisions, but that he does so *late* in the election cycle to maximize leverage. The 2021 reversal was roughly two months before the election; an announcement before July 1, 2025, for a November 2025 election would be over four months out, which is uncharacteristically early for him. This argument significantly weakens the primary reason for a 'Yes' forecast. Forecaster 2's analysis also noted the timing of the 2021 reversal but seemed to misinterpret it as supporting a pre-July 1 announcement, which I believe is incorrect. Forecaster 3's reasoning, which combines the procedural hurdle of the imminent May 4 registration deadline with the historical evidence on the timing of Sadr's pivots, provides the most robust case for a lower probability.",
+    "rationale": "I am lowering my forecast from 20% to 15%. My initial analysis correctly identified al-Sadr's history of reversals as the main reason for a non-zero probability, but I did not sufficiently weigh the *timing* of those reversals. As Forecaster 3 convincingly argued, Sadr's signature move is the late-stage pivot to maximize political leverage and drama. An announcement before July 1 for a November 11 election would be more than four months in advance, which is substantially earlier than his 2021 reversal (less than two months before the election). Such an early announcement would be out of character and tactically suboptimal for him. This historical pattern suggests that even if he does plan to participate, an announcement is more likely in the late summer, well after this question's resolution date. This temporal argument, combined with the extremely powerful near-term evidence—his repeated, firm boycott statements and the imminent May 4 alliance registration deadline—makes a 'Yes' outcome before July 1 highly unlikely. The 15% probability reflects the small chance that Sadr breaks his pattern, or that the registration deadline is extended and some major political development forces his hand much earlier than expected.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 2037,
+    "outputTokens": 2158,
+    "totalTokens": 4195,
+    "reasoningTokens": 1623,
+    "cachedInputTokens": 0
+  }
+}

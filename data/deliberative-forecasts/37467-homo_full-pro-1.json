@@ -1,0 +1,26 @@
+{
+  "forecastId": "37467-homo_full-pro-1",
+  "questionId": 37467,
+  "condition": "homo_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37467-homo_full",
+  "independentForecastId": "37467-pro-full-1",
+  "otherForecastIds": [
+    "37467-pro-full-2",
+    "37467-pro-full-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters, including myself, identified the recent $100 million financing facility as the decisive factor making a bankruptcy filing before July 1, 2025, highly unlikely. We all agree that this capital injection provides a critical short-term liquidity bridge, pushing any immediate solvency crisis beyond the resolution date. The core of our deliberation is not about the direction, but the magnitude of this low probability. Forecaster 2 (2%) made a convincing case that lenders would not provide a senior secured loan if they anticipated an immediate filing, suggesting that only a 'black swan' event like fraud could trigger bankruptcy in this timeframe. Forecaster 3 (8%) rightly highlighted the company's extreme fragility and the theoretical risk of a covenant breach on the new loan, arguing this justifies a higher tail risk. Their analysis helpfully sharpens the question to: 'What is the probability of a catastrophic, company-ending shock in the next seven weeks?'",
+    "rationale": "I am updating my forecast downward from 5% to 3%. The deliberation has reinforced my conviction in the primary thesis while helping me refine the probability. Forecaster 2's argument that the lenders' due diligence and provision of the loan is strong evidence against an imminent collapse is very persuasive. The primary reason a company files for bankruptcy is a lack of cash, and Beyond Meat just took a significant step to solve that problem for the short-to-medium term. My initial 5% probably assigned too much weight to the poor underlying fundamentals causing a cash crisis within the next seven weeks. However, I am not lowering my forecast to 2%. Forecaster 3's point about the company's overall fragility is valid; a distressed company is inherently more vulnerable to unexpected shocks. While a covenant breach on a brand-new loan is unlikely, it's not impossible, and other events like a sudden, major supply chain failure or a critical product recall could have outsized impacts. My revised forecast of 3% better balances the powerful short-term protection offered by the new financing with the non-zero tail risk inherent in a deeply troubled company.",
+    "probability": 3
+  },
+  "usage": {
+    "inputTokens": 2078,
+    "outputTokens": 2255,
+    "totalTokens": 4333,
+    "reasoningTokens": 1808,
+    "cachedInputTokens": 0
+  }
+}

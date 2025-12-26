@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-diverse_info-sonnet-2",
+  "questionId": 37052,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37052-diverse_info",
+  "independentForecastId": "37052-sonnet-info1",
+  "otherForecastIds": [
+    "37052-gpt5-info3",
+    "37052-pro-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters present more disciplined statistical approaches than my initial analysis. Forecaster 2 and 3 both use Poisson calculations with base rates of 1.5-2 coups/year, yielding probabilities around 25-28% for the 66-day window. This mathematical approach is more rigorous than my intuitive 40% estimate. Most critically, both forecasters note that 2024 saw NO successful coups—a crucial fact I failed to properly weight. This suggests the coup wave may have cooled significantly. Forecaster 2 makes an excellent point that many high-risk states (Mali, Niger, Burkina Faso) are already under military rule, effectively shrinking the target set for new coups. Both forecasters correctly identify that Latin America contributes minimal probability. However, I believe both may slightly underweight the significance of very recent activity: the April 2025 Burkina Faso foiled attempt and January 2025 Chad attack occurred within the forecast window itself, suggesting underlying tensions remain active. While these were unsuccessful, they demonstrate ongoing plotting and capability. The mathematical base rate approach of 25-28% is more defensible than my 40%, but the recent within-window signals warrant a small upward adjustment rather than going as low as 21%.",
+    "rationale": "Upon reflection, my initial 40% was too high and insufficiently grounded in base rate analysis. The Poisson calculation approach used by both forecasters is more rigorous: with approximately 1.6-2 successful coups per year in recent African history and a 66-day window (0.18 years), the mathematical probability is around 25-28%. The fact that 2024 had zero successful coups is strong evidence that the 2020-2023 wave has cooled, which I failed to properly account for. Additionally, many of the highest-risk countries are now under military juntas, reducing the pool of vulnerable governments. However, I don't believe the probability should be as low as 21%. The April 2025 Burkina Faso attempt and January 2025 Chad incident both occurred within our forecast window, demonstrating that coup plotting remains active even if success rates have declined. These are not distant historical signals but current-period events. The mathematical base rate of ~27% seems appropriate, with perhaps a small upward adjustment to ~28-30% to account for the very recent attempt signals while still respecting the 2024 cooling and reduced target set.",
+    "probability": 28
+  },
+  "usage": {
+    "inputTokens": 3213,
+    "outputTokens": 1402,
+    "totalTokens": 4615,
+    "reasoningTokens": 643,
+    "cachedInputTokens": 0
+  }
+}

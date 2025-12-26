@@ -1,0 +1,26 @@
+{
+  "forecastId": "37431-homo_none-sonnet-1",
+  "questionId": 37431,
+  "condition": "homo_none",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37431-homo_none",
+  "independentForecastId": "37431-sonnet-none-1",
+  "otherForecastIds": [
+    "37431-sonnet-none-2",
+    "37431-sonnet-none-3"
+  ],
+  "forecast": {
+    "review": "All three analyses converge on similar conclusions with forecasts of 30%, 30%, and 38%. The analyses share strong agreement on fundamentals: the 68-day window is short relative to typical recall timelines (2-4+ months), the status quo heavily favors recalls remaining Active, and we lack specific information about recovery progress or distribution scope. Forecaster 3 raises a valuable point about Class I priority attention for allergen recalls, which could theoretically accelerate the process. However, this doesn't fundamentally alter the timeline constraints - we're 11 days into a process that typically takes several months, leaving only 57 days for product recovery, company verification, FSIS verification, and administrative closure. Forecaster 2's characterization of the timeframe as 'relatively generous' at 2.3 months seems optimistic given that typical timelines are 2-4+ months, placing us at the very low end. The moderate size (65,000 pounds) is neither particularly favorable nor unfavorable. No forecaster presented evidence of rapid early progress, limited distribution, or historical data showing allergen recalls commonly close within 68 days.",
+    "rationale": "After reviewing the other analyses, I maintain my assessment that 30% is appropriate. While Forecaster 3's point about Class I priority attention for allergen recalls is valid and could provide some modest acceleration, it doesn't overcome the fundamental challenge that 68 days represents an expeditious timeline by USDA/FSIS standards. The bureaucratic verification processes are necessarily thorough regardless of priority level. With only 57 days remaining from today and no evidence of substantial progress in the first 11 days, the company would need to achieve nearly complete product recovery very quickly, followed by successful FSIS verification - a tall order. The strong status quo bias toward recalls remaining Active for extended periods, combined with the absence of any information suggesting unusual circumstances that might expedite closure, keeps me anchored at the lower end of reasonable probability estimates. To justify moving to 35-40%, I would need evidence of rapid initial recovery, limited distribution, or data showing typical closure times for similar recalls falling within this window.",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1921,
+    "outputTokens": 1338,
+    "totalTokens": 3259,
+    "reasoningTokens": 809,
+    "cachedInputTokens": 0
+  }
+}

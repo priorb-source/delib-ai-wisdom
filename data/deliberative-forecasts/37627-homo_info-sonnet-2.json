@@ -1,0 +1,26 @@
+{
+  "forecastId": "37627-homo_info-sonnet-2",
+  "questionId": 37627,
+  "condition": "homo_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37627-homo_info",
+  "independentForecastId": "37627-sonnet-info2-2",
+  "otherForecastIds": [
+    "37627-sonnet-info1-1",
+    "37627-sonnet-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 provides crucial information I lacked: Trump and Zelenskyy spoke just 3 days ago on May 10, 2025, discussing peace talks and the ceasefire. This is a major update that significantly undermines my forecast. Their historical pattern shows 35-52 day gaps between calls, and we're only at day 3. This dramatically reduces the immediate likelihood of another call. Forecaster 3 correctly emphasizes status quo bias toward intermediary communication and notes that even in crises, the base rate of direct leader calls remains relatively low. Both forecasters make compelling points about the recency effect that I completely missed. However, I still think they may be slightly underweighting the 33-day window remaining - this is longer than their shortest recent gap (35 days) and the ceasefire timeline (30 days from May 12) creates an ongoing need for coordination that could necessitate another call before June 15. The Istanbul talks on May 15 may have already been coordinated in the May 10 call, reducing that specific catalyst significantly.",
+    "rationale": "I'm significantly revising downward from 70% due to the critical information that they spoke on May 10 - just 3 days ago. This contradicts my assumption about near-term coordination needs around the Istanbul talks, as they likely already discussed this. Their historical pattern of 35-52 day gaps suggests the next call would naturally fall outside our resolution window. However, I'm not dropping to 50% because: (1) the 33-day remaining window is still substantial and exceeds their shortest recent gap; (2) the 30-day ceasefire timeline (ending June 11) creates potential pressure points for direct communication; (3) peace negotiations are fluid and unpredictable, potentially requiring more frequent contact than historical patterns; (4) major developments could still necessitate urgent coordination. The May 10 call reduces immediate probability but doesn't eliminate the possibility of another call within 33 days during active high-stakes diplomacy.",
+    "probability": 60
+  },
+  "usage": {
+    "inputTokens": 1953,
+    "outputTokens": 1276,
+    "totalTokens": 3229,
+    "reasoningTokens": 716,
+    "cachedInputTokens": 0
+  }
+}

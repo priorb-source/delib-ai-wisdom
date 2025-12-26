@@ -1,0 +1,26 @@
+{
+  "forecastId": "37463-diverse_full-pro-1",
+  "questionId": 37463,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37463-diverse_full",
+  "independentForecastId": "37463-pro-full",
+  "otherForecastIds": [
+    "37463-sonnet-full",
+    "37463-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters correctly identified the central tension of this question: Berkshire Hathaway's status quo holding of 10.7 million Amazon shares (favoring a 'Yes' outcome) versus its clear, 10-quarter-long pattern of being a net seller of equities (favoring a 'No' outcome). Forecaster 2 and I initially converged on the same probability, weighing these factors similarly. However, Forecaster 3 introduced several crucial and convincing nuances that I had not fully appreciated. Specifically, their arguments that 1) the Amazon position was likely initiated and managed by one of Buffett's lieutenants (Todd Combs or Ted Weschler), making it subject to greater inertia, and 2) Berkshire's cash pile grew to a record level in Q1, meaning they were not selling equities out of a need for liquidity, were particularly insightful. This context makes indiscriminate selling across the portfolio less likely, and suggests any sales would be more targeted at specific, over-valued positions. These points compellingly weaken the argument that the general selling trend would necessarily have included a significant trim of the Amazon stake.",
+    "rationale": "I am updating my forecast upward based on the deliberation. My initial forecast of 65% was heavily weighted by the strong signal of Berkshire's 10-consecutive-quarter selling streak. I viewed this as a 'behavioral tide' that likely lowered most equity positions. Forecaster 3's analysis convinced me that this view was too simplistic. The points that the Amazon stake is a relatively small position managed by a lieutenant, and that Berkshire was selling from a position of strength (growing its cash hoard) rather than for liquidity, strongly suggest a higher degree of inertia for this specific holding. It is less likely that Amazon would be targeted for a >6.5% trim unless its managers had a specific, negative change of heart about its long-term prospects, which seems unlikely given Amazon's strong fundamentals and positive analyst sentiment during the period. The burden of action remains on Berkshire to sell, and these new arguments make that action less probable than I first estimated. I am increasing my forecast from 65% to 72% to reflect a higher confidence in the 'status quo' inertia of this specific holding prevailing over the company's general trend of selling equities.",
+    "probability": 72
+  },
+  "usage": {
+    "inputTokens": 2137,
+    "outputTokens": 2188,
+    "totalTokens": 4325,
+    "reasoningTokens": 1702,
+    "cachedInputTokens": 0
+  }
+}

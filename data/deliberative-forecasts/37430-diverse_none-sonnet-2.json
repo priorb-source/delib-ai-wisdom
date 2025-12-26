@@ -1,0 +1,26 @@
+{
+  "forecastId": "37430-diverse_none-sonnet-2",
+  "questionId": 37430,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37430-diverse_none",
+  "independentForecastId": "37430-sonnet-none",
+  "otherForecastIds": [
+    "37430-pro-none",
+    "37430-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 makes an important point I underweighted: this is Federal Government-sponsored legislation with a politically popular goal (housing affordability), which historically improves passage odds. However, I find Forecaster 3's analysis more compelling overall. They raise several critical factors I missed: (1) The National Assembly's likely Sallah recess in June, which dramatically compresses the already tight 8-week timeline; (2) The absence of any progress updates since April 25 suggests the bill isn't moving at the urgent pace needed; (3) Potential opposition from revenue stakeholders (FIRS, states concerned about FAAC allocations); and (4) The distinction between passage versus assent/gazettal—even late-June passage could miss the July 1 deadline. Forecaster 2's 65% seems to overweight government backing while underweighting these procedural and calendar constraints. Forecaster 3's 37% better reflects the structural barriers to quick legislative action in Nigeria.",
+    "rationale": "Upon reflection, I should lower my forecast. While I correctly identified the tight timeline and legislative complexity, I failed to consider the June recess calendar compression that Forecaster 3 highlighted—this is a critical constraint that effectively reduces the working legislative days by a significant margin. The lack of any progress updates in the 10 days since April 25 is also concerning; if there were real momentum toward a July 1 deadline, we would expect to see reports of committee hearings, readings, or other procedural advances. The FG backing that Forecaster 2 emphasizes is real and does improve odds compared to a typical private member's bill, but it's insufficient to overcome the compressed timeline and procedural requirements (two chambers, harmonization, presidential assent, gazettal). The status quo strongly favors 'No' when legislation must move from consideration to full enactment in under two months with a June recess intervening. I'm lowering my forecast from 40% to 36%, closer to Forecaster 3's well-reasoned 37%.",
+    "probability": 36
+  },
+  "usage": {
+    "inputTokens": 1992,
+    "outputTokens": 1185,
+    "totalTokens": 3177,
+    "reasoningTokens": 736,
+    "cachedInputTokens": 0
+  }
+}

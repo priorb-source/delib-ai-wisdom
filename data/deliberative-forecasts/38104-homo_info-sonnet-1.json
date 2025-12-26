@@ -1,0 +1,26 @@
+{
+  "forecastId": "38104-homo_info-sonnet-1",
+  "questionId": 38104,
+  "condition": "homo_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38104-homo_info",
+  "independentForecastId": "38104-sonnet-info1-1",
+  "otherForecastIds": [
+    "38104-sonnet-info2-2",
+    "38104-sonnet-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters provided crucial information I didn't have - that 8 of 10 escapees have been recaptured by May 30, not just 3 as of May 19. This is a dramatically different situation than I understood. Forecaster 2 (60%) emphasizes the massive resources deployed: 200+ officers, federal agencies, $50,000 rewards, 700 tips, and 14 accomplices arrested. This paints a picture of an effective, well-resourced manhunt with significant progress. Forecaster 3 (40%) raises a critical counterpoint: Antoine Massey is a 'serial escapee' with three prior escapes, indicating proven evasion skills. This is highly relevant - we're not dealing with random fugitives but specifically the two who've been hardest to catch, with at least one having demonstrated expertise in evading capture. Both forecasters correctly note the selection effect: the remaining 2 have survived 14 days of intensive pursuit, suggesting they're more resourceful than the 80% already caught. The 'all or nothing' resolution criterion remains the central challenge.",
+    "rationale": "I need to significantly update my analysis based on the 8/10 recapture information. My original 45% was based on 7 still being at large, which would have been a much bleaker situation. An 80% recapture rate with 32 days remaining (more than double the time already elapsed) suggests substantial law enforcement effectiveness and momentum. The deployment of 200+ officers, federal agencies, high rewards, and dismantling of support networks (14 accomplices arrested) indicates exceptional resources. However, I'm convinced by Forecaster 3's emphasis on Massey's serial escapee history - someone with three prior escapes has proven capability, not just luck. The selection effect is real: these remaining two have qualities (skill, resources, or circumstances) that distinguish them from the eight already caught. With 32 days remaining and massive resources, the odds favor eventual capture of both, but Massey's track record and the all-or-nothing criterion create meaningful risk. I'm updating substantially upward from 45% due to the actual recapture progress, but stopping short of 60% due to Massey's concerning profile and the demanding resolution criterion.",
+    "probability": 52
+  },
+  "usage": {
+    "inputTokens": 2190,
+    "outputTokens": 1274,
+    "totalTokens": 3464,
+    "reasoningTokens": 692,
+    "cachedInputTokens": 0
+  }
+}

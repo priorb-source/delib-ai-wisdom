@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-diverse_full-gpt5-3",
+  "questionId": 37836,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37836-diverse_full",
+  "independentForecastId": "37836-gpt5-full",
+  "otherForecastIds": [
+    "37836-pro-full",
+    "37836-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds a concrete claim that the current count is ~30, which, if accurate on flightsfrom.com, materially raises the bar (needing +2 net by July 1). They also correctly note that easyJet’s Athens does not add a destination if Aegean already serves ATH. Their emphasis on short lead times is reasonable, though it may underweight that summer seasonals are typically loaded well in advance. Forecaster 3’s country-multiplier estimate is useful and highlights that Turkey, Iran, and the Gulf can push the per-country average above 1.5. I agree that Eurowings’ CGN likely adds one destination; Aegean’s ATH is already counted; and the key swing factor is seasonal Turkish leisure (e.g., Antalya/Izmir) and stability of Iranian/Levant routes. I find F2 a bit too conservative if the seasonal Turkish and German additions are already in schedules; F3’s 60% feels closer to my prior, but both rightly stress the near-threshold baseline and timing risk.",
+    "rationale": "Time until resolution is short (~5–6 weeks), and the threshold is tight. The determinative factors are: (1) whether flightsfrom.com already lists summer seasonal Turkish leisure points by July 1; (2) whether Eurowings’ CGN service is loaded and counted; and (3) absence of suspensions in Iranian/Levant routes. The research confirms ATH (already live) and CGN (new for summer). easyJet’s ATH does not add to the destination count. Summer seasonals in Turkey are plausible and often active by June/early July, which would likely push the count over 31 if the baseline is indeed around 30. The risk case is that one or two Iranian/Levant routes are paused or that some Turkish leisure starts after July 1 or is charter-only and thus not listed. Given Forecaster 2’s claim of a ~30 baseline and the lack of hard verification today, I’m moderating down from my initial 74% but remain above 50% on the strength of likely summer-season additions plus CGN. If I saw flightsfrom.com currently listing 32+ or confirming AYT/ADB active by early July, I would move up; if CGN starts after July 1 or if BEY/one or more Iranian cities are off the schedule, I would move down.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 2010,
+    "outputTokens": 3261,
+    "totalTokens": 5271,
+    "reasoningTokens": 2752,
+    "cachedInputTokens": 0
+  }
+}

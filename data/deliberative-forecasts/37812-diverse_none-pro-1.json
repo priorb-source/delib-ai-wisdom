@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-diverse_none-pro-1",
+  "questionId": 37812,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37812-diverse_none",
+  "independentForecastId": "37812-pro-none",
+  "otherForecastIds": [
+    "37812-sonnet-none",
+    "37812-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other forecasters provide compelling arguments regarding the inertia of pre-set summer flight schedules and the resilience of Beirut's flight network, which is heavily supported by diaspora and VFR travel. They correctly estimate the current number of destinations to be in the mid-to-high 40s, making the threshold of 51 destinations a very close call. Their core argument is that the current baseline already accounts for the existing political and security risks, and therefore the outcome hinges on whether pre-planned seasonal additions outweigh any new cancellations. I found this reasoning convincing, as it challenged my initial assumption that cancellations were overwhelmingly more likely than additions. While they didn't present new data, their reframing of the baseline risk caused me to re-evaluate the weight I placed on the downside potential versus status-quo inertia.",
+    "rationale": "My initial forecast of 15% was based on the fact that the resolution source currently shows 49 destinations, meaning a net increase of three routes is required in under six weeks. I saw the significant security and economic risks as a major barrier, making cancellations more likely than additions. After reviewing my peers' analyses, I am updating my forecast. They rightly emphasize that the current baseline of 49 destinations has proven resilient and already exists within the high-risk environment. The critical factor is therefore the marginal change over the next few weeks. The inertia of summer schedules, which are largely finalized by now, provides a strong argument against dramatic changes in either direction. While I maintain that the risk of a security-driven cancellation is a significant and asymmetric threat, I now believe I underweighted the probability that a few planned seasonal routes (e.g., to Greek or Turkish holiday destinations) will be added without any offsetting losses, assuming the security situation does not significantly worsen. This narrow path to a 'Yes' outcome is more plausible than I first assessed. I am therefore increasing my probability from 15% to 25% to better account for the network's demonstrated resilience and the potential for modest seasonal expansion.",
+    "probability": 25
+  },
+  "usage": {
+    "inputTokens": 1745,
+    "outputTokens": 2792,
+    "totalTokens": 4537,
+    "reasoningTokens": 2366,
+    "cachedInputTokens": 0
+  }
+}

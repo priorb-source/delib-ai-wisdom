@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_none-gpt5-3",
+  "questionId": 37805,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37805-homo_none",
+  "independentForecastId": "37805-gpt5-none-3",
+  "otherForecastIds": [
+    "37805-gpt5-none-1",
+    "37805-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters make the key point about schedule stickiness six weeks out. I largely agree with Forecaster 3’s caution on the threshold and uncertainty around commuter listings. I’m less convinced by Forecaster 2’s baseline that assumes Rota/Tinian are listed on FlightsFrom; recent inter-island service has been unstable and may not be filed to OAG/GDS in a way that FlightsFrom captures. Forecaster 3’s note that FlightsFrom only shows routes operating within the next 7 days may be too strict—FlightsFrom often lists seasonal routes ahead of first flight—but either way, any route that would help needs to be filed by now, and there’s no evidence presented that Busan or a Japan route is scheduled and visible. Net: I find Forecaster 3’s argument more persuasive and Forecaster 2 a bit optimistic due to the inter-island assumption.",
+    "rationale": "The bar is 5+ destinations. The durable core likely remains Guam (UA) and Incheon (Jeju Air). Busan has been on-and-off; Japan service has been sporadic and often charter-only; China remains unlikely by July 1. To reach 5, SPN would probably need both Busan (or another KR secondary) and either a Japan route or the inclusion of inter-island Rota/Tinian as scheduled services on FlightsFrom. Given the short lead time, any July service would typically already be filed and visible. The biggest swing factor is whether commuter inter-island flights appear on FlightsFrom; given their inconsistent filing and recent operational volatility, I treat that as unlikely. I slightly lower my estimate to reflect the lower probability that inter-island services will count and the lack of concrete signs of additional Korea/Japan routes for early July.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 1969,
+    "outputTokens": 1974,
+    "totalTokens": 3943,
+    "reasoningTokens": 1600,
+    "cachedInputTokens": 0
+  }
+}

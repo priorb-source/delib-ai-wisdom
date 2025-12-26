@@ -1,0 +1,26 @@
+{
+  "forecastId": "38321-diverse_info-sonnet-1",
+  "questionId": 38321,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "38321-diverse_info",
+  "independentForecastId": "38321-sonnet-info2",
+  "otherForecastIds": [
+    "38321-pro-info3",
+    "38321-gpt5-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 provides crucial new information I lacked: official confirmations from the White House and allied officials (Dutch PM Schoof, Polish FM Sikorski) that Trump will attend. This is a significant upgrade from my inference based on patterns and timing to actual confirmed plans. Forecaster 2's information about Trump attending the G7 summit in Canada on June 15-17 is also valuable - it demonstrates he's engaged in international travel during this period, reducing concerns about logistics or general willingness to travel abroad.\n\nHowever, I notice both forecasters arrived at lower probabilities (78% and 87%) despite having better information than I did. This suggests they're weighting Trump's unpredictability more heavily than I was. Forecaster 2 emphasizes his 'demonstrated willingness to break from traditional diplomatic norms' and possibility of cancellation 'to make a political statement.' Forecaster 3 notes 'Trump's unpredictability slightly elevates cancellation risk versus a typical president.'\n\nTheir caution is warranted - even official confirmations can be overturned by Trump, and we're still dealing with several weeks until the actual event. The fact that both other forecasters, armed with confirmation information I didn't have, still stayed below 90% suggests my original 92% may have been slightly overconfident.",
+    "rationale": "The official confirmations from the White House and allied leaders represent a major positive update - this moves from 'strong expectation' to 'confirmed plans.' The G7 attendance information further strengthens the case by showing active international engagement in mid-June. However, my fellow forecasters' more conservative estimates despite having this better information highlight an important consideration: Trump's documented unpredictability creates meaningful tail risk even with official confirmations. Presidential cancellations of major summits are rare but not impossible, and Trump has a unique history of norm-breaking. Given we're at June 4th with the summit likely in late June, there's still time for unexpected developments - domestic crises, health issues, strategic pivots, or impulsive decisions. The institutional gravity of NATO and Trump's deep engagement on defense spending negotiations strongly favor attendance, but prudence requires maintaining some probability mass on cancellation scenarios.",
+    "probability": 90
+  },
+  "usage": {
+    "inputTokens": 1815,
+    "outputTokens": 1343,
+    "totalTokens": 3158,
+    "reasoningTokens": 754,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-homo_none-gpt5-2",
+  "questionId": 37464,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37464-homo_none",
+  "independentForecastId": "37464-gpt5-none-2",
+  "otherForecastIds": [
+    "37464-gpt5-none-1",
+    "37464-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely echo my priors: closures often take 2–4 months; localized, short-shelf-life products tend to close faster; status quo inertia and administrative lag can push closures past arbitrary cutoffs. New considerations they added were (a) explicit attention to a late-May holiday possibly delaying postings and (b) the observation that small firms may be slower to furnish documentation, both of which modestly favor No. Forecaster 2’s tilt above 50% leans heavily on the tractability of the vending-machine distribution; Forecaster 3 emphasizes the remaining short window and typical lag. I find Forecaster 3’s caution more consistent with the current Active status at ~10.5 weeks, but I give slight additional weight to the constrained scope and perishability that both highlighted.",
+    "rationale": "Time left is ~23 days (to June 1). Status quo is Active; if unchanged, the outcome is No. Base rates for FSIS closures on small, undeclared-allergen recalls often land in 2–4 months; our window ends at ~97 days (~3.2 months). That’s within the common range but leaves meaningful risk of slipping into June due to verification and posting cadence, especially around a holiday. On the other hand, the product is highly perishable and seemingly limited to Washington vending machines, which simplifies effectiveness checks and supports the possibility of a May closure. Balancing these, I keep the probability slightly below even but nudge it up a bit to reflect the constrained distribution and short shelf life emphasized in deliberation. I would move up on any sign that effectiveness checks are complete or that similar 2025 small recalls are closing around the 80–95 day mark; I would move down on any expansion, documentation delays, or lack of FSIS updates through late May.",
+    "probability": 47
+  },
+  "usage": {
+    "inputTokens": 1948,
+    "outputTokens": 1472,
+    "totalTokens": 3420,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

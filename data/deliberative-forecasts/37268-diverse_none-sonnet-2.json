@@ -1,0 +1,26 @@
+{
+  "forecastId": "37268-diverse_none-sonnet-2",
+  "questionId": 37268,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37268-diverse_none",
+  "independentForecastId": "37268-sonnet-none",
+  "otherForecastIds": [
+    "37268-pro-none",
+    "37268-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters make compelling arguments that caused me to reconsider my initial forecast. Forecaster 2 emphasizes the sustained consistency of the boycott since 2022, including the resignation of 73 MPs and recent February 2024 reaffirmations - providing concrete timeline evidence I should have weighted more heavily. Forecaster 3 raises what I consider the most critical new insight: the timing pattern from 2021, when Sadr announced his reversal approximately two months before the actual October election. This is crucial because the question asks specifically about an announcement before July 1, 2025, not about eventual participation. If the 2025 elections occur in late 2025 (as typically expected), announcing by July 1 would be unusually early relative to Sadr's historical pattern. Additionally, Forecaster 3's point about the December 2023 provincial election boycott provides another recent data point I hadn't fully incorporated. Both forecasters converged on 15-18%, significantly below my initial 22%, with sound reasoning for their range.",
+    "rationale": "After deliberation, I am updating my forecast downward. The timing argument is the most persuasive new consideration - there is a meaningful difference between 'Will Sadr participate?' and 'Will he announce participation before July 1?' His 2021 pattern suggests late announcements relative to election dates. With approximately 59 days until July 1 and elections likely in late 2025, Sadr has little strategic incentive to announce early, even if he ultimately intends to participate. The combination of (1) consistent boycott signaling since 2022 with multiple reaffirmations, (2) the December 2023 provincial boycott, (3) the short timeframe, and (4) his historical pattern of late reversals all argue for a lower probability. I'm settling on 17% - maintaining some probability above the lowest forecast because Sadr remains genuinely unpredictable and could make an early surprising announcement for tactical reasons, but acknowledging that the timing dynamics significantly reduce the likelihood of a pre-July 1 announcement specifically.",
+    "probability": 17
+  },
+  "usage": {
+    "inputTokens": 2177,
+    "outputTokens": 1223,
+    "totalTokens": 3400,
+    "reasoningTokens": 671,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37817-homo_info-gpt5-1",
+  "questionId": 37817,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37817-homo_info",
+  "independentForecastId": "37817-gpt5-info1-1",
+  "otherForecastIds": [
+    "37817-gpt5-info2-2",
+    "37817-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize that flightsfrom.com only counts scheduled services, not ad‑hoc charters—an important constraint I agree with. They also stress the short lead time to July 1 and the sluggish Korean demand backdrop, both of which reduce odds of last‑minute adds. Forecaster 2 is more optimistic (30%) largely because they think ROR is already at 4–5 destinations (GUM, TPE, MNL, possibly BNE, plus maybe YAP). I’m skeptical on two of those: (1) a current Manila–Koror scheduled service is not clearly established; United’s historical Micronesia ops don’t consistently include a ROR–MNL nonstop in recent years, and (2) the claimed Qantas Brisbane–Koror route sounds unlikely and would need independent confirmation that it’s scheduled (not charter) and visible on flightsfrom.com. Forecaster 3’s lower estimate (12%) aligns more with my base case and highlights the PRC tour constraints and the low probability that multiple independent resumptions align within ~6 weeks. A useful nuance from F2 is that Metaculus can check “on or after” July 1, offering a small chance that early‑July schedule entries get captured—even so, flipping to >5 still likely needs at least two favorable changes from a low baseline. Overall, I find F3’s skepticism more convincing than F2’s optimistic starting count; the charter vs scheduled distinction and weak signals from Korea argue for a low probability.",
+    "rationale": "My base case remains that ROR has about 2–3 durable scheduled destinations visible in July (very likely Guam and Taipei; Yap often but not guaranteed). To resolve Yes, we need at least 6 total, i.e., roughly three additional scheduled destinations active and listed by early July. The most plausible adds are: a Korean LCC filing ICN–ROR for summer, a Philippines link (MNL/CRK) returning as scheduled, and the purported Brisbane service—plus the long‑shot of a Japan service publishing as scheduled before United’s October NRT start. There are no strong, widely reported signals of multiple new scheduled starts within the next 6 weeks, Korean demand remains soft, PRC group‑tour restrictions persist, and charters (e.g., JAL) likely won’t count on flightsfrom.com. Even granting a chance that Brisbane is real and listed and that Yap is listed, you’d still need one more scheduled addition (e.g., Korea or Philippines) to get over the line. The stack of events required is unlikely on this timeline. I slightly nudge down my estimate given the deliberation’s emphasis on the charter/scheduled distinction and the questionable Brisbane/Manila assumptions.",
+    "probability": 14
+  },
+  "usage": {
+    "inputTokens": 2425,
+    "outputTokens": 3516,
+    "totalTokens": 5941,
+    "reasoningTokens": 2944,
+    "cachedInputTokens": 0
+  }
+}

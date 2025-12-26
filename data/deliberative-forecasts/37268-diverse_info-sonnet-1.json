@@ -1,0 +1,26 @@
+{
+  "forecastId": "37268-diverse_info-sonnet-1",
+  "questionId": 37268,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37268-diverse_info",
+  "independentForecastId": "37268-sonnet-info2",
+  "otherForecastIds": [
+    "37268-gpt5-info3",
+    "37268-pro-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 raises important historical context about al-Sadr's 2021 reversal (re-entering mid-August for October elections) and notes signals like urging followers to update voter records, suggesting preserved optionality. However, their 22% forecast appears to overlook a critical constraint: the registration deadline is tomorrow (May 4). Forecaster 2 suggests 'candidate-list deadlines tend to be closer to election day,' but the research assistant explicitly states the registration period for political alliances ends May 4. This makes the timeline far more compressed than Forecaster 2's analysis implies.\n\nForecaster 3's 5% forecast appropriately weights the status quo and recent firm statements. Their reasoning about the short window and lack of compelling evidence for reversal is sound. The distinction between my 8% and their 5% is marginal.\n\nThe most critical factor all analyses must grapple with: we are literally one day before the registration deadline. While the resolution criteria only requires an announcement (not actual registration), any announcement of participation without actual registration would be meaningless unless deadlines can be extended or late registration permitted. Neither possibility has been reported.",
+    "rationale": "After reviewing both forecasters, I'm adjusting my forecast slightly downward. The key insight is that tomorrow's registration deadline creates an even harder constraint than I initially weighted. For a Yes outcome:\n\n1. An announcement must occur within the next 59 days (through June 30)\n2. But practically, participation requires meeting tomorrow's registration deadline OR securing an extension/exception\n3. No credible reporting suggests either is imminent\n\nForecaster 2's historical analysis is valuable but the 2021 precedent (mid-August reversal for October election) actually argues against an early announcement - al-Sadr typically delays to maximize leverage. A July 1 announcement would be unusually early by his standards.\n\nForecaster 3's heavy weighting of recent categorical statements (April presidential rejection, March forbidding followers) combined with the imminent deadline is compelling. While I acknowledge al-Sadr's unpredictability, the convergence of timing pressure and repeated public commitments to boycott makes reversal highly unlikely.\n\nThe voter registration nudges mentioned by Forecaster 2 do preserve some optionality, preventing me from going lower. But with 24 hours until the registration deadline and zero signals of participation, my updated forecast reflects the extremely constrained probability space.",
+    "probability": 6
+  },
+  "usage": {
+    "inputTokens": 2329,
+    "outputTokens": 1590,
+    "totalTokens": 3919,
+    "reasoningTokens": 889,
+    "cachedInputTokens": 0
+  }
+}

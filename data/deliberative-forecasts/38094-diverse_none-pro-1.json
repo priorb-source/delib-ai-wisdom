@@ -1,0 +1,26 @@
+{
+  "forecastId": "38094-diverse_none-pro-1",
+  "questionId": 38094,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "38094-diverse_none",
+  "independentForecastId": "38094-pro-none",
+  "otherForecastIds": [
+    "38094-sonnet-none",
+    "38094-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I are in strong agreement on the fundamental drivers of this question. We all correctly identify the extremely short 33-day time horizon and the very low historical base rate for a senator leaving their caucus as the most powerful factors pointing towards a 'No' resolution. We all cite Senator Fetterman's explicit statement that he will not resign as a key piece of evidence.  Furthermore, we all acknowledge that while the reporting on his 'isolation' and 'anger' indicates friction, this level of intra-party tension is not typically a sufficient catalyst for such a drastic move. Forecaster 2's point about the base rate for such an event in any given month being well under 0.1% was a particularly useful anchor. Forecaster 3 raised the interesting, though highly improbable, scenario of expulsion from the caucus. Overall, the analyses were highly convergent, reinforcing the core logic that institutional inertia and the lack of any concrete preparatory steps make a 'Yes' outcome highly unlikely in the next month.",
+    "rationale": "After reviewing the other analyses, I am lowering my forecast slightly. My initial reasoning for a 3% probability was based on Senator Fetterman's specific risk factors—his documented health history and his political maverick style—which I believe elevate his chances of an unexpected departure above the baseline for a typical senator. However, Forecaster 2's framing of the historical base rate being well below 0.1% for such an event in a 33-day period provided a crucial anchor. My initial 3% forecast represented a roughly 30-fold increase over this base rate. While Fetterman-specific factors warrant a significant increase, a 30x multiplier seems too high given the extremely short timeline and the complete absence of any concrete signals—such as meetings with other party leaders or staff preparing for a major announcement—that would precede such a momentous decision. The other forecasters' arguments reinforced the immense power of the status quo. I am therefore adjusting my forecast down to 2%, which I believe better calibrates the Fetterman-specific tail risks against the powerful inertia and low base rate over the next month.",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 1829,
+    "outputTokens": 2226,
+    "totalTokens": 4055,
+    "reasoningTokens": 1767,
+    "cachedInputTokens": 0
+  }
+}

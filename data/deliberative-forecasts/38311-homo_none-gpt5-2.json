@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-homo_none-gpt5-2",
+  "questionId": 38311,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "38311-homo_none",
+  "independentForecastId": "38311-gpt5-none-2",
+  "otherForecastIds": [
+    "38311-gpt5-none-1",
+    "38311-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my priors: official White House confirmation, strong historical base rate for in‑person G7 attendance by U.S. presidents, short travel to Canada, and a short time horizon all point strongly to Yes. The most useful incremental point they added is the (small) risk that the summit is postponed or shifted to a virtual/hybrid format that would invalidate in‑person attendance in June. They also correctly note the question’s low threshold—any brief in‑person appearance counts—which further boosts the base case. I don’t see new evidence that materially changes the probability; rather, their arguments slightly balance each other (low threshold nudges up; rescheduling/format risk nudges down), netting out near my prior.",
+    "rationale": "- Status quo: The White House has publicly confirmed attendance. Historically, U.S. presidents almost always attend G7 summits; Trump did so in 2017–2019, even when relations were strained. Travel to Canada minimizes logistical risk.\n- Time horizon: Likely ≤2 weeks to the summit, reducing the window for adverse shocks.\n- Threshold: Any in‑person appearance during the summit resolves Yes, even if brief or with an early departure.\n- Residual risks to No: Sudden health issue; acute domestic/international crisis requiring him to remain in Washington; a deliberate snub (unlikely given diplomatic costs of skipping the first G7 of the term); security issues; or the summit being postponed/moved out of June or converted to non‑in‑person. These collectively seem small over this short horizon.\n- Net: With strong institutional and logistical momentum plus public confirmation, the dominant scenario is attendance. I’m retaining a modest tail (≈7%) for the combined set of adverse contingencies, including the small rescheduling/format risk flagged by the other forecasters.",
+    "probability": 93
+  },
+  "usage": {
+    "inputTokens": 1582,
+    "outputTokens": 1290,
+    "totalTokens": 2872,
+    "reasoningTokens": 896,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38055-diverse_full-pro-1",
+  "questionId": 38055,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38055-diverse_full",
+  "independentForecastId": "38055-pro-full",
+  "otherForecastIds": [
+    "38055-sonnet-full",
+    "38055-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasts are in a very tight range, indicating a consensus that this is a close call. The other two forecasters, particularly Forecaster 3, improved upon my initial analysis by using a more explicit decomposition of the problem: P(Yes) = P(Fight Happens) * P(Pyfer Wins | Fight Happens). Forecaster 3's analysis was the most convincing, raising two excellent points I had not sufficiently weighed. First, they introduced a base rate for late-notice fight cancellations (5-15%) and modeled the possibility of a replacement opponent, which is a more sophisticated approach. Second, and more importantly, they cited Joe Pyfer's specific cardio issues in a previous step-up fight against Jack Hermansson. This is a crucial piece of evidence given Kelvin Gastelum's renowned durability and experience in longer fights. This specific fighter matchup dynamic, which I had overlooked, is a strong argument for why Gastelum's chances are higher than I initially estimated.",
+    "rationale": "I am updating my forecast downward from 57% to 52%. My initial analysis was too heavily weighted towards Pyfer's recent momentum and knockout power, while underestimating the specific challenges posed by this matchup. The deliberation brought my attention to a critical factor: Pyfer's potential cardio limitations if the fight extends beyond the first round, a weakness exposed in his loss to Hermansson. Kelvin Gastelum is an extremely durable veteran who is very capable of weathering an early storm and taking over in the later stages of a fight. While I still believe Pyfer is a slight favorite, this single factor significantly closes the gap between the two fighters. Adopting the more rigorous framework used by Forecaster 3, I now estimate roughly a 90% chance the fight occurs and a ~57% chance Pyfer wins if it does (factoring in the probability of facing Gastelum versus a short-notice replacement). This calculation (0.85*0.56 + 0.05*0.70 ≈ 0.51) leads to a final probability that is much lower than my original estimate. The new forecast of 52% better reflects the coin-flip nature of this well-matched middleweight bout.",
+    "probability": 52
+  },
+  "usage": {
+    "inputTokens": 1986,
+    "outputTokens": 2656,
+    "totalTokens": 4642,
+    "reasoningTokens": 2183,
+    "cachedInputTokens": 0
+  }
+}

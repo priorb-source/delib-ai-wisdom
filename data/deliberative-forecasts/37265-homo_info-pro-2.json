@@ -1,0 +1,26 @@
+{
+  "forecastId": "37265-homo_info-pro-2",
+  "questionId": 37265,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37265-homo_info",
+  "independentForecastId": "37265-pro-info2-2",
+  "otherForecastIds": [
+    "37265-pro-info1-1",
+    "37265-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "The other forecasters and I are in strong agreement on the core dynamics of this question: State Department advisories have significant inertia, the short two-month timeframe makes the status quo the most likely outcome, and a significant security deterioration would be required to trigger a change. Both forecasters provided convincing arguments. Forecaster 2 raised a crucial point I had not sufficiently weighed: the State Department's use of a granular, regional Level 3 advisory for the Mtwara region specifically. This demonstrates a preference for targeted warnings over country-wide escalations, strengthening the case for a 'No' resolution. Forecaster 3 correctly identified the primary risk driver as the insurgency spillover from Mozambique and noted that while recent activity is a concern, this is a chronic rather than an acute crisis, meaning the threshold for a full country-level change remains high. Their reasoning and slightly lower forecast of 15% are compelling.",
+    "rationale": "After reviewing my peers' analyses, I am lowering my forecast from 20% to 15%. My initial reasoning was sound but was missing a key structural consideration raised by Forecaster 2: the existence of a specific Level 3 advisory for Tanzania's Mtwara region. This is the most important new piece of information, as it shows the State Department has an established mechanism to address the most prominent threat—spillover violence in the south—without changing the entire country's advisory level. This makes the current Level 2 advisory more resilient than I had initially assessed. An escalation of the conflict in the south is now more likely to result in an update to the regional warning rather than a change to the country's overall status. My updated 15% forecast reflects this lower probability of a country-wide change, while still accounting for the non-trivial risk of a major, unexpected catalyzing event elsewhere in the country, such as a large-scale terrorist attack in a major city or tourist hub, which would almost certainly trigger a Level 3 advisory.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 1474,
+    "outputTokens": 2372,
+    "totalTokens": 3846,
+    "reasoningTokens": 1953,
+    "cachedInputTokens": 0
+  }
+}

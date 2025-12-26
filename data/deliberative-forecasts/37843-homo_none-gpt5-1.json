@@ -1,0 +1,26 @@
+{
+  "forecastId": "37843-homo_none-gpt5-1",
+  "questionId": 37843,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37843-homo_none",
+  "independentForecastId": "37843-gpt5-none-1",
+  "otherForecastIds": [
+    "37843-gpt5-none-2",
+    "37843-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforced key constraints I partially noted: (1) the blog/news-post path is rare without a public S-1 due to norms around quiet periods; (2) late June/early July is typically a weak window for IPO marketing, with many issuers preferring late summer/early fall; and (3) the resolution source is stricter than a generic press release—Discord’s own news page or an S-1 on EDGAR. The emphasis on the rarity of a pre-S-1 blog announcement and the seasonality argument strengthens the case for lower odds before July 1. I find their reasoning sound and directionally consistent with base rates.",
+    "rationale": "There are ~5.5 weeks left. The two qualifying paths are: (a) a public S-1 in June; or (b) a specific IPO announcement on Discord’s news/blog. Given industry practice, (b) is unlikely absent a filing. If Discord targets a fall listing, a public S-1 in July/August (post–July 1) is more typical. While credible reporting and named underwriters imply 2025 intent, that does not tightly couple to a pre–July 1 public S-1. The stricter resolution sources (S-1 or Discord’s own news page) further reduce the chance that a wire-only PR would count. Balancing a feasible but narrow June S-1 window against seasonality and norms, I trim my estimate. I move from 35% to 27%.",
+    "probability": 27
+  },
+  "usage": {
+    "inputTokens": 2140,
+    "outputTokens": 1222,
+    "totalTokens": 3362,
+    "reasoningTokens": 896,
+    "cachedInputTokens": 0
+  }
+}

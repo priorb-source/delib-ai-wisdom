@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-diverse_none-pro-1",
+  "questionId": 38311,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "38311-diverse_none",
+  "independentForecastId": "38311-pro-none",
+  "otherForecastIds": [
+    "38311-sonnet-none",
+    "38311-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters and I are in strong agreement on the fundamental drivers of this question. We all anchor on the official White House confirmation, the high base rate of presidential attendance at G7 summits, and the short time remaining until the event. The narrow forecast range (87%-90%) reflects this consensus. Forecaster 2 helpfully enumerated some low-probability logistical risks like weather or security issues. Forecaster 3 provided two particularly insightful points I had not fully weighted: 1) Trump's positive personal incentives to attend for the media spotlight and direct engagement, and 2) the fact that the resolution criteria are met even with a very brief appearance. This second point is crucial, as it means a scenario like the 2018 G7 in Canada, where he was disruptive and left early, would still resolve as 'Yes'.",
+    "rationale": "My initial forecast of 90% was based on the strong positive evidence from the White House confirmation, balanced against risks related to President Trump's noted unpredictability and the possibility of external events. The deliberation has convinced me to slightly increase my forecast. The most compelling argument came from Forecaster 3, who highlighted that a brief, token appearance is sufficient to resolve this question as 'Yes'. This significantly mitigates one of the primary risks I had considered: a politically motivated, last-minute withdrawal. It is more in character for Trump to attend briefly to make a statement or express disagreement than to skip the event entirely and cede the stage to others. This insight reduces the probability of a key 'No' scenario. The remaining risks—a sudden acute health issue, a major domestic or international crisis demanding his presence in the US, or a last-minute postponement of the summit—persist, but I now believe my initial 10% uncertainty was slightly too high. Therefore, I am adjusting my forecast upward by two percentage points to reflect a higher degree of confidence after this re-evaluation of the risk landscape.",
+    "probability": 92
+  },
+  "usage": {
+    "inputTokens": 1539,
+    "outputTokens": 2451,
+    "totalTokens": 3990,
+    "reasoningTokens": 2031,
+    "cachedInputTokens": 0
+  }
+}

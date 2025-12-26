@@ -1,0 +1,26 @@
+{
+  "forecastId": "37470-diverse_info-gpt5-1",
+  "questionId": 37470,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37470-diverse_info",
+  "independentForecastId": "37470-gpt5-info2",
+  "otherForecastIds": [
+    "37470-sonnet-info1",
+    "37470-pro-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 appropriately weights the fresh, high-level meeting and Egypt’s hosting capacity, but I think 45% is a bit high given the stringent resolution requirement (an official ITKF announcement) and the short window. Forecaster 3’s emphasis on institutional inertia and timeline risk is compelling; however, the asserted 24–36 month norm for ITKF specifically isn’t well-evidenced, and ITKF’s smaller size could allow faster decisions than larger federations. Both rightly note the lack of official ITKF signals and the status quo bias; F3 perhaps underweights the possibility of a quick, politically backed decision given recent engagement. Net: F2’s optimism seems slightly over, F3’s pessimism slightly under.",
+    "rationale": "My prior was 35%. Since then, the strongest additional consideration is the absence of any corroborating ITKF procedural signals (e.g., executive board meeting notice, provisional host statement, bid timeline) and the high bar that the announcement must come from ITKF itself before July 1. While the late-April meeting is a meaningful positive and Egypt’s hosting track record is strong, the odds that discussions translate into a finalized, public ITKF announcement within ~7 weeks still seem modest. I do not fully accept a 24–36 month norm for ITKF, but even with potentially faster cycles, federations often formalize at congresses or scheduled meetings. With no visible cadence pointing to a pre-July decision, I tilt a bit more conservative. I lower my forecast from 35% to 30%. I’d move up on any official ITKF communication indicating an imminent decision or provisional selection; I’d move down if ITKF schedules the decision for later in 2025 or if another bidder emerges publicly.",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1696,
+    "outputTokens": 1461,
+    "totalTokens": 3157,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

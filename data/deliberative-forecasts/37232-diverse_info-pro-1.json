@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-diverse_info-pro-1",
+  "questionId": 37232,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37232-diverse_info",
+  "independentForecastId": "37232-pro-info1",
+  "otherForecastIds": [
+    "37232-gpt5-info2",
+    "37232-sonnet-info3"
+  ],
+  "forecast": {
+    "review": "The other forecasters' analyses were highly convincing and revealed a critical flaw in my initial reasoning. My forecast was anchored to the assumption that a Q1 earnings report would be posted on the News page in May. Forecaster 2 provided direct evidence to the contrary: the Q4 2024 earnings release was confined to Investor Relations channels and not cross-posted to the main News page. This single piece of evidence invalidates my primary reason for forecasting a 'No' outcome. Both forecasters correctly identified the low posting cadence during the current operational hiatus as the proper baseline, a factor I had significantly underweighted.",
+    "rationale": "My initial forecast of 10% 'Yes' was predicated on the high probability of a Q1 2025 earnings release being published on the company's News page in May, which would have resolved the question as 'No'. The evidence provided by the other forecasters, specifically that the Q4 2024 earnings release was not posted to the News page, has caused me to completely re-evaluate. This precedent removes the most likely trigger for a post in May. My analysis now aligns with the other forecasters, centering on the established status quo: a very low posting frequency driven by an operational pause while the company develops its Delta-class fleet. With no flights and development in its early stages, the pipeline for news is thin. The recent three-month gap in posts is likely to continue. I am therefore making a substantial update to my forecast, increasing the probability of 'Yes' by 65 percentage points. I am not forecasting higher because, as the other forecasters noted, there remains a non-trivial chance of a one-off post regarding a manufacturing milestone, a strategic partnership, or other corporate news designed for a broader audience.",
+    "probability": 75
+  },
+  "usage": {
+    "inputTokens": 1756,
+    "outputTokens": 2288,
+    "totalTokens": 4044,
+    "reasoningTokens": 1909,
+    "cachedInputTokens": 0
+  }
+}

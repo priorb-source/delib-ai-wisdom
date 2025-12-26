@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-diverse_info-pro-1",
+  "questionId": 37464,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37464-diverse_info",
+  "independentForecastId": "37464-pro-info1",
+  "otherForecastIds": [
+    "37464-gpt5-info3",
+    "37464-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "The other forecasters and I are in strong agreement, with forecasts of 35%, 36%, and my initial 35%. Our core reasoning is identical: we are weighing the recall's simple characteristics (small scope, perishable product) against the historical median closure time for USDA recalls. Forecaster 2 introduced two useful points strengthening the 'No' case: small firms can be slow with paperwork, and FSIS posting can lag behind the actual closure decision. Forecaster 3 raised an excellent and novel point strengthening the 'Yes' case: the company discovered the issue internally, which often correlates with a more competent and proactive response that could speed up the resolution process. Both analyses were very convincing and highlighted specific mechanisms that I had grouped under general 'bureaucratic' considerations.",
+    "rationale": "My initial forecast was 35%. After reviewing the other analyses, I am making a slight upward adjustment. The key new piece of information was Forecaster 3's point that LPK1 discovered the issue internally. This is a significant detail I overlooked. It suggests the company is likely more organized and cooperative than the average firm in a recall situation, which could accelerate the submission and approval of corrective action plans. This specific, positive factor for this case slightly mitigates the strong general evidence of a ~120-day median closure time. While Forecaster 2's points about potential delays are valid, the self-reporting aspect feels more diagnostic for this particular recall. The core tension remains: the 97-day window for closure is faster than the median, and with only 23 days left, the status quo is a strong anchor. However, the evidence of a proactive company increases the chance that this will be a straightforward, faster-than-average case. I am therefore moving my forecast up slightly to reflect this increased probability, from 35% to 38%.",
+    "probability": 38
+  },
+  "usage": {
+    "inputTokens": 1963,
+    "outputTokens": 2403,
+    "totalTokens": 4366,
+    "reasoningTokens": 2001,
+    "cachedInputTokens": 0
+  }
+}

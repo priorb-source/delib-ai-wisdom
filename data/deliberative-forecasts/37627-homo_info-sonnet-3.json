@@ -1,0 +1,26 @@
+{
+  "forecastId": "37627-homo_info-sonnet-3",
+  "questionId": 37627,
+  "condition": "homo_info",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37627-homo_info",
+  "independentForecastId": "37627-sonnet-info3-3",
+  "otherForecastIds": [
+    "37627-sonnet-info1-1",
+    "37627-sonnet-info2-2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 provides critical new information: Trump and Zelenskyy spoke just 3 days ago on May 10. This dramatically changes the analysis. Their historical pattern shows gaps of 35-52 days between calls, which would place the next expected call in mid-to-late June, likely after the resolution period ends. This is highly significant evidence I lacked. Forecaster 3's point about May 15 Istanbul talks is interesting but less compelling - if they spoke on May 10, they likely already coordinated on the Istanbul meeting, reducing the need for another call just 5 days later. Forecaster 3's 70% seems too optimistic given the recent communication. Forecaster 2's 50% better reflects the tension between the recent call (suggesting lower probability) and the 33-day window plus dynamic situation (suggesting moderate probability).",
+    "rationale": "The May 10 call is the most important piece of information. With only 3 days elapsed and historical patterns showing 35-52 day gaps, the base expectation is that their next call occurs outside the resolution window. However, I'm not dropping to 40% or below because: (1) The 33-day window is still substantial - nearly 5 weeks; (2) Active peace negotiations are more dynamic than baseline diplomacy and could require more frequent contact than historical patterns; (3) Multiple potential catalysts exist (ceasefire implementation/breakdown, negotiation developments, new crises); (4) Even if their pattern suggests 5-7 weeks, there's variance - they're not perfectly regular. I'm reducing my forecast significantly from 57% to reflect that they literally just spoke, making an imminent call unlikely and pushing the probability distribution toward late May or early June - with meaningful risk the next call falls after June 14. The forecast of 48% reflects: recent communication reducing short-term probability, but sufficient time and diplomatic volatility maintaining moderate overall probability.",
+    "probability": 48
+  },
+  "usage": {
+    "inputTokens": 1950,
+    "outputTokens": 1288,
+    "totalTokens": 3238,
+    "reasoningTokens": 841,
+    "cachedInputTokens": 0
+  }
+}

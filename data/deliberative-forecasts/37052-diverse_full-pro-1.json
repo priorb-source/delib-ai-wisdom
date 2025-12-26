@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-diverse_full-pro-1",
+  "questionId": 37052,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37052-diverse_full",
+  "independentForecastId": "37052-pro-full",
+  "otherForecastIds": [
+    "37052-sonnet-full",
+    "37052-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters coalesced around a similar methodology: establishing a base rate from the recent uptick in successful African coups (approximately 1.5-2 per year since 2020), and then adjusting for the short, two-month time window. We all agree that the risk is concentrated in Africa, particularly the Sahel, and that Latin America's contribution to the probability is minimal. The primary point of divergence is in interpreting the 2025 signals so far. I initially viewed the foiled attempts in Burkina Faso and Chad primarily as evidence of ongoing high risk. Forecaster 3 introduced a crucial nuance that I had not fully weighed: these failed attempts are a dual signal, indicating not only active plotting but also increasingly effective countermeasures by incumbent regimes. This suggests the high success rate of earlier coups in the 2020-2023 period may not be fully sustained as these new governments become more entrenched and security-conscious. Forecaster 3 also astutely pinpointed the early May presidential election in Chad as a key, specific trigger event within our forecast window, which is a critical consideration.",
+    "rationale": "My initial forecast of 30% was based on a simple time-proportional calculation of the recent successful coup rate in Africa, adjusted slightly upward for the clear evidence of current instability. After reviewing the other analyses, I am making a small downward adjustment. I found Forecaster 3's argument that foiled coups also demonstrate capable regime countermeasures to be highly persuasive. This tempers the raw base rate, as recent juntas are likely hyper-vigilant and are 'coup-proofing' themselves, potentially lowering the success rate of future attempts. This factor suggests my initial 30% was slightly too high. However, the specific, acute risk associated with the Chadian presidential election in early May—a point well-articulated by Forecaster 3—prevents a more significant reduction. The election presents a clear and predictable moment of potential instability squarely within the forecast period. Balancing the new consideration of regime resilience against the specific, time-bound risk in Chad, I am revising my forecast down by two percentage points to 28%. This places me between the other two forecasters, reflecting the compelling, countervailing arguments they presented.",
+    "probability": 28
+  },
+  "usage": {
+    "inputTokens": 3550,
+    "outputTokens": 2095,
+    "totalTokens": 5645,
+    "reasoningTokens": 1614,
+    "cachedInputTokens": 0
+  }
+}

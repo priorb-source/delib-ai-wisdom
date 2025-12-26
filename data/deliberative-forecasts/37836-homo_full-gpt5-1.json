@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_full-gpt5-1",
+  "questionId": 37836,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37836-homo_full",
+  "independentForecastId": "37836-gpt5-full-1",
+  "otherForecastIds": [
+    "37836-gpt5-full-2",
+    "37836-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters add useful nuance on how FlightsFrom counts destinations in a season (likely listing routes operating at any point in S25), which slightly increases confidence that seasonal Turkish leisure routes will appear in the tally on/after July 1. They also appropriately discount the easyJet ATH rumor and flag reasonable downside risks: late schedule pulls, security-driven suspensions around the resolution date, and Hajj taper effects for Saudi routes. Forecaster 2’s granular focus on Turkish secondaries and the possibility of removals, and Forecaster 3’s reminder about less-than-weekly ops potentially not showing robustly, are good caveats I hadn’t emphasized. I find their reasoning broadly convincing and largely aligned with mine, with a touch more caution on fragile routes and airline follow-through.",
+    "rationale": "Core view unchanged: breadth across Turkey, the Gulf, KSA, Iran, Levant/Egypt, Caucasus, plus new ATH (Aegean) and CGN (Eurowings) makes >31 more likely than not by early July, especially given summer seasonal adds and FlightsFrom’s seasonal listing behavior. I continue to discount the easyJet ATH claim. The main downside risks remain security-related suspensions and the possibility that a handful of thin or seasonal routes (e.g., some KSA or Turkish secondaries, BEY) are not loaded or get pulled right around July 1. Given peers’ emphasis on fragility of some routes and the potential for Hajj-related schedules to thin before July (even if Umrah routes persist), I’m making a small downward calibration from my prior 74% to reflect these execution and timing risks. Net: still a clear lean Yes, but with meaningful tail risk that the visible count lands at 31 or below if a few expected routes don’t materialize or are temporarily suspended.",
+    "probability": 72
+  },
+  "usage": {
+    "inputTokens": 2264,
+    "outputTokens": 2945,
+    "totalTokens": 5209,
+    "reasoningTokens": 2560,
+    "cachedInputTokens": 0
+  }
+}

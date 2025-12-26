@@ -1,0 +1,26 @@
+{
+  "forecastId": "37817-homo_full-gpt5-2",
+  "questionId": 37817,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37817-homo_full",
+  "independentForecastId": "37817-gpt5-full-2",
+  "otherForecastIds": [
+    "37817-gpt5-full-1",
+    "37817-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters correctly emphasize how high the threshold (6+) is for a small, still-recovering market and that charters won’t count. I agree with their caution on the Brisbane claim; a Qantas-operated BNE–ROR is atypical and needs independent corroboration before counting on it being listed on flightsfrom. I also think they may be overcounting the current baseline: Manila and Yap as scheduled non-stops from ROR are uncertain in mid‑2025, and I’m not confident both (or even either) are active and listed. Forecaster 3’s point about flightsfrom sometimes listing future routes is fair, but the NRT start is in IATA Winter 2025/26 (Oct 29), and flightsfrom often doesn’t surface winter-season routes on a summer-season snapshot until winter schedules are broadly loaded—making an early-July listing less likely. I also agree with Forecaster 2 that the timing of Metaculus’s check matters; in practice they usually check near the earliest date, which reduces the odds that later-2025 routes will appear in time. Overall, their 20–30% feels a bit high given the combination needed by early July (Brisbane confirmed and listed, plus at least one of Korea/HKG/Yap/Manila and possibly NRT pre-listed).",
+    "rationale": "Key drivers:\n- Baseline destinations likely remain thin. I’m confident in United’s Guam and China Airlines’ Taipei. I’m doubtful that United’s Manila and/or Yap are both simultaneously active and listed in early July; post-pandemic evidence for those specific non-stops is weak. If one or both are not listed, the starting point is 2–3, not 4–5.\n- Qantas Brisbane service is uncorroborated and atypical for Qantas’s network; unless it’s verifiably scheduled and shown on flightsfrom, I discount it materially.\n- United’s Narita–Koror starts Oct 29, 2025 (winter season). Even if ticketed, flightsfrom may not display it on July 1 if it restricts the page to current (summer) season. That reduces the probability that NRT will be counted in early July.\n- Korean or Hong Kong resumptions by early July would likely require visible schedule filings by now; there’s no concrete sign of that. Charters (e.g., JAL) don’t count.\n- Metaculus usually checks near the earliest eligible date, limiting the benefit from routes starting later in 2025.\n\nUpside scenarios exist (e.g., Brisbane truly scheduled and listed, NRT appears early, and one of Manila/Yap listed), but they require multiple favorable, uncertain conditions. I’m nudging up slightly from my prior forecast to acknowledge the possibility that flightsfrom could show NRT early and that Brisbane might indeed be listed, but I still see the stack to reach >5 by early July as unlikely.\n\nWhat would move me up: Verified flightsfrom listings by late June for any two among BNE, ICN, HKG, YAP, MNL, plus evidence that NRT is already displayed. What would move me down: Confirmation that Brisbane isn’t a scheduled service, and that Manila/Yap aren’t listed; or that flightsfrom is only showing summer-season destinations on July 1 (excluding NRT).",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 2707,
+    "outputTokens": 2952,
+    "totalTokens": 5659,
+    "reasoningTokens": 2240,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-homo_none-pro-3",
+  "questionId": 37052,
+  "condition": "homo_none",
+  "model": "pro",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37052-homo_none",
+  "independentForecastId": "37052-pro-none-3",
+  "otherForecastIds": [
+    "37052-pro-none-1",
+    "37052-pro-none-2"
+  ],
+  "forecast": {
+    "review": "The other two forecasters both arrived at a 20% probability, presenting a strong consensus. I found their reasoning convincing, particularly Forecaster 3's key argument which I had not sufficiently weighted: there has been a notable 20-month lull in successful coups since the last one in Gabon in August 2023. My initial analysis was anchored on the high average rate of coups since 2020, but Forecaster 3 correctly pointed out that these events were clustered in the 2020-2023 period. This recent quiet period is a significant piece of evidence suggesting the immediate, short-term probability may be lower than the long-term average indicates. Forecaster 2's framing of a probability above 20% as implying a 'near-term expectation' was also a useful heuristic that caused me to re-evaluate the confidence level of my initial forecast.",
+    "rationale": "After reviewing my peers' analyses, I am updating my forecast. My initial 30% probability was too heavily influenced by the high base rate of successful coups during the 2020-2023 'coup spike' in Africa. I failed to properly account for the subsequent 20-month period without a single successful coup, a critical point raised by Forecaster 3. This recent lull suggests that either deterrence has increased, conditions have temporarily stabilized, or the previous spike was an anomaly. Regardless of the cause, this new information significantly weakens the argument for a high probability of a coup in the immediate two-month window. The very short time frame, which all three of us noted, becomes the dominant factor. Therefore, I am reducing my forecast from 30% to 20%. This revised figure still acknowledges the persistent underlying drivers of instability in regions like the Sahel, but it better reflects the status quo and the lack of recent successful events. The probability remains at a significant 20% because the potential for a sudden, unpredictable event in numerous fragile states across two continents cannot be dismissed.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 2547,
+    "outputTokens": 1944,
+    "totalTokens": 4491,
+    "reasoningTokens": 1508,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37817-diverse_full-gpt5-3",
+  "questionId": 37817,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37817-diverse_full",
+  "independentForecastId": "37817-gpt5-full",
+  "otherForecastIds": [
+    "37817-pro-full",
+    "37817-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s core point—that reaching >5 requires two additional scheduled destinations within ~6 weeks—is the key constraint, and they correctly note that UA’s NRT route starts too late and JAL charters likely won’t count on FlightsFrom. I agree with the slow-moving nature of international route launches. I’m less confident than they are about the exact current count (their assumption of both Manila and Brisbane as confirmed scheduled services may be shaky—Brisbane via “Qantas” is particularly suspect), but that uncertainty only makes a Yes even harder. \n\nForecaster 3’s 28% feels too high. It leans on (a) Hong Kong possibly already operating (no evidence presented), (b) potential unreported routes, and (c) charters possibly counting on FlightsFrom. The latter is especially unlikely; FlightsFrom is based on published schedules, and ad-hoc or pure charter operations generally don’t appear. Even if HKG were live, that likely gets us to 5, still short of the required 6 without another credible, imminent addition.\n\nNet: F2’s reasoning is more convincing; F3 overweights speculative upside and underweights lead-time/regulatory realities and the specific resolution source’s conventions.",
+    "rationale": "Time left: ~6 weeks to July 1, 2025. Baseline scheduled nonstops that are very likely: Guam (UA) and Taipei (CI). Manila (UA) may exist but has been inconsistent post-pandemic; Brisbane service exists per the assistant report but attribution to Qantas is doubtful, and whether it appears in FlightsFrom as a scheduled route remains uncertain. Even granting both Manila and Brisbane, we’d be at four. \n\nTo get a Yes (≥6), we need two more scheduled destinations visible on FlightsFrom by July 1. Plausible candidates (HKG, ICN, NRT) each face hurdles: UA’s NRT starts Oct 2025 (too late to appear in a summer-only listing), Korean services have not visibly returned, and there’s no firm evidence of HKG starting imminently. JAL charters are unlikely to be listed as scheduled. Given typical airline lead times and the absence of concrete pre-July announcements, the probability of two additional scheduled destinations materializing and being listed by FlightsFrom is low.\n\nI’m updating downward from 15% to 8%, giving a small allowance for (a) Brisbane being a bona fide scheduled service recognized by FlightsFrom, (b) Manila being active, and (c) one surprise addition (e.g., HKG) that’s already loaded in schedules by July 1. But stacking two such positives remains unlikely.",
+    "probability": 8
+  },
+  "usage": {
+    "inputTokens": 2173,
+    "outputTokens": 3704,
+    "totalTokens": 5877,
+    "reasoningTokens": 3136,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37264-diverse_info-pro-1",
+  "questionId": 37264,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37264-diverse_info",
+  "independentForecastId": "37264-pro-info3",
+  "otherForecastIds": [
+    "37264-gpt5-info1",
+    "37264-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "All three forecasters correctly identified the central tension between Niger's fragile security environment and the institutional inertia of State Department travel advisories over a short timeframe. Forecaster 2 provided a useful clarification on Niamey's relative stability compared to other regional capitals, justifying the current Level 3 rating. However, I found Forecaster 3's analysis most persuasive. They raised two crucial points I had not fully weighted: 1) The State Department already uses targeted, sub-regional Level 4 warnings for high-risk areas in Niger, which serves as a release valve, making a full nationwide upgrade less necessary. 2) The fact that the advisory remained at Level 3 through the July 2023 military coup is powerful evidence of a very high threshold for a nationwide upgrade. This demonstrated history of bureaucratic stability in the face of major turmoil is a more compelling argument than the general risk environment.",
+    "rationale": "I am lowering my forecast from 25% to 20%. My initial analysis was based on the significant security risks in Niger, which I still believe are very real. However, the other forecasters, particularly Forecaster 3, provided compelling evidence regarding the State Department's demonstrated behavior. The use of sub-regional Level 4 advisories shows a capacity for nuance that makes a blunt nationwide upgrade less probable. More importantly, the advisory was not elevated during the 2023 coup, a period of maximum uncertainty and instability. This precedent strongly suggests that the threshold for a nationwide Level 4 is extremely high, likely requiring a dramatic and specific trigger, such as an ordered departure of embassy personnel or a catastrophic attack on Western interests in the capital. While such an event is possible, Forecaster 3's arguments convince me that the base rate of inertia is stronger than I initially assessed. The short, two-month timeframe further favors the status quo. Therefore, a 5-point downward adjustment is warranted to better reflect this high institutional bar for change.",
+    "probability": 20
+  },
+  "usage": {
+    "inputTokens": 1708,
+    "outputTokens": 2521,
+    "totalTokens": 4229,
+    "reasoningTokens": 2104,
+    "cachedInputTokens": 0
+  }
+}

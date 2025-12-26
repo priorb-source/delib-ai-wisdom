@@ -1,0 +1,26 @@
+{
+  "forecastId": "37051-diverse_none-gpt5-3",
+  "questionId": 37051,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37051-diverse_none",
+  "independentForecastId": "37051-gpt5-none",
+  "otherForecastIds": [
+    "37051-pro-none",
+    "37051-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the same core constraints I relied on: extreme rarity of revoking a major university’s 501(c)(3), the IRS’s due-process-heavy timeline (exam → proposed adverse determination → protest/appeals → potential litigation), and the very compressed window to July 1. Forecaster 3 adds the explicit point about likely injunctive relief if any revocation were attempted—consistent with my view—and notes the 67-day clock. Forecaster 2 highlights the distinction between political rhetoric and implementable administrative action, and the need for credible evidence of a formal, expedited IRS process to move probabilities meaningfully up. Neither introduces materially new evidence; both reinforce the base-case that a completed, effective revocation by July 1 is extraordinarily unlikely. The suggestion that mere presidential threats could translate into a rapid, legally dubious revocation is acknowledged as a tail risk, but the resolution criterion requires that Harvard actually “loses its 501(c)(3) status with the IRS,” which likely implies more than a political announcement—further tamping the near-term odds.",
+    "rationale": "I remain anchored to procedural and timeline realities. With 67 days left, the IRS would need to open or already have an examination, issue a proposed adverse determination, allow protest rights (typically 30 days), potentially go through Appeals, and then issue a final adverse determination—any of which Harvard would challenge immediately. Courts would likely grant a stay given the stakes and novelty. Even if political pressure intensified, converting that into a final, effective loss of status by July 1 remains exceptionally unlikely. There is no credible reporting of an active, accelerated IRS process targeting Harvard’s exemption. I do not see new arguments that increase the probability beyond my initial 2%. I would update up only on concrete signals: credible reporting of a formal IRS examination with intent to revoke, issuance of a proposed adverse determination specific to Harvard, or Treasury/IRS announcing an expedited process. I would update down if IRS/Treasury affirm independence and no investigation, or if we reach late May with no signs of action. Given alignment with other forecasters and no new evidence, I am not changing my forecast.",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 1569,
+    "outputTokens": 1799,
+    "totalTokens": 3368,
+    "reasoningTokens": 1344,
+    "cachedInputTokens": 0
+  }
+}

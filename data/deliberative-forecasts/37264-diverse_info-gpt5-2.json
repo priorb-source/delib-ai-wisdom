@@ -1,0 +1,26 @@
+{
+  "forecastId": "37264-diverse_info-gpt5-2",
+  "questionId": 37264,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37264-diverse_info",
+  "independentForecastId": "37264-gpt5-info1",
+  "otherForecastIds": [
+    "37264-pro-info3",
+    "37264-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s trigger-based framing and short time-horizon emphasis are well-argued and align with how State typically moves to Level 4—after clear shocks like an ordered departure or a major incident, especially in the capital. Forecaster 3 adds a key point about deliberate differentiation (country Level 3 with specified Level 4 regions), which historically signals reluctance to elevate the whole country absent nationwide risk. I’m skeptical of F3’s claim that the advisory hasn’t been updated since March 2023; that seems unlikely post‑coup and doesn’t match my recollection of periodic updates. But the underlying point—State has tolerated significant instability without upgrading—still supports a lower probability. Both may slightly underplay the embassy-consular posture as the cleanest proximate trigger (ordered/authorized departure or suspension of routine services), and the US troop withdrawal in itself doesn’t imply such a change at the embassy. Overall, their reasoning nudges me modestly downward from my prior.",
+    "rationale": "Time remaining is about two months, which favors persistence. Niger remains Level 3 with multiple regions explicitly designated Level 4, a pattern State often uses when the capital is comparatively stable and consular services remain available. While risks (terrorism, kidnapping, crime) are serious and US-Niger ties have worsened with the ordered US troop withdrawal, there is no present indication of an embassy ordered departure, suspension of routine services, or acute capital-area threat—common precursors to a nationwide Level 4. The pathways to a quick upgrade exist (major attack in Niamey targeting foreigners, high-profile kidnapping, abrupt embassy drawdown, significant nationwide unrest), but the base rate of such events within a 60‑day window is modest. Given peers’ arguments about State’s demonstrated reluctance to elevate Niger despite the 2023 coup and regional volatility, I’m trimming my forecast. I reduce from 30% to 24%, reflecting strong inertia tempered by real but not predominant tail risks.",
+    "probability": 24
+  },
+  "usage": {
+    "inputTokens": 1751,
+    "outputTokens": 2470,
+    "totalTokens": 4221,
+    "reasoningTokens": 2048,
+    "cachedInputTokens": 0
+  }
+}

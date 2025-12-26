@@ -1,0 +1,26 @@
+{
+  "forecastId": "37238-homo_info-gpt5-1",
+  "questionId": 37238,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37238-homo_info",
+  "independentForecastId": "37238-gpt5-info1-1",
+  "otherForecastIds": [
+    "37238-gpt5-info2-2",
+    "37238-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds concrete, new-to-me details: UFC 316 is June 7 at Prudential Center (Newark) with O’Malley–Dvalishvili headlining. That materially raises attendance odds versus my prior, more generic base-rate view because Newark is close to Trump’s Bedminster base and O’Malley is a marquee draw. Their D‑Day scheduling caveat is a plausible counterweight. Forecaster 3’s analysis appears outdated (uncertainty about date/location; Vegas speculation), so I weight it less, though their general points on base rates and the value of Dana White’s relationship still apply. Overall, F2’s specifics are convincing and warrant a moderate upward revision.",
+    "rationale": "Key updates since my initial 30%: (1) Date/location now specified as June 7, Newark—highly convenient for Trump if he is at Bedminster; (2) A high-profile O’Malley title fight increases the publicity value; (3) Proven precedent as sitting President at UFC 314 suggests logistics/security are manageable. Offsetting factors keep me below 50%: (a) Early-June presidential obligations—potential D‑Day observances on June 6 could involve travel and reduce appetite for another high-security public appearance the next evening; (b) He attended UFC 314 less than two months prior, and historically he does not hit every PPV in close succession; (c) No public signaling yet from Dana White or the White House. Netting these, I raise my forecast but remain sub-50 absent direct signals. I would move up with credible hints/confirmation from Dana White/UFC or the presidential schedule placing him at Bedminster that weekend; I’d move down with confirmed travel or major commitments June 6–8 or if the main event weakens.",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 1779,
+    "outputTokens": 2245,
+    "totalTokens": 4024,
+    "reasoningTokens": 1856,
+    "cachedInputTokens": 0
+  }
+}

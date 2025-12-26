@@ -1,0 +1,26 @@
+{
+  "forecastId": "38055-homo_none-sonnet-3",
+  "questionId": 38055,
+  "condition": "homo_none",
+  "model": "sonnet",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38055-homo_none",
+  "independentForecastId": "38055-sonnet-none-3",
+  "otherForecastIds": [
+    "38055-sonnet-none-1",
+    "38055-sonnet-none-2"
+  ],
+  "forecast": {
+    "review": "All three forecasters used remarkably similar analytical frameworks, breaking the problem into fight completion probability (~75-80%) and conditional win probability (~50-60% for Pyfer), yielding forecasts between 42-52%. The key differences are marginal: slight variations in how we weighted cancellation risk for an already-rebooked fight and our estimates of Pyfer's chances against Gastelum. Forecaster 3 made a particularly valid point about Gastelum being a veteran with significant UFC experience that I may have underweighted. All forecasters appropriately noted the lack of detailed current information about fighter form, rankings, and betting odds. The narrow 10-point range across all forecasts suggests we're converging on a reasonable estimate despite limited information.",
+    "rationale": "Upon review, I believe my original forecast of 52% was slightly optimistic. While I correctly identified the two-component structure (fight happens × Pyfer wins), I may have overestimated Pyfer's win probability at 60%. The other forecasters appropriately emphasized that Gastelum, despite any recent decline, remains a credible UFC veteran with significant experience. Without access to current betting odds, recent fight records, or detailed performance data, assuming Pyfer is a modest favorite (55-60%) may be generous. A more conservative estimate of 50-55% win probability is warranted. Combined with ~77% fight completion probability (accounting for this being a rebooked fight with higher cancellation risk than average), this yields: 0.77 × 0.525 = 40.4%. However, the fact that UFC actively rebooked this fight suggests organizational commitment, which slightly reduces cancellation risk compared to the historical baseline. Splitting the difference between my original reasoning and the consensus view, I'm adjusting to 47% - acknowledging I was at the upper end of reasonable estimates without strong justification.",
+    "probability": 47
+  },
+  "usage": {
+    "inputTokens": 1878,
+    "outputTokens": 1138,
+    "totalTokens": 3016,
+    "reasoningTokens": 658,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-homo_full-pro-2",
+  "questionId": 37052,
+  "condition": "homo_full",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37052-homo_full",
+  "independentForecastId": "37052-pro-full-2",
+  "otherForecastIds": [
+    "37052-pro-full-1",
+    "37052-pro-full-3"
+  ],
+  "forecast": {
+    "review": "I have reviewed the analyses from two fellow forecasters. Forecaster 2 arrives at a 20% probability, arguing from a long-term base rate (since 2020) and a potential deterrent effect from recent failed coups. I find the use of a five-year average for the base rate unconvincing, as it significantly dilutes the clear spike in coup activity since 2021. The core of the issue is this recent increase, and averaging it with the calmer preceding period misrepresents the current risk environment. Forecaster 3 arrives at 35%, using a Poisson model based on the higher recent frequency of 3-4 successful coups per year, which aligns well with my own initial analysis. They correctly identify the Sahel region as the primary locus of risk and the short timeframe as the main reason for keeping the forecast below 50%. I find their reasoning more persuasive as it is grounded in the most relevant and recent data. The main point of deliberation for me is the impact of recent *failed* attempts in Chad and Burkina Faso this year. Forecaster 2 sees this as a deterrent, while Forecaster 3 and I initially saw it as evidence of a high-risk environment. Upon reflection, I believe there's merit to both views. While it proves plots are active, it also demonstrates that incumbent regimes are on high alert and have improved their capacity to foil them. My initial forecast may have over-indexed on the frequency of successes in prior years without giving enough weight to these more recent failures.",
+    "rationale": "After considering the other forecasts, I am lowering my probability from 45% to 38%. My core reasoning remains unchanged: the primary driver for a 'Yes' outcome is the exceptionally high rate of successful coups in Africa's Sahel region since 2021, creating a 'coup belt' where such events have become normalized. The arguments from Forecaster 3, particularly the use of a Poisson model which calculates a 40-50% probability based on a conservative rate of 3-4 successful coups per year, confirms my initial assessment was in the correct range. However, I am reducing my forecast for two reasons. First is the point, raised by Forecaster 2 and implicit in Forecaster 3's caution, about the two failed coup attempts in Africa in 2025. While these failures confirm that plots are being hatched, they also serve as a crucial data point that governments in the region are actively and successfully conducting counter-coup operations. My initial analysis may have understated this defensive capacity. Second, while my initial 45% was based on a direct extrapolation of recent frequency, a slight downward adjustment acknowledges the inherent unpredictability and relative rarity of a successful coup occurring within a specific, very short 66-day window. My updated forecast of 38% remains significantly higher than the long-term average would suggest, reflecting the severe and ongoing instability in the Sahel, but it now better incorporates the uncertainty introduced by recent counter-coup successes.",
+    "probability": 38
+  },
+  "usage": {
+    "inputTokens": 3024,
+    "outputTokens": 3315,
+    "totalTokens": 6339,
+    "reasoningTokens": 2678,
+    "cachedInputTokens": 0
+  }
+}

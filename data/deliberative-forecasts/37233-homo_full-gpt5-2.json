@@ -1,0 +1,26 @@
+{
+  "forecastId": "37233-homo_full-gpt5-2",
+  "questionId": 37233,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37233-homo_full",
+  "independentForecastId": "37233-gpt5-full-2",
+  "otherForecastIds": [
+    "37233-gpt5-full-1",
+    "37233-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the absence of a publicly known May nominating event, Ouattara’s pattern of strategic ambiguity and late declarations, and the optics/risks of inviting prolonged scrutiny for a fourth term—all good reasons to expect a delay past June 1. They also correctly note that third-party assertions don’t resolve the question; we need a personal declaration. I hadn’t explicitly weighed the “fourth-term optics” as a separate driver of delay, which is a useful addition. I agree with their triggers to move up (a confirmed May RHDP congress or scheduled address signaling a decision) and to move down (explicit deferral past May). Overall, their reasoning nudges me slightly lower on timing without changing my view that he’s likely to run eventually.",
+    "rationale": "Time window is ~1 month, and there is no public indication of a May RHDP congress or set-piece where Ouattara would declare. His 2020 precedent (August announcement for an October vote), strategic benefits of compressing the campaign, and the weakened opposition reduce pressure for an early declaration. Elite signaling remains strong that he will ultimately be the candidate, which keeps a non-trivial chance that the party orchestrates a quick May announcement. A simple decomposition: probability he ultimately runs is high (~75–85%), but conditional probability of declaring before June 1 given that he runs looks modest (~35–40%) absent a scheduled event. That implies roughly 26–34% overall. I therefore trim down slightly from my prior to reflect the added weight on optics of a fourth term and the lack of any concrete May timetable. I would move up materially if a May RHDP congress or a presidential address on his political future is announced; I would move down if RHDP signals a June-or-later timeline or if Ouattara reiterates indecision without a May event on the calendar.",
+    "probability": 32
+  },
+  "usage": {
+    "inputTokens": 2246,
+    "outputTokens": 1419,
+    "totalTokens": 3665,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

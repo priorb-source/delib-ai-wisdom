@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-diverse_full-sonnet-2",
+  "questionId": 37052,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37052-diverse_full",
+  "independentForecastId": "37052-sonnet-full",
+  "otherForecastIds": [
+    "37052-pro-full",
+    "37052-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters converged on a remarkably similar range (26-30%), which increases my confidence this is approximately correct. The key convergence points are: (1) base rate of ~1.5 successful coups per year in Africa translating to 25-30% for the remaining ~2 months, (2) recent failed attempts demonstrating active plotting but also effective regime countermeasures, (3) minimal contribution from Latin America, and (4) very short remaining timeframe as the primary limiting factor.\n\nForecaster 3 raised an important point I hadn't fully considered: Chad's presidential election in early May is a specific near-term trigger. Elections are often flashpoints for coups, particularly in politically fragile states. This concrete catalyst occurring within the evaluation window adds some weight to the probability. Forecaster 2's emphasis on the 78% success rate (7 of 9) when African coups are actually attempted is also noteworthy - it suggests that if a coup is launched in the remaining time, it has a decent chance of succeeding.\n\nHowever, all forecasters appropriately noted that we're already ~4 months into 2025 with no successful coup, which could indicate either lower annual hazard this year or improved regime security. This is a meaningful tempering factor that suggests we shouldn't simply extrapolate the 2020-2024 base rate without adjustment.\n\nThe convergence of independent analyses around 26-30% is strong evidence this range captures the true probability reasonably well.",
+    "rationale": "After reviewing the other forecasters' analyses, I find the overall reasoning sound and see no major errors in my original assessment. The convergence around 26-30% across all three independent forecasts is notable and increases confidence in this range.\n\nThe most valuable new information is Forecaster 3's specific mention of Chad's early May presidential election as a concrete near-term catalyst. Elections in fragile states are indeed higher-risk periods for coups, and having this specific event within the remaining window adds some probability. However, most elections pass without coups, and Chad's regime has shown capacity to foil plots (as evidenced by the January incident).\n\nThe key factors remain: (1) elevated base rate in Africa of ~1.5 successful coups/year, (2) only 67 days remaining (~18% of a year), (3) active plotting evidenced by recent foiled attempts, (4) high success rate when coups are attempted, but (5) no success yet in 2025 despite being 4 months in, and (6) Latin America contributing minimal probability.\n\nI'm making a small downward adjustment from 30% to 29% to reflect Forecaster 3's more granular analysis of timing and the fact that we're already past the mode of the annual distribution without seeing a success. However, the Chad election and continued instability in the Sahel prevent me from going lower. The narrow range of 26-30% across all forecasters suggests we've properly calibrated the key considerations.",
+    "probability": 29
+  },
+  "usage": {
+    "inputTokens": 3961,
+    "outputTokens": 1937,
+    "totalTokens": 5898,
+    "reasoningTokens": 820,
+    "cachedInputTokens": 0
+  }
+}

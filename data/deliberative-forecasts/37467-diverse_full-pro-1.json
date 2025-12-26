@@ -1,0 +1,26 @@
+{
+  "forecastId": "37467-diverse_full-pro-1",
+  "questionId": 37467,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37467-diverse_full",
+  "independentForecastId": "37467-pro-full",
+  "otherForecastIds": [
+    "37467-sonnet-full",
+    "37467-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters agree on the core dynamic: Beyond Meat's immediate bankruptcy risk is low due to the very short timeframe and the recent $100 million financing. We all correctly identified this as the key factor pushing the probability down. However, the other two forecasters raised compelling points that I had underweighted. Forecaster 2 correctly emphasized that the 'desperate nature' of the new loan (secured, 12% PIK interest) is a strong public signal of distress that could itself trigger negative reactions from vendors or customers. Forecaster 3 introduced a scenario I had not explicitly considered: a deliberate, fast-track 'pre-packaged' bankruptcy, where management could use the new funds as debtor-in-possession financing to restructure. I find both of these arguments convincing as they outline plausible, albeit low-probability, paths to a 'Yes' resolution that don't rely on simply running out of cash. They highlight that the new financing is not just a solution but also a signal of the problem's severity.",
+    "rationale": "My initial forecast of 5% was primarily based on the new $100 million financing facility, combined with existing cash, providing a sufficient liquidity runway to survive the next seven weeks. While I acknowledged the company's underlying distress, I viewed the new capital as a clear preventative measure against a near-term filing. After reviewing the other analyses, I believe my forecast was too low. The deliberation highlighted two key risks I had under-appreciated. First, the high-interest, secured nature of the loan is a significant red flag to suppliers and other partners, which could lead them to tighten credit terms and paradoxically accelerate a cash crisis. Second, the possibility of a strategic, pre-packaged bankruptcy, as raised by Forecaster 3, is a valid scenario. Management might decide that a swift restructuring is the best use of the new capital, rather than just funding continued losses. These risks, while still remote within the short timeframe, are material enough to warrant a higher probability than I initially assigned. I am therefore updating my forecast upwards from 5% to 8% to better reflect the risk from these negative signals and strategic possibilities.",
+    "probability": 8
+  },
+  "usage": {
+    "inputTokens": 2130,
+    "outputTokens": 1962,
+    "totalTokens": 4092,
+    "reasoningTokens": 1502,
+    "cachedInputTokens": 0
+  }
+}

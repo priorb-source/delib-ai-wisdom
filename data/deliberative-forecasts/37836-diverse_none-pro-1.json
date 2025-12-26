@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-diverse_none-pro-1",
+  "questionId": 37836,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37836-diverse_none",
+  "independentForecastId": "37836-pro-none",
+  "otherForecastIds": [
+    "37836-sonnet-none",
+    "37836-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 correctly highlights the short timeframe and the fact that summer airline schedules are largely finalized by late May, which is a strong argument for the status quo. This tempers expectations of last-minute additions. However, their analysis suffers from a lack of baseline data, forcing them to reason from general principles, which leads to a forecast near 50%. Forecaster 3 provides the critical missing piece: specific domain knowledge about Erbil International Airport's (EBL) route network. Their assertion that EBL's network historically peaks in the 'low- to mid-30s' during summer, coupled with a detailed breakdown of the likely contributing routes, is highly compelling. This transforms the question from one of uncertain growth to whether the typical, expected seasonal peak will be realized. Forecaster 3's reasoning is more convincing because it is grounded in specific, historical patterns for the airport in question, rather than general uncertainty.",
+    "rationale": "I am increasing my forecast from 55% to 58%. My initial forecast was based on the general principle that the July 1 resolution date falls in the peak summer season, making a small increase from the current 30 routes more likely than not. The insights from the other forecasters have refined this view. Forecaster 2's point that schedules are already set is important; it means we should not expect new route announcements, but rather the activation of pre-scheduled seasonal flights. Forecaster 3's analysis provides the key context that EBL's network typically expands to the low- to mid-30s in the summer. This shifts my thinking significantly. The baseline expectation should now be that the airport *will* exceed 31 destinations, as this appears to be the seasonal norm. The primary risk is no longer a lack of growth, but rather unforeseen disruptions (geopolitical, operational) that could cause cancellations and prevent the network from reaching its usual peak. I am updating my forecast upward to 58% to reflect that a 'Yes' outcome is the expected seasonal base case, while still assigning a substantial 42% probability to the risk of disruptions or a slightly leaner-than-usual summer schedule.",
+    "probability": 58
+  },
+  "usage": {
+    "inputTokens": 1793,
+    "outputTokens": 2275,
+    "totalTokens": 4068,
+    "reasoningTokens": 1812,
+    "cachedInputTokens": 0
+  }
+}

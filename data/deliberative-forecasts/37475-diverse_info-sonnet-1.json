@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-diverse_info-sonnet-1",
+  "questionId": 37475,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37475-diverse_info",
+  "independentForecastId": "37475-sonnet-info3",
+  "otherForecastIds": [
+    "37475-gpt5-info1",
+    "37475-pro-info2"
+  ],
+  "forecast": {
+    "review": "All three forecasters converged on the 60-64% range, which validates the core analytical framework. Forecaster 2 provided the most valuable new information: the recall involves a single production date (Feb 5, 2025) from a single establishment with only 2 complaints and no injuries. This is more significant than I initially appreciated - single-lot recalls are substantially easier to trace and verify than multi-date productions, which should accelerate both product recovery and FSIS effectiveness checks. Forecaster 3's emphasis on the multi-step FSIS bureaucratic process is valid but was already implicit in my historical timeline analysis. The key insight is that while 87 days sits at the upper end of typical closure windows, the constrained lot scope (single date, single facility, no injuries) creates favorable conditions that weren't fully weighted in my initial forecast. However, Forecaster 3's point about federal agency unpredictability remains relevant - even straightforward recalls can experience administrative delays that push beyond expected timelines.",
+    "rationale": "After reviewing both analyses, I'm updating slightly upward from 60% to 62%. The single production date detail is genuinely significant - it transforms this from a potentially complex multi-lot recall into a well-defined, traceable event. This should materially accelerate the effectiveness verification process. Combined with no reported injuries and only two complaints, this suggests a contained incident that Johnsonville can efficiently manage. However, I'm not moving to Forecaster 2's 64% because: (1) we're still measuring against an 87-day deadline that sits at approximately the 75th percentile of typical closure times, (2) the status quo remains Active with inherent bureaucratic inertia, and (3) any minor complication in final verification could easily extend past July 1. The modest 2-percentage-point update reflects genuine new information about lot scope while maintaining appropriate caution about timeline uncertainty.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 2294,
+    "outputTokens": 1217,
+    "totalTokens": 3511,
+    "reasoningTokens": 757,
+    "cachedInputTokens": 0
+  }
+}

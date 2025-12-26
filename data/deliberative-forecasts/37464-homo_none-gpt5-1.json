@@ -1,0 +1,26 @@
+{
+  "forecastId": "37464-homo_none-gpt5-1",
+  "questionId": 37464,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37464-homo_none",
+  "independentForecastId": "37464-gpt5-none-1",
+  "otherForecastIds": [
+    "37464-gpt5-none-2",
+    "37464-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize base rates and status quo inertia more than I did. In particular, their point that many FSIS recalls—including straightforward allergen/misbranding cases—remain Active for 3–6 months due to verification and administrative lag is a useful correction to my earlier optimism. They also highlight the Memorial Day timing risk (posting delays) and the Class I nature of fish allergens implying thorough checks. I agree the localized, perishable, vending-machine distribution pushes upward, but the administrative/lag factors and sub-1-month remaining window plausibly outweigh that. Overall, their arguments are convincing enough to nudge me down.",
+    "rationale": "Time left is ~23 days (to June 1). If nothing changes, it resolves No. The product’s perishability and constrained distribution support a faster close, but the recall has already been Active ~74 days. Given FSIS patterns, many small recalls still cross the 90–120+ day mark before closure, sometimes purely due to documentation and posting cadence. The upcoming holiday increases the chance that, even if effectiveness work is substantively done, the Closed status may post after June 1. Balancing these, I move from a slightly optimistic stance to slightly below even odds. I’d revise upward if there were evidence of a single consignee network with completed effectiveness checks or if contemporaneous small recalls are closing in the 80–95 day range; I’d revise downward if there’s any scope expansion or signs of administrative backlog pushing closures past 100–120 days.",
+    "probability": 47
+  },
+  "usage": {
+    "inputTokens": 1948,
+    "outputTokens": 1283,
+    "totalTokens": 3231,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

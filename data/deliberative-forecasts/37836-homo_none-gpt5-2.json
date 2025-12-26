@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_none-gpt5-2",
+  "questionId": 37836,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37836-homo_none",
+  "independentForecastId": "37836-gpt5-none-2",
+  "otherForecastIds": [
+    "37836-gpt5-none-1",
+    "37836-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters align with my base view: July is peak season for EBL, and the >31 threshold is on the “slightly Yes” side. They add two useful nuances: (1) FlightsFrom counts individual airports separately (e.g., IST and SAW), which helps the total; (2) the exact listing behavior around the check date matters—some seasonal or quasi-charter services won’t show unless they’re properly filed and operating in the period being displayed. Forecaster 3’s 80% feels high without a verified current count because a couple of pulled seasonal routes or a corridor suspension could keep the total at 31 or below. Forecaster 2’s 68% is closer to my prior. Overall, their reasoning is sound and consistent with typical EBL seasonality; the main difference is confidence level.",
+    "rationale": "I continue to expect Erbil’s network in early July to be at or near its annual maximum, driven by: (a) robust Gulf coverage (DXB/SHJ/AUH/DOH/KWI/BAH/MCT plus multiple Saudi cities including likely JED/RUH/DMM and possibly MED), (b) strong Turkey presence (IST/SAW plus seasonal AYT/ADB/BJV/TZX and potentially others), (c) core Levant/Egypt links (AMM/BEY/CAI, possibly HBE/SSH seasonals), and (d) a few domestic Iraqi routes. The key open questions are the breadth of Saudi and Turkish seasonal additions and whether any Iranian or Levant routes are curtailed; those swing a handful of destinations and could decide a tight threshold. With ~5–6 weeks left, most schedules are already loaded, so I weight the status quo more heavily. Incorporating the other forecasters’ emphasis on FlightsFrom’s snapshot behavior slightly increases my uncertainty but doesn’t overturn the seasonal bias toward Yes. I modestly raise my forecast to reflect consensus that July typically lands in the low-to-mid 30s and that multiple route clusters provide redundancy, while still discounting for potential late suspensions and any seasonal routes that fail to appear on FlightsFrom. I’m targeting an expected range around 32–35, but acknowledge a meaningful tail at 30–31 if a few marginal routes don’t materialize in the listing.",
+    "probability": 67
+  },
+  "usage": {
+    "inputTokens": 1978,
+    "outputTokens": 2024,
+    "totalTokens": 4002,
+    "reasoningTokens": 1536,
+    "cachedInputTokens": 0
+  }
+}

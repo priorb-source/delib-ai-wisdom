@@ -1,0 +1,26 @@
+{
+  "forecastId": "37638-diverse_info-gpt5-3",
+  "questionId": 37638,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info1",
+  "groupId": "37638-diverse_info",
+  "independentForecastId": "37638-gpt5-info1",
+  "otherForecastIds": [
+    "37638-sonnet-info3",
+    "37638-pro-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters highlight constraints I underweighted: (1) the House’s consistent resistance and apparent prioritization of expansion/regulation over prohibition; (2) Abbott’s agenda not including a THC ban and his sole authority to call a special session; (3) compressed House deadlines for moving Senate bills; and (4) strong industry/veterans opposition that raises political costs. Forecaster 3’s specifics (e.g., HB 46’s 118–16 House vote, House rewriting a Senate ban into a regulatory bill) strengthen the case that the House is a hard veto point, though I can’t fully verify the exact bill actions cited; directionally, they align with recent-session dynamics. Importantly, I also reassessed the resolution criterion: a “full prohibition” likely means no legal THC sales at all, including the medical program—making SB 3 (which preserves medical) insufficient. Forecaster 2 also correctly notes the resolution requires a signed law; letting a bill become law without signature wouldn’t resolve Yes.",
+    "rationale": "Updating on the stricter reading of “fully prohibit” (i.e., no sales, including medical) and the House’s likely blockade, the path to Yes before July 1 is extremely narrow. A regular-session passage of a total ban would require the House to both advance and adopt a position more restrictive than it has signaled, then get Abbott’s signature. A June special session focused on eliminating all THC sales, including the medical program, is even less plausible given Abbott’s priorities and political optics. Patrick’s pressure cannot substitute for Abbott’s call/signature. Even under a looser interpretation (ban on non-medical retail counts), the House hurdles and timing still make passage difficult but not impossible; that counterfactual would put me closer to ~18–22%. Under the stricter, plain-language interpretation, I drop substantially. I also factor a small chance of last-minute deals and fast-tracking, but those would almost certainly target hemp-derived products while preserving the medical program—insufficient for resolution. Given these considerations, I materially reduce my forecast.",
+    "probability": 9
+  },
+  "usage": {
+    "inputTokens": 2012,
+    "outputTokens": 2616,
+    "totalTokens": 4628,
+    "reasoningTokens": 2176,
+    "cachedInputTokens": 1152
+  }
+}

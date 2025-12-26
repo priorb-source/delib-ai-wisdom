@@ -1,0 +1,26 @@
+{
+  "forecastId": "38098-diverse_info-pro-1",
+  "questionId": 38098,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38098-diverse_info",
+  "independentForecastId": "38098-pro-info1",
+  "otherForecastIds": [
+    "38098-sonnet-info2",
+    "38098-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "The other forecasters and I are in strong agreement on the low probability of a 'Yes' outcome. However, their analyses introduced critical new information and context that I had not considered. Forecaster 2 provided the most impactful evidence: that as recently as March 2025, Rep. Norman's office explicitly denied plans for a Senate run, and more importantly, that Norman has officially filed for his own House re-election. This is hard evidence against an imminent Senate declaration. Forecaster 3 provided a useful strategic framework, identifying the June 30th (Q2) fundraising deadline as the primary, albeit weak, incentive for a pre-July 1 announcement. Both sets of reasoning were highly convincing and highlighted gaps in my initial analysis.",
+    "rationale": "I am updating my forecast downward from 5% to 2%. The new evidence introduced during this deliberation, particularly from Forecaster 2, is the primary driver of this change. My initial forecast was based on the general difficulty of a primary challenge and the lack of preparatory signs. The new information that Norman has not only publicly denied running recently but has also taken the concrete step of filing for re-election to his House seat significantly strengthens the case for 'No'. These actions are directly contradictory to launching a Senate campaign within the next month. While Forecaster 3 correctly identifies the Q2 fundraising deadline as a plausible reason to announce, the complete absence of any campaign groundwork makes it highly improbable that Norman's team could or would launch a campaign so abruptly just to meet that deadline. The combination of explicit denials, contradictory official actions, and the short timeline now makes a declaration before July 1 an extremely low-probability event, warranting a forecast reduction to just above zero to account for radical, unforeseen political shifts.",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 1633,
+    "outputTokens": 2054,
+    "totalTokens": 3687,
+    "reasoningTokens": 1678,
+    "cachedInputTokens": 0
+  }
+}

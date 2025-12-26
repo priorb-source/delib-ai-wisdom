@@ -1,0 +1,26 @@
+{
+  "forecastId": "37649-homo_full-gpt5-1",
+  "questionId": 37649,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37649-homo_full",
+  "independentForecastId": "37649-gpt5-full-1",
+  "otherForecastIds": [
+    "37649-gpt5-full-2",
+    "37649-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s framing is solid: July 1 sits just before the typical ~16‑week activation window, making a miss by a few days plausible. I agree with their emphasis on the lenient resolution criterion (any area marked Available), the Airtel partnership as a possible accelerator, and the logistics/sales-readiness steps that can add weeks. Their 43% feels a touch high but directionally reasonable.\n\nForecaster 3’s “knife‑edge” characterization is apt, but I think 62% overweights accelerants (Airtel, ISLs) and underweights both tail risks (Benin‑style delays) and the modality that initial cells could open as Waitlist (which would not resolve Yes). Given we’re already ~9 weeks post‑license with no public signals, I don’t see the pre‑July flip as more likely than not.\n",
+    "rationale": "- Timing base rate: From license to map “Available” has clustered around ~16 weeks in recent African cases, with a fast tail (~10 weeks, e.g., DRC) and a slow tail (~24 weeks, Benin). Our deadline at ~15.6 weeks is slightly earlier than the typical timeline.\n- Conditioning on no early flip: Being at ~9 weeks with nothing visible reduces the probability mass on very fast timelines. A rough parametric view (median ~16–17 weeks, sd ~5) yields ~35% for ≤15.6 weeks, conditional on being >9 weeks.\n- Factors nudging upward: Airtel Africa partnership could shorten retail/logistics; low density over Chad reduces capacity risk; Starlink sometimes batches rollouts near quarter ends (Q2 ends June 30), and only a single cell needs to show as “Available.” These push the conditional probability into the high 30s/low 40s.\n- Factors holding it back: Landlocked logistics, customs/type-approval/VAT/spectrum fee execution, and Starlink’s tendency to align “Available” with shipment readiness. There’s also a real possibility they open as Waitlist first, which wouldn’t resolve Yes.\n\nNet, I move up modestly from my prior 30% to reflect plausible quarter‑end acceleration and the Airtel effect, but I remain below 50% given the knife‑edge timing and execution risk.",
+    "probability": 40
+  },
+  "usage": {
+    "inputTokens": 2409,
+    "outputTokens": 2545,
+    "totalTokens": 4954,
+    "reasoningTokens": 2048,
+    "cachedInputTokens": 0
+  }
+}

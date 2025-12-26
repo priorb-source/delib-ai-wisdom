@@ -1,0 +1,26 @@
+{
+  "forecastId": "37794-homo_full-pro-2",
+  "questionId": 37794,
+  "condition": "homo_full",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37794-homo_full",
+  "independentForecastId": "37794-pro-full-2",
+  "otherForecastIds": [
+    "37794-pro-full-1",
+    "37794-pro-full-3"
+  ],
+  "forecast": {
+    "review": "My initial forecast was 40%. The other forecasters presented two divergent views. Forecaster 2 (30%) reinforced my initial skepticism by focusing on regression to the mean, the historical rarity of a .400 batting average, and the fragility of maintaining such a high performance. Their reasoning aligned well with my own initial concerns. In contrast, Forecaster 3 (75%) introduced a crucial quantitative argument that I had not considered. They calculated that due to Aaron Judge's existing high average (.414), he would only need to hit approximately .354 over the final ~13 days to keep his overall average above .400. This reframing of the required performance from 'maintaining .400' to 'hitting .354 for two weeks' was extremely compelling and represented a significant new piece of analysis.",
+    "rationale": "I am significantly updating my forecast upward from 40% to 65%. The primary driver for this change is the quantitative analysis provided by Forecaster 3. My original forecast was based on the qualitative difficulty of maintaining a .400 average, which is extremely fragile. However, the calculation showing that Judge only needs to hit ~.354 over the remaining period fundamentally changes the problem. While hitting .354 for two weeks is still a difficult task that requires an elite performance, it is substantially more probable for a player of Judge's caliber on a hot streak than continuing to hit over .400. His current .414 average acts as a significant buffer against the immediate effects of regression. I am not moving all the way to Forecaster 3's 75% because I believe they may be slightly underestimating the risk of a short, sharp slump, a point emphasized by both my initial analysis and Forecaster 2. A single 1-for-15 stretch, which is not uncommon even for great hitters, could erase his buffer. My new forecast of 65% reflects this revised understanding: the probability of a 'Yes' is much higher than I initially thought due to the buffer, but a significant risk of failure remains.",
+    "probability": 65
+  },
+  "usage": {
+    "inputTokens": 2250,
+    "outputTokens": 2663,
+    "totalTokens": 4913,
+    "reasoningTokens": 2209,
+    "cachedInputTokens": 0
+  }
+}

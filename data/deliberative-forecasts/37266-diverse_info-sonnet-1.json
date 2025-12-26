@@ -1,0 +1,26 @@
+{
+  "forecastId": "37266-diverse_info-sonnet-1",
+  "questionId": 37266,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "37266-diverse_info",
+  "independentForecastId": "37266-sonnet-info3",
+  "otherForecastIds": [
+    "37266-gpt5-info2",
+    "37266-pro-info1"
+  ],
+  "forecast": {
+    "review": "Both forecasters make compelling arguments that I should weigh carefully. Forecaster 2's emphasis on the base rate is particularly strong - with only 21 countries worldwide having Level 4 advisories and the State Department's documented preference for incremental escalation, the prior probability of such an upgrade is inherently low. Forecaster 3 claims the current advisory is Level 3, which is crucial information I didn't explicitly verify. If true, this makes an upgrade more plausible than if Mozambique is at Level 2 as Forecaster 2 suggests. Both forecasters emphasize the geographic concentration of security issues in the far north (Cabo Delgado/Niassa), which is a strong argument against a nationwide Level 4 advisory - the State Department has historically used regional advisories for Mozambique rather than blanket nationwide warnings. Forecaster 2's point about the procedural pattern of escalating through levels before reaching Level 4 is well-taken. However, I note that all three of us cluster between 7-20%, suggesting general agreement on the overall low probability despite different emphases.",
+    "rationale": "After reviewing the other forecasters' analyses, I find their arguments about geographic concentration and the State Department's preference for regional advisories particularly persuasive. The insurgency and security issues remain concentrated in northern provinces, distant from the capital and major population centers. For a nationwide Level 4 advisory, we would need to see either: (1) the insurgency spreading to central/southern regions or major cities, or (2) protest violence escalating to catastrophic nationwide levels. Neither seems highly likely in 2 months. The base rate argument is also compelling - Level 4 upgrades are rare events reserved for truly catastrophic situations. However, I remain slightly higher than Forecaster 2's 7% because: (1) active protests create some tail risk of rapid escalation, (2) the insurgency is spreading within the north (Niassa province), and (3) the window is not impossibly short (South Sudan was elevated in March 2025). The question about current advisory level (Level 2 vs Level 3) creates some uncertainty, but even from Level 3, a jump to Level 4 requires extreme deterioration. I'm revising downward from 18% to reflect the stronger geographic concentration argument and base rate considerations, but staying above 7% due to non-trivial protest and insurgency risks.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 2080,
+    "outputTokens": 1402,
+    "totalTokens": 3482,
+    "reasoningTokens": 731,
+    "cachedInputTokens": 0
+  }
+}

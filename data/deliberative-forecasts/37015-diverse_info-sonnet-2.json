@@ -1,0 +1,26 @@
+{
+  "forecastId": "37015-diverse_info-sonnet-2",
+  "questionId": 37015,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37015-diverse_info",
+  "independentForecastId": "37015-sonnet-info1",
+  "otherForecastIds": [
+    "37015-gpt5-info2",
+    "37015-pro-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 introduces important concrete details I underweighted: 50+ PPP lawmakers and a National Candidate Support Committee actively pushing Han to run represents more organized pressure than 'growing support' suggests. This internal party machinery could create scenarios where Han announces despite poor prospects. Forecaster 2's 30% seems high given the structural barriers, but the organized pressure is real. Forecaster 3's emphasis on lack of campaign infrastructure and 'world changes slowly' principle aligns well with my thinking, though their 15% acknowledges more uncertainty than my 8%. Both forecasters make a subtle but important point: the question asks only about announcement, not viability. One could announce under pressure even without infrastructure or realistic prospects. However, I find the higher forecasts (especially 30%) insufficiently account for: (1) the already-missed April 15 deadline being a hard barrier in PPP's stated position, (2) the 66% public opposition suggesting even party pressure might not overcome Han's own rational assessment, (3) zero public signals of movement toward candidacy with only 12 days left, and (4) the significant act of resigning as acting president being required first, which would itself generate major news coverage we haven't seen.",
+    "rationale": "After deliberation, I'm updating modestly upward from 8% to 12%. The organized party pressure (50+ lawmakers, formal support committee) is more substantial than I initially weighted and could create last-minute scenarios where Han announces despite poor prospects. The distinction between 'announcing' versus 'running viable campaign' is valid - pressure could force an announcement even without preparation. However, the fundamental barriers remain overwhelming: missed PPP primary deadline with party leadership's explicit exclusion, 66% public opposition, need to resign by May 4 (12 days away) with no indication this is happening, and complete absence of preparatory signals. The 'world changes slowly' principle strongly favors status quo. While 30% seems to overweight party pressure relative to these structural constraints, my initial 8% may have been too dismissive of political volatility in crisis situations. 12% reflects increased respect for organized internal pressure while maintaining that all observable evidence points toward no announcement.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1859,
+    "outputTokens": 1283,
+    "totalTokens": 3142,
+    "reasoningTokens": 754,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-homo_none-gpt5-1",
+  "questionId": 38311,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "38311-homo_none",
+  "independentForecastId": "38311-gpt5-none-1",
+  "otherForecastIds": [
+    "38311-gpt5-none-2",
+    "38311-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters largely mirror my baseline: White House confirmation plus strong historical precedent and short travel distance make attendance the default. The main addition I found useful is the explicit emphasis that any brief in-person appearance satisfies the resolution, which lowers the bar further. Their downside scenarios (health, acute crisis, security, boycott, rescheduling beyond June) match mine; no new disconfirming evidence was introduced.",
+    "rationale": "Given the alignment across analyses and the reminder that even a curtailed stop counts as Yes, I see a small upward nudge warranted. Tail risks remain non‑trivial over a 2–3 week horizon—especially health or crisis-driven changes or a sudden decision to send a surrogate—but these are outweighed by the official confirmation, diplomatic expectations, and ease of travel to Canada. I’m moving up slightly to reflect the minimal attendance threshold while still reserving probability mass for late-breaking disruptions.",
+    "probability": 93
+  },
+  "usage": {
+    "inputTokens": 1582,
+    "outputTokens": 1223,
+    "totalTokens": 2805,
+    "reasoningTokens": 1024,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37467-diverse_info-gpt5-2",
+  "questionId": 37467,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37467-diverse_info",
+  "independentForecastId": "37467-gpt5-info2",
+  "otherForecastIds": [
+    "37467-sonnet-info3",
+    "37467-pro-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s emphasis on the very short 54‑day window is sound and aligns with my prior view; the base rate of “no filing” over such a short horizon is high absent a catalyst. They don’t explicitly incorporate the newly announced $100M senior secured facility with PIK interest, which further lowers near‑term filing risk. Forecaster 3 adds potentially new details about Q1 2025 (negative gross margin, larger net loss, withdrawn guidance). Those data points reinforce medium‑term distress and the possibility of vendor tightening, but they don’t outweigh the fresh liquidity access and lack of near‑term maturities for the pre‑July 1 window. Also, Forecaster 3 does not factor in the May 7 financing, which is a key mitigating element against an imminent filing.",
+    "rationale": "The decisive factors remain: very short time to the deadline; new $100M senior secured facility with PIK interest (cash‑preserving); ~$116M cash as of March; and no hard debt maturities or cash coupon cliffs before July 1. These point to continuity through the window. The converts at ~17¢ and weak operating metrics (including the negative gross margin and withdrawn guidance, if accurate) indicate elevated medium‑term default risk, but a bankruptcy filing in the next ~7 weeks would likely require an acute trigger: inability to access the new facility, a covenant breach, sudden vendor pullback, or an announced prepack. There’s no evidence of those yet, and a lender just committed new senior secured capital on cash‑sparing terms, which argues against a near‑term filing. Netting all inputs, I keep the probability low but non‑zero to reflect tail risks from covenants or supplier behavior.",
+    "probability": 8
+  },
+  "usage": {
+    "inputTokens": 1803,
+    "outputTokens": 1781,
+    "totalTokens": 3584,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 1024
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37805-homo_none-gpt5-2",
+  "questionId": 37805,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37805-homo_none",
+  "independentForecastId": "37805-gpt5-none-2",
+  "otherForecastIds": [
+    "37805-gpt5-none-1",
+    "37805-gpt5-none-3"
+  ],
+  "forecast": {
+    "review": "Both peers converge on the same key hinge: whether FlightsFrom will list Rota (ROP) and Tinian (TIQ) as scheduled inter-island destinations, and whether a summer seasonal international route (most plausibly Busan or a Japan point) shows up in OAG by early July. Forecaster 2 assumes ROP/TIQ are typically listed and treats 4 as a baseline, which raises the odds that only one additional route is needed; that’s the main upward pressure in their 35%. Forecaster 3 is closer to my prior, emphasizing the volatility of inter-island listings and the difficulty of getting to 5 without at least one new route. I find F3’s stance more convincing: the inclusion of tiny commuter services on FlightsFrom is inconsistent, and summer adds would need to be published already. F2’s 35% seems high absent concrete evidence of a Busan/Japan resumption and confirmed inter-island listings.",
+    "rationale": "The outcome is highly path-dependent on two uncertainties: (1) FlightsFrom inclusion of ROP/TIQ as scheduled, and (2) at least one additional international route operating in the week around July 1. If ROP/TIQ are listed, the count likely sits at 4 (GUM, ICN, ROP, TIQ), and only one incremental route (e.g., PUS or NRT) is needed; that scenario might be ~30–40%. If they are not listed, SPN likely has only GUM and ICN (and maybe PUS), requiring two incremental destinations to clear >4, which is much less likely in the remaining ~6 weeks. Balancing these, I slightly raise my estimate to reflect the plausible summer addition of a Korean or Japan route, but I remain cautious because small-carrier inter-island listings are uncertain and Japan/Busan resumptions in early July would usually already be visible in schedules. I’m moving up modestly from 18% to 22%.",
+    "probability": 22
+  },
+  "usage": {
+    "inputTokens": 1969,
+    "outputTokens": 1639,
+    "totalTokens": 3608,
+    "reasoningTokens": 1216,
+    "cachedInputTokens": 0
+  }
+}

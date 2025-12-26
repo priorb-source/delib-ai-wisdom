@@ -1,0 +1,26 @@
+{
+  "forecastId": "37052-diverse_none-pro-1",
+  "questionId": 37052,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "37052-diverse_none",
+  "independentForecastId": "37052-pro-none",
+  "otherForecastIds": [
+    "37052-sonnet-none",
+    "37052-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Both other forecasters provide strong, evidence-based analyses that are broadly aligned with my own. We all correctly identify the high base rate of successful coups in Africa from 2020-2023 as the primary driver of risk. Forecaster 2's explicit tempering factors and Forecaster 3's more rigorous Poisson probability calculation (`1 - exp(-λt)`) are valuable additions. The most crucial point, raised by both but articulated most clearly by Forecaster 3, is the lack of any successful coups since August 2023. This is a powerful piece of evidence I had not weighted heavily enough. This ~20-month period with zero successes, despite several attempts, suggests the 'coup contagion' may have cooled or that incumbents (many of whom are now military juntas) have become more resilient. While both forecasters noted this trend, they maintained their forecasts in the mid-20s, anchoring to the 2020-2023 base rate. I find their evidence of a cooldown more compelling than their final number, as it suggests the true current risk is lower than during the peak period.",
+    "rationale": "My initial forecast of 22% was heavily influenced by the high frequency of successful coups in the Sahel between 2020 and 2023. After reviewing the other analyses, I am placing more weight on the counter-signal they highlighted: there have been no successful coups in the specified regions since the one in Gabon in August 2023. This is a significant period of nearly two years. While recent failed attempts in Chad, the DRC, and Bolivia confirm that the underlying drivers of instability and coup-plotting intent persist, the consistent lack of *success* is a critical factor. It suggests that either potential plotters are less capable or incumbent regimes are now more effective at coup-proofing, raising the bar for a successful takeover. Therefore, a simple extrapolation of the 2020-2023 base rate is likely too high. I believe the probability is lower than my initial estimate and the estimates of my peers. I am updating my forecast downward from 22% to 19%. This revision acknowledges that the risk remains substantial due to persistent instability and recent attempts, but discounts that risk to reflect the now-lengthy trend of failed, rather than successful, coups.",
+    "probability": 19
+  },
+  "usage": {
+    "inputTokens": 2882,
+    "outputTokens": 2562,
+    "totalTokens": 5444,
+    "reasoningTokens": 2060,
+    "cachedInputTokens": 0
+  }
+}

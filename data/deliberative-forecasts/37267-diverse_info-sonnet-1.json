@@ -1,0 +1,26 @@
+{
+  "forecastId": "37267-diverse_info-sonnet-1",
+  "questionId": 37267,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37267-diverse_info",
+  "independentForecastId": "37267-sonnet-info2",
+  "otherForecastIds": [
+    "37267-gpt5-info3",
+    "37267-pro-info1"
+  ],
+  "forecast": {
+    "review": "The other forecasters raised several important points I had underweighted. Forecaster 2 identified critical new information: May 1, 2025 US sanctions tied to renewed violence, suggesting fresh deterioration just one day before the current date. This is a meaningful recent signal I hadn't fully incorporated. Both forecasters noted that parts of Ethiopia are already at Level 4, which I failed to explicitly consider - the question is really about nationwide upgrade, not initial designation. \n\nMost significantly, Forecaster 3 revealed that Ethiopia was downgraded FROM Level 4 to Level 3 in early 2023, meaning it held Level 4 status during the acute Tigray war phase. This historical precedent substantially increases the plausibility of returning to Level 4, as the State Department has already deemed Ethiopia worthy of that designation in the recent past.\n\nHowever, I remain more anchored to the base rate than the other forecasters. Their 15-20% range implies roughly 3-4x the annual base rate for Level 3 upgrades, which seems high given the 60-day timeframe and absence of reported imminent crisis indicators (no embassy drawdown, no nationwide offensive, no mass-casualty events involving foreigners). The recent sanctions signal concern but don't typically trigger Level 4 alone - actual acute security deterioration does.\n\nThe directional disagreement is meaningful: they see more near-term risk, I see more status quo inertia. The new information warrants updating upward, but not to their range.",
+    "rationale": "I'm updating my forecast upward from 7% to 11% based on three key pieces of new information: (1) May 1, 2025 US sanctions indicating very recent escalation and official concern, (2) Ethiopia's recent history at Level 4 until early 2023, showing the State Department has recently deemed it worthy of the highest advisory, and (3) some regions already being at Level 4, meaning the infrastructure for such designations exists.\n\nHowever, I'm not updating as high as 15-20% because the base rate argument remains powerful. Only 2-4 of 25-35 Level 3 countries get upgraded annually (6-13% yearly, or ~1-2% over 2 months for a random Level 3 country). Even accounting for Ethiopia being higher-risk than average, the 60-day window is very short for the necessary dramatic deterioration to occur and be officially recognized through policy change.\n\nThe fact that Ethiopia was downgraded from Level 4 to Level 3 in early 2023 cuts both ways: it shows Level 4 is possible, but it also indicates an improving trajectory over the past 2+ years. Reversing that trajectory in 60 days would require a major shock that isn't currently evident. The sanctions show concern but aren't themselves a Level 4 trigger - embassy evacuations, nationwide conflict spread, or major attacks on foreigners would be needed.",
+    "probability": 11
+  },
+  "usage": {
+    "inputTokens": 2504,
+    "outputTokens": 1535,
+    "totalTokens": 4039,
+    "reasoningTokens": 732,
+    "cachedInputTokens": 0
+  }
+}

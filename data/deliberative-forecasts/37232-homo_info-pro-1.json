@@ -1,0 +1,26 @@
+{
+  "forecastId": "37232-homo_info-pro-1",
+  "questionId": 37232,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37232-homo_info",
+  "independentForecastId": "37232-pro-info1-1",
+  "otherForecastIds": [
+    "37232-pro-info2-2",
+    "37232-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 20% was fundamentally flawed. It was based entirely on the assumption that a predictable corporate event—the Q1 2025 earnings report—would necessitate a post on the company's News page. Both Forecaster 2 and Forecaster 3 presented a critical and convincing counter-argument I had missed: Virgin Galactic has a precedent of not posting financial results on this specific page, instead using Investor Relations channels. Forecaster 3's point that the Q4 2024 earnings in February did not generate a post is a powerful piece of recent evidence that invalidates my core premise. Their reasoning, combined with the context of the company's operational flight hiatus, is far more robust than my original analysis.",
+    "rationale": "I am making a significant update to my forecast based on the deliberation. My previous reasoning, which relied on the Q1 earnings report as the primary driver for a 'No' outcome, has been proven incorrect by the other forecasters. They correctly pointed out that financial news is not typically posted on the main News page, a fact supported by the lack of a post for the Q4 2024 earnings earlier in the year. With this predictable catalyst removed, the analysis shifts to weigh the status quo much more heavily. The company is in a three-month communication silence, which is consistent with its broader operational hiatus as it develops its Delta-class fleet. This 'heads-down' period is the most likely state to continue through another month. I have therefore inverted my forecast, moving from a high probability of a post to a high probability of continued silence. The remaining 20% chance of a post (a 'No' outcome) accounts for other, less predictable events, such as an announcement about the final VSS Unity flight, a major partnership, or a significant technical milestone.",
+    "probability": 80
+  },
+  "usage": {
+    "inputTokens": 1665,
+    "outputTokens": 1874,
+    "totalTokens": 3539,
+    "reasoningTokens": 1484,
+    "cachedInputTokens": 0
+  }
+}

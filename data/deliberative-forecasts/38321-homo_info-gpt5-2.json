@@ -1,0 +1,26 @@
+{
+  "forecastId": "38321-homo_info-gpt5-2",
+  "questionId": 38321,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "38321-homo_info",
+  "independentForecastId": "38321-gpt5-info2-2",
+  "otherForecastIds": [
+    "38321-gpt5-info1-1",
+    "38321-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "- New information: Forecaster 2 cites on-record White House confirmation of Trump’s attendance; that’s a material update I hadn’t incorporated. Both forecasters also specify dates (June 24–26) and note standard pre-trip signals (bilateral schedules, pooled press logistics, advance team sightings) that would further lock in attendance.\n- Useful arguments: Once publicly confirmed, U.S. presidential reversals are rare; skipping would incur diplomatic costs. Forecaster 3 raises the Hague/ICC optics as a modest downside risk and notes the G7 timing makes back-to-back travel plausible.\n- I find the confirmation especially persuasive; absent a crisis, the base rate of follow-through after a public commitment is high. The postponement-out-of-June edge case is a good catch affecting resolution criteria.\n- Remaining risk tails: sudden domestic emergency/health/security issues, or an unexpected strategic snub; also the low-probability scenario of summit postponement beyond June.",
+    "rationale": "I’m updating upward from 86% to 92% primarily due to the reported on-record White House confirmation of attendance, which significantly increases stickiness relative to my prior. The short lead time (~3 weeks) further reduces the window for disruptive events. The incentives for Trump to attend remain strong (public leverage on allied defense spending, credit-claiming), and the diplomatic cost of a no-show after confirmation is high.\nI’m not higher than low-90s because non-trivial tail risks persist: unforeseen domestic or security crises, health issues, or a last-minute political decision. The Hague/ICC optics marginally raise the chance of an avoidance calculus, though logistics can mitigate that. Another small tail is an external shock leading to postponement out of June, which would resolve No under the question’s criteria.\nI would move higher with final day-by-day schedule releases, pooled press guidance, and Air Force One wheels-up; I would move lower on credible reports of delegation downgrading, emergent crises, or any hint of postponement/cancellation.",
+    "probability": 92
+  },
+  "usage": {
+    "inputTokens": 1698,
+    "outputTokens": 1329,
+    "totalTokens": 3027,
+    "reasoningTokens": 896,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37831-diverse_full-pro-1",
+  "questionId": 37831,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37831-diverse_full",
+  "independentForecastId": "37831-pro-full",
+  "otherForecastIds": [
+    "37831-sonnet-full",
+    "37831-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasters agree on the baseline: the Malian junta is consolidating power, has a history of ignoring external pressure, and is unlikely to make a major policy reversal in the short ~40-day timeframe. My initial forecast was the most pessimistic at 5%, while the others were at 8% and 12%. The key differences lie in how much weight we assign to potential, low-probability drivers of a 'Yes' outcome. Forecaster 2 rightly emphasized that legal challenges filed in multiple courts create several pressure points, slightly increasing the chance of an unexpected judicial outcome. However, Forecaster 3 provided the most compelling new argument: the possibility of a 'face-saving partial retreat.' This scenario, where the junta rescinds the current decree but immediately replaces it with a new, highly restrictive legal framework for political parties, is a much more plausible path to a 'Yes' resolution than a full capitulation. It would allow the regime to claim it has successfully 'rationalized' the political landscape while technically meeting the resolution criteria. This argument is highly persuasive and was not something I had explicitly modeled in my initial assessment.",
+    "rationale": "I am updating my forecast from 5% to 10%. My initial reasoning was heavily weighted towards the 'No' outcome, seeing a 'Yes' as plausible only in the case of a 'black swan' event like a coup, massive protests, or an unexpectedly successful Supreme Court ruling that the junta obeyed. The deliberation has convinced me that this view was too narrow. Forecaster 3's framing of a 'face-saving partial retreat' introduces a more strategic and politically plausible scenario for a 'Yes'. The junta could declare victory in its effort to reform the political system and then issue a new decree that allows for the formation of parties under strict new rules. This would resolve the question as 'Yes' without representing a genuine liberalization or a sign of weakness for the regime. The combined pressure from multiple domestic court cases (as noted by Forecaster 2) and international condemnation could incentivize the junta to take this tactical step sooner rather than later to quell dissent. However, the extremely short timeframe remains the single biggest argument against a 'Yes' resolution. Drafting, approving, and implementing even a restrictive new framework before July 1 is a significant administrative and political challenge. Therefore, while I am doubling my probability based on this more plausible pathway to a 'Yes', I remain skeptical it will happen this quickly, which keeps me below Forecaster 3's 12%. My new forecast of 10% reflects this newly considered scenario tempered by the powerful time constraint.",
+    "probability": 10
+  },
+  "usage": {
+    "inputTokens": 1997,
+    "outputTokens": 2310,
+    "totalTokens": 4307,
+    "reasoningTokens": 1765,
+    "cachedInputTokens": 0
+  }
+}

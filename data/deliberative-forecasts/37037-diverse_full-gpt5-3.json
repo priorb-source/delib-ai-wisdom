@@ -1,0 +1,26 @@
+{
+  "forecastId": "37037-diverse_full-gpt5-3",
+  "questionId": 37037,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37037-diverse_full",
+  "independentForecastId": "37037-gpt5-full",
+  "otherForecastIds": [
+    "37037-pro-full",
+    "37037-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters rightly emphasize status quo inertia, the short runway to June 1, and the signaling problem of carving out a single small country from a formula-based framework. I find Forecaster 2’s point about exceptions undermining the framework particularly compelling, and Forecaster 3’s reminder that such trade changes normally take months aligns with my timing assessment. Neither explicitly addressed a technical implementation risk I had flagged: whether the HTS will explicitly list “Lesotho 50%” versus handling it generically via Chapter 99 or CBP guidance. That said, given the policy’s country-by-country nature and the need for clear administration, the odds favor an explicit listing persisting through June 1.",
+    "rationale": "Baseline: The 50% tariff took effect April 9 and the 90‑day pause was not extended to Lesotho. The resolution is keyed to the HTS listing, and suspended status still counts, which reduces downside from possible temporary relief. The window to June 1 is short, and creating a bespoke carve‑out (or expanding the pause to include Lesotho) would both undercut the reciprocal-tariff framework and invite broader claims, making it politically and administratively unlikely on this timeframe. Main No paths: (1) a late-breaking LDC/Lesotho exemption or extension of the pause; (2) a formula tweak lowering Lesotho’s rate; (3) HTS presentation changes that remove an explicit “Lesotho 50%” listing. I still see these as low probability before June 1. I’m nudging up from 83% to 86% on the strength of the framework-consistency argument and typical trade-policy timelines, which further favor the status quo holding on the HTS page into early June.",
+    "probability": 86
+  },
+  "usage": {
+    "inputTokens": 2258,
+    "outputTokens": 2357,
+    "totalTokens": 4615,
+    "reasoningTokens": 1984,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37812-diverse_info-sonnet-2",
+  "questionId": 37812,
+  "condition": "diverse_info",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "info1",
+  "groupId": "37812-diverse_info",
+  "independentForecastId": "37812-sonnet-info1",
+  "otherForecastIds": [
+    "37812-gpt5-info2",
+    "37812-pro-info3"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 provides the most critical piece of information I was missing: concrete baseline data showing Beirut currently has only 39 direct destinations (May 2025), down from 53 in May 2024. This is a 26% decline and fundamentally changes the calculation. To resolve Yes, we need to add 13+ destinations in just 6 weeks - a massive expansion that seems implausible given that airline schedules are largely locked in by this point. Forecaster 2's traffic data (Q1 2025 down 1.42% YoY, transit down >92%) and mention of Iranian flight restrictions further supports this pessimistic view. Both forecasters correctly emphasize that summer schedules are essentially set 6 weeks out, making rapid expansion unlikely. My original forecast of 58% was far too optimistic because I incorrectly assumed we were already near the threshold. The research assistant's list of 6-7 confirmed route additions (SAS, Emirates, Air France, Wizz Air, MEA Barcelona, LOT Polish) might add 8-12 destinations at most, still leaving us short of 52. While summer seasonality could add a few leisure routes to Greece/Turkey/Egypt, the security environment makes these cancellation-prone. The gap from 39 to 52+ is simply too large to close in the remaining timeframe under current conditions.",
+    "rationale": "I am significantly revising my forecast downward based on the concrete baseline data. Starting from 39 destinations and needing to reach 52+ in 6 weeks requires adding 13+ routes - an expansion that would be remarkable even in stable conditions, let alone with ongoing regional tensions. The confirmed route additions (Emirates second daily, SAS resumptions, new Wizz Air/LOT Polish routes) might optimistically add 10-12 destinations if all materialize without cancellations. Summer seasonality could add another 3-5 leisure destinations. However, this barely gets us to 52-56 in the best case, and that assumes: (1) no cancellations from the current 39, (2) all announced routes actually launch, (3) additional unannounced seasonal routes materialize, and (4) no security deterioration. The Iranian flight restrictions mentioned by Forecaster 2 actually reduce the ceiling. Given the short timeline, locked-in airline schedules, and security risks, reaching 52+ is a low-probability outcome. I'm updating from 58% to 22%, closer to Forecaster 3's assessment but slightly higher to account for summer seasonality upside and the confirmed route additions.",
+    "probability": 22
+  },
+  "usage": {
+    "inputTokens": 2431,
+    "outputTokens": 1525,
+    "totalTokens": 3956,
+    "reasoningTokens": 820,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-homo_info-gpt5-2",
+  "questionId": 38080,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "38080-homo_info",
+  "independentForecastId": "38080-gpt5-info2-2",
+  "otherForecastIds": [
+    "38080-gpt5-info1-1",
+    "38080-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2’s pathway analysis tracks my prior view: the most likely route to Yes is rapid injunctive relief, but there’s meaningful executive-branch deference and appellate stay risk. Their 60% reflects putting more weight on courts preserving the status quo given large student harms. Forecaster 3 introduces a critical new fact claim: a TRO was issued May 23 and a PI hearing is set for May 29. If accurate, that flips the status quo to “certification active,” which materially raises the odds Harvard remains certified on July 1. I find F3’s sequencing analysis persuasive: to get to No by July 1, several fast, adverse steps must stack (PI denied, TRO lapses without extension, no injunction pending appeal, or a rapid stay by the First Circuit/SCOTUS). That’s a tighter path than maintaining an injunction through the date. I do flag that the TRO claim wasn’t in the research assistant’s summary; if it’s wrong, my update would be smaller. But given plausibility and how courts often act in these contexts, I give it substantial weight.",
+    "rationale": "Updating from 42% to 66%. The reported TRO (May 23) and imminent PI hearing (May 29) shift the status quo to Harvard being able to enroll international students, and courts typically aim to preserve that status quo when third-party harms are large and imminent. That makes a Yes by July 1 more likely via: (a) PI granted and maintained; (b) TRO extended; or (c) injunction pending appeal if needed. I haircut for real appellate-stay risk (First Circuit or SCOTUS), the executive’s deference in immigration/national-security-adjacent matters, and the possibility DHS reissues a procedurally buttressed revocation framed as security/compliance—any of which could flip the posture before July 1. If the TRO report proves incorrect, I’d revert closer to ~45–50%. If the PI is granted with strong language or TRO extended explicitly through July 1, I’d move up into the 70s.",
+    "probability": 66
+  },
+  "usage": {
+    "inputTokens": 2752,
+    "outputTokens": 1854,
+    "totalTokens": 4606,
+    "reasoningTokens": 1408,
+    "cachedInputTokens": 0
+  }
+}

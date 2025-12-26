@@ -1,0 +1,26 @@
+{
+  "forecastId": "37811-diverse_none-gpt5-3",
+  "questionId": 37811,
+  "condition": "diverse_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37811-diverse_none",
+  "independentForecastId": "37811-gpt5-none",
+  "otherForecastIds": [
+    "37811-pro-none",
+    "37811-sonnet-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds a clear base-rate framing and notes that any administration intent to remove such a high-profile site would likely have shown clearer signals by now; they also flag government shutdown risk, which is minimal around July 1. Forecaster 3 emphasizes the short time horizon and bureaucratic inertia but assigns more weight to political risk from climate data removal. I agree with both on strong institutional inertia and the short window. I find 98% a bit too high given single-source resolution risk (a transient outage at the moment Metaculus checks) and low-probability technical/cyber issues. I find 87% too low because it likely overweights political removal while underweighting that even if content changes, the domain typically remains reachable (often via redirect), which would still count as UP.",
+    "rationale": "Climate.gov is currently up, and only ~6 weeks remain. Historical precedent strongly favors domain persistence even amid content changes. A deliberate decommissioning before July 1 would likely be telegraphed and, even then, often preserves domain reachability via redirects. The resolution’s “on or after July 1” further reduces the chance that a transient outage drives a No. Residual risks include a targeted takedown, a cyber incident, DNS/SSL misconfiguration, or an unlucky transient outage coinciding with the single check by the resolver. Given the absence of signals of decommissioning and low seasonal shutdown risk, I slightly raise my estimate to reflect the strong status quo and short timeline while retaining some buffer for low-probability technical/political events.",
+    "probability": 95
+  },
+  "usage": {
+    "inputTokens": 1648,
+    "outputTokens": 1809,
+    "totalTokens": 3457,
+    "reasoningTokens": 1472,
+    "cachedInputTokens": 0
+  }
+}

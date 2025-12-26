@@ -1,0 +1,26 @@
+{
+  "forecastId": "37233-diverse_full-sonnet-2",
+  "questionId": 37233,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37233-diverse_full",
+  "independentForecastId": "37233-sonnet-full",
+  "otherForecastIds": [
+    "37233-pro-full",
+    "37233-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises a critical point I underweighted: the 2020 timing precedent. Ouattara declared in August 2020 for the October election - only 2 months beforehand. This historical base rate strongly suggests a declaration timeline that would fall AFTER June 1, 2025. Forecaster 3 also correctly notes that the weakened opposition (Thiam ruled ineligible just in late April) actually REDUCES urgency for early declaration, contrary to my initial reasoning. Forecaster 2's emphasis on minister statements as strong signals is valid, but may overweight loyalty displays versus actual timing indicators. The key oversight in my original analysis was failing to anchor on the relevant base rate and not fully appreciating that we have only 32 days until June 1 with no announced RHDP event scheduled for May that would serve as a natural venue for declaration. The ministers' statements indicate eventual candidacy but don't necessarily signal imminent timing - indeed, they may reflect pressure tactics or loyalty displays rather than knowledge of specific announcement plans.",
+    "rationale": "Updating significantly downward based on three key factors: (1) The 2020 precedent of an August declaration for October election provides strong base rate evidence for post-June 1 timing. (2) Incumbents typically delay formal declarations for strategic advantage, and Ouattara's 4-month silence since January suggests continued strategic delay. (3) The weakened opposition field actually reduces pressure for early declaration rather than increasing it. The coordinated minister statements remain a signal of eventual candidacy, but don't override the timing precedent. With only 32 days remaining and no scheduled May RHDP event announced, a pre-June 1 declaration would represent a departure from Ouattara's 2020 pattern without clear triggering factors. The probability should be anchored closer to the base rate unless specific new information emerges about May timing.",
+    "probability": 42
+  },
+  "usage": {
+    "inputTokens": 2433,
+    "outputTokens": 1368,
+    "totalTokens": 3801,
+    "reasoningTokens": 895,
+    "cachedInputTokens": 0
+  }
+}

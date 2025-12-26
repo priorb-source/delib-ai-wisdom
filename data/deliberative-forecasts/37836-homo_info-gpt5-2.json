@@ -1,0 +1,26 @@
+{
+  "forecastId": "37836-homo_info-gpt5-2",
+  "questionId": 37836,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 2,
+  "infoLabel": "info2",
+  "groupId": "37836-homo_info",
+  "independentForecastId": "37836-gpt5-info2-2",
+  "otherForecastIds": [
+    "37836-gpt5-info1-1",
+    "37836-gpt5-info3-3"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 adds concrete, if unverified, route specifics (Aegean ATH launched; Eurowings CGN for summer) and a “21 countries” regional stat. Those would support a Yes if they are indeed scheduled and reflected on FlightsFrom by July. They also flag the key caveats (Sulaymaniyah included in the 21, FlightsFrom coverage limits), which I agree are material. Forecaster 3 rightly emphasizes that by late spring, most summer schedules are already loaded, and July 1 falls after Hajj—so any Hajj-driven bump may not help. They also highlight the risk of temporary suspensions and the possibility that, absent confirmed new routes, the count sits near the threshold. I find F3’s caution about timing and schedule visibility persuasive enough to trim my prior, while F2’s route anecdotes (if accurate) still justify a modest tilt to Yes.",
+    "rationale": "I started at 74% on the view that EBL typically peaks in summer and has a broad, resilient base across Turkey, the Gulf, and the region, with incremental 2025 upgrades (night ops, ICAO inspection) suggesting momentum. The deliberation surfaces two balancing points: (1) most July schedules should already be visible now—so upside from additional mid‑season launches is limited; (2) July 1 is after Hajj, so any Hajj-specific services are less likely to be counted on FlightsFrom. On the upside, if Aegean ATH is indeed operating and Eurowings CGN is loaded for July, those are tangible additions that could push EBL over the 32 mark even if a few thinner routes drop. On the downside, FlightsFrom’s scheduled-only snapshot may exclude some borderline/charter operations, and there’s non-trivial risk of short-notice suspensions in this region that could shave the count right around the check date. Netting these, I still lean Yes but with less confidence. I’m lowering my forecast from 74% to 62% to reflect schedule-timing constraints and post‑Hajj seasonality, while maintaining a modest edge for summer breadth and plausible European/Turkish/Gulf seasonal adds.",
+    "probability": 62
+  },
+  "usage": {
+    "inputTokens": 1982,
+    "outputTokens": 3982,
+    "totalTokens": 5964,
+    "reasoningTokens": 3520,
+    "cachedInputTokens": 0
+  }
+}

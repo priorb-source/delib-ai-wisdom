@@ -1,0 +1,26 @@
+{
+  "forecastId": "37460-diverse_none-sonnet-2",
+  "questionId": 37460,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37460-diverse_none",
+  "independentForecastId": "37460-sonnet-none",
+  "otherForecastIds": [
+    "37460-pro-none",
+    "37460-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Both forecasters raise critical points that fundamentally undermine my initial analysis. Most importantly, Forecaster 2 notes the Wikipedia link leads to a non-existent page - this completely invalidates what I treated as a strong positive signal. This was a major error in my reasoning. Both forecasters present compelling empirical evidence I failed to consider: the Global Protest Tracker shows only ONE protest with 10,000+ participants in Turkey in recent years (October 2023), establishing a very low base rate. They also highlight crucial resolution criteria I underweighted: the requirement for a 'start date after launch' means ongoing movements don't count, and GPT's curation practices favor recording distinct protest movements rather than one-off events. Their analysis of Turkey's governmental capacity to suppress protests, combined with the short timeframe (~55 days, not the vague assessment I made), presents strong evidence for a much lower probability. The independent convergence at 15% by two forecasters using different but complementary reasoning is noteworthy. Their identification of specific potential catalysts (Gezi anniversary in late May, Pride in late June) is more concrete than my general assertions. I find their arguments highly convincing, particularly the empirical base rate data and the non-existent Wikipedia page revelation.",
+    "rationale": "I am significantly revising my forecast downward. My initial 65% was anchored on the Wikipedia reference, which appears to be invalid. Without that signal, the empirical evidence strongly supports a much lower probability. The base rate of only one 10,000+ participant protest in recent years in the Global Protest Tracker is the most compelling evidence. Combined with: (1) the very short timeframe of approximately 55 days, (2) Turkey's demonstrated capacity to suppress large demonstrations, (3) GPT's specific curation practices that may not capture all large events or may treat continuation protests as part of existing movements, and (4) the requirement for a start date after question launch, the probability should be substantially lower. However, I'm not going as low as 15% because: Turkey has demonstrated it can mobilize 10,000+ when triggered (October 2023), potential catalysts exist in the timeframe (Gezi anniversary late May), and Turkey's volatile political/economic situation creates some upside risk. My revised forecast of 18% reflects the low base rate while acknowledging non-zero probability of a catalyzing event in the remaining window.",
+    "probability": 18
+  },
+  "usage": {
+    "inputTokens": 2194,
+    "outputTokens": 1421,
+    "totalTokens": 3615,
+    "reasoningTokens": 755,
+    "cachedInputTokens": 0
+  }
+}

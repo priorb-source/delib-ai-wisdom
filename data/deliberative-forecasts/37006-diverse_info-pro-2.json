@@ -1,0 +1,26 @@
+{
+  "forecastId": "37006-diverse_info-pro-2",
+  "questionId": 37006,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "info3",
+  "groupId": "37006-diverse_info",
+  "independentForecastId": "37006-pro-info3",
+  "otherForecastIds": [
+    "37006-gpt5-info1",
+    "37006-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "I have reviewed the analyses from two other forecasters. Forecaster 2, at 65%, correctly identifies the historical baseline and the Bloc's vote efficiency advantage but, in my view, places too much weight on the volatility of Quebec politics. However, they introduce a valuable concept: a strong Liberal surge could 'compress' the Bloc's seat count, lowering the number of seats the Conservatives would need to win. Forecaster 3, at 78%, provides the most compelling new evidence: specific polling data showing the Bloc's support has eroded significantly (to 23-27%) and is now much closer to the Conservatives' stable support (23%). This tightens the popular vote race considerably.",
+    "rationale": "My initial forecast of 85% was heavily weighted by the large seat advantages the Bloc held in the last two elections (32 to 10) and current seat projections showing a continued, albeit smaller, lead. After deliberation, I am lowering my forecast. The specific polling data cited by Forecaster 3, showing the popular vote gap between the Bloc and Conservatives has narrowed significantly, is the primary reason for this change. A race where the parties are polling within a few points of each other is inherently more volatile than historical seat counts suggest. This makes Forecaster 2's scenario—where a three-way race in many ridings compresses the Bloc's total and allows the Conservatives to surpass them with only modest gains—more plausible. I am revising my forecast down from 85% to 80%. I am not lowering it further because the Bloc still holds significant structural advantages. Their support is more geographically efficient for winning seats than the Conservatives' regionally-concentrated base. The CPC would likely need to decisively win the popular vote among francophones to overcome this structural disadvantage, and current data still shows the Bloc with a lead. The Bloc remains the clear favorite, but the path to a Conservative victory is more credible than I initially assessed.",
+    "probability": 80
+  },
+  "usage": {
+    "inputTokens": 1720,
+    "outputTokens": 2492,
+    "totalTokens": 4212,
+    "reasoningTokens": 2074,
+    "cachedInputTokens": 0
+  }
+}

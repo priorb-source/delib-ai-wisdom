@@ -1,0 +1,26 @@
+{
+  "forecastId": "37660-diverse_full-pro-1",
+  "questionId": 37660,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37660-diverse_full",
+  "independentForecastId": "37660-pro-full",
+  "otherForecastIds": [
+    "37660-sonnet-full",
+    "37660-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My peers and I have identified the same core tension: the approved license and tariffs suggest Starlink is close to launch, but this is counteracted by a significant, last-minute hold from the Sri Lankan government over national security and data interception requirements. Forecaster 2 (30%) is more pessimistic, anchoring heavily on the missed April launch deadline and the 'preliminary' stage of security talks as strong evidence that this is a difficult, time-consuming hurdle, similar to delays seen in Pakistan. Forecaster 3 (44%) is slightly more optimistic, giving more weight to the groundwork already laid (license, tariffs) and the possibility that with regional momentum, these final security issues could be resolved quickly within the remaining ~6-week window. Both analyses compellingly frame the problem as a race between bureaucratic/security approvals and the operational readiness of Starlink.",
+    "rationale": "After reviewing my peers' analyses, I am revising my forecast downward from 40% to 35%. The deliberation has convinced me to assign more weight to the negative signals. Forecaster 2's argument that the missed April deadline is a concrete piece of evidence of a significant roadblock is particularly compelling. My initial forecast may have understated the difficulty of resolving lawful intercept requirements with a country's defense ministry, which are often slow and complex negotiations. The fact that discussions were described as 'preliminary' in late March makes a resolution before July 1 less likely. While Forecaster 3 correctly notes that Starlink can launch quickly once cleared, the clearance itself is the major uncertainty. The parallel to Pakistan's security-related delays, highlighted by Forecaster 2, now seems more relevant to Sri Lanka's situation than the faster progress in Bangladesh. Therefore, I believe the probability of overcoming this specific, high-level government hurdle within the next six weeks is lower than I initially assessed.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 1889,
+    "outputTokens": 2403,
+    "totalTokens": 4292,
+    "reasoningTokens": 2007,
+    "cachedInputTokens": 0
+  }
+}

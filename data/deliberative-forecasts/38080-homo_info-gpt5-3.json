@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-homo_info-gpt5-3",
+  "questionId": 38080,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "38080-homo_info",
+  "independentForecastId": "38080-gpt5-info3-3",
+  "otherForecastIds": [
+    "38080-gpt5-info1-1",
+    "38080-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "- Forecaster 2 appears to misstate the current status quo. With a TRO issued on May 23 halting enforcement, Harvard’s SEVP certification is presently treated as active. That undermines their framing that the default path is No. Their deference arguments are valid but underweight the stickiness of injunctive relief and the short horizon.\n- Forecaster 3 raises a useful risk I had underweighted: the possibility that even if Harvard wins preliminary relief, the government could obtain a rapid stay from the First Circuit or Supreme Court before July 1. They also emphasize executive deference in immigration/national-security-adjacent contexts, which is a real downside risk.\n- Both correctly highlight that large, immediate, third-party harms favor injunctive relief, and that 2020 litigation is a relevant, if imperfect, precedent. Neither fully integrates that a TRO is already in place, which raises the bar for a No outcome by July 1 because it requires multiple adverse steps in a compressed window.",
+    "rationale": "Key facts: DHS revoked SEVP certification on May 22; a TRO granted May 23 currently blocks enforcement, so Harvard’s certification is active. A preliminary injunction hearing is set for May 29. Under FRCP 65, TROs are short but can be extended for good cause or supplanted by a PI. The question resolves Yes if certification is in effect at any point on July 1.\n\nPath to Yes (most likely): The court grants a PI on or soon after May 29, maintaining certification pending litigation. Given the TRO, substantial irreparable harm to thousands of students, and the purpose of preliminary relief to preserve the status quo, this is plausible. If a PI issues, the government could seek a stay, but obtaining one from the First Circuit and then the Supreme Court before July 1 is possible yet nontrivial in the short window, especially for a narrow order affecting a single institution.\n\nPath to No: The judge denies a PI; the TRO expires around early June; the district court declines to extend the TRO pending appeal; the First Circuit also declines an injunction pending appeal—or, if a PI is granted, higher courts rapidly stay it before July 1. This requires a sequence of timely, adverse decisions for Harvard.\n\nUpdate after deliberation: I previously weighted the TRO and short horizon heavily and set a high probability. I’m nudging down modestly to account for the real risk—highlighted by Forecaster 3—that higher courts could stay preliminary relief quickly, and for executive-branch deference in SEVP/immigration contexts. Still, with the TRO already in place and a strong irreparable-harm showing, the most likely outcome is that some form of injunctive relief remains in effect on July 1.\n",
+    "probability": 73
+  },
+  "usage": {
+    "inputTokens": 2758,
+    "outputTokens": 2829,
+    "totalTokens": 5587,
+    "reasoningTokens": 2240,
+    "cachedInputTokens": 0
+  }
+}

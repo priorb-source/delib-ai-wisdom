@@ -1,0 +1,26 @@
+{
+  "forecastId": "38321-diverse_info-gpt5-3",
+  "questionId": 38321,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info1",
+  "groupId": "38321-diverse_info",
+  "independentForecastId": "38321-gpt5-info1",
+  "otherForecastIds": [
+    "38321-sonnet-info2",
+    "38321-pro-info3"
+  ],
+  "forecast": {
+    "review": "Both forecasters make solid, status-quo arguments. I find Forecaster 2’s emphasis on timing (we’re already in June) and the note about ongoing spending negotiations (e.g., a 3.5% + 1.5% framework) directionally supportive, as it implies active presidential engagement tied to the summit’s agenda. That’s a useful addition I hadn’t explicitly weighed. Forecaster 3’s point about planned G7 attendance close in time is a plausible corroborating signal of travel posture and willingness to engage in summitry, though I’d assign it modest weight absent independent confirmation of those exact dates and plans. Both slightly underplay tail risks specific to Trump (last‑minute tactical reversals, using non-attendance as leverage), but overall their arguments justify nudging upward from my prior. The combination of explicit White House confirmation and allied confirmations still dominates the evidence.",
+    "rationale": "Baseline: The White House has publicly confirmed attendance, and allied leaders have echoed it—historically, once such trips are on the books, cancellations are rare. The summit’s agenda (defense spending targets, Ukraine, alliance cohesion) aligns with Trump’s leverage-focused approach; the platform value is high. Additional signals from the other forecasters—active negotiations on spending and proximity to other summit travel—incrementally increase the likelihood he follows through. Countervailing risks remain: Trump’s idiosyncratic decision-making, potential domestic crises, security concerns, and the possibility of a deliberate snub for bargaining purposes. Given the timing (early June) and strong official signals, I’m comfortable moving up a few points from 87. I would move to the mid-to-high 90s with “wheels up” or on-the-ground pool reports; I’d cut materially only on credible reports of cancellation, acute domestic emergency, or health/security issues.",
+    "probability": 91
+  },
+  "usage": {
+    "inputTokens": 1444,
+    "outputTokens": 1608,
+    "totalTokens": 3052,
+    "reasoningTokens": 1216,
+    "cachedInputTokens": 1024
+  }
+}

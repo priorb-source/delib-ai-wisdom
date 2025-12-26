@@ -1,0 +1,26 @@
+{
+  "forecastId": "37621-diverse_info-gpt5-1",
+  "questionId": 37621,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info2",
+  "groupId": "37621-diverse_info",
+  "independentForecastId": "37621-gpt5-info2",
+  "otherForecastIds": [
+    "37621-sonnet-info1",
+    "37621-pro-info3"
+  ],
+  "forecast": {
+    "review": "Helpful additions: Forecaster 2 introduces a specific claim that an April vote drew 16/32 yes votes and that the next window is May 20–21. If accurate, needing eight flips in ~1 month is a material hurdle and supports a lower base rate. Forecaster 3 usefully emphasizes the lack of demonstrated injury signal from league health/safety, which weakens the most compelling rationale for urgent change. Both underline the 24-vote supermajority and institutional inertia. Caveat: I can’t independently verify the 16-vote figure; if it’s an informal whip count rather than a formal vote, it’s still directionally informative but should be treated with some uncertainty. I also think both slightly underweight the fact that any restriction (not just a total ban) would resolve the question as Yes, which gives multiple paths, and they may underweight top-down alignment (Goodell/league office/Competition Committee) that can move votes late if the item is formally on the Spring agenda.",
+    "rationale": "My prior (30%) leaned on strong league-office signals, multiple qualifying pathways (any restriction counts), and one remaining decision window in May. The other forecasters strengthen the case for status-quo inertia: (a) if support really sat at ~16 of 32 in April, adding eight yes votes in a month is a high bar; (b) absent clear injury data, owners are less likely to accept a midoffseason on-field change; (c) most substantive rules pass in March, not May. I still keep a non-trivial probability because: (1) leadership alignment can catalyze late movement if it’s on the official agenda; (2) a broadened, pre-2005-style ban on pushing the ball carrier provides a cleaner, less Eagles-targeted frame; and (3) any narrower compromise restriction would still resolve Yes. Net, I nudge down modestly to reflect the vote math and timing constraints while preserving upside if credible agenda/reporting momentum appears before the Spring Meeting.",
+    "probability": 26
+  },
+  "usage": {
+    "inputTokens": 1915,
+    "outputTokens": 1518,
+    "totalTokens": 3433,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

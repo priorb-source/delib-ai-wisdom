@@ -1,0 +1,26 @@
+{
+  "forecastId": "38057-diverse_full-pro-1",
+  "questionId": 38057,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38057-diverse_full",
+  "independentForecastId": "38057-pro-full",
+  "otherForecastIds": [
+    "38057-sonnet-full",
+    "38057-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial analysis aligned with the other forecasters on the core fundamentals: Merab Dvalishvili's dominant win in the first fight establishes a strong baseline, and his wrestling-heavy style is a difficult matchup for Sean O'Malley. Both Forecaster 2 and 3 brought up points that I had considered, but they gave them more appropriate weight, which I find convincing. Specifically, both forecasters placed greater emphasis on the non-trivial risk of a fight cancellation, which resolves as 'No' according to the resolution criteria. Dvalishvili's reported minor injuries, even if he intends to compete, make this a key variable. Forecaster 3's framework of explicitly separating the probability of the fight occurring from the conditional probability of Dvalishvili winning is a particularly useful and rigorous way to structure the problem. I believe my initial forecast did not adequately discount for this cancellation risk.",
+    "rationale": "After reviewing my peers' analyses, I am lowering my forecast from 72% to 68%. The primary reason for this change is that the other forecasters rightly emphasized the impact of a potential fight cancellation on the outcome. The resolution criteria are strict: if the Dvalishvili vs. O'Malley fight does not happen at UFC 316, the question resolves to 'No'. Given Dvalishvili's reported injuries less than two weeks before the event, the risk of a late withdrawal is more significant than I initially weighted.\n\nAdopting Forecaster 3's structured approach, my updated forecast is a product of two factors: the probability of the fight happening and Dvalishvili's conditional win probability. I estimate a roughly 92-93% chance the fight proceeds as scheduled. I have also slightly reduced my conditional confidence in a Dvalishvili victory (from an implicit ~77% to ~74%) to better account for O'Malley's potential for significant improvement. O'Malley is coming off major surgery which could enhance his mobility, has had eight months to focus solely on Dvalishvili's style, and is training with elite partners. While Dvalishvili remains the clear favorite if the fight occurs, these factors warrant a more conservative estimate. This revised calculation (approx. 93% * 73-74%) brings my forecast to 68%, aligning with the consensus that a high-60s probability best reflects the current evidence.",
+    "probability": 68
+  },
+  "usage": {
+    "inputTokens": 1970,
+    "outputTokens": 2563,
+    "totalTokens": 4533,
+    "reasoningTokens": 2049,
+    "cachedInputTokens": 0
+  }
+}

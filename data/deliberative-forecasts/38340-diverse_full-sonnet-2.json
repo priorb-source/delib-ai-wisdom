@@ -1,0 +1,26 @@
+{
+  "forecastId": "38340-diverse_full-sonnet-2",
+  "questionId": 38340,
+  "condition": "diverse_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "38340-diverse_full",
+  "independentForecastId": "38340-sonnet-full",
+  "otherForecastIds": [
+    "38340-pro-full",
+    "38340-gpt5-full"
+  ],
+  "forecast": {
+    "review": "All three forecasts cluster in the 1-4% range, showing strong agreement on the fundamental assessment. Forecaster 2 emphasizes the overwhelming structural barriers - civil war, fragmented government, no legislature, AU suspension - and the impossibility of completing ratification through normal channels in 24 days. Forecaster 3 makes a valuable procedural point I hadn't fully articulated: a de facto executive could theoretically ratify by decree and deposit with the AU Commission, which typically doesn't adjudicate internal constitutional compliance. This provides a more concrete mechanism than my vague 'unexpected developments.' However, Forecaster 3's slightly higher forecast (4%) may underweight two critical factors: (1) Sudan's AU suspension complicates whether such a deposit would be accepted, and (2) competing authority structures mean there's no clear 'executive' whose ratification would be legitimate. Forecaster 2's lower forecast (1%) appropriately emphasizes the complete absence of any preparatory signals despite having a draft strategy from earlier. The key insight from this deliberation is that while a narrow procedural pathway exists in theory, the practical barriers remain overwhelming and there's zero evidence of movement in that direction.",
+    "rationale": "After reviewing both analyses, I find Forecaster 3's procedural mechanism argument technically valid but not materially changing the probability assessment. Yes, an executive could theoretically issue a decree and deposit it with the AU, and yes, the AU might accept it without deep constitutional scrutiny. However, this theoretical pathway faces insurmountable practical obstacles: (1) Sudan has competing power centers, not a single recognized executive who could issue such a decree; (2) Sudan's AU suspension status creates uncertainty about whether such a deposit would be accepted; (3) Most critically, there is zero evidence of any movement toward ratification - no ministerial statements, no draft decrees, no engagement with the AfCFTA Secretariat, nothing. The draft implementation strategy from earlier shows past interest but no current momentum. Even a purely symbolic ratification would require minimal bureaucratic function that doesn't appear to exist in the current chaos. The 24-day timeframe compounds these barriers. While I acknowledge Forecaster 3's procedural insight provides slightly more concrete pathway than I initially articulated, Forecaster 2's emphasis on the complete absence of signals and the depth of institutional collapse is more persuasive. My original 2% appropriately balanced the theoretical possibility against overwhelming practical barriers.",
+    "probability": 2
+  },
+  "usage": {
+    "inputTokens": 2210,
+    "outputTokens": 1579,
+    "totalTokens": 3789,
+    "reasoningTokens": 894,
+    "cachedInputTokens": 0
+  }
+}

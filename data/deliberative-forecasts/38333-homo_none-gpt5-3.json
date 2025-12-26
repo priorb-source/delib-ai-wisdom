@@ -1,0 +1,26 @@
+{
+  "forecastId": "38333-homo_none-gpt5-3",
+  "questionId": 38333,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38333-homo_none",
+  "independentForecastId": "38333-gpt5-none-3",
+  "otherForecastIds": [
+    "38333-gpt5-none-1",
+    "38333-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the short time remaining and the lack of pre-launch signals, which aligns with my baseline but they add two useful Florida-specific and campaign-process points: (1) Florida’s robust political committee environment reduces the need for an early formal declaration, making a June launch less necessary; and (2) imminent announcements usually leave a public trail (staffing leaks, scheduled events) that we’re not seeing. Those are persuasive and slightly underweighted in my initial call.",
+    "rationale": "We have ~26 days left. The base case remains No absent visible pre-launch indicators. While a pre–June 30 announcement could help with Q2 fundraising optics, Florida candidates can raise significant money via committees without formally declaring, lowering the pressure to announce now. Given no credible reporting of a scheduled event, senior hires, or donor-driven countdowns, the probability of a sudden, clean announcement in June is modest. I’m adjusting down from 32% to 26% to reflect the short runway, lack of ‘pre-launch smoke,’ and Florida’s committee dynamics, while still acknowledging a non-trivial chance of a late-June move to capture an early-money narrative.",
+    "probability": 26
+  },
+  "usage": {
+    "inputTokens": 1826,
+    "outputTokens": 827,
+    "totalTokens": 2653,
+    "reasoningTokens": 576,
+    "cachedInputTokens": 0
+  }
+}

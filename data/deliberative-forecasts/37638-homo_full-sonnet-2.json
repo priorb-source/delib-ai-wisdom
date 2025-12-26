@@ -1,0 +1,26 @@
+{
+  "forecastId": "37638-homo_full-sonnet-2",
+  "questionId": 37638,
+  "condition": "homo_full",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "full",
+  "groupId": "37638-homo_full",
+  "independentForecastId": "37638-sonnet-full-2",
+  "otherForecastIds": [
+    "37638-sonnet-full-1",
+    "37638-sonnet-full-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters have converged on remarkably similar analyses and forecasts (15-18%), which is itself informative - it suggests the evidence strongly points in one direction without much room for reasonable disagreement. We all identified the same critical factors: (1) the House's concrete opposition through HB 46 passage and SB 3 substitution, (2) the extremely compressed 12-day timeline, (3) Abbott's lack of public prioritization, (4) strong economic and public opinion headwinds, and (5) the procedural requirement that only Abbott can call a special session. Forecaster 3's slightly lower 15% versus my 18% appears to weight the House's definitive actions even more heavily, which is defensible - their actions were legislative votes, not just rhetoric. However, I don't find compelling new evidence to shift my position. The consensus itself validates that we're appropriately calibrated to the evidence. The 3-percentage-point spread between 15-18% represents reasonable uncertainty about tail-risk scenarios (unexpected legislative maneuvering, Abbott suddenly prioritizing this, etc.) rather than fundamental disagreement about the base dynamics. If anything, the strong convergence increases my confidence that this range captures the true probability well.",
+    "rationale": "After reviewing the other forecasters' analyses, I maintain my assessment that the evidence strongly favors a No outcome. The House has taken concrete legislative action signaling opposition - not just refusing to act, but actively passing competing legislation (HB 46, 118-16) and modifying SB 3 to avoid being a full ban. This is a powerful signal that cannot be easily overcome in 12 days. The economic stakes ($8 billion industry), public opinion (62% favor legalization), and Abbott's stated priorities all reinforce this direction. The main uncertainty is whether unexpected political developments could occur - the Senate did show strong support (25-6), Patrick is motivated, and special sessions are possible. However, even a special session would require Abbott's initiative and agenda-setting, which seems unlikely given his public priorities. The strong consensus among all three forecasters (15-18%) validates this assessment. I remain at 18% rather than moving to 15% because I want to preserve slightly more probability mass for legislative surprises and the non-zero chance of a special session, though I acknowledge 15% would also be reasonable. The evidence required to move meaningfully higher would be Abbott endorsing the ban or the House reversing course; to move lower would be the session ending or Abbott ruling out a special session.",
+    "probability": 18
+  },
+  "usage": {
+    "inputTokens": 2810,
+    "outputTokens": 1170,
+    "totalTokens": 3980,
+    "reasoningTokens": 589,
+    "cachedInputTokens": 0
+  }
+}

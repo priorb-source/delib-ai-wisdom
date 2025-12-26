@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-homo_full-gpt5-1",
+  "questionId": 37475,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37475-homo_full",
+  "independentForecastId": "37475-gpt5-full-1",
+  "otherForecastIds": [
+    "37475-gpt5-full-2",
+    "37475-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters align with my base-rate view and add a useful emphasis on the long runway (12.5 weeks from initiation to the cutoff) being squarely within typical closure windows. They don’t introduce materially new facts, but their framing strengthens the case that a single-day, moderate-size Class I foreign-material recall by an experienced firm is more likely than not to close by late June absent complications. I agree with their caution on tail risks: foreign-material recalls can expand and FSIS can prolong verification, and the consumer-freezer note is a mild drag. I’d add that FSIS closure doesn’t require full consumer retrieval, which slightly tempers the freezer concern. Overall, their reasoning is consistent and nudges me modestly upward.",
+    "rationale": "We’re ~5 weeks post-announcement with ~7 weeks left. Johnsonville’s prior recalls often close within 4–8 weeks; broader Class I recalls of this scope typically close in 2–4 months, making July 1 (≈12.5 weeks) a plausible target. Scope is constrained (single production date, ~22.7k lbs, 10 states), no injuries, and a seasoned firm likely to complete corrective actions and effectiveness checks on time. Risks that could push into July include any scope expansion, additional complaints, or extended FSIS verification tied to foreign-material root-cause work. Publication/update lag on the FSIS page is a minor consideration but possible. Given the corroborating analyses and the ample timing window, I’m nudging up slightly from 60% to 65%, still allowing for tail risk of delay or expansion.",
+    "probability": 65
+  },
+  "usage": {
+    "inputTokens": 2158,
+    "outputTokens": 1174,
+    "totalTokens": 3332,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

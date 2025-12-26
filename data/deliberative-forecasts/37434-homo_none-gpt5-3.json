@@ -1,0 +1,26 @@
+{
+  "forecastId": "37434-homo_none-gpt5-3",
+  "questionId": 37434,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "37434-homo_none",
+  "independentForecastId": "37434-gpt5-none-3",
+  "otherForecastIds": [
+    "37434-gpt5-none-1",
+    "37434-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforce the short-window argument and add a useful capital-structure nuance: AquaBounty has historically relied more on equity than on secured debt, which generally lowers the near-term compulsion to file absent a lender acceleration. They also emphasize the lack of acute public triggers (defaults, accelerations, failed financing 8-Ks), which is consistent with a sub-25% estimate. These points align with my priors; the explicit framing around equity-funded stress slightly tilts me down.",
+    "rationale": "With ~8 weeks left, the base rate for a filing in such a brief window is modest even for distressed microcaps, as companies often stretch payables, secure bridge capital, or sell assets to buy time. AquaBounty’s persistent losses and financing challenges keep tail risk meaningful, but the reliance on equity rather than heavy secured debt reduces immediate bankruptcy pressure compared to highly levered peers. I have not seen indications of an imminent catalyst (default notices, forbearance expiries, abrupt shutdowns, restructuring-advisor mandates). The March 27, 2025 release likely reiterates funding needs and ongoing stress, but absent a stated cash-out date in May/June or an acute creditor action, the short horizon still favors No. I’m nudging slightly down from 25% to 24% to reflect the capital-structure point and the consensus tilt while keeping a nontrivial risk given the company’s weak fundamentals and challenging capital-raising environment.",
+    "probability": 24
+  },
+  "usage": {
+    "inputTokens": 1905,
+    "outputTokens": 1145,
+    "totalTokens": 3050,
+    "reasoningTokens": 832,
+    "cachedInputTokens": 0
+  }
+}

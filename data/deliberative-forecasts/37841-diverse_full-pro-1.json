@@ -1,0 +1,26 @@
+{
+  "forecastId": "37841-diverse_full-pro-1",
+  "questionId": 37841,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "37841-diverse_full",
+  "independentForecastId": "37841-pro-full",
+  "otherForecastIds": [
+    "37841-sonnet-full",
+    "37841-gpt5-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters provided compelling arguments that have caused me to significantly revise my initial forecast. Forecaster 2 correctly emphasized Glastonbury's specific political identity as a bulwark against external pressure, the operational difficulty of a last-minute cancellation, and the crucial fact that the band is still able to perform in the UK post-charge. This effectively challenged my assumption that the charge alone would be a dispositive factor. Forecaster 3's analysis was particularly insightful for highlighting a detail I had overlooked: the resolution criteria allow for a 'Yes' outcome even if only some members perform as Kneecap. This is a game-changing point, as the legal jeopardy is currently focused on a single member. This creates a highly plausible scenario where the charged member is unable to attend due to bail conditions, but the remaining members perform, fulfilling the resolution criteria. I found Forecaster 3's more balanced approach, weighing the high base rate against the very real political and security pressures, to be the most persuasive overall framework.",
+    "rationale": "My initial forecast of 25% was too low. I overweighted the severity of the terrorism charge and its likely impact, assuming it would be a red line for an institution like Glastonbury. The other forecasters convinced me I was wrong on two key fronts. First, as Forecaster 3 noted, the resolution criteria state that a performance by even a subset of the band as 'Kneecap' resolves the question as 'Yes'. This dramatically increases the probability of a 'Yes' outcome, as the legal issues are currently confined to one member. Second, as Forecaster 2 argued, Glastonbury's history and identity make it uniquely resilient to the kind of political pressure being applied. The fact that the band has continued to perform in the UK since the charge was made public is strong evidence that there is no blanket legal obstacle to their appearances. The primary risk factor is no longer the legal status of one member, but the possibility that the festival organizers themselves will decide the cumulative reputational, political, and security risk is too high and cancel the entire performance slot. While this risk remains significant—the combination of terrorism charges and rhetoric about MPs is potent—it is no longer the most likely outcome. Therefore, I am substantially increasing my forecast.",
+    "probability": 60
+  },
+  "usage": {
+    "inputTokens": 2685,
+    "outputTokens": 2881,
+    "totalTokens": 5566,
+    "reasoningTokens": 2413,
+    "cachedInputTokens": 0
+  }
+}

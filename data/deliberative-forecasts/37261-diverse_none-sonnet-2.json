@@ -1,0 +1,26 @@
+{
+  "forecastId": "37261-diverse_none-sonnet-2",
+  "questionId": 37261,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37261-diverse_none",
+  "independentForecastId": "37261-sonnet-none",
+  "otherForecastIds": [
+    "37261-pro-none",
+    "37261-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises the most critical issue I initially overlooked: the Global Protest Tracker's selectivity in creating NEW entries versus updating existing ones. This fundamentally changes the question from 'will a 10,000+ protest occur' to 'will the Tracker report a distinct new protest wave.' Forecaster 3's base rate analysis (well under one new U.S. entry per year since 2017) is compelling and suggests a baseline probability of 10-15% for a 2-month window. Forecaster 2 makes a valid point about the Supreme Court calendar as a specific catalyst - June consistently produces contentious rulings that have triggered massive protests (Dobbs being a recent example). However, Forecaster 2's 65% seems to overestimate the probability that: (a) a sufficiently controversial ruling will emerge, (b) it will generate 10,000+ participants quickly, and (c) the Tracker will code it as a NEW entry rather than part of an existing movement. Forecaster 3's 18% may slightly underweight the Supreme Court catalyst effect. The key insight is that many large protests might be incorporated into existing Tracker entries (e.g., ongoing Gaza protests, immigration protests) rather than receiving new start dates. This selectivity constraint is far more restrictive than I initially assessed.",
+    "rationale": "I am revising my forecast downward significantly. My original 45% treated this too much like 'will a large protest happen' rather than 'will the selective Global Protest Tracker add a new distinct entry.' Forecaster 3's base rate analysis is persuasive - if the U.S. gets fewer than one new Tracker entry per year on average, a 2-month window has baseline probability around 15%. The Supreme Court term ending provides an above-baseline catalyst, but this requires multiple conditions: a highly controversial decision, rapid 10,000+ mobilization, and the Tracker coding it as distinct (not a continuation of existing movements like abortion rights protests which may already have entries). Additionally, reporting lags could be an issue. The combination of the Tracker's documented selectivity, the short timeframe, and the uncertainty around Supreme Court decisions warrants a substantially lower forecast than my initial assessment. I'm settling between Forecaster 3's conservative 18% and the middle ground, giving some weight to the June catalyst while respecting the strong selectivity constraint.",
+    "probability": 28
+  },
+  "usage": {
+    "inputTokens": 2208,
+    "outputTokens": 1375,
+    "totalTokens": 3583,
+    "reasoningTokens": 814,
+    "cachedInputTokens": 0
+  }
+}

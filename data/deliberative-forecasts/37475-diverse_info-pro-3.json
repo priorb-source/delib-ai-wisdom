@@ -1,0 +1,26 @@
+{
+  "forecastId": "37475-diverse_info-pro-3",
+  "questionId": 37475,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 3,
+  "infoLabel": "info2",
+  "groupId": "37475-diverse_info",
+  "independentForecastId": "37475-pro-info2",
+  "otherForecastIds": [
+    "37475-sonnet-info3",
+    "37475-gpt5-info1"
+  ],
+  "forecast": {
+    "review": "The other forecasters introduced several crucial pieces of evidence I hadn't explicitly weighed. Forecaster 2 provided specific base rate data, noting that similar Johnsonville recalls have historically closed within 4-8 weeks and comparable industry recalls within 2-4 months. This is a very strong quantitative anchor. Forecaster 3 added critical details about the recall's limited scope: it pertains to a single production date and was triggered by only two complaints with no reported injuries. This information suggests the recall is well-contained and should be relatively straightforward to resolve. Both analyses persuasively argue that the 87-day timeframe until the deadline is well within, and even on the longer side of, the typical resolution period for this type of incident.",
+    "rationale": "My initial forecast of 62% was based on a qualitative assessment of corporate efficiency versus the potential for bureaucratic delay. The specific base rates and contextual details provided by my peers compel me to update my forecast upward. The historical data that Johnsonville recalls often close within 4-8 weeks is the most significant new piece of information. The recall was issued on April 5; eight weeks from that date is May 31, leaving a full month of buffer before the July 1 deadline. Furthermore, the fact that the recall is limited to a single day's production significantly reduces complexity and the likelihood of expansion or prolonged investigation, which are primary drivers of delay. The risk of procedural slowness at the FSIS still exists, preventing a forecast above 85%, but the confluence of a competent company, a well-defined and contained problem, and a generous timeframe makes a 'Yes' outcome considerably more likely than I first estimated. I am increasing my forecast from 62% to 75% to reflect this stronger evidence which points toward a relatively swift resolution.",
+    "probability": 75
+  },
+  "usage": {
+    "inputTokens": 1871,
+    "outputTokens": 2133,
+    "totalTokens": 4004,
+    "reasoningTokens": 1750,
+    "cachedInputTokens": 0
+  }
+}

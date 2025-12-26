@@ -1,0 +1,26 @@
+{
+  "forecastId": "38104-diverse_full-pro-1",
+  "questionId": 38104,
+  "condition": "diverse_full",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38104-diverse_full",
+  "independentForecastId": "38104-pro-full",
+  "otherForecastIds": [
+    "38104-sonnet-full",
+    "38104-gpt5-full"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 85% was overly optimistic, anchored too heavily on the impressive initial success of capturing 8 out of 10 fugitives. The other forecasters provided two critical arguments that I had not sufficiently weighed. Forecaster 3's point about compounding probability was particularly compelling; for the question to resolve as 'Yes', *both* remaining fugitives must be captured. Modeling this as P(Capture A) * P(Capture B) inherently lowers the overall probability. Both Forecaster 2 and 3 correctly emphasized that the two remaining fugitives, especially the 'serial escapee' Antoine Massey, represent a much harder challenge. This is a classic 'survivorship bias' problem: the ones still at large are the most capable. Forecaster 3's concept of the 'hazard of capture' declining over time as fugitives settle is also a crucial dynamic that my initial analysis overlooked. Their reasoning was highly convincing and exposed flaws in my initial quick assessment.",
+    "rationale": "I am significantly updating my forecast downward from 85% to 70%. The primary reason is the shift in my analytical framework prompted by the other forecasters. Instead of a holistic view of the manhunt's momentum, I am now considering the independent probabilities of capturing each of the two remaining fugitives. My initial forecast failed to account for the compounding difficulty of capturing *both* individuals. The two remaining men have already evaded a massive, two-week-long manhunt, proving they are more resourceful or better supported than the eight who were quickly apprehended. Antoine Massey's history as a 'serial escapee' is a particularly strong negative indicator that I now weigh more heavily. However, I am not lowering my forecast to the 45-65% range because I maintain a very high degree of confidence in the sustained pressure and effectiveness of the combined federal and local task force. With over a month remaining, immense resources, large financial rewards, and a dismantled support network, the environment remains extremely hostile for the fugitives. I estimate the probability of capturing each individual fugitive before July 1st to be approximately 85%. The joint probability of capturing both is therefore roughly 0.85 * 0.85 = 0.7225. I am setting my forecast at 70% to reflect this calculation while accounting for potential unknown factors, such as the possibility they are collaborating, which could make them slightly harder or easier to find as a single unit.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 2178,
+    "outputTokens": 2610,
+    "totalTokens": 4788,
+    "reasoningTokens": 2091,
+    "cachedInputTokens": 0
+  }
+}

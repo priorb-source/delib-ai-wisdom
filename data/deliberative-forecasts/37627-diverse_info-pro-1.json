@@ -1,0 +1,26 @@
+{
+  "forecastId": "37627-diverse_info-pro-1",
+  "questionId": 37627,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37627-diverse_info",
+  "independentForecastId": "37627-pro-info1",
+  "otherForecastIds": [
+    "37627-sonnet-info2",
+    "37627-gpt5-info3"
+  ],
+  "forecast": {
+    "review": "My initial forecast of 80% was based on the clear and recent pattern of frequent phone calls. However, my fellow forecasters introduced two crucial points I had overlooked. First, and most importantly, Forecaster 2 noted the possibility of an in-person meeting in Istanbul around May 15. This is a game-changer, as an in-person meeting would serve the same purpose as a phone call but would not lead to a 'Yes' resolution. It provides a highly plausible alternative path for communication that invalidates my primary reason for a high forecast. Second, both forecasters correctly emphasized the strictness of the resolution criteria, specifically that *both* sides must acknowledge the call. I had not sufficiently weighted this as an independent point of failure. Forecaster 3's point about the divergence in their public stances on ceasefire preconditions reinforces the *need* for communication, but the new information about a potential in-person meeting makes the *method* of that communication far less certain. Their arguments are highly convincing and have exposed a significant weakness in my initial analysis.",
+    "rationale": "I am significantly decreasing my forecast from 80% to 60%. This 20-point reduction is a direct result of the deliberation, primarily influenced by the introduction of a potential in-person meeting in Istanbul. Such a meeting would directly substitute for a phone call, drastically lowering the probability of a separate call occurring within the short timeframe. While my initial analysis correctly identified a strong pattern of communication, it failed to consider alternative, non-resolving forms of that communication. I am now weighing two primary scenarios: one where they meet in person (making a subsequent phone call less likely) and one where they do not (making a phone call to resolve policy differences very likely). Furthermore, I am now placing more weight on the friction introduced by the 'mutual acknowledgment' clause, which adds another hurdle for a 'Yes' resolution. I am keeping my forecast slightly above the others at 60% because I believe the underlying drivers for communication—the active peace negotiations and the specific policy disagreements noted by Forecaster 3—are extremely strong. I assess that even if an in-person meeting occurs, the situation is dynamic enough that a follow-up phone call before June 15 remains more likely than not. However, the possibility of the in-person meeting makes an 80% forecast untenable.",
+    "probability": 60
+  },
+  "usage": {
+    "inputTokens": 1882,
+    "outputTokens": 2796,
+    "totalTokens": 4678,
+    "reasoningTokens": 2300,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "38339-diverse_info-pro-2",
+  "questionId": 38339,
+  "condition": "diverse_info",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "info3",
+  "groupId": "38339-diverse_info",
+  "independentForecastId": "38339-pro-info3",
+  "otherForecastIds": [
+    "38339-gpt5-info1",
+    "38339-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "All three forecasts correctly identify the central tension between severe financial/political pressure on Bulgaria and the significant inertia of international agreements. We are all clustered in a similar range, indicating a consensus that cancellation is unlikely but not impossible. Forecaster 2 adds valuable, concrete data about the scale of the debt (~€2b) and the duration of non-payment (~11 months), which quantifies the crisis and highlights the instability of the status quo. However, Forecaster 3 provides the most decisive new information: that as of early May, bilateral talks were focused on renegotiating terms, not cancelling the contract. This piece of evidence about the parties' actual, recent behavior is more predictive than the general state of financial distress. Forecaster 3 also compellingly notes that debt settlement may be a precondition for termination, adding another significant barrier to a quick cancellation.",
+    "rationale": "I am revising my forecast downward based on the new evidence presented, particularly by Forecaster 3. My initial forecast of 20% was based on balancing the immense financial pressure against the high barriers to cancellation. Forecaster 2's data on the specific level of debt reinforced the severity of the crisis, which argues against lowering my forecast too much. The situation is clearly unsustainable.\n\nHowever, the information from Forecaster 3 that talks as recently as five weeks ago were centered on renegotiation is a game-changer. It strongly indicates that the preferred path for both parties is to amend the deal, not to blow it up. Public statements from politicians calling for an exit are likely political posturing designed to increase leverage in these negotiations, rather than a signal of imminent unilateral action. The argument that debt must be settled before termination can occur presents another major practical hurdle to a cancellation announcement in the next three weeks. \n\nGiven that the parties were recently on a path of negotiation, a sudden, unilateral cancellation by either side before July 1 now seems significantly less probable. It would require a complete and abrupt breakdown of those talks. While the situation remains volatile due to the large, outstanding debt, the evidence of an active renegotiation process outweighs the general pressure. Therefore, I am lowering my forecast from 20% to 12% to reflect this new information.",
+    "probability": 12
+  },
+  "usage": {
+    "inputTokens": 1981,
+    "outputTokens": 2356,
+    "totalTokens": 4337,
+    "reasoningTokens": 1880,
+    "cachedInputTokens": 0
+  }
+}

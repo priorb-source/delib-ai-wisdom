@@ -1,0 +1,26 @@
+{
+  "forecastId": "38340-diverse_info-gpt5-1",
+  "questionId": 38340,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "info3",
+  "groupId": "38340-diverse_info",
+  "independentForecastId": "38340-gpt5-info3",
+  "otherForecastIds": [
+    "38340-pro-info1",
+    "38340-sonnet-info2"
+  ],
+  "forecast": {
+    "review": "Both forecasters converge on the dominant constraint: Sudan’s war-driven institutional dysfunction and the very short timeline. Forecaster 2 adds the AU suspension point, which further reduces incentives and channels for engagement, though suspension doesn’t legally preclude deposit; it does, however, diminish political salience and may complicate credentialing. Forecaster 3’s base-rate framing (most peers have already ratified; Sudan has lagged) strengthens the prior against a late sprint. Neither introduces concrete Sudan-specific signals of imminent action; both emphasize the absence of such signals. I find their reasoning persuasive in nudging down the small tail I allowed for an executive-led, fast-track deposit, especially given rival authorities and potential questions over who is recognized to sign and deposit on Sudan’s behalf.",
+    "rationale": "Time remaining is ~25 days. Sudan likely signed but hasn’t ratified; ratification requires domestic approval and deposit with the AU Commission. In principle, an executive decree could substitute for a normal legislative process in a junta context, and physically depositing is administratively feasible. However, ongoing civil war, fragmented authority, AU suspension, unclear credentialing of representatives, and lack of any public signaling make a sudden ratification unlikely. Continental momentum (AfCFTA advocacy, PAPSS rollout) doesn’t translate into Sudan-specific readiness or incentives amid conflict. I previously allowed a modest tail for a legitimacy-seeking move by the SAF-led authority; in light of the others’ points—especially AU suspension reducing political payoff and potential credential disputes—I trim that tail slightly. I would move up only on credible reports of a Sovereign Council decision to ratify and imminent deposit acknowledged by the AU or Sudan’s foreign ministry.",
+    "probability": 5
+  },
+  "usage": {
+    "inputTokens": 1556,
+    "outputTokens": 1700,
+    "totalTokens": 3256,
+    "reasoningTokens": 1344,
+    "cachedInputTokens": 0
+  }
+}

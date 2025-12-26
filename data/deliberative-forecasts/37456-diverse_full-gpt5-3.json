@@ -1,0 +1,26 @@
+{
+  "forecastId": "37456-diverse_full-gpt5-3",
+  "questionId": 37456,
+  "condition": "diverse_full",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "full",
+  "groupId": "37456-diverse_full",
+  "independentForecastId": "37456-gpt5-full",
+  "otherForecastIds": [
+    "37456-pro-full",
+    "37456-sonnet-full"
+  ],
+  "forecast": {
+    "review": "Both forecasters emphasize the long shelf life (into March 2026) and multi‑state foodservice distribution as drivers of longer close‑out times. I hadn’t explicitly unpacked how the long shelf life interacts with effectiveness checks—FSIS doesn’t wait for expiration, but a long shelf life raises the probability that product persists in distributor/freezer inventories, increasing verification workload. I agree with Forecaster 3’s framing on timing: we’re 55 days from the deadline, and a close would need to land near the ~90‑day median, leaving little slack given the complicating factors. I find Forecaster 2’s ceiling of 35% a bit too low because Class III recalls, especially with a capable firm like Cargill and no illnesses, do sometimes close within or before the median even with sizable volumes—particularly if much of the product is still at distributors and can be quickly accounted for. Still, both analyses strengthen the case to be below 50% given the scope, foodservice channels, and potential for administrative lag.",
+    "rationale": "Key points unchanged: Class III (low risk), no illnesses, experienced firm—these support a relatively swift process. Offsetting are factors likely to slow close‑out: 212k lbs across multiple states, foodservice distribution (harder end‑user verification), and very long shelf life increasing the chance product remains in frozen inventories that must be accounted for. We have ~55 days until July 1; closure would need to hit around day ~95 post‑announcement, near the historical median, but the complexity argues for a right‑tail skew in duration. I don’t think FSIS would wait for product expiration to close, but the greater number of consignees and potential administrative lag make a post‑July close more likely than not. I’m lowering my estimate to reflect that skew while keeping it above the low-30s given the low risk class and the possibility that much of the product was contained at the distributor level and can be documented quickly.\nChange: down from 46% to 41%, driven by the added weight on long shelf life and foodservice complexity highlighted by the other forecasters relative to the tight timing window.",
+    "probability": 41
+  },
+  "usage": {
+    "inputTokens": 2201,
+    "outputTokens": 2255,
+    "totalTokens": 4456,
+    "reasoningTokens": 1792,
+    "cachedInputTokens": 0
+  }
+}

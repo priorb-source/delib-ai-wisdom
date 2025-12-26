@@ -1,0 +1,26 @@
+{
+  "forecastId": "38104-diverse_none-pro-1",
+  "questionId": 38104,
+  "condition": "diverse_none",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "none",
+  "groupId": "38104-diverse_none",
+  "independentForecastId": "38104-pro-none",
+  "otherForecastIds": [
+    "38104-sonnet-none",
+    "38104-gpt5-none"
+  ],
+  "forecast": {
+    "review": "The other two forecasters provided compelling, structurally similar arguments that have convinced me to revise my forecast downward significantly. Both Forecaster 2 and Forecaster 3 correctly emphasized two points that I had underestimated: 1) The historical base rate for multi-person jailbreaks, which suggests that while most escapees are caught, it is common for one or two to remain at large for extended periods (the \"long tail\" problem). 2) The stringency of the \"all 10\" resolution criteria, where a single failure results in a 'No' outcome. Their reasoning, focusing on the declining probability of capture over time and the high bar for a 'clean sweep,' is more robust than my initial assessment, which overweighted the early success of law enforcement.",
+    "rationale": "I am substantially updating my forecast down from 60% to 45%. My initial forecast was too optimistic. The other forecasters' analyses made it clear I was underweighting the multiplicative difficulty of capturing every single one of the seven remaining fugitives. A simple model illustrates this: for a 'Yes' outcome to have a ~60% probability, the chance of capturing each individual fugitive would need to be over 90%, which seems unrealistic for those who have already evaded capture for two weeks. The other forecasters' focus on the base rate—that at least one fugitive often evades capture for months—is a much stronger anchor. Furthermore, the lack of any announced captures between May 19 and today, May 30, is a negative signal that strengthens the 'long tail' hypothesis. I now believe a 'No' is the more likely outcome. My new forecast of 45% reflects that while a successful roundup by July 1 is certainly possible given the significant law enforcement resources deployed, the probability that at least one of the seven will successfully evade capture for another month is greater than 50%.",
+    "probability": 45
+  },
+  "usage": {
+    "inputTokens": 1821,
+    "outputTokens": 2425,
+    "totalTokens": 4246,
+    "reasoningTokens": 2021,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37252-homo_info-pro-1",
+  "questionId": 37252,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37252-homo_info",
+  "independentForecastId": "37252-pro-info1-1",
+  "otherForecastIds": [
+    "37252-pro-info2-2",
+    "37252-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "The other forecasters presented compelling evidence that I had not fully weighed. Specifically, their focus on the high frequency of qualifying protests between January and April 2025 establishes a strong recent pattern. More importantly, they both correctly identified that a qualifying event—the May 1st Labor Day rally with police estimates up to 13,000—likely already occurred on the first day of the forecast period. This shifts the core of the question from 'will a protest happen' to 'will the specific source report the protest that already happened'. Their reasoning is highly convincing because it grounds the forecast in specific, recent events rather than just the general political climate.",
+    "rationale": "My initial forecast of 80% was based on the volatile political situation surrounding the presidential impeachment and upcoming snap election. While the direction was correct, I underestimated the near-term probability. The other forecasters' analyses highlighted two crucial points: 1) A clear precedent of at least four qualifying large-scale protests in the four months leading up to the forecast period, establishing a strong base rate. 2) The high likelihood that the May 1st Labor Day rally, held on the first day of the resolution period, has already met the 10,000-participant threshold. This significantly shortens the timeline for a 'Yes' resolution. My main uncertainty now shifts from the likelihood of a protest occurring to the likelihood of the Global Protest Tracker indexing an event that has almost certainly happened. While there is a small risk of a reporting lag or omission from this specific source, it seems unlikely for such a major, predictable event. Therefore, I am updating my forecast upward by 10 percentage points from 80% to 90%. The remaining 10% uncertainty accounts for the small chance that the protest was smaller than reported and no other protest meets the criteria, or a failure in the reporting pipeline of the resolving source.",
+    "probability": 90
+  },
+  "usage": {
+    "inputTokens": 1510,
+    "outputTokens": 2147,
+    "totalTokens": 3657,
+    "reasoningTokens": 1741,
+    "cachedInputTokens": 0
+  }
+}

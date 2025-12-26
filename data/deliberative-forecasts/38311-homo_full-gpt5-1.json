@@ -1,0 +1,26 @@
+{
+  "forecastId": "38311-homo_full-gpt5-1",
+  "questionId": 38311,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38311-homo_full",
+  "independentForecastId": "38311-gpt5-full-1",
+  "otherForecastIds": [
+    "38311-gpt5-full-2",
+    "38311-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters present the same core evidence I relied on: White House confirmation, inclusion on official participant lists, visible Canadian security preparations, and strong historical base rates. They also articulate clear up/down signals that match my priors. The only incremental considerations they add are (1) explicit mention of NOTAMs/airlift/motorcade movements as late-stage confirmation signals and (2) wildfire/airspace disruption as a small tail risk specific to Western Canada in June. These are good nuances but fall within the tail risks I already accounted for. I find their reasoning sound and consistent; nothing materially shifts the balance of probabilities at this time.",
+    "rationale": "Time to resolution: ~12 days until the June 15–17 summit window. Status quo outcome: Yes, given official confirmation, participant lists, and security posture on the ground.\n\nPath to No: Low-probability shocks such as an acute presidential health issue, a domestic/national security crisis requiring Trump to remain in Washington, a specific credible threat to the venue, or travel-disrupting events (severe weather, aviation issues, or significant wildfire-driven airspace problems) that cannot be mitigated with contingency plans.\n\nPath to Yes: Standard execution—Air Force One departs as scheduled; motorcade and security movements proceed; bilateral meetings occur on-site. The logistics and diplomatic choreography are already in place, and the base rate for sitting U.S. presidents attending in-person G7s is extremely high.\n\nUpdate: The added considerations (NOTAMs/airlift as confirming signals; wildfire risk as a tail) refine but do not shift my estimate. I will move up on release of detailed WH travel guidance and confirmation of wheels-up/arrival; I would move down only on credible reports of illness, crisis, or security/airspace disruptions affecting the venue. Maintaining my prior forecast.",
+    "probability": 94
+  },
+  "usage": {
+    "inputTokens": 2073,
+    "outputTokens": 1548,
+    "totalTokens": 3621,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 0
+  }
+}

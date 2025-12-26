@@ -1,0 +1,26 @@
+{
+  "forecastId": "37252-diverse_none-sonnet-2",
+  "questionId": 37252,
+  "condition": "diverse_none",
+  "model": "sonnet",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "37252-diverse_none",
+  "independentForecastId": "37252-sonnet-none",
+  "otherForecastIds": [
+    "37252-pro-none",
+    "37252-gpt5-none"
+  ],
+  "forecast": {
+    "review": "Forecaster 3 raises the most critical point I underweighted: the Global Protest Tracker's selectivity. The resolution hinges not on whether large protests occur, but whether GPT deems them significant enough to track - a much higher bar. GPT typically adds sustained movements, not one-off rallies, even large ones. This fundamentally changes the probability calculation. Forecaster 3's observation that no qualifying entry apparently exists yet (as of May 2025, five months after the December 2024 martial law crisis) suggests either protest activity has diminished or hasn't met GPT's curation standards. This supports stabilization over continued volatility.\n\nForecaster 2's 75% seems overly optimistic for several reasons: (1) assumes ongoing volatile environment without evidence of current activity, (2) doesn't account for GPT's selective reporting, (3) underweights the significance of the 5-month cooling-off period. While the martial law declaration was indeed severe, five months is substantial time for protest momentum to dissipate or for political actors to pursue alternative channels.\n\nHowever, Forecaster 3's 20% might slightly underweight South Korea's demonstrated recent mobilization capacity and the possibility of a triggering event within a 2-month window. Political crises can reignite, and South Korea has robust civil society infrastructure for rapid mobilization.",
+    "rationale": "After deliberation, I'm updating significantly downward based on three key factors: (1) GPT selectivity is crucial and I substantially underweighted this - many large protests never get tracked because GPT curates for sustained, significant movements; (2) the absence of a qualifying GPT entry as of May 2025, five months post-crisis, suggests either stabilization or that protests haven't met GPT's threshold; (3) the combination of short 2-month runway with high GPT curation bar significantly reduces probability. My original 45% failed to adequately account for the reporting mechanism component of resolution. However, I'm not going as low as 20% because South Korea retains demonstrated mobilization capacity, the political situation may still be unresolved, and a catalyst event in the next two months could trigger both large protests and GPT coverage. My updated forecast of 30% reflects: high selectivity of GPT (major downward pressure), stabilization after 5 months (downward pressure), but retained mobilization capacity and 2-month window for triggering events (modest upward pressure from Forecaster 3's baseline).",
+    "probability": 30
+  },
+  "usage": {
+    "inputTokens": 1917,
+    "outputTokens": 1465,
+    "totalTokens": 3382,
+    "reasoningTokens": 751,
+    "cachedInputTokens": 0
+  }
+}

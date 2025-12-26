@@ -1,0 +1,26 @@
+{
+  "forecastId": "38057-homo_none-gpt5-3",
+  "questionId": 38057,
+  "condition": "homo_none",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "none",
+  "groupId": "38057-homo_none",
+  "independentForecastId": "38057-gpt5-none-3",
+  "otherForecastIds": [
+    "38057-gpt5-none-1",
+    "38057-gpt5-none-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters cleanly decomposed the problem into fight-occurrence risk and conditional win probability, which matches my approach. They added a slightly tighter base-rate range for PPV headliner stability (~80–85%) and anchored the conditional at ~53–56% for Merab based on style dynamics. They emphasized that any opponent change or cancellation resolves to No—an important resolution nuance I share. No new hard data (e.g., confirmed odds, health intel, venue/cage specifics, referee/judging tendencies) surfaced, but their explicit multiplication and slightly more conservative occurrence rate are reasonable and well-calibrated.",
+    "rationale": "I keep the same structure: P(Yes) = P(fight occurs as booked at UFC 316) × P(Merab wins | it occurs). The peers’ occurrence base rate nudges me to the lower end of my prior 80–90% range, given typical late pullout/weigh-in risks for PPV headliners months out. On matchup, I still see a modest Merab edge in minute-winning via pace/chain-wrestling over five rounds, countered by O’Malley’s KO/clean-striking equity and judging emphasis on damage. I’ll set P(occurs) ≈ 0.82 and P(Merab | occurs) ≈ 0.54, yielding ~0.44. This is a slight downward adjustment from my 45% to better reflect the multi-path No resolution risk while keeping the core matchup assessment intact. Upward movers: confirmed weigh-ins/camps, market pricing Merab ≤ -150, small cage/altitude. Downward movers: any injury/withdrawal chatter, market favoring O’Malley, judging/referee trends devaluing control time.",
+    "probability": 44
+  },
+  "usage": {
+    "inputTokens": 2105,
+    "outputTokens": 1466,
+    "totalTokens": 3571,
+    "reasoningTokens": 1088,
+    "cachedInputTokens": 0
+  }
+}

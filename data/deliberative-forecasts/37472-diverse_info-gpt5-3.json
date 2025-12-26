@@ -1,0 +1,26 @@
+{
+  "forecastId": "37472-diverse_info-gpt5-3",
+  "questionId": 37472,
+  "condition": "diverse_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37472-diverse_info",
+  "independentForecastId": "37472-gpt5-info3",
+  "otherForecastIds": [
+    "37472-pro-info2",
+    "37472-sonnet-info1"
+  ],
+  "forecast": {
+    "review": "Forecaster 2 raises a new, potentially material point: the reported May 6 return of Khaleda Zia could increase political pressure on Hasina to re-enter the arena. If accurate, that marginally raises the chance of a surprise, politically motivated return. However, the analysis doesn’t show concrete mechanisms (security guarantees, legal deals, or Indian cooperation) that would make such a rapid return feasible within weeks. Forecaster 3 adds two new risk vectors: a crimes against humanity probe report expected in May and a May 15 court deadline. If true, both increase Hasina’s legal jeopardy and make a voluntary return even less appealing in the short window, while extradition remains slow absent an explicit Indian decision. I find F3’s structural and historical arguments persuasive; they align with my base case that status quo inertia and legal risk dominate. F2’s point about political optics is valid, but without evidence of enabling conditions it only modestly shifts odds upward.",
+    "rationale": "Baseline remains that India has not publicly moved on extradition since the December 2024 request and February 2025 status update; fast-track extraditions of high-profile figures are rare without top-level political alignment. The interim government appears hostile, and any return without guarantees likely means arrest. If Forecaster 3’s notes about imminent legal milestones are correct, they further deter voluntary return in this window. The only near-term pathway to Yes is a political decision that overrides normal processes—either a negotiated safe return or an Indian move to facilitate removal—but there are no credible signals of either. I slightly raise my forecast from 13% to 15% to reflect Forecaster 2’s argument that Zia’s recent activity (if accurate) could heighten political pressure and create a narrow tail for a bold, accelerated move. Net-net, however, the short timeline and legal/security barriers keep the probability low.",
+    "probability": 15
+  },
+  "usage": {
+    "inputTokens": 1707,
+    "outputTokens": 1550,
+    "totalTokens": 3257,
+    "reasoningTokens": 1152,
+    "cachedInputTokens": 0
+  }
+}

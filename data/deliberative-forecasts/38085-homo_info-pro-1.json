@@ -1,0 +1,26 @@
+{
+  "forecastId": "38085-homo_info-pro-1",
+  "questionId": 38085,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "38085-homo_info",
+  "independentForecastId": "38085-pro-info1-1",
+  "otherForecastIds": [
+    "38085-pro-info2-2",
+    "38085-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "The deliberation provided two opposing viewpoints anchored on the same core conflict: drought inertia versus seasonal weather patterns. Forecaster 2 presented a compelling case for a high-probability 'Yes' (85%) by focusing on the severity and inertia of the current drought, and importantly, the fact that the current number of 14.5 million affected residents provides a 500,000-person buffer above the 14.0 million threshold. Forecaster 3 argued for a 'No' leaning forecast (45%), emphasizing that the resolution period coincides perfectly with the powerful onset of Florida's wet season and a forecast for an active hurricane season. However, Forecaster 3's analysis seemed to anchor on an older data point of 14 million people affected, which makes their forecast less persuasive than if they had used the more recent and severe figure.",
+    "rationale": "After reviewing my peers' analyses, I am increasing my forecast. Forecaster 2's argument regarding 'drought inertia' and the 500,000-person buffer is highly convincing. The fact that the number of people in drought conditions increased from 14.0 million in late April to 14.5 million in late May, even as the state was entering a seasonally wetter period, demonstrates the drought has significant momentum. It would require substantial, widespread, and sustained rainfall over just 30 days to reduce the number by more than 500,000. While Forecaster 3 correctly identifies the primary source of uncertainty—the onset of the wet season and potential for tropical systems—their 45% forecast seems to underweight the severity of the current deficit. Reversing such a significant drought in one month is a high bar. My initial forecast of 68% did not sufficiently weigh the existing buffer. I am therefore moving my forecast up to 78%, acknowledging that the powerful and volatile nature of Florida's summer weather (as noted by Forecaster 3) prevents a higher confidence level like Forecaster 2's 85%.",
+    "probability": 78
+  },
+  "usage": {
+    "inputTokens": 1781,
+    "outputTokens": 2394,
+    "totalTokens": 4175,
+    "reasoningTokens": 1953,
+    "cachedInputTokens": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "forecastId": "37263-homo_info-gpt5-3",
+  "questionId": 37263,
+  "condition": "homo_info",
+  "model": "gpt5",
+  "position": 3,
+  "infoLabel": "info3",
+  "groupId": "37263-homo_info",
+  "independentForecastId": "37263-gpt5-info3-3",
+  "otherForecastIds": [
+    "37263-gpt5-info1-1",
+    "37263-gpt5-info2-2"
+  ],
+  "forecast": {
+    "review": "Both forecasters added useful specificity I hadn’t cited: (1) the April 2025 enforcement posture includes $1,000 fines for referrals to illegal taxis; (2) presence of local ride-hailing apps (GetMe Ride since 2019; Conch Cab reportedly launching May 2025). If accurate, this suggests regulators are channeling demand to compliant, local operators and strengthens the status quo barrier against a rapid Uber entry. I agree with their base-rate framing (small island, strong taxi lobby, short timeline, no Uber signals) and their acknowledgement that a quick Uber Taxi integration is the main upside path. One nuance: local apps could indicate some regulatory openness to e-hailing for licensed taxis, which slightly offsets the negative signal—but on net, the new info modestly lowers odds.",
+    "rationale": "My prior was 6%. The additional evidence—especially apparent regulatory/enforcement vigor and the emergence/entrenchment of local e-hail options that likely align with licensed taxis—makes a near-term Uber launch less likely within ~60 days. There remain narrow upside paths (a sanctioned Uber Taxi partnership with licensed drivers, timed for peak summer tourism), and a single Uber announcement plus a website update would satisfy resolution. However, the lack of any preparatory signals from Uber or TCI authorities, combined with a small market and protective taxi regime, keeps the probability low. I’m trimming to 5% to reflect the slightly stronger case for the status quo holding through July 1.",
+    "probability": 5
+  },
+  "usage": {
+    "inputTokens": 1848,
+    "outputTokens": 1279,
+    "totalTokens": 3127,
+    "reasoningTokens": 960,
+    "cachedInputTokens": 0
+  }
+}

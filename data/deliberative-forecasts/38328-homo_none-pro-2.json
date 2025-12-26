@@ -1,0 +1,26 @@
+{
+  "forecastId": "38328-homo_none-pro-2",
+  "questionId": 38328,
+  "condition": "homo_none",
+  "model": "pro",
+  "position": 2,
+  "infoLabel": "none",
+  "groupId": "38328-homo_none",
+  "independentForecastId": "38328-pro-none-2",
+  "otherForecastIds": [
+    "38328-pro-none-1",
+    "38328-pro-none-3"
+  ],
+  "forecast": {
+    "review": "All three forecasters correctly identified the central tension between a low base rate of resignations and the specific catalyst of the Huawei lobbying scandal. We also all converged on the critical importance of the post-election timing (June 10-30) as a period of maximum political pressure for a 'clean slate'. Forecaster 2's attempt to quantify the base rate at 25-30% was a useful prompt for deeper analysis. However, I believe this figure is incorrect for the specific, anomalous period in question. The base rate of a *newly elected* MEP resigning for non-scandal reasons in their first few weeks is near zero, as they have just won a mandate. Therefore, the scandal has to do almost all the work. Forecaster 2's 55% seems too high, as it likely overestimates this base rate or the immediate impact of the scandal. Forecaster 3's reasoning and 35% forecast were highly aligned with my own, reinforcing the core arguments about the narrow window and a politician's tendency to resist resignation, balanced against the unique pressure of the post-election context.",
+    "rationale": "After reviewing my peers' analyses, I am making a minor upward adjustment to my forecast. My core reasoning remains the same: the probability of a 'Yes' hinges almost exclusively on the Huawei scandal, as the base rate for resignations in the first three weeks of a new parliamentary term is exceptionally low. The deliberation reinforced the importance of the specific timing. The period between the election result and the first parliamentary sessions is a unique moment of leverage for party leadership to demand a 'clean slate' and force out a member who has become a liability. Any newly-elected MEP implicated in the scandal would be under maximum pressure to resign immediately to avoid damaging their political group at the very start of the term. I initially forecast 30%, but the arguments from the other forecasters have convinced me that this pressure-cooker environment is a slightly more powerful catalyst than I had accounted for. I am increasing my forecast by 5 percentage points to 35% to reflect this strengthened view. I remain below 50% because scandals often take longer than three weeks to result in a resignation, and accused politicians have a strong incentive and ability to try and weather the storm.",
+    "probability": 35
+  },
+  "usage": {
+    "inputTokens": 1415,
+    "outputTokens": 3231,
+    "totalTokens": 4646,
+    "reasoningTokens": 2748,
+    "cachedInputTokens": 0
+  }
+}

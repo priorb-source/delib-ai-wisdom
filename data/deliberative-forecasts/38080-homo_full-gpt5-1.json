@@ -1,0 +1,26 @@
+{
+  "forecastId": "38080-homo_full-gpt5-1",
+  "questionId": 38080,
+  "condition": "homo_full",
+  "model": "gpt5",
+  "position": 1,
+  "infoLabel": "full",
+  "groupId": "38080-homo_full",
+  "independentForecastId": "38080-gpt5-full-1",
+  "otherForecastIds": [
+    "38080-gpt5-full-2",
+    "38080-gpt5-full-3"
+  ],
+  "forecast": {
+    "review": "Both forecasters reinforce the key dynamics I noted: TRO status quo, courts’ tendency to preserve the status quo given substantial third‑party harm, and the short timeline to July 1. They add two useful nuances: (1) the possibility of a narrowed injunction that preserves current students but still blocks new enrollments (which could fail the resolution criterion), and (2) the realistic prospect of a rapid appellate stay, potentially up to the Supreme Court, if a PI is granted. I find their reasoning largely convincing; the partial‑relief risk and the appellate‑stay pathway are the main downside factors I had underweighted. I agree with their triggers for moving up or down.",
+    "rationale": "Baseline: Harvard’s certification is currently active due to the TRO. With ~34 days to July 1, the most likely path to a Yes is that the district court grants a preliminary injunction (or extends equivalent relief) keeping certification active through at least July 1; even if appealed, maintaining the status quo during expedited review is common when harms to thousands of students are immediate and irreparable. Harvard’s APA/constitutional claims seem nonfrivolous, and the breadth and abruptness of DHS’s action heighten the risk of procedural/record defects, which courts often treat skeptically. That said, downside scenarios are material. If the PI is denied and the TRO dissolves without a stay, DHS could enforce revocation in June. Even if a PI is granted, the government could secure a stay pending appeal from the First Circuit or, less likely but possible, the Supreme Court before July 1. A narrower injunction that protects only current students (without allowing issuance of new I‑20s) would also fail the resolution criterion. Balancing these, I still favor continuity into July 1 but trim my estimate to reflect the appellate‑stay and partial‑relief risks.",
+    "probability": 70
+  },
+  "usage": {
+    "inputTokens": 2589,
+    "outputTokens": 2443,
+    "totalTokens": 5032,
+    "reasoningTokens": 2048,
+    "cachedInputTokens": 0
+  }
+}

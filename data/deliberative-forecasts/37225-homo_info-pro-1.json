@@ -1,0 +1,26 @@
+{
+  "forecastId": "37225-homo_info-pro-1",
+  "questionId": 37225,
+  "condition": "homo_info",
+  "model": "pro",
+  "position": 1,
+  "infoLabel": "info1",
+  "groupId": "37225-homo_info",
+  "independentForecastId": "37225-pro-info1-1",
+  "otherForecastIds": [
+    "37225-pro-info2-2",
+    "37225-pro-info3-3"
+  ],
+  "forecast": {
+    "review": "The deliberation provided crucial new information and perspectives that were not in my initial analysis. Forecaster 2 introduced compelling evidence against the incumbent VHP, namely the president's exceptionally low approval rating (~3%) and widespread public dissatisfaction. This is a powerful argument for a 'No' outcome. Forecaster 3 provided a more structural analysis, highlighting two critical factors I had missed: the leadership crisis within the main opposition party (NDP) following the death of its leader, Desi Bouterse, and the introduction of a new national proportional representation electoral system. Forecaster 3's information on Bouterse's death corrects an outdated premise in Forecaster 2's analysis and provides a strong explanation for the NDP's collapse in recent polling. The arguments from both forecasters were convincing. Forecaster 2's data on unpopularity is a major check on VHP's chances, while Forecaster 3's point about opposition fragmentation provides the strongest case for a VHP plurality. I am updating my forecast based on these new inputs.",
+    "rationale": "I am decreasing my forecast from 70% to 60%. My initial forecast was based heavily on the polling momentum showing the Progressive Reform Party (VHP) taking the lead from a collapsing National Democratic Party (NDP). Forecaster 3's analysis strengthens the reason for this trend, attributing the NDP's decline to a leadership crisis following the death of its historic leader, Desi Bouterse. This makes the opposition's weakness appear more structural and persistent, which is a strong argument for 'Yes'. However, Forecaster 2's introduction of the president's catastrophic ~3% approval rating is a crucial piece of counter-evidence I had not considered. It's exceptionally difficult for a party to win an election with such profound public discontent directed at its leader. This suggests the VHP's polling lead may be fragile. The new proportional representation system adds another layer of uncertainty, which could fragment the vote further—potentially allowing the VHP to win a plurality with a low vote share—or it could help a smaller rival consolidate the anti-incumbent vote. The combination of a structurally weakened main opponent but a deeply unpopular government leads me to slightly reduce my confidence. A VHP plurality remains the most likely single outcome due to the divided opposition, but the government's unpopularity creates a very real possibility of defeat.",
+    "probability": 60
+  },
+  "usage": {
+    "inputTokens": 1793,
+    "outputTokens": 3635,
+    "totalTokens": 5428,
+    "reasoningTokens": 3132,
+    "cachedInputTokens": 0
+  }
+}
