@@ -1,8 +1,8 @@
 # The Wisdom of Deliberating AI Crowds
 
-This repository contains the source code and data for the paper **"The Wisdom of Deliberating AI Crowds: Does Deliberation Improve LLM-Based Forecasting?"**
+This repository contains the source code and data for:
 
-**Authors:** Paul Schneider & Amalie Schramm (PRIORB)
+Schneider P, Schramm A. The Wisdom of Deliberating AI Crowds: Does Deliberation Improve LLM-Based Forecasting? arXiv [Preprint]. 2025. Available from: https://arxiv.org/abs/2512.22625
 
 ## tl;dr
 
